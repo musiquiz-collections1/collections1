@@ -112,6 +112,12 @@ def main():
                         collection_data["disabledLifelines"] = c.get("disabledLifelines", [])
                         collection_data["sourceName"] = c.get("sourceName")
                         collection_data["author"] = c.get("author")
+                        # Merge songs: keep existing and add new ones not already present
+                        existing_songs = c["songs"]
+                        for new_song in songs:
+                            if not any(s.get("audioFile") == new_song["audioFile"] for s in existing_songs):
+                                existing_songs.append(new_song)
+                        collection_data["songs"] = existing_songs
                         collections[i] = collection_data
                         break
             else:
