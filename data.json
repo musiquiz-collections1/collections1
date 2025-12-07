@@ -3103,7 +3103,7 @@
 					"sources": [
 						[
 							true,
-							"Ludwig Göransson"
+							"Turning Red"
 						]
 					],
 					"audioFile": "./best-of-pixar/Turning Red/Turning Red.mp3",
@@ -3117,7 +3117,7 @@
 					"sources": [
 						[
 							true,
-							"Dan Romer"
+							"Luca"
 						]
 					],
 					"audioFile": "./best-of-pixar/Luca/Telescope.mp3",
@@ -3131,7 +3131,7 @@
 					"sources": [
 						[
 							true,
-							"Brandi Carlile"
+							"Onward"
 						]
 					],
 					"audioFile": "./best-of-pixar/Onward/Carried Me With You.mp3",
@@ -3145,7 +3145,7 @@
 					"sources": [
 						[
 							true,
-							"Trent Reznor and Atticus Ross"
+							"Soul"
 						]
 					],
 					"audioFile": "./best-of-pixar/Soul/Epiphany.mp3",
@@ -3159,7 +3159,7 @@
 					"sources": [
 						[
 							true,
-							"Jon Batiste"
+							"Soul"
 						]
 					],
 					"audioFile": "./best-of-pixar/Soul/It's All Right.mp3",
@@ -3173,7 +3173,7 @@
 					"sources": [
 						[
 							true,
-							"Trent Reznor and Atticus Ross"
+							"Soul"
 						]
 					],
 					"audioFile": "./best-of-pixar/Soul/Terry Time.mp3",
@@ -3187,7 +3187,7 @@
 					"sources": [
 						[
 							true,
-							"Randy Newman"
+							"Toy Story 4"
 						]
 					],
 					"audioFile": "./best-of-pixar/Toy Story 4/Parting Gifts & New Horizons.mp3",
@@ -3201,11 +3201,7 @@
 					"sources": [
 						[
 							true,
-							"Anthony Gonzalez"
-						],
-						[
-							true,
-							"Gael Garcia Bernal"
+							"Coco"
 						]
 					],
 					"audioFile": "./best-of-pixar/Coco/Un Poco Loco.mp3",
@@ -3219,11 +3215,7 @@
 					"sources": [
 						[
 							true,
-							"Auli'i Cravalho"
-						],
-						[
-							true,
-							"Disney"
+							"Moana"
 						]
 					],
 					"audioFile": "./best-of-pixar/Moana/How Far I'll Go.mp3",
@@ -3237,7 +3229,7 @@
 					"sources": [
 						[
 							true,
-							"Michael Giacchino"
+							"Inside Out"
 						]
 					],
 					"audioFile": "./best-of-pixar/Inside Out/Bundle of Joy.mp3",
@@ -3251,11 +3243,7 @@
 					"sources": [
 						[
 							true,
-							"Jeff Danna"
-						],
-						[
-							true,
-							"Mychael Danna"
+							"The Good Dinosaur"
 						]
 					],
 					"audioFile": "./best-of-pixar/The_Good_Dinosaur/Homestead.mp3",
@@ -3269,7 +3257,7 @@
 					"sources": [
 						[
 							true,
-							"Julie Fowlis"
+							"Brave"
 						]
 					],
 					"audioFile": "./best-of-pixar/Brave/Into The Open Air (From BraveSoundtrack).mp3",
@@ -3283,7 +3271,7 @@
 					"sources": [
 						[
 							true,
-							"Julie Fowlis"
+							"Brave"
 						]
 					],
 					"audioFile": "./best-of-pixar/Brave/Touch The Sky (From BraveSoundtrack).mp3",
@@ -3297,7 +3285,7 @@
 					"sources": [
 						[
 							true,
-							"Randy Newman"
+							"Toy Story 3"
 						]
 					],
 					"audioFile": "./best-of-pixar/Toy Story 3/We Belong Together.mp3",
@@ -3311,7 +3299,7 @@
 					"sources": [
 						[
 							true,
-							"Michael Giacchino"
+							"Up"
 						]
 					],
 					"audioFile": "./best-of-pixar/Up/Married Life.mp3",
@@ -3325,7 +3313,7 @@
 					"sources": [
 						[
 							true,
-							"Thomas Newman"
+							"WALL-E"
 						]
 					],
 					"audioFile": "./best-of-pixar/WALL-E/2815 A.D..mp3",
@@ -3339,11 +3327,7 @@
 					"sources": [
 						[
 							true,
-							"Peter Gabriel"
-						],
-						[
-							true,
-							"Soweto Gospel Choir"
+							"WALL-E"
 						]
 					],
 					"audioFile": "./best-of-pixar/WALL-E/Down To Earth.mp3",
@@ -3357,11 +3341,7 @@
 					"sources": [
 						[
 							true,
-							"Camille"
-						],
-						[
-							true,
-							"Michael Giacchino"
+							"Ratatouille"
 						]
 					],
 					"audioFile": "./best-of-pixar/Ratatouille/Le Festin.mp3",
@@ -3375,7 +3355,7 @@
 					"sources": [
 						[
 							true,
-							"Michael Giacchino"
+							"Ratatouille"
 						]
 					],
 					"audioFile": "./best-of-pixar/Ratatouille/Ratatouille Main Theme.mp3",
@@ -3389,7 +3369,7 @@
 					"sources": [
 						[
 							true,
-							"Rascal Flatts"
+							"Cars"
 						]
 					],
 					"audioFile": "./best-of-pixar/Cars/Life is a Highway.mp3",
@@ -3417,7 +3397,7 @@
 					"sources": [
 						[
 							true,
-							"Michael Giacchino"
+							"The Incredibles"
 						]
 					],
 					"audioFile": "./best-of-pixar/The_Incredibles/Life's Incredible Again.mp3",
@@ -3431,7 +3411,7 @@
 					"sources": [
 						[
 							true,
-							"Michael Giacchino"
+							"The Incredibles"
 						]
 					],
 					"audioFile": "./best-of-pixar/The_Incredibles/The Incredits.mp3",
@@ -3445,7 +3425,7 @@
 					"sources": [
 						[
 							true,
-							"Thomas Newman"
+							"Finding Nemo"
 						]
 					],
 					"audioFile": "./best-of-pixar/Finding Nemo/Nemo Egg (Main Title).mp3",
@@ -3459,11 +3439,7 @@
 					"sources": [
 						[
 							true,
-							"Billy Crystal"
-						],
-						[
-							true,
-							"John Goodman"
+							"Monsters, Inc."
 						]
 					],
 					"audioFile": "./best-of-pixar/Monsters__Inc/If I Didn't Have You.mp3",
@@ -3477,7 +3453,7 @@
 					"sources": [
 						[
 							true,
-							"Randy Newman"
+							"Monsters, Inc."
 						]
 					],
 					"audioFile": "./best-of-pixar/Monsters__Inc/Monsters, Inc..mp3",
@@ -3491,7 +3467,7 @@
 					"sources": [
 						[
 							true,
-							"Sarah McLachlan"
+							"Toy Story 2"
 						]
 					],
 					"audioFile": "./best-of-pixar/Toy Story 2/When She Loved Me.mp3",
@@ -3505,7 +3481,7 @@
 					"sources": [
 						[
 							true,
-							"Randy Newman"
+							"A Bug's Life"
 						]
 					],
 					"audioFile": "./best-of-pixar/A Bugs Life/The Time Of Your Life.mp3",
@@ -3519,7 +3495,7 @@
 					"sources": [
 						[
 							true,
-							"Randy Newman"
+							"Toy Story"
 						]
 					],
 					"audioFile": "./best-of-pixar/Toy Story/You've Got a Friend in Me.mp3",
