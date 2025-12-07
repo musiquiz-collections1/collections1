@@ -1,0 +1,3532 @@
+{
+	"collections": [
+		{
+			"id": "billboard-top-1960",
+			"title": "Billboard Hot 100 Top Songs (1960s)",
+			"description": "The most popular songs from the 'Billboard Hot 100' 1960-1969, all songs released within the same period.",
+			"difficulty": "Hard",
+			"rounds": 30,
+			"gameStyle": 1,
+			"disabledLifelines": [],
+			"sourceName": "Artist",
+			"author": "MusiQuiz",
+			"songs": [
+				{
+					"titles": [
+						"Aquarius/Let the Sunshine In (The Flesh Failures)"
+					],
+					"sources": [
+						[
+							true,
+							"The 5th Dimension"
+						]
+					],
+					"audioFile": "./billboard-top-1960/AquariusLet the Sunshine In (The Flesh Failures).mp3",
+					"startTime": 0,
+					"year": 1969
+				},
+				{
+					"titles": [
+						"I Can't Get Next To You"
+					],
+					"sources": [
+						[
+							true,
+							"The Temptations"
+						]
+					],
+					"audioFile": "./billboard-top-1960/I Can't Get Next To You.mp3",
+					"startTime": 0,
+					"year": 1969
+				},
+				{
+					"titles": [
+						"Sugar Sugar"
+					],
+					"sources": [
+						[
+							true,
+							"The Archies"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Sugar Sugar.mp3",
+					"startTime": 0,
+					"year": 1969
+				},
+				{
+					"titles": [
+						"Hey Jude"
+					],
+					"sources": [
+						[
+							true,
+							"The Beatles"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Hey Jude.mp3",
+					"startTime": 0,
+					"year": 1968
+				},
+				{
+					"titles": [
+						"Honey"
+					],
+					"sources": [
+						[
+							true,
+							"Bobby Goldsboro"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Honey.mp3",
+					"startTime": 0,
+					"year": 1968
+				},
+				{
+					"titles": [
+						"Love Is Blue"
+					],
+					"sources": [
+						[
+							true,
+							"Paul Mauriat"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Love Is Blue.mp3",
+					"startTime": 0,
+					"year": 1967
+				},
+				{
+					"titles": [
+						"Ode To Billie Joe"
+					],
+					"sources": [
+						[
+							true,
+							"Bobbie Gentry"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Ode To Billie Joe.mp3",
+					"startTime": 0,
+					"year": 1967
+				},
+				{
+					"titles": [
+						"The Letter"
+					],
+					"sources": [
+						[
+							true,
+							"The Box Tops"
+						]
+					],
+					"audioFile": "./billboard-top-1960/The Letter.mp3",
+					"startTime": 0,
+					"year": 1967
+				},
+				{
+					"titles": [
+						"To Sir With Love"
+					],
+					"sources": [
+						[
+							true,
+							"Lulu"
+						]
+					],
+					"audioFile": "./billboard-top-1960/To Sir With Love.mp3",
+					"startTime": 0,
+					"year": 1967
+				},
+				{
+					"titles": [
+						"Windy"
+					],
+					"sources": [
+						[
+							true,
+							"The Association"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Windy.mp3",
+					"startTime": 0,
+					"year": 1967
+				},
+				{
+					"titles": [
+						"96 Tears"
+					],
+					"sources": [
+						[
+							true,
+							"? and The Mysterians"
+						]
+					],
+					"audioFile": "./billboard-top-1960/96 Tears.mp3",
+					"startTime": 0,
+					"year": 1966
+				},
+				{
+					"titles": [
+						"What Becomes Of The Brokenhearted"
+					],
+					"sources": [
+						[
+							true,
+							"Jimmy Ruffin"
+						]
+					],
+					"audioFile": "./billboard-top-1960/What Becomes Of The Brokenhearted.mp3",
+					"startTime": 0,
+					"year": 1966
+				},
+				{
+					"titles": [
+						"(I Can't Get No) Satisfaction"
+					],
+					"sources": [
+						[
+							true,
+							"The Rolling Stones"
+						]
+					],
+					"audioFile": "./billboard-top-1960/(I Can't Get No) Satisfaction.mp3",
+					"startTime": 0,
+					"year": 1965
+				},
+				{
+					"titles": [
+						"California Dreamin'"
+					],
+					"sources": [
+						[
+							true,
+							"The Mamas & The Papas"
+						]
+					],
+					"audioFile": "./billboard-top-1960/California Dreamin'.mp3",
+					"startTime": 0,
+					"year": 1965
+				},
+				{
+					"titles": [
+						"I Can't Help Myself (Sugar Pie, Honey Bunch)"
+					],
+					"sources": [
+						[
+							true,
+							"Four Tops"
+						]
+					],
+					"audioFile": "./billboard-top-1960/I Can't Help Myself (Sugar Pie, Honey Bunch).mp3",
+					"startTime": 0,
+					"year": 1965
+				},
+				{
+					"titles": [
+						"Wooly Bully"
+					],
+					"sources": [
+						[
+							true,
+							"Sam the Sham and the Pharaohs"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Wooly Bully.mp3",
+					"startTime": 0,
+					"year": 1965
+				},
+				{
+					"titles": [
+						"You Were On My Mind"
+					],
+					"sources": [
+						[
+							true,
+							"We Five"
+						]
+					],
+					"audioFile": "./billboard-top-1960/You Were On My Mind.mp3",
+					"startTime": 0,
+					"year": 1965
+				},
+				{
+					"titles": [
+						"Hello, Dolly!"
+					],
+					"sources": [
+						[
+							true,
+							"Louis Armstrong"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Hello, Dolly!.mp3",
+					"startTime": 0,
+					"year": 1964
+				},
+				{
+					"titles": [
+						"Oh, Pretty Woman"
+					],
+					"sources": [
+						[
+							true,
+							"Roy Orbison"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Oh, Pretty Woman.mp3",
+					"startTime": 0,
+					"year": 1964
+				},
+				{
+					"titles": [
+						"You've Lost That Lovin' Feelin'"
+					],
+					"sources": [
+						[
+							true,
+							"The Righteous Brothers"
+						]
+					],
+					"audioFile": "./billboard-top-1960/You've Lost That Lovin' Feelin'.mp3",
+					"startTime": 0,
+					"year": 1964
+				},
+				{
+					"titles": [
+						"I Want To Hold Your Hand"
+					],
+					"sources": [
+						[
+							true,
+							"The Beatles"
+						]
+					],
+					"audioFile": "./billboard-top-1960/I Want To Hold Your Hand.mp3",
+					"startTime": 0,
+					"year": 1963
+				},
+				{
+					"titles": [
+						"Surfin' U.S.A."
+					],
+					"sources": [
+						[
+							true,
+							"The Beach Boys"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Surfin' U.S.A..mp3",
+					"startTime": 0,
+					"year": 1963
+				},
+				{
+					"titles": [
+						"Mashed Potato Time"
+					],
+					"sources": [
+						[
+							true,
+							"Dee Dee Sharp"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Mashed Potato Time.mp3",
+					"startTime": 0,
+					"year": 1962
+				},
+				{
+					"titles": [
+						"Rhythm of the Rain"
+					],
+					"sources": [
+						[
+							true,
+							"The Cascades"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Rhythm of the Rain.mp3",
+					"startTime": 0,
+					"year": 1962
+				},
+				{
+					"titles": [
+						"The End of the World"
+					],
+					"sources": [
+						[
+							true,
+							"Skeeter Davis"
+						]
+					],
+					"audioFile": "./billboard-top-1960/The End of the World.mp3",
+					"startTime": 0,
+					"year": 1962
+				},
+				{
+					"titles": [
+						"I Fall To Pieces"
+					],
+					"sources": [
+						[
+							true,
+							"Patsy Cline"
+						],
+						[
+							true,
+							"The Jordanaires"
+						]
+					],
+					"audioFile": "./billboard-top-1960/I Fall To Pieces.mp3",
+					"startTime": 0,
+					"year": 1961
+				},
+				{
+					"titles": [
+						"Stranger on the Shore"
+					],
+					"sources": [
+						[
+							true,
+							"Acker Bilk"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Stranger on the Shore.mp3",
+					"startTime": 0,
+					"year": 1961
+				},
+				{
+					"titles": [
+						"Tossin' and Turnin'"
+					],
+					"sources": [
+						[
+							true,
+							"Bobby Lewis"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Tossin' and Turnin'.mp3",
+					"startTime": 0,
+					"year": 1961
+				},
+				{
+					"titles": [
+						"Cathy's Clown"
+					],
+					"sources": [
+						[
+							true,
+							"The Everly Brothers"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Cathy's Clown.mp3",
+					"startTime": 0,
+					"year": 1960
+				},
+				{
+					"titles": [
+						"Michael, Row the Boat Ashore"
+					],
+					"sources": [
+						[
+							true,
+							"Highwaymen"
+						]
+					],
+					"audioFile": "./billboard-top-1960/Michael, Row the Boat Ashore.mp3",
+					"startTime": 0,
+					"year": 1960
+				}
+			]
+		},
+		{
+			"id": "billboard-top-1970",
+			"title": "Billboard Hot 100 Top Songs (1970s)",
+			"description": "The most popular songs from the 'Billboard Hot 100' 1970-1979, all songs released within the same period.",
+			"difficulty": "Hard",
+			"rounds": 30,
+			"gameStyle": 1,
+			"disabledLifelines": [],
+			"sourceName": "Artist",
+			"author": "MusiQuiz",
+			"songs": [
+				{
+					"titles": [
+						"Bad Girls"
+					],
+					"sources": [
+						[
+							true,
+							"Donna Summer"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Bad Girls.mp3",
+					"startTime": 0,
+					"year": 1979
+				},
+				{
+					"titles": [
+						"My Sharona"
+					],
+					"sources": [
+						[
+							true,
+							"The Knack"
+						]
+					],
+					"audioFile": "./billboard-top-1970/My Sharona.mp3",
+					"startTime": 0,
+					"year": 1979
+				},
+				{
+					"titles": [
+						"Le Freak"
+					],
+					"sources": [
+						[
+							true,
+							"Chic"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Le Freak.mp3",
+					"startTime": 0,
+					"year": 1978
+				},
+				{
+					"titles": [
+						"Night Fever"
+					],
+					"sources": [
+						[
+							true,
+							"Bee Gees"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Night Fever.mp3",
+					"startTime": 0,
+					"year": 1978
+				},
+				{
+					"titles": [
+						"Shadow Dancing"
+					],
+					"sources": [
+						[
+							true,
+							"Andy Gibb"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Shadow Dancing.mp3",
+					"startTime": 0,
+					"year": 1978
+				},
+				{
+					"titles": [
+						"Best of My Love"
+					],
+					"sources": [
+						[
+							true,
+							"The Emotions"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Best of My Love.mp3",
+					"startTime": 0,
+					"year": 1977
+				},
+				{
+					"titles": [
+						"I Just Want To Be Your Everything"
+					],
+					"sources": [
+						[
+							true,
+							"Andy Gibb"
+						]
+					],
+					"audioFile": "./billboard-top-1970/I Just Want To Be Your Everything.mp3",
+					"startTime": 0,
+					"year": 1977
+				},
+				{
+					"titles": [
+						"You Light Up My Life"
+					],
+					"sources": [
+						[
+							true,
+							"Debby Boone"
+						]
+					],
+					"audioFile": "./billboard-top-1970/You Light Up My Life.mp3",
+					"startTime": 0,
+					"year": 1977
+				},
+				{
+					"titles": [
+						"Disco Lady"
+					],
+					"sources": [
+						[
+							true,
+							"Johnnie Taylor"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Disco Lady.mp3",
+					"startTime": 0,
+					"year": 1976
+				},
+				{
+					"titles": [
+						"Don't Go Breaking My Heart"
+					],
+					"sources": [
+						[
+							true,
+							"Elton John"
+						],
+						[
+							true,
+							"Kiki Dee"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Don't Go Breaking My Heart.mp3",
+					"startTime": 0,
+					"year": 1976
+				},
+				{
+					"titles": [
+						"Silly Love Songs"
+					],
+					"sources": [
+						[
+							true,
+							"Wings"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Silly Love Songs.mp3",
+					"startTime": 0,
+					"year": 1976
+				},
+				{
+					"titles": [
+						"Tonight's the Night (Gonna Be Alright)"
+					],
+					"sources": [
+						[
+							true,
+							"Rod Stewart"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Tonight's the Night (Gonna Be Alright).mp3",
+					"startTime": 0,
+					"year": 1976
+				},
+				{
+					"titles": [
+						"Philadelphia Freedom"
+					],
+					"sources": [
+						[
+							true,
+							"Elton John"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Philadelphia Freedom.mp3",
+					"startTime": 0,
+					"year": 1975
+				},
+				{
+					"titles": [
+						"Rhinestone Cowboy"
+					],
+					"sources": [
+						[
+							true,
+							"Glen Campbell"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Rhinestone Cowboy.mp3",
+					"startTime": 0,
+					"year": 1975
+				},
+				{
+					"titles": [
+						"Bad Bad, Leroy Brown"
+					],
+					"sources": [
+						[
+							true,
+							"Jim Croce"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Bad Bad, Leroy Brown.mp3",
+					"startTime": 0,
+					"year": 1973
+				},
+				{
+					"titles": [
+						"Let's Get It On"
+					],
+					"sources": [
+						[
+							true,
+							"Marvin Gaye"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Let's Get It On.mp3",
+					"startTime": 0,
+					"year": 1973
+				},
+				{
+					"titles": [
+						"Love Will Keep Us Together"
+					],
+					"sources": [
+						[
+							true,
+							"Captain & Tennille"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Love Will Keep Us Together.mp3",
+					"startTime": 0,
+					"year": 1973
+				},
+				{
+					"titles": [
+						"Love's Theme"
+					],
+					"sources": [
+						[
+							true,
+							"Barry White"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Love's Theme.mp3",
+					"startTime": 0,
+					"year": 1973
+				},
+				{
+					"titles": [
+						"The Way We Were"
+					],
+					"sources": [
+						[
+							true,
+							"Barbra Streisand"
+						]
+					],
+					"audioFile": "./billboard-top-1970/The Way We Were.mp3",
+					"startTime": 0,
+					"year": 1973
+				},
+				{
+					"titles": [
+						"Tie a Yellow Ribbon Round the Ole Oak Tree"
+					],
+					"sources": [
+						[
+							true,
+							"Dawn"
+						],
+						[
+							true,
+							"Tony Orlando"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Tie a Yellow Ribbon Round the Ole Oak Tree.mp3",
+					"startTime": 0,
+					"year": 1973
+				},
+				{
+					"titles": [
+						"Alone Again (Naturally)"
+					],
+					"sources": [
+						[
+							true,
+							"Gilbert O'Sullivan"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Alone Again (Naturally).mp3",
+					"startTime": 0,
+					"year": 1972
+				},
+				{
+					"titles": [
+						"Killing Me Softly With His Song"
+					],
+					"sources": [
+						[
+							true,
+							"Roberta Flack"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Killing Me Softly With His Song.mp3",
+					"startTime": 0,
+					"year": 1972
+				},
+				{
+					"titles": [
+						"The First Time Ever I Saw Your Face"
+					],
+					"sources": [
+						[
+							true,
+							"Roberta Flack"
+						]
+					],
+					"audioFile": "./billboard-top-1970/The First Time Ever I Saw Your Face.mp3",
+					"startTime": 0,
+					"year": 1972
+				},
+				{
+					"titles": [
+						"American Pie"
+					],
+					"sources": [
+						[
+							true,
+							"Don McLean"
+						]
+					],
+					"audioFile": "./billboard-top-1970/American Pie.mp3",
+					"startTime": 0,
+					"year": 1971
+				},
+				{
+					"titles": [
+						"I Feel the Earth Move"
+					],
+					"sources": [
+						[
+							true,
+							"Carole King"
+						]
+					],
+					"audioFile": "./billboard-top-1970/I Feel the Earth Move.mp3",
+					"startTime": 0,
+					"year": 1971
+				},
+				{
+					"titles": [
+						"Joy To The World"
+					],
+					"sources": [
+						[
+							true,
+							"Three Dog Night"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Joy To The World.mp3",
+					"startTime": 0,
+					"year": 1971
+				},
+				{
+					"titles": [
+						"Maggie May"
+					],
+					"sources": [
+						[
+							true,
+							"Rod Stewart"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Maggie May.mp3",
+					"startTime": 0,
+					"year": 1971
+				},
+				{
+					"titles": [
+						"(They Long To Be) Close To You"
+					],
+					"sources": [
+						[
+							true,
+							"Carpenters"
+						]
+					],
+					"audioFile": "./billboard-top-1970/(They Long To Be) Close To You.mp3",
+					"startTime": 0,
+					"year": 1970
+				},
+				{
+					"titles": [
+						"American Woman"
+					],
+					"sources": [
+						[
+							true,
+							"The Guess Who"
+						],
+						[
+							true,
+							"Jim Kale"
+						],
+						[
+							true,
+							"Randall Charles Bachman"
+						],
+						[
+							true,
+							"Burton Cummings"
+						],
+						[
+							true,
+							"Garry Peterson"
+						]
+					],
+					"audioFile": "./billboard-top-1970/American Woman.mp3",
+					"startTime": 0,
+					"year": 1970
+				},
+				{
+					"titles": [
+						"Bridge Over Troubled Water"
+					],
+					"sources": [
+						[
+							true,
+							"Simon & Garfunkel"
+						]
+					],
+					"audioFile": "./billboard-top-1970/Bridge Over Troubled Water.mp3",
+					"startTime": 0,
+					"year": 1970
+				}
+			]
+		},
+		{
+			"id": "billboard-top-1980",
+			"title": "Billboard Hot 100 Top Songs (1980s)",
+			"description": "The most popular songs from the 'Billboard Hot 100' 1980-1989, all songs released within the same period.",
+			"difficulty": "Hard",
+			"rounds": 30,
+			"gameStyle": 1,
+			"disabledLifelines": [],
+			"sourceName": "Artist",
+			"author": "MusiQuiz",
+			"songs": [
+				{
+					"titles": [
+						"Every Rose Has Its Thorn"
+					],
+					"sources": [
+						[
+							true,
+							"Poison"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Every Rose Has Its Thorn.mp3",
+					"startTime": 0,
+					"year": 1988
+				},
+				{
+					"titles": [
+						"Look Away"
+					],
+					"sources": [
+						[
+							true,
+							"Chicago"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Look Away.mp3",
+					"startTime": 0,
+					"year": 1988
+				},
+				{
+					"titles": [
+						"My Prerogative"
+					],
+					"sources": [
+						[
+							true,
+							"Bobby Brown"
+						]
+					],
+					"audioFile": "./billboard-top-1980/My Prerogative.mp3",
+					"startTime": 0,
+					"year": 1988
+				},
+				{
+					"titles": [
+						"Straight Up"
+					],
+					"sources": [
+						[
+							true,
+							"Paula Abdul"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Straight Up.mp3",
+					"startTime": 0,
+					"year": 1988
+				},
+				{
+					"titles": [
+						"Faith"
+					],
+					"sources": [
+						[
+							true,
+							"George Michael"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Faith.mp3",
+					"startTime": 0,
+					"year": 1987
+				},
+				{
+					"titles": [
+						"Need You Tonight"
+					],
+					"sources": [
+						[
+							true,
+							"INXS"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Need You Tonight.mp3",
+					"startTime": 0,
+					"year": 1987
+				},
+				{
+					"titles": [
+						"Shake You Down"
+					],
+					"sources": [
+						[
+							true,
+							"Gregory Abbott"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Shake You Down.mp3",
+					"startTime": 0,
+					"year": 1986
+				},
+				{
+					"titles": [
+						"Walk Like an Egyptian"
+					],
+					"sources": [
+						[
+							true,
+							"The Bangles"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Walk Like an Egyptian.mp3",
+					"startTime": 0,
+					"year": 1986
+				},
+				{
+					"titles": [
+						"I Miss You"
+					],
+					"sources": [
+						[
+							true,
+							"Klymaxx"
+						]
+					],
+					"audioFile": "./billboard-top-1980/I Miss You.mp3",
+					"startTime": 0,
+					"year": 1985
+				},
+				{
+					"titles": [
+						"Say You, Say Me"
+					],
+					"sources": [
+						[
+							true,
+							"Lionel Richie"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Say You, Say Me.mp3",
+					"startTime": 0,
+					"year": 1985
+				},
+				{
+					"titles": [
+						"Careless Whisper"
+					],
+					"sources": [
+						[
+							true,
+							"George Michael"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Careless Whisper.mp3",
+					"startTime": 0,
+					"year": 1984
+				},
+				{
+					"titles": [
+						"Footloose"
+					],
+					"sources": [
+						[
+							true,
+							"Kenny Loggins"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Footloose.mp3",
+					"startTime": 0,
+					"year": 1984
+				},
+				{
+					"titles": [
+						"I Want to Know What Love Is"
+					],
+					"sources": [
+						[
+							true,
+							"Foreigner"
+						]
+					],
+					"audioFile": "./billboard-top-1980/I Want to Know What Love Is.mp3",
+					"startTime": 0,
+					"year": 1984
+				},
+				{
+					"titles": [
+						"Like a Virgin"
+					],
+					"sources": [
+						[
+							true,
+							"Madonna"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Like a Virgin.mp3",
+					"startTime": 0,
+					"year": 1984
+				},
+				{
+					"titles": [
+						"Wake Me Up Before You Go-Go"
+					],
+					"sources": [
+						[
+							true,
+							"Wham!"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Wake Me Up Before You Go-Go.mp3",
+					"startTime": 0,
+					"year": 1984
+				},
+				{
+					"titles": [
+						"What's Love Got to Do with It"
+					],
+					"sources": [
+						[
+							true,
+							"Tina Turner"
+						]
+					],
+					"audioFile": "./billboard-top-1980/What's Love Got to Do with It.mp3",
+					"startTime": 0,
+					"year": 1984
+				},
+				{
+					"titles": [
+						"When Doves Cry"
+					],
+					"sources": [
+						[
+							true,
+							"Prince"
+						]
+					],
+					"audioFile": "./billboard-top-1980/When Doves Cry.mp3",
+					"startTime": 0,
+					"year": 1984
+				},
+				{
+					"titles": [
+						"Alone"
+					],
+					"sources": [
+						[
+							true,
+							"Heart"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Alone.mp3",
+					"startTime": 0,
+					"year": 1983
+				},
+				{
+					"titles": [
+						"Billie Jean"
+					],
+					"sources": [
+						[
+							true,
+							"Michael Jackson"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Billie Jean.mp3",
+					"startTime": 0,
+					"year": 1983
+				},
+				{
+					"titles": [
+						"Every Breath You Take"
+					],
+					"sources": [
+						[
+							true,
+							"The Police"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Every Breath You Take.mp3",
+					"startTime": 0,
+					"year": 1983
+				},
+				{
+					"titles": [
+						"Flashdance… What A Feeling"
+					],
+					"sources": [
+						[
+							true,
+							"Irene Cara"
+						],
+						[
+							true,
+							"Keith Forsey"
+						],
+						[
+							true,
+							"Giorgio Moroder"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Flashdance… What A Feeling.mp3",
+					"startTime": 0,
+					"year": 1983
+				},
+				{
+					"titles": [
+						"Say Say Say"
+					],
+					"sources": [
+						[
+							true,
+							"Paul McCartney"
+						],
+						[
+							true,
+							"Michael Jackson"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Say Say Say.mp3",
+					"startTime": 0,
+					"year": 1983
+				},
+				{
+					"titles": [
+						"Eye of the Tiger"
+					],
+					"sources": [
+						[
+							true,
+							"Survivor"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Eye of the Tiger.mp3",
+					"startTime": 0,
+					"year": 1982
+				},
+				{
+					"titles": [
+						"That's What Friends Are For"
+					],
+					"sources": [
+						[
+							true,
+							"Dionne Warwick"
+						],
+						[
+							true,
+							"Elton John"
+						],
+						[
+							true,
+							"Gladys Knight"
+						],
+						[
+							true,
+							"Stevie Wonder"
+						]
+					],
+					"audioFile": "./billboard-top-1980/That's What Friends Are For.mp3",
+					"startTime": 0,
+					"year": 1982
+				},
+				{
+					"titles": [
+						"Bette Davis Eyes"
+					],
+					"sources": [
+						[
+							true,
+							"Kim Carnes"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Bette Davis Eyes.mp3",
+					"startTime": 0,
+					"year": 1981
+				},
+				{
+					"titles": [
+						"Endless Love"
+					],
+					"sources": [
+						[
+							true,
+							"Lionel Richie"
+						],
+						[
+							true,
+							"Diana Ross"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Endless Love.mp3",
+					"startTime": 0,
+					"year": 1981
+				},
+				{
+					"titles": [
+						"Physical"
+					],
+					"sources": [
+						[
+							true,
+							"Olivia Newton-John"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Physical.mp3",
+					"startTime": 0,
+					"year": 1981
+				},
+				{
+					"titles": [
+						"Call Me"
+					],
+					"sources": [
+						[
+							true,
+							"Blondie"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Call Me.mp3",
+					"startTime": 0,
+					"year": 1980
+				},
+				{
+					"titles": [
+						"Lady"
+					],
+					"sources": [
+						[
+							true,
+							"Kenny Rogers"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Lady.mp3",
+					"startTime": 0,
+					"year": 1980
+				},
+				{
+					"titles": [
+						"Magic"
+					],
+					"sources": [
+						[
+							true,
+							"Olivia Newton-John"
+						]
+					],
+					"audioFile": "./billboard-top-1980/Magic.mp3",
+					"startTime": 0,
+					"year": 1980
+				}
+			]
+		},
+		{
+			"id": "billboard-top-1990",
+			"title": "Billboard Hot 100 Top Songs (1990s)",
+			"description": "The most popular songs from the 'Billboard Hot 100' 1990-1999, all songs released within the same period.",
+			"difficulty": "Hard",
+			"rounds": 30,
+			"gameStyle": 1,
+			"disabledLifelines": [],
+			"sourceName": "Artist",
+			"author": "MusiQuiz",
+			"songs": [
+				{
+					"titles": [
+						"No Scrubs"
+					],
+					"sources": [
+						[
+							true,
+							"TLC"
+						]
+					],
+					"audioFile": "./billboard-top-1990/No Scrubs.mp3",
+					"startTime": 0,
+					"year": 1999
+				},
+				{
+					"titles": [
+						"Believe"
+					],
+					"sources": [
+						[
+							true,
+							"Cher"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Believe.mp3",
+					"startTime": 0,
+					"year": 1998
+				},
+				{
+					"titles": [
+						"The Boy Is Mine"
+					],
+					"sources": [
+						[
+							true,
+							"Brandy"
+						],
+						[
+							true,
+							"Monica"
+						]
+					],
+					"audioFile": "./billboard-top-1990/The Boy Is Mine.mp3",
+					"startTime": 0,
+					"year": 1998
+				},
+				{
+					"titles": [
+						"Too Close"
+					],
+					"sources": [
+						[
+							true,
+							"Next"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Too Close.mp3",
+					"startTime": 0,
+					"year": 1998
+				},
+				{
+					"titles": [
+						"You're Still The One"
+					],
+					"sources": [
+						[
+							true,
+							"Shania Twain"
+						]
+					],
+					"audioFile": "./billboard-top-1990/You're Still The One.mp3",
+					"startTime": 0,
+					"year": 1998
+				},
+				{
+					"titles": [
+						"Angel of Mine"
+					],
+					"sources": [
+						[
+							true,
+							"Monica"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Angel of Mine.mp3",
+					"startTime": 0,
+					"year": 1997
+				},
+				{
+					"titles": [
+						"I'll Be Missing You"
+					],
+					"sources": [
+						[
+							true,
+							"P. Diddy"
+						],
+						[
+							true,
+							"Faith Evans"
+						],
+						[
+							true,
+							"112"
+						]
+					],
+					"audioFile": "./billboard-top-1990/I'll Be Missing You.mp3",
+					"startTime": 0,
+					"year": 1997
+				},
+				{
+					"titles": [
+						"Because You Loved Me"
+					],
+					"sources": [
+						[
+							true,
+							"Céline Dion"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Because You Loved Me.mp3",
+					"startTime": 0,
+					"year": 1996
+				},
+				{
+					"titles": [
+						"I Believe I Can Fly"
+					],
+					"sources": [
+						[
+							true,
+							"R.Kelly"
+						]
+					],
+					"audioFile": "./billboard-top-1990/I Believe I Can Fly.mp3",
+					"startTime": 0,
+					"year": 1996
+				},
+				{
+					"titles": [
+						"Un-Break My Heart"
+					],
+					"sources": [
+						[
+							true,
+							"Toni Braxton"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Un-Break My Heart.mp3",
+					"startTime": 0,
+					"year": 1996
+				},
+				{
+					"titles": [
+						"You Were Meant For Me"
+					],
+					"sources": [
+						[
+							true,
+							"Jewel"
+						]
+					],
+					"audioFile": "./billboard-top-1990/You Were Meant For Me.mp3",
+					"startTime": 0,
+					"year": 1996
+				},
+				{
+					"titles": [
+						"Gangsta's Paradise"
+					],
+					"sources": [
+						[
+							true,
+							"Coolio"
+						],
+						[
+							true,
+							"L.V."
+						]
+					],
+					"audioFile": "./billboard-top-1990/Gangsta's Paradise.mp3",
+					"startTime": 0,
+					"year": 1995
+				},
+				{
+					"titles": [
+						"Macarena (Bayside Boys Remix)"
+					],
+					"sources": [
+						[
+							true,
+							"Los Del Rio"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Macarena (Bayside Boys Remix).mp3",
+					"startTime": 0,
+					"year": 1995
+				},
+				{
+					"titles": [
+						"One Sweet Day"
+					],
+					"sources": [
+						[
+							true,
+							"Mariah Carey"
+						],
+						[
+							true,
+							"Boyz II Men"
+						]
+					],
+					"audioFile": "./billboard-top-1990/One Sweet Day.mp3",
+					"startTime": 0,
+					"year": 1995
+				},
+				{
+					"titles": [
+						"Waterfalls"
+					],
+					"sources": [
+						[
+							true,
+							"TLC"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Waterfalls.mp3",
+					"startTime": 0,
+					"year": 1995
+				},
+				{
+					"titles": [
+						"I'll Make Love To You"
+					],
+					"sources": [
+						[
+							true,
+							"Boyz II Men"
+						]
+					],
+					"audioFile": "./billboard-top-1990/I'll Make Love To You.mp3",
+					"startTime": 0,
+					"year": 1994
+				},
+				{
+					"titles": [
+						"Kiss from a Rose"
+					],
+					"sources": [
+						[
+							true,
+							"Seal"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Kiss from a Rose.mp3",
+					"startTime": 0,
+					"year": 1994
+				},
+				{
+					"titles": [
+						"I Swear"
+					],
+					"sources": [
+						[
+							true,
+							"All-4-One"
+						]
+					],
+					"audioFile": "./billboard-top-1990/I Swear.mp3",
+					"startTime": 0,
+					"year": 1993
+				},
+				{
+					"titles": [
+						"The Sign"
+					],
+					"sources": [
+						[
+							true,
+							"Ace of Base"
+						]
+					],
+					"audioFile": "./billboard-top-1990/The Sign.mp3",
+					"startTime": 0,
+					"year": 1993
+				},
+				{
+					"titles": [
+						"Whoomp! (There It Is)"
+					],
+					"sources": [
+						[
+							true,
+							"Tag Team"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Whoomp! (There It Is).mp3",
+					"startTime": 0,
+					"year": 1993
+				},
+				{
+					"titles": [
+						"Baby Got Back"
+					],
+					"sources": [
+						[
+							true,
+							"Sir Mix-A-Lot"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Baby Got Back.mp3",
+					"startTime": 0,
+					"year": 1992
+				},
+				{
+					"titles": [
+						"End Of The Road"
+					],
+					"sources": [
+						[
+							true,
+							"Boyz II Men"
+						]
+					],
+					"audioFile": "./billboard-top-1990/End Of The Road.mp3",
+					"startTime": 0,
+					"year": 1992
+				},
+				{
+					"titles": [
+						"I Will Always Love You"
+					],
+					"sources": [
+						[
+							true,
+							"Whitney Houston"
+						]
+					],
+					"audioFile": "./billboard-top-1990/I Will Always Love You.mp3",
+					"startTime": 0,
+					"year": 1992
+				},
+				{
+					"titles": [
+						"Jump"
+					],
+					"sources": [
+						[
+							true,
+							"Kris Kross"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Jump.mp3",
+					"startTime": 0,
+					"year": 1992
+				},
+				{
+					"titles": [
+						"(Everything I Do) I Do It For You"
+					],
+					"sources": [
+						[
+							true,
+							"Bryan Adams"
+						]
+					],
+					"audioFile": "./billboard-top-1990/(Everything I Do) I Do It For You.mp3",
+					"startTime": 0,
+					"year": 1991
+				},
+				{
+					"titles": [
+						"I Wanna Sex You Up"
+					],
+					"sources": [
+						[
+							true,
+							"Color Me Badd"
+						]
+					],
+					"audioFile": "./billboard-top-1990/I Wanna Sex You Up.mp3",
+					"startTime": 0,
+					"year": 1991
+				},
+				{
+					"titles": [
+						"Gonna Make You Sweat (Everybody Dance Now)"
+					],
+					"sources": [
+						[
+							true,
+							"C+C Music Factory"
+						],
+						[
+							true,
+							"Freedom Williams"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Gonna Make You Sweat (Everybody Dance Now).mp3",
+					"startTime": 0,
+					"year": 1990
+				},
+				{
+					"titles": [
+						"Hold On"
+					],
+					"sources": [
+						[
+							true,
+							"Wilson Phillips"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Hold On.mp3",
+					"startTime": 0,
+					"year": 1990
+				},
+				{
+					"titles": [
+						"Nothing Compares 2 U"
+					],
+					"sources": [
+						[
+							true,
+							"Sinéad O'Connor"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Nothing Compares 2 U.mp3",
+					"startTime": 0,
+					"year": 1990
+				},
+				{
+					"titles": [
+						"Poison"
+					],
+					"sources": [
+						[
+							true,
+							"Bell Biv DeVoe"
+						]
+					],
+					"audioFile": "./billboard-top-1990/Poison.mp3",
+					"startTime": 0,
+					"year": 1990
+				}
+			]
+		},
+		{
+			"id": "billboard-top-2000",
+			"title": "Billboard Hot 100 Top Songs (2000s)",
+			"description": "The most popular songs from the 'Billboard Hot 100' 2000-2009, all songs released within the same period.",
+			"difficulty": "Hard",
+			"rounds": 30,
+			"gameStyle": 1,
+			"disabledLifelines": [],
+			"sourceName": "Artist",
+			"author": "MusiQuiz",
+			"songs": [
+				{
+					"titles": [
+						"Boom Boom Pow"
+					],
+					"sources": [
+						[
+							true,
+							"The Black Eyed Peas"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Boom Boom Pow.mp3",
+					"startTime": 0,
+					"year": 2009
+				},
+				{
+					"titles": [
+						"Just Dance"
+					],
+					"sources": [
+						[
+							true,
+							"Lady Gaga"
+						],
+						[
+							true,
+							"Colby O'Donis"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Just Dance.mp3",
+					"startTime": 0,
+					"year": 2008
+				},
+				{
+					"titles": [
+						"Lollipop"
+					],
+					"sources": [
+						[
+							true,
+							"Lil Wayne"
+						],
+						[
+							true,
+							"Static Major"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Lollipop.mp3",
+					"startTime": 0,
+					"year": 2008
+				},
+				{
+					"titles": [
+						"Poker Face"
+					],
+					"sources": [
+						[
+							true,
+							"Lady Gaga"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Poker Face.mp3",
+					"startTime": 0,
+					"year": 2008
+				},
+				{
+					"titles": [
+						"Bleeding Love"
+					],
+					"sources": [
+						[
+							true,
+							"Leona Lewis"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Bleeding Love.mp3",
+					"startTime": 0,
+					"year": 2007
+				},
+				{
+					"titles": [
+						"Low"
+					],
+					"sources": [
+						[
+							true,
+							"Flo Rida"
+						],
+						[
+							true,
+							"T-Pain"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Low.mp3",
+					"startTime": 0,
+					"year": 2007
+				},
+				{
+					"titles": [
+						"No One"
+					],
+					"sources": [
+						[
+							true,
+							"Alicia Keys"
+						]
+					],
+					"audioFile": "./billboard-top-2000/No One.mp3",
+					"startTime": 0,
+					"year": 2007
+				},
+				{
+					"titles": [
+						"Umbrella"
+					],
+					"sources": [
+						[
+							true,
+							"Rihanna"
+						],
+						[
+							true,
+							"JAY-Z"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Umbrella.mp3",
+					"startTime": 0,
+					"year": 2007
+				},
+				{
+					"titles": [
+						"Irreplaceable"
+					],
+					"sources": [
+						[
+							true,
+							"Beyoncé"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Irreplaceable.mp3",
+					"startTime": 0,
+					"year": 2006
+				},
+				{
+					"titles": [
+						"Promiscuous"
+					],
+					"sources": [
+						[
+							true,
+							"Nelly Furtado"
+						],
+						[
+							true,
+							"Timbaland"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Promiscuous.mp3",
+					"startTime": 0,
+					"year": 2006
+				},
+				{
+					"titles": [
+						"The Sweet Escape"
+					],
+					"sources": [
+						[
+							true,
+							"Gwen Stefani"
+						],
+						[
+							true,
+							"Akon"
+						]
+					],
+					"audioFile": "./billboard-top-2000/The Sweet Escape.mp3",
+					"startTime": 0,
+					"year": 2006
+				},
+				{
+					"titles": [
+						"Bad Day"
+					],
+					"sources": [
+						[
+							true,
+							"Daniel Powter"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Bad Day.mp3",
+					"startTime": 0,
+					"year": 2005
+				},
+				{
+					"titles": [
+						"Hollaback Girl"
+					],
+					"sources": [
+						[
+							true,
+							"Gwen Stefani"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Hollaback Girl.mp3",
+					"startTime": 0,
+					"year": 2005
+				},
+				{
+					"titles": [
+						"Temperature"
+					],
+					"sources": [
+						[
+							true,
+							"Sean Paul"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Temperature.mp3",
+					"startTime": 0,
+					"year": 2005
+				},
+				{
+					"titles": [
+						"We Belong Together"
+					],
+					"sources": [
+						[
+							true,
+							"Mariah Carey"
+						]
+					],
+					"audioFile": "./billboard-top-2000/We Belong Together.mp3",
+					"startTime": 0,
+					"year": 2005
+				},
+				{
+					"titles": [
+						"You're Beautiful"
+					],
+					"sources": [
+						[
+							true,
+							"James Blunt"
+						]
+					],
+					"audioFile": "./billboard-top-2000/You're Beautiful.mp3",
+					"startTime": 0,
+					"year": 2005
+				},
+				{
+					"titles": [
+						"Burn"
+					],
+					"sources": [
+						[
+							true,
+							"Usher"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Burn.mp3",
+					"startTime": 0,
+					"year": 2004
+				},
+				{
+					"titles": [
+						"If I Ain't Got You"
+					],
+					"sources": [
+						[
+							true,
+							"Alicia Keys"
+						]
+					],
+					"audioFile": "./billboard-top-2000/If I Ain't Got You.mp3",
+					"startTime": 0,
+					"year": 2004
+				},
+				{
+					"titles": [
+						"Let Me Love You"
+					],
+					"sources": [
+						[
+							true,
+							"Mario"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Let Me Love You.mp3",
+					"startTime": 0,
+					"year": 2004
+				},
+				{
+					"titles": [
+						"Yeah!"
+					],
+					"sources": [
+						[
+							true,
+							"Usher"
+						],
+						[
+							true,
+							"Lil Jon"
+						],
+						[
+							true,
+							"Ludacris"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Yeah!.mp3",
+					"startTime": 0,
+					"year": 2004
+				},
+				{
+					"titles": [
+						"Get Busy"
+					],
+					"sources": [
+						[
+							true,
+							"Sean Paul"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Get Busy.mp3",
+					"startTime": 0,
+					"year": 2003
+				},
+				{
+					"titles": [
+						"In Da Club"
+					],
+					"sources": [
+						[
+							true,
+							"50 Cent"
+						]
+					],
+					"audioFile": "./billboard-top-2000/In Da Club.mp3",
+					"startTime": 0,
+					"year": 2003
+				},
+				{
+					"titles": [
+						"A Thousand Miles"
+					],
+					"sources": [
+						[
+							true,
+							"Vanessa Carlton"
+						]
+					],
+					"audioFile": "./billboard-top-2000/A Thousand Miles.mp3",
+					"startTime": 0,
+					"year": 2002
+				},
+				{
+					"titles": [
+						"Foolish"
+					],
+					"sources": [
+						[
+							true,
+							"Ashanti"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Foolish.mp3",
+					"startTime": 0,
+					"year": 2002
+				},
+				{
+					"titles": [
+						"Hot In Herre"
+					],
+					"sources": [
+						[
+							true,
+							"Nelly"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Hot In Herre.mp3",
+					"startTime": 0,
+					"year": 2002
+				},
+				{
+					"titles": [
+						"Ignition (Remix)"
+					],
+					"sources": [
+						[
+							true,
+							"R.Kelly"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Ignition (Remix).mp3",
+					"startTime": 0,
+					"year": 2002
+				},
+				{
+					"titles": [
+						"All For You"
+					],
+					"sources": [
+						[
+							true,
+							"Janet Jackson"
+						]
+					],
+					"audioFile": "./billboard-top-2000/All For You.mp3",
+					"startTime": 0,
+					"year": 2001
+				},
+				{
+					"titles": [
+						"Fallin'"
+					],
+					"sources": [
+						[
+							true,
+							"Alicia Keys"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Fallin'.mp3",
+					"startTime": 0,
+					"year": 2001
+				},
+				{
+					"titles": [
+						"How You Remind Me"
+					],
+					"sources": [
+						[
+							true,
+							"Nickelback"
+						]
+					],
+					"audioFile": "./billboard-top-2000/How You Remind Me.mp3",
+					"startTime": 0,
+					"year": 2001
+				},
+				{
+					"titles": [
+						"Hanging By A Moment"
+					],
+					"sources": [
+						[
+							true,
+							"Lifehouse"
+						]
+					],
+					"audioFile": "./billboard-top-2000/Hanging By A Moment.mp3",
+					"startTime": 0,
+					"year": 2000
+				}
+			]
+		},
+		{
+			"id": "billboard-top-2010",
+			"title": "Billboard Hot 100 Top Songs (2010s)",
+			"description": "The most popular songs from the 'Billboard Hot 100' 2010-2019, all songs released within the same period.",
+			"difficulty": "Hard",
+			"rounds": 30,
+			"gameStyle": 1,
+			"disabledLifelines": [],
+			"sourceName": "Artist",
+			"author": "MusiQuiz",
+			"songs": [
+				{
+					"titles": [
+						"God's Plan"
+					],
+					"sources": [
+						[
+							true,
+							"Drake"
+						]
+					],
+					"audioFile": "./billboard-top-2010/God's Plan.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Old Town Road (Remix)"
+					],
+					"sources": [
+						[
+							true,
+							"Lil Nas X"
+						],
+						[
+							true,
+							"Billy Ray Cyrus"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Old Town Road (Remix).mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Sunflower"
+					],
+					"sources": [
+						[
+							true,
+							"Post Malone/Swae Lee"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Sunflower.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Without Me"
+					],
+					"sources": [
+						[
+							true,
+							"Halsey"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Without Me.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Havana"
+					],
+					"sources": [
+						[
+							true,
+							"Camila Cabello"
+						],
+						[
+							true,
+							"Young Thug"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Havana.mp3",
+					"startTime": 0,
+					"year": 2017
+				},
+				{
+					"titles": [
+						"HUMBLE."
+					],
+					"sources": [
+						[
+							true,
+							"Kendrick Lamar"
+						]
+					],
+					"audioFile": "./billboard-top-2010/HUMBLE..mp3",
+					"startTime": 0,
+					"year": 2017
+				},
+				{
+					"titles": [
+						"Meant to Be"
+					],
+					"sources": [
+						[
+							true,
+							"Bebe Rexha"
+						],
+						[
+							true,
+							"Florida Georgia Line"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Meant to Be.mp3",
+					"startTime": 0,
+					"year": 2017
+				},
+				{
+					"titles": [
+						"Perfect"
+					],
+					"sources": [
+						[
+							true,
+							"Ed Sheeran"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Perfect.mp3",
+					"startTime": 0,
+					"year": 2017
+				},
+				{
+					"titles": [
+						"Shape of You"
+					],
+					"sources": [
+						[
+							true,
+							"Ed Sheeran"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Shape of You.mp3",
+					"startTime": 0,
+					"year": 2017
+				},
+				{
+					"titles": [
+						"That's What I Like"
+					],
+					"sources": [
+						[
+							true,
+							"Bruno Mars"
+						]
+					],
+					"audioFile": "./billboard-top-2010/That's What I Like.mp3",
+					"startTime": 0,
+					"year": 2017
+				},
+				{
+					"titles": [
+						"One Dance"
+					],
+					"sources": [
+						[
+							true,
+							"Drake/Wizkid/Kyla"
+						]
+					],
+					"audioFile": "./billboard-top-2010/One Dance.mp3",
+					"startTime": 0,
+					"year": 2016
+				},
+				{
+					"titles": [
+						"Work"
+					],
+					"sources": [
+						[
+							true,
+							"Rihanna"
+						],
+						[
+							true,
+							"Drake"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Work.mp3",
+					"startTime": 0,
+					"year": 2016
+				},
+				{
+					"titles": [
+						"Love Yourself"
+					],
+					"sources": [
+						[
+							true,
+							"Justin Bieber"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Love Yourself.mp3",
+					"startTime": 0,
+					"year": 2015
+				},
+				{
+					"titles": [
+						"See You Again"
+					],
+					"sources": [
+						[
+							true,
+							"Wiz Khalifa"
+						],
+						[
+							true,
+							"Charlie Puth"
+						]
+					],
+					"audioFile": "./billboard-top-2010/See You Again.mp3",
+					"startTime": 0,
+					"year": 2015
+				},
+				{
+					"titles": [
+						"Thinking out Loud"
+					],
+					"sources": [
+						[
+							true,
+							"Ed Sheeran"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Thinking out Loud.mp3",
+					"startTime": 0,
+					"year": 2014
+				},
+				{
+					"titles": [
+						"Uptown Funk"
+					],
+					"sources": [
+						[
+							true,
+							"Mark Ronson"
+						],
+						[
+							true,
+							"Bruno Mars"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Uptown Funk.mp3",
+					"startTime": 0,
+					"year": 2014
+				},
+				{
+					"titles": [
+						"All of Me"
+					],
+					"sources": [
+						[
+							true,
+							"John Legend"
+						]
+					],
+					"audioFile": "./billboard-top-2010/All of Me.mp3",
+					"startTime": 0,
+					"year": 2013
+				},
+				{
+					"titles": [
+						"Blurred Lines"
+					],
+					"sources": [
+						[
+							true,
+							"Robin Thicke/T.I./Pharrell Williams"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Blurred Lines.mp3",
+					"startTime": 0,
+					"year": 2013
+				},
+				{
+					"titles": [
+						"Dark Horse"
+					],
+					"sources": [
+						[
+							true,
+							"Katy Perry"
+						],
+						[
+							true,
+							"Juicy J"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Dark Horse.mp3",
+					"startTime": 0,
+					"year": 2013
+				},
+				{
+					"titles": [
+						"Happy"
+					],
+					"sources": [
+						[
+							true,
+							"Pharrell Williams"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Happy.mp3",
+					"startTime": 0,
+					"year": 2013
+				},
+				{
+					"titles": [
+						"Payphone"
+					],
+					"sources": [
+						[
+							true,
+							"Maroon 5"
+						],
+						[
+							true,
+							"Wiz Khalifa"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Payphone.mp3",
+					"startTime": 0,
+					"year": 2012
+				},
+				{
+					"titles": [
+						"Radioactive"
+					],
+					"sources": [
+						[
+							true,
+							"Imagine Dragons"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Radioactive.mp3",
+					"startTime": 0,
+					"year": 2012
+				},
+				{
+					"titles": [
+						"Thrift Shop"
+					],
+					"sources": [
+						[
+							true,
+							"Macklemore/Ryan Lewis/Wanz"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Thrift Shop.mp3",
+					"startTime": 0,
+					"year": 2012
+				},
+				{
+					"titles": [
+						"Call Me Maybe"
+					],
+					"sources": [
+						[
+							true,
+							"Carly Rae Jepsen"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Call Me Maybe.mp3",
+					"startTime": 0,
+					"year": 2011
+				},
+				{
+					"titles": [
+						"Party Rock Anthem"
+					],
+					"sources": [
+						[
+							true,
+							"LMFAO"
+						],
+						[
+							true,
+							"Lauren Bennett"
+						],
+						[
+							true,
+							"GoonRock"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Party Rock Anthem.mp3",
+					"startTime": 0,
+					"year": 2011
+				},
+				{
+					"titles": [
+						"Somebody That I Used To Know"
+					],
+					"sources": [
+						[
+							true,
+							"Gotye"
+						],
+						[
+							true,
+							"Kimbra"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Somebody That I Used To Know.mp3",
+					"startTime": 0,
+					"year": 2011
+				},
+				{
+					"titles": [
+						"We Are Young"
+					],
+					"sources": [
+						[
+							true,
+							"Fun."
+						],
+						[
+							true,
+							"Janelle Monáe"
+						]
+					],
+					"audioFile": "./billboard-top-2010/We Are Young.mp3",
+					"startTime": 0,
+					"year": 2011
+				},
+				{
+					"titles": [
+						"Firework"
+					],
+					"sources": [
+						[
+							true,
+							"Katy Perry"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Firework.mp3",
+					"startTime": 0,
+					"year": 2010
+				},
+				{
+					"titles": [
+						"OMG"
+					],
+					"sources": [
+						[
+							true,
+							"Usher"
+						],
+						[
+							true,
+							"will.i.am"
+						]
+					],
+					"audioFile": "./billboard-top-2010/OMG.mp3",
+					"startTime": 0,
+					"year": 2010
+				},
+				{
+					"titles": [
+						"Rolling in the Deep"
+					],
+					"sources": [
+						[
+							true,
+							"Adele"
+						]
+					],
+					"audioFile": "./billboard-top-2010/Rolling in the Deep.mp3",
+					"startTime": 0,
+					"year": 2010
+				}
+			]
+		},
+		{
+			"id": "celeste",
+			"title": "Celeste Collection",
+			"description": "Original Soundtrack from 'Celeste (2018)'.",
+			"difficulty": "Medium",
+			"rounds": 22,
+			"gameStyle": 3,
+			"disabledLifelines": [
+				"year"
+			],
+			"sourceName": "Artist",
+			"author": "MusiQuiz",
+			"songs": [
+				{
+					"titles": [
+						"Anxiety"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Anxiety.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Awake"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Awake.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Checking In"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Checking In.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Confronting Myself"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Confronting Myself.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Exhale"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Exhale.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Farewell"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Farewell.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"First Steps"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/First Steps.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Golden"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Golden.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Heart of the Mountain"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Heart of the Mountain.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"In the Mirror"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/In the Mirror.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Little Goth"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Little Goth.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Madeline and Theo"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Madeline and Theo.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"My Dearest Friends"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/My Dearest Friends.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Postcard from Celeste Mountain"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Postcard from Celeste Mountain.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Prologue"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Prologue.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Quiet and Falling"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Quiet and Falling.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Reach for the Summit"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Reach for the Summit.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Reflection"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Reflection.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Resurrections"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Resurrections.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Scattered and Lost"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Scattered and Lost.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Spirit of Hospitality"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Spirit of Hospitality.mp3",
+					"startTime": 0,
+					"year": 2018
+				},
+				{
+					"titles": [
+						"Starjump"
+					],
+					"sources": [
+						[
+							true,
+							"Lena Raine"
+						]
+					],
+					"audioFile": "./celeste/Starjump.mp3",
+					"startTime": 0,
+					"year": 2018
+				}
+			]
+		},
+		{
+			"id": "best-of-pixar",
+			"title": "Best of Pixar Collection",
+			"description": "Most popular soundtracks from Pixar featured films.",
+			"difficulty": "Easy",
+			"rounds": 10,
+			"gameStyle": 2,
+			"disabledLifelines": [],
+			"sourceName": "Movie",
+			"author": "MusiQuiz",
+			"songs": [
+				{
+					"titles": [
+						"Turning Red"
+					],
+					"sources": [
+						[
+							true,
+							"Ludwig Göransson"
+						]
+					],
+					"audioFile": "./best-of-pixar/Turning Red/Turning Red.mp3",
+					"startTime": 0,
+					"year": 2022
+				},
+				{
+					"titles": [
+						"Telescope"
+					],
+					"sources": [
+						[
+							true,
+							"Dan Romer"
+						]
+					],
+					"audioFile": "./best-of-pixar/Luca/Telescope.mp3",
+					"startTime": 0,
+					"year": 2021
+				},
+				{
+					"titles": [
+						"Carried Me With You"
+					],
+					"sources": [
+						[
+							true,
+							"Brandi Carlile"
+						]
+					],
+					"audioFile": "./best-of-pixar/Onward/Carried Me With You.mp3",
+					"startTime": 0,
+					"year": 2020
+				},
+				{
+					"titles": [
+						"Epiphany"
+					],
+					"sources": [
+						[
+							true,
+							"Trent Reznor and Atticus Ross"
+						]
+					],
+					"audioFile": "./best-of-pixar/Soul/Epiphany.mp3",
+					"startTime": 0,
+					"year": 2020
+				},
+				{
+					"titles": [
+						"It's All Right"
+					],
+					"sources": [
+						[
+							true,
+							"Jon Batiste"
+						]
+					],
+					"audioFile": "./best-of-pixar/Soul/It's All Right.mp3",
+					"startTime": 0,
+					"year": 2020
+				},
+				{
+					"titles": [
+						"Terry Time"
+					],
+					"sources": [
+						[
+							true,
+							"Trent Reznor and Atticus Ross"
+						]
+					],
+					"audioFile": "./best-of-pixar/Soul/Terry Time.mp3",
+					"startTime": 0,
+					"year": 2020
+				},
+				{
+					"titles": [
+						"Parting Gifts & New Horizons"
+					],
+					"sources": [
+						[
+							true,
+							"Randy Newman"
+						]
+					],
+					"audioFile": "./best-of-pixar/Toy Story 4/Parting Gifts & New Horizons.mp3",
+					"startTime": 0,
+					"year": 2019
+				},
+				{
+					"titles": [
+						"Un Poco Loco"
+					],
+					"sources": [
+						[
+							true,
+							"Anthony Gonzalez"
+						],
+						[
+							true,
+							"Gael Garcia Bernal"
+						]
+					],
+					"audioFile": "./best-of-pixar/Coco/Un Poco Loco.mp3",
+					"startTime": 0,
+					"year": 2017
+				},
+				{
+					"titles": [
+						"How Far I'll Go"
+					],
+					"sources": [
+						[
+							true,
+							"Auli'i Cravalho"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-pixar/Moana/How Far I'll Go.mp3",
+					"startTime": 0,
+					"year": 2016
+				},
+				{
+					"titles": [
+						"Bundle of Joy"
+					],
+					"sources": [
+						[
+							true,
+							"Michael Giacchino"
+						]
+					],
+					"audioFile": "./best-of-pixar/Inside Out/Bundle of Joy.mp3",
+					"startTime": 0,
+					"year": 2015
+				},
+				{
+					"titles": [
+						"Homestead"
+					],
+					"sources": [
+						[
+							true,
+							"Jeff Danna"
+						],
+						[
+							true,
+							"Mychael Danna"
+						]
+					],
+					"audioFile": "./best-of-pixar/The_Good_Dinosaur/Homestead.mp3",
+					"startTime": 0,
+					"year": 2015
+				},
+				{
+					"titles": [
+						"Into The Open Air (From \"Brave\"/Soundtrack)"
+					],
+					"sources": [
+						[
+							true,
+							"Julie Fowlis"
+						]
+					],
+					"audioFile": "./best-of-pixar/Brave/Into The Open Air (From BraveSoundtrack).mp3",
+					"startTime": 0,
+					"year": 2012
+				},
+				{
+					"titles": [
+						"Touch The Sky (From \"Brave\"/Soundtrack)"
+					],
+					"sources": [
+						[
+							true,
+							"Julie Fowlis"
+						]
+					],
+					"audioFile": "./best-of-pixar/Brave/Touch The Sky (From BraveSoundtrack).mp3",
+					"startTime": 0,
+					"year": 2012
+				},
+				{
+					"titles": [
+						"We Belong Together"
+					],
+					"sources": [
+						[
+							true,
+							"Randy Newman"
+						]
+					],
+					"audioFile": "./best-of-pixar/Toy Story 3/We Belong Together.mp3",
+					"startTime": 0,
+					"year": 2010
+				},
+				{
+					"titles": [
+						"Married Life"
+					],
+					"sources": [
+						[
+							true,
+							"Michael Giacchino"
+						]
+					],
+					"audioFile": "./best-of-pixar/Up/Married Life.mp3",
+					"startTime": 0,
+					"year": 2009
+				},
+				{
+					"titles": [
+						"2815 A.D."
+					],
+					"sources": [
+						[
+							true,
+							"Thomas Newman"
+						]
+					],
+					"audioFile": "./best-of-pixar/WALL-E/2815 A.D..mp3",
+					"startTime": 0,
+					"year": 2008
+				},
+				{
+					"titles": [
+						"Down To Earth"
+					],
+					"sources": [
+						[
+							true,
+							"Peter Gabriel"
+						],
+						[
+							true,
+							"Soweto Gospel Choir"
+						]
+					],
+					"audioFile": "./best-of-pixar/WALL-E/Down To Earth.mp3",
+					"startTime": 0,
+					"year": 2008
+				},
+				{
+					"titles": [
+						"Le Festin"
+					],
+					"sources": [
+						[
+							true,
+							"Camille"
+						],
+						[
+							true,
+							"Michael Giacchino"
+						]
+					],
+					"audioFile": "./best-of-pixar/Ratatouille/Le Festin.mp3",
+					"startTime": 0,
+					"year": 2007
+				},
+				{
+					"titles": [
+						"Ratatouille Main Theme"
+					],
+					"sources": [
+						[
+							true,
+							"Michael Giacchino"
+						]
+					],
+					"audioFile": "./best-of-pixar/Ratatouille/Ratatouille Main Theme.mp3",
+					"startTime": 0,
+					"year": 2007
+				},
+				{
+					"titles": [
+						"Life is a Highway"
+					],
+					"sources": [
+						[
+							true,
+							"Rascal Flatts"
+						]
+					],
+					"audioFile": "./best-of-pixar/Cars/Life is a Highway.mp3",
+					"startTime": 0,
+					"year": 2006
+				},
+				{
+					"titles": [
+						"Real Gone"
+					],
+					"sources": [
+						[
+							true,
+							"Sheryl Crow"
+						]
+					],
+					"audioFile": "./best-of-pixar/Cars/Real Gone.mp3",
+					"startTime": 0,
+					"year": 2006
+				},
+				{
+					"titles": [
+						"Life's Incredible Again"
+					],
+					"sources": [
+						[
+							true,
+							"Michael Giacchino"
+						]
+					],
+					"audioFile": "./best-of-pixar/The_Incredibles/Life's Incredible Again.mp3",
+					"startTime": 0,
+					"year": 2004
+				},
+				{
+					"titles": [
+						"The Incredits"
+					],
+					"sources": [
+						[
+							true,
+							"Michael Giacchino"
+						]
+					],
+					"audioFile": "./best-of-pixar/The_Incredibles/The Incredits.mp3",
+					"startTime": 0,
+					"year": 2004
+				},
+				{
+					"titles": [
+						"Nemo Egg (Main Title)"
+					],
+					"sources": [
+						[
+							true,
+							"Thomas Newman"
+						]
+					],
+					"audioFile": "./best-of-pixar/Finding Nemo/Nemo Egg (Main Title).mp3",
+					"startTime": 0,
+					"year": 2003
+				},
+				{
+					"titles": [
+						"If I Didn't Have You"
+					],
+					"sources": [
+						[
+							true,
+							"Billy Crystal"
+						],
+						[
+							true,
+							"John Goodman"
+						]
+					],
+					"audioFile": "./best-of-pixar/Monsters__Inc/If I Didn't Have You.mp3",
+					"startTime": 0,
+					"year": 2002
+				},
+				{
+					"titles": [
+						"Monsters, Inc."
+					],
+					"sources": [
+						[
+							true,
+							"Randy Newman"
+						]
+					],
+					"audioFile": "./best-of-pixar/Monsters__Inc/Monsters, Inc..mp3",
+					"startTime": 0,
+					"year": 2002
+				},
+				{
+					"titles": [
+						"When She Loved Me"
+					],
+					"sources": [
+						[
+							true,
+							"Sarah McLachlan"
+						]
+					],
+					"audioFile": "./best-of-pixar/Toy Story 2/When She Loved Me.mp3",
+					"startTime": 0,
+					"year": 1999
+				},
+				{
+					"titles": [
+						"The Time Of Your Life"
+					],
+					"sources": [
+						[
+							true,
+							"Randy Newman"
+						]
+					],
+					"audioFile": "./best-of-pixar/A Bugs Life/The Time Of Your Life.mp3",
+					"startTime": 0,
+					"year": 1998
+				},
+				{
+					"titles": [
+						"You've Got a Friend in Me"
+					],
+					"sources": [
+						[
+							true,
+							"Randy Newman"
+						]
+					],
+					"audioFile": "./best-of-pixar/Toy Story/You've Got a Friend in Me.mp3",
+					"startTime": 0,
+					"year": 1995
+				}
+			]
+		}
+	]
+}

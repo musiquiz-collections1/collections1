@@ -1,0 +1,3 @@
+open ftpes://if0_40619156:SsnWhmVFtQJk@ftp.epizy.com/ -explicit -certificate="*"
+synchronize remote "." /htdocs -filemask="|sync\"
+close
