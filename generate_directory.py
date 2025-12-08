@@ -7,22 +7,68 @@ Generates an expandable/collapsible directory structure
 import os
 import json
 from pathlib import Path
+import fnmatch
 
-def get_directory_structure(root_path, exclude_dirs=None):
+def read_gitignore(root_path):
+    """Read .gitignore file and return list of ignore patterns"""
+    gitignore_path = os.path.join(root_path, '.gitignore')
+    ignore_patterns = []
+
+    # Add default patterns that should always be ignored
+    default_ignores = ['.git', '__pycache__', '.vscode', '*.pyc', '.DS_Store', 'Thumbs.db']
+    ignore_patterns.extend(default_ignores)
+
+    if os.path.exists(gitignore_path):
+        with open(gitignore_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                # Skip empty lines and comments
+                if line and not line.startswith('#'):
+                    ignore_patterns.append(line)
+
+    return ignore_patterns
+
+def should_ignore(item_path, ignore_patterns, root_path):
+    """Check if an item should be ignored based on gitignore patterns"""
+    # Get relative path from root
+    rel_path = os.path.relpath(item_path, root_path)
+    item_name = os.path.basename(rel_path)
+
+    for pattern in ignore_patterns:
+        # Remove trailing slash if present
+        clean_pattern = pattern.rstrip('/')
+
+        # Handle directory patterns (ending with /*)
+        if clean_pattern.endswith('/*'):
+            dir_name = clean_pattern[:-2]  # Remove /*
+            if rel_path == dir_name or rel_path.startswith(dir_name + os.sep):
+                return True
+        # Handle exact matches
+        elif rel_path == clean_pattern or item_name == clean_pattern:
+            return True
+        # Handle wildcard patterns
+        elif fnmatch.fnmatch(rel_path, clean_pattern) or fnmatch.fnmatch(item_name, clean_pattern):
+            return True
+
+    return False
+
+def get_directory_structure(root_path, ignore_patterns=None):
     """Generate a nested dictionary structure of the directory tree"""
-    if exclude_dirs is None:
-        exclude_dirs = ['.git', '__pycache__', '.vscode']
+    if ignore_patterns is None:
+        ignore_patterns = read_gitignore(root_path)
 
     structure = {}
 
     for item in sorted(os.listdir(root_path)):
-        if item in exclude_dirs:
+        item_path = os.path.join(root_path, item)
+
+        # Check if item should be ignored
+        if should_ignore(item_path, ignore_patterns, root_path):
             continue
 
-        item_path = os.path.join(root_path, item)
         if os.path.isdir(item_path):
             # It's a directory
-            structure[item] = get_directory_structure(item_path, exclude_dirs)
+            structure[item] = get_directory_structure(item_path, ignore_patterns)
         else:
             # It's a file
             structure[item] = None
@@ -34,7 +80,10 @@ def generate_html_tree(structure, base_path="", level=0):
     html = ""
     indent = "  " * level
 
-    for name, content in structure.items():
+    # Sort items: directories first, then files
+    sorted_items = sorted(structure.items(), key=lambda x: (x[1] is None, x[0].lower()))
+
+    for name, content in sorted_items:
         if content is None:
             # It's a file
             file_path = f"{base_path}/{name}" if base_path else name
@@ -43,7 +92,7 @@ def generate_html_tree(structure, base_path="", level=0):
             # It's a directory
             dir_id = f"dir_{base_path.replace('/', '_')}_{name}" if base_path else f"dir_{name}"
             dir_id = dir_id.replace(' ', '_').replace('-', '_')
-            html += f'{indent}├ <span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">▶</span> <span class="dir-name">{name}/</span>\n'
+            html += f'{indent}├ <span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">▶</span> <span class="dir-name" onclick="toggleDirectory(\'{dir_id}\')">{name}/</span>\n'
             html += f'{indent}  <div id="{dir_id}" class="dir-content collapsed">\n'
             html += generate_html_tree(content, f"{base_path}/{name}" if base_path else name, level + 1)
             html += f'{indent}  </div>\n'
@@ -66,11 +115,45 @@ def update_index_html():
     with open(index_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Replace the directory section
-    old_directory = '<div class="directory">\n\t\t├ <a href="data.json">data.json</a>\n\t</div>'
-    new_directory = f'<div class="directory">\n{tree_html}\t</div>'
+    # Find and replace the directory section using a simple approach
+    # Look for the directory div and replace everything until the next top-level </div>
+    import re
 
-    updated_content = content.replace(old_directory, new_directory)
+    # Find the directory div
+    dir_start = content.find('\t<div class="directory">')
+    if dir_start == -1:
+        print("Warning: Could not find directory section in HTML")
+        updated_content = content
+    else:
+        # Find the end of the directory div (the matching closing div at the same level)
+        # We'll use a simple approach: find the closing div that comes after the directory content
+        dir_content_start = dir_start + len('\t<div class="directory">')
+
+        # Find all div tags after the directory start
+        remaining_content = content[dir_content_start:]
+        div_count = 0
+        end_pos = 0
+
+        i = 0
+        while i < len(remaining_content):
+            if remaining_content[i:i+5] == '<div':
+                div_count += 1
+                i += 5
+            elif remaining_content[i:i+6] == '</div>':
+                div_count -= 1
+                if div_count < 0:  # This is our matching closing div
+                    end_pos = dir_content_start + i + 6
+                    break
+                i += 6
+            else:
+                i += 1
+
+        if end_pos > 0:
+            # Replace the content between the div tags
+            updated_content = content[:dir_content_start] + '\n' + tree_html + '\n' + content[end_pos:]
+        else:
+            print("Warning: Could not find matching closing div for directory section")
+            updated_content = content
 
     # Add JavaScript for expand/collapse functionality if not already present
     if 'function toggleDirectory' not in updated_content:
