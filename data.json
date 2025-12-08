@@ -2694,11 +2694,11 @@
 							"LMFAO"
 						],
 						[
-							true,
+							false,
 							"Lauren Bennett"
 						],
 						[
-							true,
+							false,
 							"GoonRock"
 						]
 					],
@@ -2716,7 +2716,7 @@
 							"Gotye"
 						],
 						[
-							true,
+							false,
 							"Kimbra"
 						]
 					],
@@ -2735,7 +2735,9 @@
 						],
 						[
 							true,
-							"Janelle Monáe"
+							"Janelle Monáe",
+							"Janelle",
+							"Monáe"
 						]
 					],
 					"audioFile": "./billboard-top-2010/We Are Young.mp3",
@@ -2767,7 +2769,8 @@
 						],
 						[
 							true,
-							"will.i.am"
+							"will.i.am",
+							"will i am"
 						]
 					],
 					"audioFile": "./billboard-top-2010/OMG.mp3",
