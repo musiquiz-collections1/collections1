@@ -78,21 +78,30 @@ def get_directory_structure(root_path, ignore_patterns=None):
 def generate_html_tree(structure, base_path="", level=0):
     """Generate HTML for the directory tree with expand/collapse functionality"""
     html = ""
-    indent = "  " * level
+    indent = "  " * level if level > 0 else ""  # Only indent for subdirectories
 
-    # Sort items: directories first, then files
-    sorted_items = sorted(structure.items(), key=lambda x: (x[1] is None, x[0].lower()))
+    # Sort items: directories first, then files (by name then extension)
+    def sort_key(item):
+        name, content = item
+        if content is None:  # It's a file
+            # Split filename and extension
+            name_part, ext_part = os.path.splitext(name.lower())
+            return (1, name_part, ext_part)  # Files come after directories (1), sorted by name then extension
+        else:  # It's a directory
+            return (0, name.lower(), "")  # Directories come first (0)
+
+    sorted_items = sorted(structure.items(), key=sort_key)
 
     for name, content in sorted_items:
         if content is None:
             # It's a file
             file_path = f"{base_path}/{name}" if base_path else name
-            html += f'{indent}├ <a href="{file_path}">{name}</a>\n'
+            html += f'{indent}<a href="{file_path}">{name}</a>\n'
         else:
             # It's a directory
             dir_id = f"dir_{base_path.replace('/', '_')}_{name}" if base_path else f"dir_{name}"
             dir_id = dir_id.replace(' ', '_').replace('-', '_')
-            html += f'{indent}├ <span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">▶</span> <span class="dir-name" onclick="toggleDirectory(\'{dir_id}\')">{name}/</span>\n'
+            html += f'{indent}<span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">▶</span> <span class="dir-name" onclick="toggleDirectory(\'{dir_id}\')">{name}/</span>\n'
             html += f'{indent}  <div id="{dir_id}" class="dir-content collapsed">\n'
             html += generate_html_tree(content, f"{base_path}/{name}" if base_path else name, level + 1)
             html += f'{indent}  </div>\n'
@@ -112,16 +121,8 @@ def update_index_html():
 
     # Read current index.html to preserve the timestamp
     index_path = script_dir / "index.html"
-    timestamp = "2025-12-08 15:44:09"  # Default timestamp
-
-    if index_path.exists():
-        with open(index_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            # Extract timestamp if it exists
-            import re
-            timestamp_match = re.search(r'<p class="updated">(.*?)</p>', content)
-            if timestamp_match:
-                timestamp = timestamp_match.group(1)
+    from datetime import datetime
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")  # Current timestamp
 
     # Create the complete HTML content from scratch
     html_content = f'''<!DOCTYPE html>
@@ -224,12 +225,30 @@ def update_index_html():
 				element.classList.remove('collapsed');
 				element.classList.add('expanded');
 				toggle.textContent = '▼';
+				localStorage.setItem(dirId, 'expanded');
 			}} else {{
 				element.classList.remove('expanded');
 				element.classList.add('collapsed');
 				toggle.textContent = '▶';
+				localStorage.removeItem(dirId);
 			}}
 		}}
+
+		// Restore expanded state on page load
+		document.addEventListener('DOMContentLoaded', function() {{
+			const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
+			expandedDirs.forEach(dirId => {{
+				const element = document.getElementById(dirId);
+				if (element) {{
+					element.classList.remove('collapsed');
+					element.classList.add('expanded');
+					const toggle = element.previousElementSibling.previousElementSibling;
+					if (toggle) {{
+						toggle.textContent = '▼';
+					}}
+				}}
+			}});
+		}});
 	</script>
 </body>
 </html>'''
@@ -238,7 +257,7 @@ def update_index_html():
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(html_content)
 
-    print("Directory structure updated in index.html")
+    print(f"Directory structure updated in index.html at {timestamp}")
 
 if __name__ == "__main__":
     update_index_html()
