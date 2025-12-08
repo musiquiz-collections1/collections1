@@ -264,7 +264,7 @@ def update_index_html():
 </head>
 <body>
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
-	<span><h1 class="headerElement">MusiQuiz</h1><h2>Collections</h1></span>
+	<span><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2>Collections</h1></span>
 	<p class="updated">{timestamp}</p>
 	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
 	<script>
