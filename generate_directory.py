@@ -110,77 +110,133 @@ def update_index_html():
     # Generate HTML tree
     tree_html = generate_html_tree(structure)
 
-    # Read current index.html
+    # Read current index.html to preserve the timestamp
     index_path = script_dir / "index.html"
-    with open(index_path, 'r', encoding='utf-8') as f:
-        content = f.read()
+    timestamp = "2025-12-08 15:44:09"  # Default timestamp
 
-    # Find and replace the directory section using a simple approach
-    # Look for the directory div and replace everything until the next top-level </div>
-    import re
+    if index_path.exists():
+        with open(index_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+            # Extract timestamp if it exists
+            import re
+            timestamp_match = re.search(r'<p class="updated">(.*?)</p>', content)
+            if timestamp_match:
+                timestamp = timestamp_match.group(1)
 
-    # Find the directory div
-    dir_start = content.find('\t<div class="directory">')
-    if dir_start == -1:
-        print("Warning: Could not find directory section in HTML")
-        updated_content = content
-    else:
-        # Find the end of the directory div (the matching closing div at the same level)
-        # We'll use a simple approach: find the closing div that comes after the directory content
-        dir_content_start = dir_start + len('\t<div class="directory">')
+    # Create the complete HTML content from scratch
+    html_content = f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="https://savocid.github.io/musiquiz/img/favicon2.png">
+    <title>Musiquiz Collections</title>
+    <style>
+		* {{
+			margin: 0;
+			padding: 0;
+		}}
+        body {{
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #1a1a1a, #1e1e1e, #1e2e2e);
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }}
+		body > * {{
+			padding: 0.5rem;
+		}}
+        h1 {{
+			font-size: 3rem;
+            color: #1db954;
+        }}
+        p {{
+            font-size: 1.2rem;
+    		padding: 0;
+			margin-bottom: 0.5rem;
+        }}
+		a {{
+			color:cornflowerblue;
+			text-decoration: none;
+			padding-bottom: 0rem;
+		}}
+		a:hover,
+		a:active {{
+			color:lightblue;
+		}}
+		.directory {{
+			font-family: 'Courier New', monospace;
+			text-align: left;
+			background: rgba(0, 0, 0, 0.3);
+			padding: 1rem;
+			border-radius: 8px;
+			max-width: 600px;
+			margin: 1rem auto;
+			line-height: 1.4;
+			white-space: pre-wrap;
+		}}
+		.dir-toggle {{
+			cursor: pointer;
+			color: #1db954;
+			font-weight: bold;
+			margin-right: 0.2rem;
+		}}
+		.dir-toggle:hover {{
+			color: #1ed760;
+		}}
+		.dir-name {{
+			color: #1db954;
+			font-weight: bold;
+			cursor: pointer;
+		}}
+		.dir-name:hover {{
+			color: #1ed760;
+		}}
+		.dir-content {{
+			margin-left: 1rem;
+		}}
+		.dir-content.collapsed {{
+			display: none;
+		}}
+		.dir-content.expanded {{
+			display: block;
+		}}
+    </style>
+</head>
+<body>
+    <h1>Musiquiz Collections</h1>
+    <p class="updated">{timestamp}</p>
+	<div class="directory">
+{tree_html}\t</div>
+	<a href="" style="margin-top: 0.5rem; font-size: 1.5em;">Refresh</a>
+	<script>
+		function toggleDirectory(dirId) {{
+			const element = document.getElementById(dirId);
+			const toggle = element.previousElementSibling.previousElementSibling;
 
-        # Find all div tags after the directory start
-        remaining_content = content[dir_content_start:]
-        div_count = 0
-        end_pos = 0
+			if (element.classList.contains('collapsed')) {{
+				element.classList.remove('collapsed');
+				element.classList.add('expanded');
+				toggle.textContent = '▼';
+			}} else {{
+				element.classList.remove('expanded');
+				element.classList.add('collapsed');
+				toggle.textContent = '▶';
+			}}
+		}}
+	</script>
+</body>
+</html>'''
 
-        i = 0
-        while i < len(remaining_content):
-            if remaining_content[i:i+5] == '<div':
-                div_count += 1
-                i += 5
-            elif remaining_content[i:i+6] == '</div>':
-                div_count -= 1
-                if div_count < 0:  # This is our matching closing div
-                    end_pos = dir_content_start + i + 6
-                    break
-                i += 6
-            else:
-                i += 1
-
-        if end_pos > 0:
-            # Replace the content between the div tags
-            updated_content = content[:dir_content_start] + '\n' + tree_html + '\n' + content[end_pos:]
-        else:
-            print("Warning: Could not find matching closing div for directory section")
-            updated_content = content
-
-    # Add JavaScript for expand/collapse functionality if not already present
-    if 'function toggleDirectory' not in updated_content:
-        js_script = '''
-    <script>
-        function toggleDirectory(dirId) {
-            const element = document.getElementById(dirId);
-            const toggle = element.previousElementSibling.previousElementSibling;
-
-            if (element.classList.contains('collapsed')) {
-                element.classList.remove('collapsed');
-                element.classList.add('expanded');
-                toggle.textContent = '▼';
-            } else {
-                element.classList.remove('expanded');
-                element.classList.add('collapsed');
-                toggle.textContent = '▶';
-            }
-        }
-    </script>
-'''
-        # Insert before closing body tag
-        updated_content = updated_content.replace('</body>', js_script + '</body>')
-
-    # Write updated content
+    # Write the new content
     with open(index_path, 'w', encoding='utf-8') as f:
-        f.write(updated_content)
+        f.write(html_content)
 
     print("Directory structure updated in index.html")
 
