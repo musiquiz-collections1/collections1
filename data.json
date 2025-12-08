@@ -3341,7 +3341,7 @@
 			"title": "Best of Pixar Collection",
 			"description": "The most popular soundtracks from Pixar films.",
 			"difficulty": "Easy",
-			"gameStyle": 2,
+			"gameStyle": 1,
 			"disabledLifelines": [],
 			"sourceName": "Movie",
 			"author": "MusiQuiz",
