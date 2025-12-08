@@ -2327,7 +2327,11 @@
 					"sources": [
 						[
 							true,
-							"Post Malone/Swae Lee"
+							"Post Malone"
+						],
+						[
+							false,
+							"Swae Lee"
 						]
 					],
 					"audioFile": "./billboard-top-2010/Sunflower.mp3",
@@ -2447,7 +2451,15 @@
 					"sources": [
 						[
 							true,
-							"Drake/Wizkid/Kyla"
+							"Drake"
+						],
+						[
+							false,
+							"Wizkid"
+						],
+						[
+							false,
+							"Kyla"
 						]
 					],
 					"audioFile": "./billboard-top-2010/One Dance.mp3",
@@ -2464,7 +2476,7 @@
 							"Rihanna"
 						],
 						[
-							true,
+							false,
 							"Drake"
 						]
 					],
@@ -2557,11 +2569,19 @@
 					"sources": [
 						[
 							true,
-							"Robin Thicke/T.I./Pharrell Williams"
+							"Robin Thicke"
+						],
+						[
+							true,
+							"Pharrell Williams"
+						],
+						[
+							false,
+							"T.I."
 						]
 					],
 					"audioFile": "./billboard-top-2010/Blurred Lines.mp3",
-					"startTime": 0,
+					"startTime": 40,
 					"year": 2013
 				},
 				{
@@ -2635,11 +2655,19 @@
 					"sources": [
 						[
 							true,
-							"Macklemore/Ryan Lewis/Wanz"
+							"Macklemore"
+						],
+						[
+							false,
+							"Ryan Lewis"
+						],
+						[
+							false,
+							"Wanz"
 						]
 					],
 					"audioFile": "./billboard-top-2010/Thrift Shop.mp3",
-					"startTime": 0,
+					"startTime": 25,
 					"year": 2012
 				},
 				{
