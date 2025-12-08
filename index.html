@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" href="https://savocid.github.io/musiquiz/img/favicon2.png">
 	<title>Musiquiz Collections</title>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
 	<style>
 		* {
 			margin: 0;
@@ -26,10 +27,24 @@
 		body > * {
 			padding: 0.5rem;
 		}
-		h1 {
-			font-size: 3rem;
-			color: #1db954;
-			margin-top: 1rem;
+		.headerElement {
+			--color1: gold;
+			--color2: cyan;
+			font-size: 4rem;
+			text-shadow: 2px 2px 0px rgba(0,0,0,0.15);
+			letter-spacing: 2px;
+			font-weight: 900;
+			font-family: 'Roboto', sans-serif;
+			background: linear-gradient(90deg, var(--color1) 0%, var(--color1) 50%,var(--color2) 50%, var(--color2) 100%);
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+			background-clip: text;
+		}
+		h2 {
+			font-size: 2rem;
+			color: brown;
+			text-shadow: 2px 2px 1px rgba(0,0,0,0.5);
+			margin-bottom: 1rem;
 		}
 		p {
 			font-size: 1.2rem;
@@ -98,8 +113,8 @@
 </head>
 <body>
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
-	<h1>Musiquiz Collections</h1>
-	<p class="updated">2025-12-08 20:38:18</p>
+	<span><h1 class="headerElement">MusiQuiz</h1><h2>Collections</h1></span>
+	<p class="updated">2025-12-08 20:49:17</p>
 	<div class="directory"><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a><span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar')"> best-of-pixar/</span><div id="dir_best_of_pixar" class="dir-content collapsed">  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_A_Bugs_Life')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_A_Bugs_Life')"> A Bugs Life/</span><div id="dir_best_of_pixar_A_Bugs_Life" class="dir-content collapsed"><a href="best-of-pixar/A Bugs Life/The Time Of Your Life.mp3">The Time Of Your Life.mp3</a>
 </div>
   <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Brave')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_Brave')"> Brave/</span><div id="dir_best_of_pixar_Brave" class="dir-content collapsed"><a href="best-of-pixar/Brave/Into The Open Air.mp3">Into The Open Air.mp3</a>

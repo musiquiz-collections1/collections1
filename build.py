@@ -146,6 +146,7 @@ def update_index_html():
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" href="https://savocid.github.io/musiquiz/img/favicon2.png">
 	<title>Musiquiz Collections</title>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
 	<style>
 		* {{
 			margin: 0;
@@ -167,10 +168,24 @@ def update_index_html():
 		body > * {{
 			padding: 0.5rem;
 		}}
-		h1 {{
-			font-size: 3rem;
-			color: #1db954;
-			margin-top: 1rem;
+		.headerElement {{
+			--color1: gold;
+			--color2: cyan;
+			font-size: 4rem;
+			text-shadow: 2px 2px 0px rgba(0,0,0,0.15);
+			letter-spacing: 2px;
+			font-weight: 900;
+			font-family: 'Roboto', sans-serif;
+			background: linear-gradient(90deg, var(--color1) 0%, var(--color1) 50%,var(--color2) 50%, var(--color2) 100%);
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+			background-clip: text;
+		}}
+		h2 {{
+			font-size: 2rem;
+			color: brown;
+			text-shadow: 2px 2px 1px rgba(0,0,0,0.5);
+			margin-bottom: 1rem;
 		}}
 		p {{
 			font-size: 1.2rem;
@@ -239,7 +254,7 @@ def update_index_html():
 </head>
 <body>
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
-	<h1>Musiquiz Collections</h1>
+	<span><h1 class="headerElement">MusiQuiz</h1><h2>Collections</h1></span>
 	<p class="updated">{timestamp}</p>
 	<div class="directory"><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
 	<script>
