@@ -2304,7 +2304,8 @@
 				},
 				{
 					"titles": [
-						"Old Town Road (Remix)"
+						"Old Town Road (Remix)",
+						"Old Town Road"
 					],
 					"sources": [
 						[
@@ -2573,7 +2574,8 @@
 						],
 						[
 							true,
-							"Pharrell Williams"
+							"Pharrell Williams",
+							"Pharrell"
 						],
 						[
 							false,
@@ -2594,7 +2596,7 @@
 							"Katy Perry"
 						],
 						[
-							true,
+							false,
 							"Juicy J"
 						]
 					],
@@ -2609,7 +2611,8 @@
 					"sources": [
 						[
 							true,
-							"Pharrell Williams"
+							"Pharrell Williams",
+							"Pharrell"
 						]
 					],
 					"audioFile": "./billboard-top-2010/Happy.mp3",
@@ -2626,7 +2629,7 @@
 							"Maroon 5"
 						],
 						[
-							true,
+							false,
 							"Wiz Khalifa"
 						]
 					],
@@ -2708,7 +2711,8 @@
 				},
 				{
 					"titles": [
-						"Somebody That I Used To Know"
+						"Somebody That I Used To Know",
+						"Somebody I Used To Know"
 					],
 					"sources": [
 						[
@@ -2734,7 +2738,7 @@
 							"Fun."
 						],
 						[
-							true,
+							false,
 							"Janelle Monáe",
 							"Janelle",
 							"Monáe"
@@ -2768,7 +2772,7 @@
 							"Usher"
 						],
 						[
-							true,
+							false,
 							"will.i.am",
 							"will i am"
 						]
@@ -2798,7 +2802,7 @@
 			"title": "Celeste Collection",
 			"description": "Original Soundtrack from 'Celeste (2018)'.",
 			"difficulty": "Medium",
-			"rounds": 22,
+			"rounds": 10,
 			"gameStyle": 3,
 			"disabledLifelines": [
 				"year"
@@ -3121,7 +3125,7 @@
 			"title": "Best of Pixar Collection",
 			"description": "Most popular soundtracks from Pixar featured films.",
 			"difficulty": "Easy",
-			"rounds": 29,
+			"rounds": 10,
 			"gameStyle": 2,
 			"disabledLifelines": [],
 			"sourceName": "Movie",
