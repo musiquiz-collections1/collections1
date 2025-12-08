@@ -2583,7 +2583,7 @@
 						]
 					],
 					"audioFile": "./billboard-top-2010/Blurred Lines.mp3",
-					"startTime": 40,
+					"startTime": null,
 					"year": 2013
 				},
 				{
@@ -2670,7 +2670,7 @@
 						]
 					],
 					"audioFile": "./billboard-top-2010/Thrift Shop.mp3",
-					"startTime": 25,
+					"startTime": null,
 					"year": 2012
 				},
 				{
