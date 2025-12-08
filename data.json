@@ -3141,7 +3141,7 @@
 			"disabledLifelines": [],
 			"sourceName": "Movie",
 			"author": "MusiQuiz",
-			"covers": [],
+			"covers": [ "./best-of-pixar/cover.png" ],
 			"songs": [
 				{
 					"titles": [
