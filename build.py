@@ -213,9 +213,9 @@ def update_index_html():
 <body>
     <h1>Musiquiz Collections</h1>
     <p class="updated">{timestamp}</p>
+	<a href="" style="margin-top: 0.5rem; font-size: 1.5em;">Refresh</a>
 	<div class="directory">
 {tree_html}\t</div>
-	<a href="" style="margin-top: 0.5rem; font-size: 1.5em;">Refresh</a>
 	<script>
 		function toggleDirectory(dirId) {{
 			const element = document.getElementById(dirId);
