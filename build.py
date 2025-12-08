@@ -178,7 +178,7 @@ def update_index_html():
 			font-family: 'Courier New', monospace;
 			text-align: left;
 			background: rgba(0, 0, 0, 0.3);
-			padding: 1rem;
+			padding: 0 1rem 1rem;
 			border-radius: 8px;
 			max-width: 600px;
 			margin: 1rem auto;
@@ -188,8 +188,7 @@ def update_index_html():
 		.expand-collapse-all {{
 			text-align: center;
 			display: block;
-			margin: 0 0 0.5rem;
-			padding: 0.5rem 1rem;
+			padding: 1rem 0 0.5rem;
 			cursor: pointer;
 			font-size: 1.1rem;
 			transition: background-color 0.2s;
