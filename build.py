@@ -211,6 +211,16 @@ def update_index_html():
 			line-height: 1.4;
 			white-space: pre-wrap;
 		}}
+		.directory-title {{
+			display: block;
+			padding: 1rem 0 0.5rem;
+			text-align: center;
+			font-size: 1.5rem;
+			font-weight: bold;
+			border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+			text-transform: uppercase;
+			font-family: 'Roboto', sans-serif;
+		}}
 		.expand-collapse-all {{
 			text-align: center;
 			display: block;
@@ -256,7 +266,7 @@ def update_index_html():
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
 	<span><h1 class="headerElement">MusiQuiz</h1><h2>Collections</h1></span>
 	<p class="updated">{timestamp}</p>
-	<div class="directory"><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
+	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
 	<script>
 		function toggleDirectory(dirId) {{
 			const element = document.getElementById(dirId);
