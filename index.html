@@ -32,7 +32,8 @@
         }
         p {
             font-size: 1.2rem;
-    		margin-bottom: 1rem;
+    		padding: 0;
+			margin-bottom: 0.5rem;
         }
 		a {
 			color:cornflowerblue;
@@ -43,14 +44,410 @@
 		a:active {
 			color:lightblue;
 		}
+		.directory {
+			font-family: 'Courier New', monospace;
+			text-align: left;
+			background: rgba(0, 0, 0, 0.3);
+			padding: 1rem;
+			border-radius: 8px;
+			max-width: 600px;
+			margin: 1rem auto;
+			line-height: 1.4;
+		}
+		.dir-toggle {
+			cursor: pointer;
+			color: #1db954;
+			font-weight: bold;
+			margin-right: 0.2rem;
+		}
+		.dir-toggle:hover {
+			color: #1ed760;
+		}
+		.dir-name {
+			color: #1db954;
+			font-weight: bold;
+		}
+		.dir-content {
+			margin-left: 1rem;
+		}
+		.dir-content.collapsed {
+			display: none;
+		}
+		.dir-content.expanded {
+			display: block;
+		}
     </style>
 </head>
 <body>
     <h1>Musiquiz Collections</h1>
-    <p class="updated">2025-12-08 15:28:15</p>
-	<a href="data.json">data.json</a>
+    <p class="updated">2025-12-08 15:41:25</p>
+	<div class="directory">
+├ <a href=".htaccess">.htaccess</a>
+├ <a href="_headers">_headers</a>
+├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar')">▶</span> <span class="dir-name">best-of-pixar/</span>
+  <div id="dir_best_of_pixar" class="dir-content collapsed">
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_A_Bugs_Life')">▶</span> <span class="dir-name">A Bugs Life/</span>
+    <div id="dir_best_of_pixar_A_Bugs_Life" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/A Bugs Life/The Time Of Your Life.mp3">The Time Of Your Life.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Brave')">▶</span> <span class="dir-name">Brave/</span>
+    <div id="dir_best_of_pixar_Brave" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Brave/Into The Open Air.mp3">Into The Open Air.mp3</a>
+    ├ <a href="best-of-pixar/Brave/Touch The Sky.mp3">Touch The Sky.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Cars')">▶</span> <span class="dir-name">Cars/</span>
+    <div id="dir_best_of_pixar_Cars" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Cars/Life is a Highway.mp3">Life is a Highway.mp3</a>
+    ├ <a href="best-of-pixar/Cars/Real Gone.mp3">Real Gone.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Coco')">▶</span> <span class="dir-name">Coco/</span>
+    <div id="dir_best_of_pixar_Coco" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Coco/Un Poco Loco.mp3">Un Poco Loco.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Finding_Nemo')">▶</span> <span class="dir-name">Finding Nemo/</span>
+    <div id="dir_best_of_pixar_Finding_Nemo" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Finding Nemo/Nemo Egg (Main Title).mp3">Nemo Egg (Main Title).mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Inside_Out')">▶</span> <span class="dir-name">Inside Out/</span>
+    <div id="dir_best_of_pixar_Inside_Out" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Inside Out/Bundle of Joy.mp3">Bundle of Joy.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Luca')">▶</span> <span class="dir-name">Luca/</span>
+    <div id="dir_best_of_pixar_Luca" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Luca/Telescope.mp3">Telescope.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Moana')">▶</span> <span class="dir-name">Moana/</span>
+    <div id="dir_best_of_pixar_Moana" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Moana/How Far I'll Go.mp3">How Far I'll Go.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Monsters_Inc')">▶</span> <span class="dir-name">Monsters Inc/</span>
+    <div id="dir_best_of_pixar_Monsters_Inc" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Monsters Inc/If I Didn't Have You.mp3">If I Didn't Have You.mp3</a>
+    ├ <a href="best-of-pixar/Monsters Inc/Monsters, Inc..mp3">Monsters, Inc..mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Onward')">▶</span> <span class="dir-name">Onward/</span>
+    <div id="dir_best_of_pixar_Onward" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Onward/Carried Me With You.mp3">Carried Me With You.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Ratatouille')">▶</span> <span class="dir-name">Ratatouille/</span>
+    <div id="dir_best_of_pixar_Ratatouille" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Ratatouille/Le Festin.mp3">Le Festin.mp3</a>
+    ├ <a href="best-of-pixar/Ratatouille/Ratatouille Main Theme.mp3">Ratatouille Main Theme.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Soul')">▶</span> <span class="dir-name">Soul/</span>
+    <div id="dir_best_of_pixar_Soul" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Soul/Epiphany.mp3">Epiphany.mp3</a>
+    ├ <a href="best-of-pixar/Soul/It's All Right.mp3">It's All Right.mp3</a>
+    ├ <a href="best-of-pixar/Soul/Terry Time.mp3">Terry Time.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_The_Good_Dinosaur')">▶</span> <span class="dir-name">The Good Dinosaur/</span>
+    <div id="dir_best_of_pixar_The_Good_Dinosaur" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/The Good Dinosaur/Homestead.mp3">Homestead.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_The_Incredibles')">▶</span> <span class="dir-name">The Incredibles/</span>
+    <div id="dir_best_of_pixar_The_Incredibles" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/The Incredibles/Life's Incredible Again.mp3">Life's Incredible Again.mp3</a>
+    ├ <a href="best-of-pixar/The Incredibles/The Incredits.mp3">The Incredits.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Toy_Story')">▶</span> <span class="dir-name">Toy Story/</span>
+    <div id="dir_best_of_pixar_Toy_Story" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Toy Story/You've Got a Friend in Me.mp3">You've Got a Friend in Me.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Toy_Story_2')">▶</span> <span class="dir-name">Toy Story 2/</span>
+    <div id="dir_best_of_pixar_Toy_Story_2" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Toy Story 2/When She Loved Me.mp3">When She Loved Me.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Toy_Story_3')">▶</span> <span class="dir-name">Toy Story 3/</span>
+    <div id="dir_best_of_pixar_Toy_Story_3" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Toy Story 3/We Belong Together.mp3">We Belong Together.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Toy_Story_4')">▶</span> <span class="dir-name">Toy Story 4/</span>
+    <div id="dir_best_of_pixar_Toy_Story_4" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Toy Story 4/Parting Gifts & New Horizons.mp3">Parting Gifts & New Horizons.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Turning_Red')">▶</span> <span class="dir-name">Turning Red/</span>
+    <div id="dir_best_of_pixar_Turning_Red" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Turning Red/Turning Red.mp3">Turning Red.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Up')">▶</span> <span class="dir-name">Up/</span>
+    <div id="dir_best_of_pixar_Up" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/Up/Married Life.mp3">Married Life.mp3</a>
+    </div>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_WALL_E')">▶</span> <span class="dir-name">WALL-E/</span>
+    <div id="dir_best_of_pixar_WALL_E" class="dir-content collapsed">
+    ├ <a href="best-of-pixar/WALL-E/2815 A.D..mp3">2815 A.D..mp3</a>
+    ├ <a href="best-of-pixar/WALL-E/Down To Earth.mp3">Down To Earth.mp3</a>
+    </div>
+  </div>
+├ <span class="dir-toggle" onclick="toggleDirectory('dir_billboard_top_1960')">▶</span> <span class="dir-name">billboard-top-1960/</span>
+  <div id="dir_billboard_top_1960" class="dir-content collapsed">
+  ├ <a href="billboard-top-1960/(I Can't Get No) Satisfaction.mp3">(I Can't Get No) Satisfaction.mp3</a>
+  ├ <a href="billboard-top-1960/96 Tears.mp3">96 Tears.mp3</a>
+  ├ <a href="billboard-top-1960/AquariusLet the Sunshine In (The Flesh Failures).mp3">AquariusLet the Sunshine In (The Flesh Failures).mp3</a>
+  ├ <a href="billboard-top-1960/California Dreamin'.mp3">California Dreamin'.mp3</a>
+  ├ <a href="billboard-top-1960/Cathy's Clown.mp3">Cathy's Clown.mp3</a>
+  ├ <a href="billboard-top-1960/Hello, Dolly!.mp3">Hello, Dolly!.mp3</a>
+  ├ <a href="billboard-top-1960/Hey Jude.mp3">Hey Jude.mp3</a>
+  ├ <a href="billboard-top-1960/Honey.mp3">Honey.mp3</a>
+  ├ <a href="billboard-top-1960/I Can't Get Next To You.mp3">I Can't Get Next To You.mp3</a>
+  ├ <a href="billboard-top-1960/I Can't Help Myself (Sugar Pie, Honey Bunch).mp3">I Can't Help Myself (Sugar Pie, Honey Bunch).mp3</a>
+  ├ <a href="billboard-top-1960/I Fall To Pieces.mp3">I Fall To Pieces.mp3</a>
+  ├ <a href="billboard-top-1960/I Want To Hold Your Hand.mp3">I Want To Hold Your Hand.mp3</a>
+  ├ <a href="billboard-top-1960/Love Is Blue.mp3">Love Is Blue.mp3</a>
+  ├ <a href="billboard-top-1960/Mashed Potato Time.mp3">Mashed Potato Time.mp3</a>
+  ├ <a href="billboard-top-1960/Michael, Row the Boat Ashore.mp3">Michael, Row the Boat Ashore.mp3</a>
+  ├ <a href="billboard-top-1960/Ode To Billie Joe.mp3">Ode To Billie Joe.mp3</a>
+  ├ <a href="billboard-top-1960/Oh, Pretty Woman.mp3">Oh, Pretty Woman.mp3</a>
+  ├ <a href="billboard-top-1960/Rhythm of the Rain.mp3">Rhythm of the Rain.mp3</a>
+  ├ <a href="billboard-top-1960/Stranger on the Shore.mp3">Stranger on the Shore.mp3</a>
+  ├ <a href="billboard-top-1960/Sugar Sugar.mp3">Sugar Sugar.mp3</a>
+  ├ <a href="billboard-top-1960/Surfin' U.S.A..mp3">Surfin' U.S.A..mp3</a>
+  ├ <a href="billboard-top-1960/The End of the World.mp3">The End of the World.mp3</a>
+  ├ <a href="billboard-top-1960/The Letter.mp3">The Letter.mp3</a>
+  ├ <a href="billboard-top-1960/To Sir With Love.mp3">To Sir With Love.mp3</a>
+  ├ <a href="billboard-top-1960/Tossin' and Turnin'.mp3">Tossin' and Turnin'.mp3</a>
+  ├ <a href="billboard-top-1960/What Becomes Of The Brokenhearted.mp3">What Becomes Of The Brokenhearted.mp3</a>
+  ├ <a href="billboard-top-1960/Windy.mp3">Windy.mp3</a>
+  ├ <a href="billboard-top-1960/Wooly Bully.mp3">Wooly Bully.mp3</a>
+  ├ <a href="billboard-top-1960/You Were On My Mind.mp3">You Were On My Mind.mp3</a>
+  ├ <a href="billboard-top-1960/You've Lost That Lovin' Feelin'.mp3">You've Lost That Lovin' Feelin'.mp3</a>
+  ├ <a href="billboard-top-1960/cover.png">cover.png</a>
+  </div>
+├ <span class="dir-toggle" onclick="toggleDirectory('dir_billboard_top_1970')">▶</span> <span class="dir-name">billboard-top-1970/</span>
+  <div id="dir_billboard_top_1970" class="dir-content collapsed">
+  ├ <a href="billboard-top-1970/(They Long To Be) Close To You.mp3">(They Long To Be) Close To You.mp3</a>
+  ├ <a href="billboard-top-1970/Alone Again (Naturally).mp3">Alone Again (Naturally).mp3</a>
+  ├ <a href="billboard-top-1970/American Pie.mp3">American Pie.mp3</a>
+  ├ <a href="billboard-top-1970/American Woman.mp3">American Woman.mp3</a>
+  ├ <a href="billboard-top-1970/Bad Bad, Leroy Brown.mp3">Bad Bad, Leroy Brown.mp3</a>
+  ├ <a href="billboard-top-1970/Bad Girls.mp3">Bad Girls.mp3</a>
+  ├ <a href="billboard-top-1970/Best of My Love.mp3">Best of My Love.mp3</a>
+  ├ <a href="billboard-top-1970/Bridge Over Troubled Water.mp3">Bridge Over Troubled Water.mp3</a>
+  ├ <a href="billboard-top-1970/Disco Lady.mp3">Disco Lady.mp3</a>
+  ├ <a href="billboard-top-1970/Don't Go Breaking My Heart.mp3">Don't Go Breaking My Heart.mp3</a>
+  ├ <a href="billboard-top-1970/I Feel the Earth Move.mp3">I Feel the Earth Move.mp3</a>
+  ├ <a href="billboard-top-1970/I Just Want To Be Your Everything.mp3">I Just Want To Be Your Everything.mp3</a>
+  ├ <a href="billboard-top-1970/Joy To The World.mp3">Joy To The World.mp3</a>
+  ├ <a href="billboard-top-1970/Killing Me Softly With His Song.mp3">Killing Me Softly With His Song.mp3</a>
+  ├ <a href="billboard-top-1970/Le Freak.mp3">Le Freak.mp3</a>
+  ├ <a href="billboard-top-1970/Let's Get It On.mp3">Let's Get It On.mp3</a>
+  ├ <a href="billboard-top-1970/Love Will Keep Us Together.mp3">Love Will Keep Us Together.mp3</a>
+  ├ <a href="billboard-top-1970/Love's Theme.mp3">Love's Theme.mp3</a>
+  ├ <a href="billboard-top-1970/Maggie May.mp3">Maggie May.mp3</a>
+  ├ <a href="billboard-top-1970/My Sharona.mp3">My Sharona.mp3</a>
+  ├ <a href="billboard-top-1970/Night Fever.mp3">Night Fever.mp3</a>
+  ├ <a href="billboard-top-1970/Philadelphia Freedom.mp3">Philadelphia Freedom.mp3</a>
+  ├ <a href="billboard-top-1970/Rhinestone Cowboy.mp3">Rhinestone Cowboy.mp3</a>
+  ├ <a href="billboard-top-1970/Shadow Dancing.mp3">Shadow Dancing.mp3</a>
+  ├ <a href="billboard-top-1970/Silly Love Songs.mp3">Silly Love Songs.mp3</a>
+  ├ <a href="billboard-top-1970/The First Time Ever I Saw Your Face.mp3">The First Time Ever I Saw Your Face.mp3</a>
+  ├ <a href="billboard-top-1970/The Way We Were.mp3">The Way We Were.mp3</a>
+  ├ <a href="billboard-top-1970/Tie a Yellow Ribbon Round the Ole Oak Tree.mp3">Tie a Yellow Ribbon Round the Ole Oak Tree.mp3</a>
+  ├ <a href="billboard-top-1970/Tonight's the Night (Gonna Be Alright).mp3">Tonight's the Night (Gonna Be Alright).mp3</a>
+  ├ <a href="billboard-top-1970/You Light Up My Life.mp3">You Light Up My Life.mp3</a>
+  ├ <a href="billboard-top-1970/cover.png">cover.png</a>
+  </div>
+├ <span class="dir-toggle" onclick="toggleDirectory('dir_billboard_top_1980')">▶</span> <span class="dir-name">billboard-top-1980/</span>
+  <div id="dir_billboard_top_1980" class="dir-content collapsed">
+  ├ <a href="billboard-top-1980/Alone.mp3">Alone.mp3</a>
+  ├ <a href="billboard-top-1980/Bette Davis Eyes.mp3">Bette Davis Eyes.mp3</a>
+  ├ <a href="billboard-top-1980/Billie Jean.mp3">Billie Jean.mp3</a>
+  ├ <a href="billboard-top-1980/Call Me.mp3">Call Me.mp3</a>
+  ├ <a href="billboard-top-1980/Careless Whisper.mp3">Careless Whisper.mp3</a>
+  ├ <a href="billboard-top-1980/Endless Love.mp3">Endless Love.mp3</a>
+  ├ <a href="billboard-top-1980/Every Breath You Take.mp3">Every Breath You Take.mp3</a>
+  ├ <a href="billboard-top-1980/Every Rose Has Its Thorn.mp3">Every Rose Has Its Thorn.mp3</a>
+  ├ <a href="billboard-top-1980/Eye of the Tiger.mp3">Eye of the Tiger.mp3</a>
+  ├ <a href="billboard-top-1980/Faith.mp3">Faith.mp3</a>
+  ├ <a href="billboard-top-1980/Flashdance… What A Feeling.mp3">Flashdance… What A Feeling.mp3</a>
+  ├ <a href="billboard-top-1980/Footloose.mp3">Footloose.mp3</a>
+  ├ <a href="billboard-top-1980/I Miss You.mp3">I Miss You.mp3</a>
+  ├ <a href="billboard-top-1980/I Want to Know What Love Is.mp3">I Want to Know What Love Is.mp3</a>
+  ├ <a href="billboard-top-1980/Lady.mp3">Lady.mp3</a>
+  ├ <a href="billboard-top-1980/Like a Virgin.mp3">Like a Virgin.mp3</a>
+  ├ <a href="billboard-top-1980/Look Away.mp3">Look Away.mp3</a>
+  ├ <a href="billboard-top-1980/Magic.mp3">Magic.mp3</a>
+  ├ <a href="billboard-top-1980/My Prerogative.mp3">My Prerogative.mp3</a>
+  ├ <a href="billboard-top-1980/Need You Tonight.mp3">Need You Tonight.mp3</a>
+  ├ <a href="billboard-top-1980/Physical.mp3">Physical.mp3</a>
+  ├ <a href="billboard-top-1980/Say Say Say.mp3">Say Say Say.mp3</a>
+  ├ <a href="billboard-top-1980/Say You, Say Me.mp3">Say You, Say Me.mp3</a>
+  ├ <a href="billboard-top-1980/Shake You Down.mp3">Shake You Down.mp3</a>
+  ├ <a href="billboard-top-1980/Straight Up.mp3">Straight Up.mp3</a>
+  ├ <a href="billboard-top-1980/That's What Friends Are For.mp3">That's What Friends Are For.mp3</a>
+  ├ <a href="billboard-top-1980/Wake Me Up Before You Go-Go.mp3">Wake Me Up Before You Go-Go.mp3</a>
+  ├ <a href="billboard-top-1980/Walk Like an Egyptian.mp3">Walk Like an Egyptian.mp3</a>
+  ├ <a href="billboard-top-1980/What's Love Got to Do with It.mp3">What's Love Got to Do with It.mp3</a>
+  ├ <a href="billboard-top-1980/When Doves Cry.mp3">When Doves Cry.mp3</a>
+  ├ <a href="billboard-top-1980/cover.png">cover.png</a>
+  </div>
+├ <span class="dir-toggle" onclick="toggleDirectory('dir_billboard_top_1990')">▶</span> <span class="dir-name">billboard-top-1990/</span>
+  <div id="dir_billboard_top_1990" class="dir-content collapsed">
+  ├ <a href="billboard-top-1990/(Everything I Do) I Do It For You.mp3">(Everything I Do) I Do It For You.mp3</a>
+  ├ <a href="billboard-top-1990/Angel of Mine.mp3">Angel of Mine.mp3</a>
+  ├ <a href="billboard-top-1990/Baby Got Back.mp3">Baby Got Back.mp3</a>
+  ├ <a href="billboard-top-1990/Because You Loved Me.mp3">Because You Loved Me.mp3</a>
+  ├ <a href="billboard-top-1990/Believe.mp3">Believe.mp3</a>
+  ├ <a href="billboard-top-1990/End Of The Road.mp3">End Of The Road.mp3</a>
+  ├ <a href="billboard-top-1990/Gangsta's Paradise.mp3">Gangsta's Paradise.mp3</a>
+  ├ <a href="billboard-top-1990/Gonna Make You Sweat (Everybody Dance Now).mp3">Gonna Make You Sweat (Everybody Dance Now).mp3</a>
+  ├ <a href="billboard-top-1990/Hold On.mp3">Hold On.mp3</a>
+  ├ <a href="billboard-top-1990/I Believe I Can Fly.mp3">I Believe I Can Fly.mp3</a>
+  ├ <a href="billboard-top-1990/I Swear.mp3">I Swear.mp3</a>
+  ├ <a href="billboard-top-1990/I Wanna Sex You Up.mp3">I Wanna Sex You Up.mp3</a>
+  ├ <a href="billboard-top-1990/I Will Always Love You.mp3">I Will Always Love You.mp3</a>
+  ├ <a href="billboard-top-1990/I'll Be Missing You.mp3">I'll Be Missing You.mp3</a>
+  ├ <a href="billboard-top-1990/I'll Make Love To You.mp3">I'll Make Love To You.mp3</a>
+  ├ <a href="billboard-top-1990/Jump.mp3">Jump.mp3</a>
+  ├ <a href="billboard-top-1990/Kiss from a Rose.mp3">Kiss from a Rose.mp3</a>
+  ├ <a href="billboard-top-1990/Macarena (Bayside Boys Remix).mp3">Macarena (Bayside Boys Remix).mp3</a>
+  ├ <a href="billboard-top-1990/No Scrubs.mp3">No Scrubs.mp3</a>
+  ├ <a href="billboard-top-1990/Nothing Compares 2 U.mp3">Nothing Compares 2 U.mp3</a>
+  ├ <a href="billboard-top-1990/One Sweet Day.mp3">One Sweet Day.mp3</a>
+  ├ <a href="billboard-top-1990/Poison.mp3">Poison.mp3</a>
+  ├ <a href="billboard-top-1990/The Boy Is Mine.mp3">The Boy Is Mine.mp3</a>
+  ├ <a href="billboard-top-1990/The Sign.mp3">The Sign.mp3</a>
+  ├ <a href="billboard-top-1990/Too Close.mp3">Too Close.mp3</a>
+  ├ <a href="billboard-top-1990/Un-Break My Heart.mp3">Un-Break My Heart.mp3</a>
+  ├ <a href="billboard-top-1990/Waterfalls.mp3">Waterfalls.mp3</a>
+  ├ <a href="billboard-top-1990/Whoomp! (There It Is).mp3">Whoomp! (There It Is).mp3</a>
+  ├ <a href="billboard-top-1990/You Were Meant For Me.mp3">You Were Meant For Me.mp3</a>
+  ├ <a href="billboard-top-1990/You're Still The One.mp3">You're Still The One.mp3</a>
+  ├ <a href="billboard-top-1990/cover.png">cover.png</a>
+  </div>
+├ <span class="dir-toggle" onclick="toggleDirectory('dir_billboard_top_2000')">▶</span> <span class="dir-name">billboard-top-2000/</span>
+  <div id="dir_billboard_top_2000" class="dir-content collapsed">
+  ├ <a href="billboard-top-2000/A Thousand Miles.mp3">A Thousand Miles.mp3</a>
+  ├ <a href="billboard-top-2000/All For You.mp3">All For You.mp3</a>
+  ├ <a href="billboard-top-2000/Bad Day.mp3">Bad Day.mp3</a>
+  ├ <a href="billboard-top-2000/Bleeding Love.mp3">Bleeding Love.mp3</a>
+  ├ <a href="billboard-top-2000/Boom Boom Pow.mp3">Boom Boom Pow.mp3</a>
+  ├ <a href="billboard-top-2000/Burn.mp3">Burn.mp3</a>
+  ├ <a href="billboard-top-2000/Fallin'.mp3">Fallin'.mp3</a>
+  ├ <a href="billboard-top-2000/Foolish.mp3">Foolish.mp3</a>
+  ├ <a href="billboard-top-2000/Get Busy.mp3">Get Busy.mp3</a>
+  ├ <a href="billboard-top-2000/Hanging By A Moment.mp3">Hanging By A Moment.mp3</a>
+  ├ <a href="billboard-top-2000/Hollaback Girl.mp3">Hollaback Girl.mp3</a>
+  ├ <a href="billboard-top-2000/Hot In Herre.mp3">Hot In Herre.mp3</a>
+  ├ <a href="billboard-top-2000/How You Remind Me.mp3">How You Remind Me.mp3</a>
+  ├ <a href="billboard-top-2000/If I Ain't Got You.mp3">If I Ain't Got You.mp3</a>
+  ├ <a href="billboard-top-2000/Ignition (Remix).mp3">Ignition (Remix).mp3</a>
+  ├ <a href="billboard-top-2000/In Da Club.mp3">In Da Club.mp3</a>
+  ├ <a href="billboard-top-2000/Irreplaceable.mp3">Irreplaceable.mp3</a>
+  ├ <a href="billboard-top-2000/Just Dance.mp3">Just Dance.mp3</a>
+  ├ <a href="billboard-top-2000/Let Me Love You.mp3">Let Me Love You.mp3</a>
+  ├ <a href="billboard-top-2000/Lollipop.mp3">Lollipop.mp3</a>
+  ├ <a href="billboard-top-2000/Low.mp3">Low.mp3</a>
+  ├ <a href="billboard-top-2000/No One.mp3">No One.mp3</a>
+  ├ <a href="billboard-top-2000/Poker Face.mp3">Poker Face.mp3</a>
+  ├ <a href="billboard-top-2000/Promiscuous.mp3">Promiscuous.mp3</a>
+  ├ <a href="billboard-top-2000/Temperature.mp3">Temperature.mp3</a>
+  ├ <a href="billboard-top-2000/The Sweet Escape.mp3">The Sweet Escape.mp3</a>
+  ├ <a href="billboard-top-2000/Umbrella.mp3">Umbrella.mp3</a>
+  ├ <a href="billboard-top-2000/We Belong Together.mp3">We Belong Together.mp3</a>
+  ├ <a href="billboard-top-2000/Yeah!.mp3">Yeah!.mp3</a>
+  ├ <a href="billboard-top-2000/You're Beautiful.mp3">You're Beautiful.mp3</a>
+  ├ <a href="billboard-top-2000/cover.png">cover.png</a>
+  </div>
+├ <span class="dir-toggle" onclick="toggleDirectory('dir_billboard_top_2010')">▶</span> <span class="dir-name">billboard-top-2010/</span>
+  <div id="dir_billboard_top_2010" class="dir-content collapsed">
+  ├ <a href="billboard-top-2010/All of Me.mp3">All of Me.mp3</a>
+  ├ <a href="billboard-top-2010/Blurred Lines.mp3">Blurred Lines.mp3</a>
+  ├ <a href="billboard-top-2010/Call Me Maybe.mp3">Call Me Maybe.mp3</a>
+  ├ <a href="billboard-top-2010/Dark Horse.mp3">Dark Horse.mp3</a>
+  ├ <a href="billboard-top-2010/Firework.mp3">Firework.mp3</a>
+  ├ <a href="billboard-top-2010/God's Plan.mp3">God's Plan.mp3</a>
+  ├ <a href="billboard-top-2010/HUMBLE..mp3">HUMBLE..mp3</a>
+  ├ <a href="billboard-top-2010/Happy.mp3">Happy.mp3</a>
+  ├ <a href="billboard-top-2010/Havana.mp3">Havana.mp3</a>
+  ├ <a href="billboard-top-2010/Love Yourself.mp3">Love Yourself.mp3</a>
+  ├ <a href="billboard-top-2010/Meant to Be.mp3">Meant to Be.mp3</a>
+  ├ <a href="billboard-top-2010/OMG.mp3">OMG.mp3</a>
+  ├ <a href="billboard-top-2010/Old Town Road (Remix).mp3">Old Town Road (Remix).mp3</a>
+  ├ <a href="billboard-top-2010/One Dance.mp3">One Dance.mp3</a>
+  ├ <a href="billboard-top-2010/Party Rock Anthem.mp3">Party Rock Anthem.mp3</a>
+  ├ <a href="billboard-top-2010/Payphone.mp3">Payphone.mp3</a>
+  ├ <a href="billboard-top-2010/Perfect.mp3">Perfect.mp3</a>
+  ├ <a href="billboard-top-2010/Radioactive.mp3">Radioactive.mp3</a>
+  ├ <a href="billboard-top-2010/Rolling in the Deep.mp3">Rolling in the Deep.mp3</a>
+  ├ <a href="billboard-top-2010/See You Again.mp3">See You Again.mp3</a>
+  ├ <a href="billboard-top-2010/Shape of You.mp3">Shape of You.mp3</a>
+  ├ <a href="billboard-top-2010/Somebody That I Used To Know.mp3">Somebody That I Used To Know.mp3</a>
+  ├ <a href="billboard-top-2010/Sunflower.mp3">Sunflower.mp3</a>
+  ├ <a href="billboard-top-2010/That's What I Like.mp3">That's What I Like.mp3</a>
+  ├ <a href="billboard-top-2010/Thinking out Loud.mp3">Thinking out Loud.mp3</a>
+  ├ <a href="billboard-top-2010/Thrift Shop.mp3">Thrift Shop.mp3</a>
+  ├ <a href="billboard-top-2010/Uptown Funk.mp3">Uptown Funk.mp3</a>
+  ├ <a href="billboard-top-2010/We Are Young.mp3">We Are Young.mp3</a>
+  ├ <a href="billboard-top-2010/Without Me.mp3">Without Me.mp3</a>
+  ├ <a href="billboard-top-2010/Work.mp3">Work.mp3</a>
+  ├ <a href="billboard-top-2010/cover.png">cover.png</a>
+  </div>
+├ <span class="dir-toggle" onclick="toggleDirectory('dir_celeste')">▶</span> <span class="dir-name">celeste/</span>
+  <div id="dir_celeste" class="dir-content collapsed">
+  ├ <a href="celeste/Anxiety.mp3">Anxiety.mp3</a>
+  ├ <a href="celeste/Awake.mp3">Awake.mp3</a>
+  ├ <a href="celeste/Checking In.mp3">Checking In.mp3</a>
+  ├ <a href="celeste/Confronting Myself.mp3">Confronting Myself.mp3</a>
+  ├ <a href="celeste/Exhale.mp3">Exhale.mp3</a>
+  ├ <a href="celeste/Farewell.mp3">Farewell.mp3</a>
+  ├ <a href="celeste/First Steps.mp3">First Steps.mp3</a>
+  ├ <a href="celeste/Golden.mp3">Golden.mp3</a>
+  ├ <a href="celeste/Heart of the Mountain.mp3">Heart of the Mountain.mp3</a>
+  ├ <a href="celeste/In the Mirror.mp3">In the Mirror.mp3</a>
+  ├ <a href="celeste/Little Goth.mp3">Little Goth.mp3</a>
+  ├ <a href="celeste/Madeline and Theo.mp3">Madeline and Theo.mp3</a>
+  ├ <a href="celeste/My Dearest Friends.mp3">My Dearest Friends.mp3</a>
+  ├ <a href="celeste/Postcard from Celeste Mountain.mp3">Postcard from Celeste Mountain.mp3</a>
+  ├ <a href="celeste/Prologue.mp3">Prologue.mp3</a>
+  ├ <a href="celeste/Quiet and Falling.mp3">Quiet and Falling.mp3</a>
+  ├ <a href="celeste/Reach for the Summit.mp3">Reach for the Summit.mp3</a>
+  ├ <a href="celeste/Reflection.mp3">Reflection.mp3</a>
+  ├ <a href="celeste/Resurrections.mp3">Resurrections.mp3</a>
+  ├ <a href="celeste/Scattered and Lost.mp3">Scattered and Lost.mp3</a>
+  ├ <a href="celeste/Spirit of Hospitality.mp3">Spirit of Hospitality.mp3</a>
+  ├ <a href="celeste/Starjump.mp3">Starjump.mp3</a>
+  ├ <a href="celeste/cover.png">cover.png</a>
+  ├ <a href="celeste/cover2.png">cover2.png</a>
+  </div>
+├ <a href="data.json">data.json</a>
+├ <a href="generate.py">generate.py</a>
+├ <a href="generate_directory.py">generate_directory.py</a>
+├ <a href="index.html">index.html</a>
+├ <span class="dir-toggle" onclick="toggleDirectory('dir_sync')">▶</span> <span class="dir-name">sync/</span>
+  <div id="dir_sync" class="dir-content collapsed">
+  ├ <a href="sync/sync-script.txt">sync-script.txt</a>
+  ├ <a href="sync/sync.bat">sync.bat</a>
+  ├ <span class="dir-toggle" onclick="toggleDirectory('dir_sync_winscp')">▶</span> <span class="dir-name">winscp/</span>
+    <div id="dir_sync_winscp" class="dir-content collapsed">
+    ├ <a href="sync/winscp/WinSCP.com">WinSCP.com</a>
+    ├ <a href="sync/winscp/WinSCP.exe">WinSCP.exe</a>
+    ├ <a href="sync/winscp/WinSCP.ini">WinSCP.ini</a>
+    ├ <a href="sync/winscp/license.txt">license.txt</a>
+    ├ <a href="sync/winscp/readme.txt">readme.txt</a>
+    </div>
+  </div>
+	</div>
+	<a href="" style="margin-top: 0.5rem; font-size: 1.5em;">Refresh</a>
+	<script>
+		function toggleDirectory(dirId) {
+			const element = document.getElementById(dirId);
+			const toggle = element.previousElementSibling.previousElementSibling;
+
+			if (element.classList.contains('collapsed')) {
+				element.classList.remove('collapsed');
+				element.classList.add('expanded');
+				toggle.textContent = '▼';
+			} else {
+				element.classList.remove('expanded');
+				element.classList.add('collapsed');
+				toggle.textContent = '▶';
+			}
+		}
+	</script>
 </body>
 </html>
+
 
 
 
