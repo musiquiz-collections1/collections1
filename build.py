@@ -180,7 +180,6 @@ def update_index_html():
 		a {{
 			color:cornflowerblue;
 			text-decoration: none;
-			padding-bottom: 0rem;
 		}}
 		a:hover,
 		a:active {{
@@ -237,7 +236,7 @@ def update_index_html():
 	</style>
 </head>
 <body>
-	<a href="" style="margin-top: 0.5rem; font-size: 1.5em; position: absolute; top: 0.5rem; left: 1rem;">Refresh</a>
+	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;">Refresh</a>
 	<h1>Musiquiz Collections</h1>
 	<p class="updated">{timestamp}</p>
 	<div class="directory"><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
