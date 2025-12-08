@@ -122,10 +122,10 @@ def update_index_html():
 	# Generate HTML tree
 	tree_html = generate_html_tree(structure)
 
-	# Read current index.html to preserve the timestamp
+	# Use placeholder timestamp - will be replaced by commit script
+	timestamp = "TIMESTAMP_PLACEHOLDER"
+
 	index_path = script_dir / "index.html"
-	from datetime import datetime
-	timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")  # Current timestamp
 
 	# Create the complete HTML content from scratch
 	html_content = f'''<!DOCTYPE html>
