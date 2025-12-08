@@ -105,7 +105,7 @@ def generate_html_tree(structure, base_path="", level=0):
 			# It's a directory
 			dir_id = f"dir_{base_path.replace('/', '_')}_{name}" if base_path else f"dir_{name}"
 			dir_id = dir_id.replace(' ', '_').replace('-', '_')
-			html += f'{indent}<span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">&#9654;</span><span class="dir-name" onclick="toggleDirectory(\'{dir_id}\')"> {name}/</span><div id="{dir_id}" class="dir-content collapsed">'
+			html += f'{indent}<span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">&#9656;</span><span class="dir-name" onclick="toggleDirectory(\'{dir_id}\')"> {name}/</span><div id="{dir_id}" class="dir-content collapsed">'
 			html += generate_html_tree(content, f"{base_path}/{name}" if base_path else name, level + 1)
 			html += f'</div>\n'
 
@@ -212,6 +212,8 @@ def update_index_html():
 			color: #1db954;
 			font-weight: bold;
 			padding-right: 0.2rem;
+			font-size: 1.2rem;
+    		line-height: normal;
 		}}
 		.dir-toggle:hover {{
 			color: #1ed760;
@@ -236,7 +238,7 @@ def update_index_html():
 	</style>
 </head>
 <body>
-	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;">Refresh</a>
+	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
 	<h1>Musiquiz Collections</h1>
 	<p class="updated">{timestamp}</p>
 	<div class="directory"><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
@@ -248,12 +250,12 @@ def update_index_html():
 			if (element.classList.contains('collapsed')) {{
 				element.classList.remove('collapsed');
 				element.classList.add('expanded');
-				toggle.textContent = '\u25bc';
+				toggle.textContent = '\u25be';
 				localStorage.setItem(dirId, 'expanded');
 			}} else {{
 				element.classList.remove('expanded');
 				element.classList.add('collapsed');
-				toggle.textContent = '\u25b6';
+				toggle.textContent = '\u25b8';
 				localStorage.removeItem(dirId);
 			}}
 		}}
@@ -274,13 +276,13 @@ def update_index_html():
 					// Expand all
 					content.classList.remove('collapsed');
 					content.classList.add('expanded');
-					if (toggle) toggle.textContent = '\u25bc';
+					if (toggle) toggle.textContent = '\u25be';
 					localStorage.setItem(dirId, 'expanded');
 				}} else {{
 					// Collapse all
 					content.classList.remove('expanded');
 					content.classList.add('collapsed');
-					if (toggle) toggle.textContent = '\u25b6';
+					if (toggle) toggle.textContent = '\u25b8';
 					localStorage.removeItem(dirId);
 				}}
 			}});
@@ -309,7 +311,7 @@ def update_index_html():
 							element.classList.add('expanded');
 							const toggle = element.previousElementSibling.previousElementSibling;
 							if (toggle) {{
-								toggle.textContent = '\u25bc';
+								toggle.textContent = '\u25be';
 							}}
 						}}
 					}});
