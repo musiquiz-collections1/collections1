@@ -170,6 +170,7 @@ def update_index_html():
 		h1 {{
 			font-size: 3rem;
 			color: #1db954;
+			margin-top: 1rem;
 		}}
 		p {{
 			font-size: 1.2rem;
