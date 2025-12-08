@@ -3850,6 +3850,14 @@
 						[
 							false,
 							"Terry Time"
+						],
+						[
+							true,
+							"Lol Time"
+						],
+						[
+							false,
+							"Time"
 						]
 					],
 					"sources": [
@@ -4256,10 +4264,6 @@
 						[
 							false,
 							"You've Got a Friend in Me",
-							"You Have Got a Friend in Me"
-						],
-						[
-							true,
 							"You Have Got a Friend in Me"
 						]
 					],
