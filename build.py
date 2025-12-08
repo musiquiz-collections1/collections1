@@ -80,15 +80,15 @@ def generate_html_tree(structure, base_path="", level=0):
     html = ""
     indent = "  " * level if level > 0 else ""  # Only indent for subdirectories
 
-    # Sort items: directories first, then files (by name then extension)
+    # Sort items: directories first, then files (by extension then filename)
     def sort_key(item):
         name, content = item
         if content is None:  # It's a file
             # Split filename and extension
             name_part, ext_part = os.path.splitext(name.lower())
-            return (1, name_part, ext_part)  # Files come after directories (1), sorted by name then extension
+            return (1, ext_part, name_part)  # Files come after directories (1), sorted by extension then filename
         else:  # It's a directory
-            return (0, name.lower(), "")  # Directories come first (0)
+            return (0, "", name.lower())  # Directories come first (0)
 
     sorted_items = sorted(structure.items(), key=sort_key)
 
