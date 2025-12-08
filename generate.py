@@ -40,6 +40,7 @@ def load_collections():
             collection.setdefault("disabledLifelines", [])
             collection.setdefault("sourceName", None)
             collection.setdefault("author", None)
+            collection.setdefault("covers", [])
             # Migrate old guessSongOnly to gameStyle
             if "guessSongOnly" in collection:
                 collection["gameStyle"] = 3 if collection["guessSongOnly"] else 1
@@ -56,7 +57,7 @@ def load_collections():
                 song.setdefault("startTime", None)
                 song.setdefault("year", None)
             # Reorder collection keys to ensure "songs" is last
-            reordered = dict((k, collection[k]) for k in ["id", "title", "description", "difficulty", "rounds", "gameStyle", "disabledLifelines", "sourceName", "author", "songs"])
+            reordered = dict((k, collection[k]) for k in ["id", "title", "description", "difficulty", "gameStyle", "disabledLifelines", "sourceName", "author", "covers", "songs"])
             data["collections"][i] = reordered
         return data.get("collections", [])
     return []
@@ -93,11 +94,11 @@ def main():
                 "title": None,
                 "description": None,
                 "difficulty": None,
-                "rounds": len(songs),
                 "gameStyle": 1,
                 "disabledLifelines": [],
                 "sourceName": None,
                 "author": None,
+                "covers": [],
                 "songs": songs
             }
             if folder in existing:
