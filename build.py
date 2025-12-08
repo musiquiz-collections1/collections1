@@ -122,10 +122,21 @@ def update_index_html():
 	# Generate HTML tree
 	tree_html = generate_html_tree(structure)
 
-	# Use placeholder timestamp - will be replaced by commit script
-	timestamp = "TIMESTAMP_PLACEHOLDER"
-
 	index_path = script_dir / "index.html"
+
+	# Read existing timestamp from current index.html if it exists
+	timestamp = "TIMESTAMP_PLACEHOLDER"
+	if index_path.exists():
+		import re
+		try:
+			with open(index_path, 'r', encoding='utf-8') as f:
+				content = f.read()
+				# Extract timestamp from <p class="updated"> tag
+				match = re.search(r'<p class="updated">(.*?)</p>', content)
+				if match:
+					timestamp = match.group(1)
+		except:
+			pass  # Fall back to placeholder if reading fails
 
 	# Create the complete HTML content from scratch
 	html_content = f'''<!DOCTYPE html>
