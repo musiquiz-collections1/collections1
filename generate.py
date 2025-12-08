@@ -29,8 +29,16 @@ def load_collections():
         for i, collection in enumerate(data.get("collections", [])):
             for song in collection.get("songs", []):
                 if "title" in song and "titles" not in song:
-                    song["titles"] = [[True, song["title"]]]
+                    song["titles"] = [True, song["title"]]
                     del song["title"]
+                # Migrate titles to new flat format
+                if "titles" in song and song["titles"]:
+                    if isinstance(song["titles"][0], list):
+                        # Old nested: [[bool, str1, str2]] -> [bool, str1, str2]
+                        song["titles"] = song["titles"][0]
+                    elif not isinstance(song["titles"][0], bool):
+                        # Old strings: ["str1", "str2"] -> [True, "str1", "str2"]
+                        song["titles"] = [True] + song["titles"]
             # Set defaults for collection fields
             collection.setdefault("title", None)
             collection.setdefault("description", None)
@@ -80,7 +88,7 @@ def main():
                 fpath = os.path.join(root, fname)
                 meta = get_metadata(fpath)
                 songs.append({
-                    "titles": [[True, meta["title"]]] if meta["title"] else [],
+                    "titles": [True, meta["title"]] if meta["title"] else [],
                     "sources": [[True, artist] for artist in meta["artists"]],
                     "audioFile": fpath.replace("\\", "/"),
                     "startTime": None,
