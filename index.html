@@ -55,6 +55,21 @@
 			line-height: 1.4;
 			white-space: pre-wrap;
 		}
+		.expand-collapse-all {
+			display: block;
+			margin: 0 auto 1rem auto;
+			padding: 0.5rem 1rem;
+			background: #1db954;
+			color: white;
+			border: none;
+			border-radius: 4px;
+			cursor: pointer;
+			font-size: 0.9rem;
+			transition: background-color 0.2s;
+		}
+		.expand-collapse-all:hover {
+			background: #1ed760;
+		}
 		.dir-toggle {
 			cursor: pointer;
 			color: #1db954;
@@ -85,9 +100,10 @@
 </head>
 <body>
 	<h1>Musiquiz Collections</h1>
-	<p class="updated">2025-12-08 16:34:18</p>
+	<p class="updated">2025-12-08 16:41:35</p>
 	<a href="" style="margin-top: 0.5rem; font-size: 1.5em;">Refresh</a>
 	<div class="directory">
+	<button class="expand-collapse-all" onclick="toggleAllDirectories()">Expand All</button>
 <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar')">▶</span> <span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar')">best-of-pixar/</span>
   <div id="dir_best_of_pixar" class="dir-content collapsed">
   <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_A_Bugs_Life')">▶</span> <span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_A_Bugs_Life')">A Bugs Life/</span>
@@ -436,6 +452,106 @@
 				localStorage.removeItem(dirId);
 			}
 		}
+
+		function toggleAllDirectories() {
+			const button = document.querySelector('.expand-collapse-all');
+			const isExpanding = button.textContent === 'Expand All';
+			
+			// Get all directory content divs
+			const dirContents = document.querySelectorAll('.dir-content');
+			const dirToggles = document.querySelectorAll('.dir-toggle');
+			
+			dirContents.forEach((content, index) => {
+				const toggle = dirToggles[index];
+				const dirId = content.id;
+				
+				if (isExpanding) {
+					// Expand all
+					content.classList.remove('collapsed');
+					content.classList.add('expanded');
+					if (toggle) toggle.textContent = '▼';
+					localStorage.setItem(dirId, 'expanded');
+				} else {
+					// Collapse all
+					content.classList.remove('expanded');
+					content.classList.add('collapsed');
+					if (toggle) toggle.textContent = '▶';
+					localStorage.removeItem(dirId);
+				}
+			});
+			
+			// Update button text
+			button.textContent = isExpanding ? 'Collapse All' : 'Expand All';
+		}
+
+		// Restore expanded state on page load while preserving scroll position
+		document.addEventListener('DOMContentLoaded', function() {
+			// Get expanded directories from localStorage
+			const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
+
+			// Restore expanded state
+			expandedDirs.forEach(dirId => {
+				const element = document.getElementById(dirId);
+				if (element) {
+					element.classList.remove('collapsed');
+					element.classList.add('expanded');
+					const toggle = element.previousElementSibling.previousElementSibling;
+					if (toggle) {
+						toggle.textContent = '▼';
+					}
+				}
+			});
+
+			// Update expand/collapse all button text based on current state
+			updateExpandAllButton();
+		});
+
+		// Handle scroll position preservation for browser back/forward navigation
+		window.addEventListener('pageshow', function(event) {
+			// If page was loaded from cache (back/forward navigation)
+			if (event.persisted) {
+				// Wait for browser to finish its scroll restoration, then restore our expanded state
+				setTimeout(() => {
+					// Get expanded directories from localStorage
+					const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
+
+					// Restore expanded state
+					expandedDirs.forEach(dirId => {
+						const element = document.getElementById(dirId);
+						if (element && element.classList.contains('collapsed')) {
+							element.classList.remove('collapsed');
+							element.classList.add('expanded');
+							const toggle = element.previousElementSibling.previousElementSibling;
+							if (toggle) {
+								toggle.textContent = '▼';
+							}
+						}
+					});
+
+					// Update expand/collapse all button
+					updateExpandAllButton();
+				}, 50);
+			}
+		});
+
+		function updateExpandAllButton() {
+			const button = document.querySelector('.expand-collapse-all');
+			const expandedDirs = document.querySelectorAll('.dir-content.expanded');
+			const totalDirs = document.querySelectorAll('.dir-content').length;
+			
+			if (expandedDirs.length === totalDirs) {
+				button.textContent = 'Collapse All';
+			} else {
+				button.textContent = 'Expand All';
+			}
+		}
+
+		// Update button text when individual directories are toggled
+		document.addEventListener('click', function(event) {
+			if (event.target.classList.contains('dir-toggle') || event.target.classList.contains('dir-name')) {
+				setTimeout(updateExpandAllButton, 10);
+			}
+		});
 	</script>
 </body>
 </html>
