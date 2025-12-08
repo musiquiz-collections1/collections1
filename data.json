@@ -2820,7 +2820,7 @@
 			],
 			"sourceName": "Artist",
 			"author": "MusiQuiz",
-			"covers": [ "./celeste/cover.png" ],
+			"covers": [ "./celeste/cover.png","./celeste/cover2.png" ],
 			"songs": [
 				{
 					"titles": [
