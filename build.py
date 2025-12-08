@@ -105,7 +105,7 @@ def generate_html_tree(structure, base_path="", level=0):
 			# It's a directory
 			dir_id = f"dir_{base_path.replace('/', '_')}_{name}" if base_path else f"dir_{name}"
 			dir_id = dir_id.replace(' ', '_').replace('-', '_')
-			html += f'{indent}<span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">▶</span><span class="dir-name" onclick="toggleDirectory(\'{dir_id}\')"> {name}/</span><div id="{dir_id}" class="dir-content collapsed">'
+			html += f'{indent}<span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">&#9654;</span><span class="dir-name" onclick="toggleDirectory(\'{dir_id}\')"> {name}/</span><div id="{dir_id}" class="dir-content collapsed">'
 			html += generate_html_tree(content, f"{base_path}/{name}" if base_path else name, level + 1)
 			html += f'</div>\n'
 
@@ -248,12 +248,12 @@ def update_index_html():
 			if (element.classList.contains('collapsed')) {{
 				element.classList.remove('collapsed');
 				element.classList.add('expanded');
-				toggle.textContent = '▼';
+				toggle.textContent = '\u25bc';
 				localStorage.setItem(dirId, 'expanded');
 			}} else {{
 				element.classList.remove('expanded');
 				element.classList.add('collapsed');
-				toggle.textContent = '▶';
+				toggle.textContent = '\u25b6';
 				localStorage.removeItem(dirId);
 			}}
 		}}
@@ -274,13 +274,13 @@ def update_index_html():
 					// Expand all
 					content.classList.remove('collapsed');
 					content.classList.add('expanded');
-					if (toggle) toggle.textContent = '▼';
+					if (toggle) toggle.textContent = '\u25bc';
 					localStorage.setItem(dirId, 'expanded');
 				}} else {{
 					// Collapse all
 					content.classList.remove('expanded');
 					content.classList.add('collapsed');
-					if (toggle) toggle.textContent = '▶';
+					if (toggle) toggle.textContent = '\u25b6';
 					localStorage.removeItem(dirId);
 				}}
 			}});
@@ -309,7 +309,7 @@ def update_index_html():
 							element.classList.add('expanded');
 							const toggle = element.previousElementSibling.previousElementSibling;
 							if (toggle) {{
-								toggle.textContent = '▼';
+								toggle.textContent = '\u25bc';
 							}}
 						}}
 					}});
