@@ -187,7 +187,7 @@ def update_index_html():
 		}}
 		.expand-collapse-all {{
 			display: block;
-			margin: 0 auto 1rem auto;
+			margin: 0.5rem auto 1rem auto;
 			padding: 0.5rem 1rem;
 			background: #1db954;
 			color: white;
@@ -232,9 +232,7 @@ def update_index_html():
 	<h1>Musiquiz Collections</h1>
 	<p class="updated">{timestamp}</p>
 	<a href="" style="margin-top: 0.5rem; font-size: 1.5em;">Refresh</a>
-	<div class="directory">
-	<button class="expand-collapse-all" onclick="toggleAllDirectories()">Expand All</button>
-{tree_html}\t</div>
+	<div class="directory"><button class="expand-collapse-all" onclick="toggleAllDirectories()">Expand All</button>{tree_html}\t</div>
 	<script>
 		function toggleDirectory(dirId) {{
 			const element = document.getElementById(dirId);
