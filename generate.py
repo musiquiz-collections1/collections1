@@ -53,7 +53,7 @@ def load_collections():
                 song.setdefault("sources", [])
                 song.setdefault("titles", [])
                 song.setdefault("audioFile", "")
-                song.setdefault("startTime", 0)
+                song.setdefault("startTime", None)
                 song.setdefault("year", None)
             # Reorder collection keys to ensure "songs" is last
             reordered = dict((k, collection[k]) for k in ["id", "title", "description", "difficulty", "rounds", "gameStyle", "disabledLifelines", "sourceName", "author", "songs"])
@@ -83,7 +83,7 @@ def main():
                     "titles": [meta["title"]] if meta["title"] else [],
                     "sources": [[True, artist] for artist in meta["artists"]],
                     "audioFile": fpath.replace("\\", "/"),
-                    "startTime": 0,
+                    "startTime": None,
                     "year": meta["year"]
                 })
         if songs:  # Only add if there are songs
