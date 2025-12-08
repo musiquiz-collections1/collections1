@@ -233,50 +233,6 @@ def update_index_html():
 				localStorage.removeItem(dirId);
 			}}
 		}}
-
-		// Restore expanded state on page load while preserving scroll position
-		document.addEventListener('DOMContentLoaded', function() {{
-			// Get expanded directories from localStorage
-			const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
-
-			// Restore expanded state
-			expandedDirs.forEach(dirId => {{
-				const element = document.getElementById(dirId);
-				if (element) {{
-					element.classList.remove('collapsed');
-					element.classList.add('expanded');
-					const toggle = element.previousElementSibling.previousElementSibling;
-					if (toggle) {{
-						toggle.textContent = '▼';
-					}}
-				}}
-			}});
-		}});
-
-		// Handle scroll position preservation for browser back/forward navigation
-		window.addEventListener('pageshow', function(event) {{
-			// If page was loaded from cache (back/forward navigation)
-			if (event.persisted) {{
-				// Wait for browser to finish its scroll restoration, then restore our expanded state
-				setTimeout(() => {{
-					// Get expanded directories from localStorage
-					const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
-
-					// Restore expanded state
-					expandedDirs.forEach(dirId => {{
-						const element = document.getElementById(dirId);
-						if (element && element.classList.contains('collapsed')) {{
-							element.classList.remove('collapsed');
-							element.classList.add('expanded');
-							const toggle = element.previousElementSibling.previousElementSibling;
-							if (toggle) {{
-								toggle.textContent = '▼';
-							}}
-						}}
-					}});
-				}}, 50);
-			}}
-		}});
 	</script>
 </body>
 </html>'''

@@ -85,7 +85,7 @@
 </head>
 <body>
     <h1>Musiquiz Collections</h1>
-    <p class="updated">2025-12-08 16:11:30</p>
+    <p class="updated">2025-12-08 16:13:47</p>
 	<div class="directory">
 <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar')">▶</span> <span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar')">best-of-pixar/</span>
   <div id="dir_best_of_pixar" class="dir-content collapsed">
@@ -416,9 +416,9 @@
 <a href=".gitignore">.gitignore</a>
 <a href=".htaccess">.htaccess</a>
 <a href="_headers">_headers</a>
+<a href="build.py">build.py</a>
 <a href="data.json">data.json</a>
 <a href="generate.py">generate.py</a>
-<a href="generate_directory.py">generate_directory.py</a>
 <a href="index.html">index.html</a>
 	</div>
 	<a href="" style="margin-top: 0.5rem; font-size: 1.5em;">Refresh</a>
@@ -439,50 +439,6 @@
 				localStorage.removeItem(dirId);
 			}
 		}
-
-		// Restore expanded state on page load while preserving scroll position
-		document.addEventListener('DOMContentLoaded', function() {
-			// Get expanded directories from localStorage
-			const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
-
-			// Restore expanded state
-			expandedDirs.forEach(dirId => {
-				const element = document.getElementById(dirId);
-				if (element) {
-					element.classList.remove('collapsed');
-					element.classList.add('expanded');
-					const toggle = element.previousElementSibling.previousElementSibling;
-					if (toggle) {
-						toggle.textContent = '▼';
-					}
-				}
-			});
-		});
-
-		// Handle scroll position preservation for browser back/forward navigation
-		window.addEventListener('pageshow', function(event) {
-			// If page was loaded from cache (back/forward navigation)
-			if (event.persisted) {
-				// Wait for browser to finish its scroll restoration, then restore our expanded state
-				setTimeout(() => {
-					// Get expanded directories from localStorage
-					const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
-
-					// Restore expanded state
-					expandedDirs.forEach(dirId => {
-						const element = document.getElementById(dirId);
-						if (element && element.classList.contains('collapsed')) {
-							element.classList.remove('collapsed');
-							element.classList.add('expanded');
-							const toggle = element.previousElementSibling.previousElementSibling;
-							if (toggle) {
-								toggle.textContent = '▼';
-							}
-						}
-					});
-				}, 50);
-			}
-		});
 	</script>
 </body>
 </html>
