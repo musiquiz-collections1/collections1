@@ -2,7 +2,7 @@
 	"collections": [
 		{
 			"id": "billboard-top-1960",
-			"title": "Billboard Hot 100 Top Songs (1960s)",
+			"title": "Top 'Billboard Hot 100' Songs (1960s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 1960-1969, all songs released within the same period.",
 			"difficulty": "Hard",
 			"rounds": 10,
@@ -439,7 +439,7 @@
 		},
 		{
 			"id": "billboard-top-1970",
-			"title": "Billboard Hot 100 Top Songs (1970s)",
+			"title": "Top 'Billboard Hot 100' Songs (1970s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 1970-1979, all songs released within the same period.",
 			"difficulty": "Hard",
 			"rounds": 10,
@@ -896,7 +896,7 @@
 		},
 		{
 			"id": "billboard-top-1980",
-			"title": "Billboard Hot 100 Top Songs (1980s)",
+			"title": "Top 'Billboard Hot 100' Songs (1980s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 1980-1989, all songs released within the same period.",
 			"difficulty": "Hard",
 			"rounds": 10,
@@ -1357,7 +1357,7 @@
 		},
 		{
 			"id": "billboard-top-1990",
-			"title": "Billboard Hot 100 Top Songs (1990s)",
+			"title": "Top 'Billboard Hot 100' Songs (1990s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 1990-1999, all songs released within the same period.",
 			"difficulty": "Hard",
 			"rounds": 10,
@@ -1814,7 +1814,7 @@
 		},
 		{
 			"id": "billboard-top-2000",
-			"title": "Billboard Hot 100 Top Songs (2000s)",
+			"title": "Top 'Billboard Hot 100' Songs (2000s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 2000-2009, all songs released within the same period.",
 			"difficulty": "Hard",
 			"rounds": 10,
@@ -2279,7 +2279,7 @@
 		},
 		{
 			"id": "billboard-top-2010",
-			"title": "Billboard Hot 100 Top Songs (2010s)",
+			"title": "Top 'Billboard Hot 100' Songs (2010s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 2010-2019, all songs released within the same period.",
 			"difficulty": "Hard",
 			"rounds": 10,
