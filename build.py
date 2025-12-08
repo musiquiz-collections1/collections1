@@ -360,6 +360,9 @@ def update_index_html():
 		}}
 
 	</script>
+	<script>
+		if (window.location.href.includes("https://")) {{ document.head.innerHTML = document.head.innerHTML + "<base href='./musiquiz/' />"; }}
+	</script>
 </body>
 </html>'''
 
