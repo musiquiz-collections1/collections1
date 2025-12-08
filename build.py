@@ -237,9 +237,9 @@ def update_index_html():
 	</style>
 </head>
 <body>
+	<a href="" style="margin-top: 0.5rem; font-size: 1.5em; position: absolute; top: 0.5rem; left: 1rem;">Refresh</a>
 	<h1>Musiquiz Collections</h1>
 	<p class="updated">{timestamp}</p>
-	<a href="" style="margin-top: 0.5rem; font-size: 1.5em;">Refresh</a>
 	<div class="directory"><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
 	<script>
 		function toggleDirectory(dirId) {{
