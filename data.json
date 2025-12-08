@@ -9,7 +9,9 @@
 			"disabledLifelines": [],
 			"sourceName": "Artist",
 			"author": "MusiQuiz",
-			"covers": [ "./billboard-top-1960/cover.png" ],
+			"covers": [
+				"./billboard-top-1960/cover.png"
+			],
 			"songs": [
 				{
 					"titles": [
@@ -435,8 +437,7 @@
 					"startTime": null,
 					"year": 1960
 				}
-			],
-			"rounds": 30
+			]
 		},
 		{
 			"id": "billboard-top-1970",
@@ -447,7 +448,9 @@
 			"disabledLifelines": [],
 			"sourceName": "Artist",
 			"author": "MusiQuiz",
-			"covers": [ "./billboard-top-1970/cover.png" ],
+			"covers": [
+				"./billboard-top-1970/cover.png"
+			],
 			"songs": [
 				{
 					"titles": [
@@ -893,8 +896,7 @@
 					"startTime": null,
 					"year": 1970
 				}
-			],
-			"rounds": 30
+			]
 		},
 		{
 			"id": "billboard-top-1980",
@@ -905,7 +907,9 @@
 			"disabledLifelines": [],
 			"sourceName": "Artist",
 			"author": "MusiQuiz",
-			"covers": [ "./billboard-top-1980/cover.png" ],
+			"covers": [
+				"./billboard-top-1980/cover.png"
+			],
 			"songs": [
 				{
 					"titles": [
@@ -1355,8 +1359,7 @@
 					"startTime": null,
 					"year": 1980
 				}
-			],
-			"rounds": 30
+			]
 		},
 		{
 			"id": "billboard-top-1990",
@@ -1367,7 +1370,9 @@
 			"disabledLifelines": [],
 			"sourceName": "Artist",
 			"author": "MusiQuiz",
-			"covers": [ "./billboard-top-1990/cover.png" ],
+			"covers": [
+				"./billboard-top-1990/cover.png"
+			],
 			"songs": [
 				{
 					"titles": [
@@ -1813,8 +1818,7 @@
 					"startTime": null,
 					"year": 1990
 				}
-			],
-			"rounds": 30
+			]
 		},
 		{
 			"id": "billboard-top-2000",
@@ -1825,7 +1829,9 @@
 			"disabledLifelines": [],
 			"sourceName": "Artist",
 			"author": "MusiQuiz",
-			"covers": [ "./billboard-top-2000/cover.png" ],
+			"covers": [
+				"./billboard-top-2000/cover.png"
+			],
 			"songs": [
 				{
 					"titles": [
@@ -2279,8 +2285,7 @@
 					"startTime": null,
 					"year": 2000
 				}
-			],
-			"rounds": 30
+			]
 		},
 		{
 			"id": "billboard-top-2010",
@@ -2291,7 +2296,9 @@
 			"disabledLifelines": [],
 			"sourceName": "Artist",
 			"author": "MusiQuiz",
-			"covers": [ "./billboard-top-2010/cover.png" ],
+			"covers": [
+				"./billboard-top-2010/cover.png"
+			],
 			"songs": [
 				{
 					"titles": [
@@ -2800,8 +2807,7 @@
 					"startTime": null,
 					"year": 2010
 				}
-			],
-			"rounds": 30
+			]
 		},
 		{
 			"id": "celeste",
@@ -3124,8 +3130,7 @@
 					"startTime": null,
 					"year": 2018
 				}
-			],
-			"rounds": 22
+			]
 		},
 		{
 			"id": "best-of-pixar",
@@ -3558,8 +3563,7 @@
 					"startTime": null,
 					"year": 1995
 				}
-			],
-			"rounds": 29
+			]
 		}
 	]
 }

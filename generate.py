@@ -35,7 +35,6 @@ def load_collections():
             collection.setdefault("title", None)
             collection.setdefault("description", None)
             collection.setdefault("difficulty", None)
-            collection.setdefault("rounds", None)
             collection.setdefault("gameStyle", 1)
             collection.setdefault("disabledLifelines", [])
             collection.setdefault("sourceName", None)
@@ -109,11 +108,11 @@ def main():
                         collection_data["title"] = c.get("title")
                         collection_data["description"] = c.get("description")
                         collection_data["difficulty"] = c.get("difficulty")
-                        collection_data["rounds"] = c.get("rounds", len(songs))
                         collection_data["gameStyle"] = c.get("gameStyle", 1)
                         collection_data["disabledLifelines"] = c.get("disabledLifelines", [])
                         collection_data["sourceName"] = c.get("sourceName")
                         collection_data["author"] = c.get("author")
+                        collection_data["covers"] = c.get("covers", [])
                         # Merge songs: keep existing and add new ones not already present
                         existing_songs = c["songs"]
                         for new_song in songs:
