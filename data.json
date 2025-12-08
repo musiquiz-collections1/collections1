@@ -15,7 +15,10 @@
 			"songs": [
 				{
 					"titles": [
-						"Aquarius/Let the Sunshine In (The Flesh Failures)"
+						[
+							true,
+							"Aquarius/Let the Sunshine In (The Flesh Failures)"
+						]
 					],
 					"sources": [
 						[
@@ -29,7 +32,10 @@
 				},
 				{
 					"titles": [
-						"I Can't Get Next To You"
+						[
+							true,
+							"I Can't Get Next To You"
+						]
 					],
 					"sources": [
 						[
@@ -43,7 +49,10 @@
 				},
 				{
 					"titles": [
-						"Sugar Sugar"
+						[
+							true,
+							"Sugar Sugar"
+						]
 					],
 					"sources": [
 						[
@@ -57,7 +66,10 @@
 				},
 				{
 					"titles": [
-						"Hey Jude"
+						[
+							true,
+							"Hey Jude"
+						]
 					],
 					"sources": [
 						[
@@ -71,7 +83,10 @@
 				},
 				{
 					"titles": [
-						"Honey"
+						[
+							true,
+							"Honey"
+						]
 					],
 					"sources": [
 						[
@@ -85,7 +100,10 @@
 				},
 				{
 					"titles": [
-						"Love Is Blue"
+						[
+							true,
+							"Love Is Blue"
+						]
 					],
 					"sources": [
 						[
@@ -99,7 +117,10 @@
 				},
 				{
 					"titles": [
-						"Ode To Billie Joe"
+						[
+							true,
+							"Ode To Billie Joe"
+						]
 					],
 					"sources": [
 						[
@@ -113,7 +134,10 @@
 				},
 				{
 					"titles": [
-						"The Letter"
+						[
+							true,
+							"The Letter"
+						]
 					],
 					"sources": [
 						[
@@ -127,7 +151,10 @@
 				},
 				{
 					"titles": [
-						"To Sir With Love"
+						[
+							true,
+							"To Sir With Love"
+						]
 					],
 					"sources": [
 						[
@@ -141,7 +168,10 @@
 				},
 				{
 					"titles": [
-						"Windy"
+						[
+							true,
+							"Windy"
+						]
 					],
 					"sources": [
 						[
@@ -155,7 +185,10 @@
 				},
 				{
 					"titles": [
-						"96 Tears"
+						[
+							true,
+							"96 Tears"
+						]
 					],
 					"sources": [
 						[
@@ -169,7 +202,10 @@
 				},
 				{
 					"titles": [
-						"What Becomes Of The Brokenhearted"
+						[
+							true,
+							"What Becomes Of The Brokenhearted"
+						]
 					],
 					"sources": [
 						[
@@ -183,7 +219,10 @@
 				},
 				{
 					"titles": [
-						"(I Can't Get No) Satisfaction"
+						[
+							true,
+							"(I Can't Get No) Satisfaction"
+						]
 					],
 					"sources": [
 						[
@@ -197,7 +236,10 @@
 				},
 				{
 					"titles": [
-						"California Dreamin'"
+						[
+							true,
+							"California Dreamin'"
+						]
 					],
 					"sources": [
 						[
@@ -211,7 +253,10 @@
 				},
 				{
 					"titles": [
-						"I Can't Help Myself (Sugar Pie, Honey Bunch)"
+						[
+							true,
+							"I Can't Help Myself (Sugar Pie, Honey Bunch)"
+						]
 					],
 					"sources": [
 						[
@@ -225,7 +270,10 @@
 				},
 				{
 					"titles": [
-						"Wooly Bully"
+						[
+							true,
+							"Wooly Bully"
+						]
 					],
 					"sources": [
 						[
@@ -239,7 +287,10 @@
 				},
 				{
 					"titles": [
-						"You Were On My Mind"
+						[
+							true,
+							"You Were On My Mind"
+						]
 					],
 					"sources": [
 						[
@@ -253,7 +304,10 @@
 				},
 				{
 					"titles": [
-						"Hello, Dolly!"
+						[
+							true,
+							"Hello, Dolly!"
+						]
 					],
 					"sources": [
 						[
@@ -267,7 +321,10 @@
 				},
 				{
 					"titles": [
-						"Oh, Pretty Woman"
+						[
+							true,
+							"Oh, Pretty Woman"
+						]
 					],
 					"sources": [
 						[
@@ -281,7 +338,10 @@
 				},
 				{
 					"titles": [
-						"You've Lost That Lovin' Feelin'"
+						[
+							true,
+							"You've Lost That Lovin' Feelin'"
+						]
 					],
 					"sources": [
 						[
@@ -295,7 +355,10 @@
 				},
 				{
 					"titles": [
-						"I Want To Hold Your Hand"
+						[
+							true,
+							"I Want To Hold Your Hand"
+						]
 					],
 					"sources": [
 						[
@@ -309,7 +372,10 @@
 				},
 				{
 					"titles": [
-						"Surfin' U.S.A."
+						[
+							true,
+							"Surfin' U.S.A."
+						]
 					],
 					"sources": [
 						[
@@ -323,7 +389,10 @@
 				},
 				{
 					"titles": [
-						"Mashed Potato Time"
+						[
+							true,
+							"Mashed Potato Time"
+						]
 					],
 					"sources": [
 						[
@@ -337,7 +406,10 @@
 				},
 				{
 					"titles": [
-						"Rhythm of the Rain"
+						[
+							true,
+							"Rhythm of the Rain"
+						]
 					],
 					"sources": [
 						[
@@ -351,7 +423,10 @@
 				},
 				{
 					"titles": [
-						"The End of the World"
+						[
+							true,
+							"The End of the World"
+						]
 					],
 					"sources": [
 						[
@@ -365,7 +440,10 @@
 				},
 				{
 					"titles": [
-						"I Fall To Pieces"
+						[
+							true,
+							"I Fall To Pieces"
+						]
 					],
 					"sources": [
 						[
@@ -383,7 +461,10 @@
 				},
 				{
 					"titles": [
-						"Stranger on the Shore"
+						[
+							true,
+							"Stranger on the Shore"
+						]
 					],
 					"sources": [
 						[
@@ -397,7 +478,10 @@
 				},
 				{
 					"titles": [
-						"Tossin' and Turnin'"
+						[
+							true,
+							"Tossin' and Turnin'"
+						]
 					],
 					"sources": [
 						[
@@ -411,7 +495,10 @@
 				},
 				{
 					"titles": [
-						"Cathy's Clown"
+						[
+							true,
+							"Cathy's Clown"
+						]
 					],
 					"sources": [
 						[
@@ -425,7 +512,10 @@
 				},
 				{
 					"titles": [
-						"Michael, Row the Boat Ashore"
+						[
+							true,
+							"Michael, Row the Boat Ashore"
+						]
 					],
 					"sources": [
 						[
@@ -454,7 +544,10 @@
 			"songs": [
 				{
 					"titles": [
-						"Bad Girls"
+						[
+							true,
+							"Bad Girls"
+						]
 					],
 					"sources": [
 						[
@@ -468,7 +561,10 @@
 				},
 				{
 					"titles": [
-						"My Sharona"
+						[
+							true,
+							"My Sharona"
+						]
 					],
 					"sources": [
 						[
@@ -482,7 +578,10 @@
 				},
 				{
 					"titles": [
-						"Le Freak"
+						[
+							true,
+							"Le Freak"
+						]
 					],
 					"sources": [
 						[
@@ -496,7 +595,10 @@
 				},
 				{
 					"titles": [
-						"Night Fever"
+						[
+							true,
+							"Night Fever"
+						]
 					],
 					"sources": [
 						[
@@ -510,7 +612,10 @@
 				},
 				{
 					"titles": [
-						"Shadow Dancing"
+						[
+							true,
+							"Shadow Dancing"
+						]
 					],
 					"sources": [
 						[
@@ -524,7 +629,10 @@
 				},
 				{
 					"titles": [
-						"Best of My Love"
+						[
+							true,
+							"Best of My Love"
+						]
 					],
 					"sources": [
 						[
@@ -538,7 +646,10 @@
 				},
 				{
 					"titles": [
-						"I Just Want To Be Your Everything"
+						[
+							true,
+							"I Just Want To Be Your Everything"
+						]
 					],
 					"sources": [
 						[
@@ -552,7 +663,10 @@
 				},
 				{
 					"titles": [
-						"You Light Up My Life"
+						[
+							true,
+							"You Light Up My Life"
+						]
 					],
 					"sources": [
 						[
@@ -566,7 +680,10 @@
 				},
 				{
 					"titles": [
-						"Disco Lady"
+						[
+							true,
+							"Disco Lady"
+						]
 					],
 					"sources": [
 						[
@@ -580,7 +697,10 @@
 				},
 				{
 					"titles": [
-						"Don't Go Breaking My Heart"
+						[
+							true,
+							"Don't Go Breaking My Heart"
+						]
 					],
 					"sources": [
 						[
@@ -598,7 +718,10 @@
 				},
 				{
 					"titles": [
-						"Silly Love Songs"
+						[
+							true,
+							"Silly Love Songs"
+						]
 					],
 					"sources": [
 						[
@@ -612,7 +735,10 @@
 				},
 				{
 					"titles": [
-						"Tonight's the Night (Gonna Be Alright)"
+						[
+							true,
+							"Tonight's the Night (Gonna Be Alright)"
+						]
 					],
 					"sources": [
 						[
@@ -626,7 +752,10 @@
 				},
 				{
 					"titles": [
-						"Philadelphia Freedom"
+						[
+							true,
+							"Philadelphia Freedom"
+						]
 					],
 					"sources": [
 						[
@@ -640,7 +769,10 @@
 				},
 				{
 					"titles": [
-						"Rhinestone Cowboy"
+						[
+							true,
+							"Rhinestone Cowboy"
+						]
 					],
 					"sources": [
 						[
@@ -654,7 +786,10 @@
 				},
 				{
 					"titles": [
-						"Bad Bad, Leroy Brown"
+						[
+							true,
+							"Bad Bad, Leroy Brown"
+						]
 					],
 					"sources": [
 						[
@@ -668,7 +803,10 @@
 				},
 				{
 					"titles": [
-						"Let's Get It On"
+						[
+							true,
+							"Let's Get It On"
+						]
 					],
 					"sources": [
 						[
@@ -682,7 +820,10 @@
 				},
 				{
 					"titles": [
-						"Love Will Keep Us Together"
+						[
+							true,
+							"Love Will Keep Us Together"
+						]
 					],
 					"sources": [
 						[
@@ -696,7 +837,10 @@
 				},
 				{
 					"titles": [
-						"Love's Theme"
+						[
+							true,
+							"Love's Theme"
+						]
 					],
 					"sources": [
 						[
@@ -710,7 +854,10 @@
 				},
 				{
 					"titles": [
-						"The Way We Were"
+						[
+							true,
+							"The Way We Were"
+						]
 					],
 					"sources": [
 						[
@@ -724,7 +871,10 @@
 				},
 				{
 					"titles": [
-						"Tie a Yellow Ribbon Round the Ole Oak Tree"
+						[
+							true,
+							"Tie a Yellow Ribbon Round the Ole Oak Tree"
+						]
 					],
 					"sources": [
 						[
@@ -742,7 +892,10 @@
 				},
 				{
 					"titles": [
-						"Alone Again (Naturally)"
+						[
+							true,
+							"Alone Again (Naturally)"
+						]
 					],
 					"sources": [
 						[
@@ -756,7 +909,10 @@
 				},
 				{
 					"titles": [
-						"Killing Me Softly With His Song"
+						[
+							true,
+							"Killing Me Softly With His Song"
+						]
 					],
 					"sources": [
 						[
@@ -770,7 +926,10 @@
 				},
 				{
 					"titles": [
-						"The First Time Ever I Saw Your Face"
+						[
+							true,
+							"The First Time Ever I Saw Your Face"
+						]
 					],
 					"sources": [
 						[
@@ -784,7 +943,10 @@
 				},
 				{
 					"titles": [
-						"American Pie"
+						[
+							true,
+							"American Pie"
+						]
 					],
 					"sources": [
 						[
@@ -798,7 +960,10 @@
 				},
 				{
 					"titles": [
-						"I Feel the Earth Move"
+						[
+							true,
+							"I Feel the Earth Move"
+						]
 					],
 					"sources": [
 						[
@@ -812,7 +977,10 @@
 				},
 				{
 					"titles": [
-						"Joy To The World"
+						[
+							true,
+							"Joy To The World"
+						]
 					],
 					"sources": [
 						[
@@ -826,7 +994,10 @@
 				},
 				{
 					"titles": [
-						"Maggie May"
+						[
+							true,
+							"Maggie May"
+						]
 					],
 					"sources": [
 						[
@@ -840,7 +1011,10 @@
 				},
 				{
 					"titles": [
-						"(They Long To Be) Close To You"
+						[
+							true,
+							"(They Long To Be) Close To You"
+						]
 					],
 					"sources": [
 						[
@@ -854,7 +1028,10 @@
 				},
 				{
 					"titles": [
-						"American Woman"
+						[
+							true,
+							"American Woman"
+						]
 					],
 					"sources": [
 						[
@@ -884,7 +1061,10 @@
 				},
 				{
 					"titles": [
-						"Bridge Over Troubled Water"
+						[
+							true,
+							"Bridge Over Troubled Water"
+						]
 					],
 					"sources": [
 						[
@@ -913,7 +1093,10 @@
 			"songs": [
 				{
 					"titles": [
-						"Every Rose Has Its Thorn"
+						[
+							true,
+							"Every Rose Has Its Thorn"
+						]
 					],
 					"sources": [
 						[
@@ -927,7 +1110,10 @@
 				},
 				{
 					"titles": [
-						"Look Away"
+						[
+							true,
+							"Look Away"
+						]
 					],
 					"sources": [
 						[
@@ -941,7 +1127,10 @@
 				},
 				{
 					"titles": [
-						"My Prerogative"
+						[
+							true,
+							"My Prerogative"
+						]
 					],
 					"sources": [
 						[
@@ -955,7 +1144,10 @@
 				},
 				{
 					"titles": [
-						"Straight Up"
+						[
+							true,
+							"Straight Up"
+						]
 					],
 					"sources": [
 						[
@@ -969,7 +1161,10 @@
 				},
 				{
 					"titles": [
-						"Faith"
+						[
+							true,
+							"Faith"
+						]
 					],
 					"sources": [
 						[
@@ -983,7 +1178,10 @@
 				},
 				{
 					"titles": [
-						"Need You Tonight"
+						[
+							true,
+							"Need You Tonight"
+						]
 					],
 					"sources": [
 						[
@@ -997,7 +1195,10 @@
 				},
 				{
 					"titles": [
-						"Shake You Down"
+						[
+							true,
+							"Shake You Down"
+						]
 					],
 					"sources": [
 						[
@@ -1011,7 +1212,10 @@
 				},
 				{
 					"titles": [
-						"Walk Like an Egyptian"
+						[
+							true,
+							"Walk Like an Egyptian"
+						]
 					],
 					"sources": [
 						[
@@ -1025,7 +1229,10 @@
 				},
 				{
 					"titles": [
-						"I Miss You"
+						[
+							true,
+							"I Miss You"
+						]
 					],
 					"sources": [
 						[
@@ -1039,7 +1246,10 @@
 				},
 				{
 					"titles": [
-						"Say You, Say Me"
+						[
+							true,
+							"Say You, Say Me"
+						]
 					],
 					"sources": [
 						[
@@ -1053,7 +1263,10 @@
 				},
 				{
 					"titles": [
-						"Careless Whisper"
+						[
+							true,
+							"Careless Whisper"
+						]
 					],
 					"sources": [
 						[
@@ -1067,7 +1280,10 @@
 				},
 				{
 					"titles": [
-						"Footloose"
+						[
+							true,
+							"Footloose"
+						]
 					],
 					"sources": [
 						[
@@ -1081,7 +1297,10 @@
 				},
 				{
 					"titles": [
-						"I Want to Know What Love Is"
+						[
+							true,
+							"I Want to Know What Love Is"
+						]
 					],
 					"sources": [
 						[
@@ -1095,7 +1314,10 @@
 				},
 				{
 					"titles": [
-						"Like a Virgin"
+						[
+							true,
+							"Like a Virgin"
+						]
 					],
 					"sources": [
 						[
@@ -1109,7 +1331,10 @@
 				},
 				{
 					"titles": [
-						"Wake Me Up Before You Go-Go"
+						[
+							true,
+							"Wake Me Up Before You Go-Go"
+						]
 					],
 					"sources": [
 						[
@@ -1123,7 +1348,10 @@
 				},
 				{
 					"titles": [
-						"What's Love Got to Do with It"
+						[
+							true,
+							"What's Love Got to Do with It"
+						]
 					],
 					"sources": [
 						[
@@ -1137,7 +1365,10 @@
 				},
 				{
 					"titles": [
-						"When Doves Cry"
+						[
+							true,
+							"When Doves Cry"
+						]
 					],
 					"sources": [
 						[
@@ -1151,7 +1382,10 @@
 				},
 				{
 					"titles": [
-						"Alone"
+						[
+							true,
+							"Alone"
+						]
 					],
 					"sources": [
 						[
@@ -1165,7 +1399,10 @@
 				},
 				{
 					"titles": [
-						"Billie Jean"
+						[
+							true,
+							"Billie Jean"
+						]
 					],
 					"sources": [
 						[
@@ -1179,7 +1416,10 @@
 				},
 				{
 					"titles": [
-						"Every Breath You Take"
+						[
+							true,
+							"Every Breath You Take"
+						]
 					],
 					"sources": [
 						[
@@ -1193,7 +1433,10 @@
 				},
 				{
 					"titles": [
-						"Flashdance… What A Feeling"
+						[
+							true,
+							"Flashdance… What A Feeling"
+						]
 					],
 					"sources": [
 						[
@@ -1215,7 +1458,10 @@
 				},
 				{
 					"titles": [
-						"Say Say Say"
+						[
+							true,
+							"Say Say Say"
+						]
 					],
 					"sources": [
 						[
@@ -1233,7 +1479,10 @@
 				},
 				{
 					"titles": [
-						"Eye of the Tiger"
+						[
+							true,
+							"Eye of the Tiger"
+						]
 					],
 					"sources": [
 						[
@@ -1247,7 +1496,10 @@
 				},
 				{
 					"titles": [
-						"That's What Friends Are For"
+						[
+							true,
+							"That's What Friends Are For"
+						]
 					],
 					"sources": [
 						[
@@ -1273,7 +1525,10 @@
 				},
 				{
 					"titles": [
-						"Bette Davis Eyes"
+						[
+							true,
+							"Bette Davis Eyes"
+						]
 					],
 					"sources": [
 						[
@@ -1287,7 +1542,10 @@
 				},
 				{
 					"titles": [
-						"Endless Love"
+						[
+							true,
+							"Endless Love"
+						]
 					],
 					"sources": [
 						[
@@ -1305,7 +1563,10 @@
 				},
 				{
 					"titles": [
-						"Physical"
+						[
+							true,
+							"Physical"
+						]
 					],
 					"sources": [
 						[
@@ -1319,7 +1580,10 @@
 				},
 				{
 					"titles": [
-						"Call Me"
+						[
+							true,
+							"Call Me"
+						]
 					],
 					"sources": [
 						[
@@ -1333,7 +1597,10 @@
 				},
 				{
 					"titles": [
-						"Lady"
+						[
+							true,
+							"Lady"
+						]
 					],
 					"sources": [
 						[
@@ -1347,7 +1614,10 @@
 				},
 				{
 					"titles": [
-						"Magic"
+						[
+							true,
+							"Magic"
+						]
 					],
 					"sources": [
 						[
@@ -1376,7 +1646,10 @@
 			"songs": [
 				{
 					"titles": [
-						"No Scrubs"
+						[
+							true,
+							"No Scrubs"
+						]
 					],
 					"sources": [
 						[
@@ -1390,7 +1663,10 @@
 				},
 				{
 					"titles": [
-						"Believe"
+						[
+							true,
+							"Believe"
+						]
 					],
 					"sources": [
 						[
@@ -1404,7 +1680,10 @@
 				},
 				{
 					"titles": [
-						"The Boy Is Mine"
+						[
+							true,
+							"The Boy Is Mine"
+						]
 					],
 					"sources": [
 						[
@@ -1422,7 +1701,10 @@
 				},
 				{
 					"titles": [
-						"Too Close"
+						[
+							true,
+							"Too Close"
+						]
 					],
 					"sources": [
 						[
@@ -1436,7 +1718,10 @@
 				},
 				{
 					"titles": [
-						"You're Still The One"
+						[
+							true,
+							"You're Still The One"
+						]
 					],
 					"sources": [
 						[
@@ -1450,7 +1735,10 @@
 				},
 				{
 					"titles": [
-						"Angel of Mine"
+						[
+							true,
+							"Angel of Mine"
+						]
 					],
 					"sources": [
 						[
@@ -1464,7 +1752,10 @@
 				},
 				{
 					"titles": [
-						"I'll Be Missing You"
+						[
+							true,
+							"I'll Be Missing You"
+						]
 					],
 					"sources": [
 						[
@@ -1486,7 +1777,10 @@
 				},
 				{
 					"titles": [
-						"Because You Loved Me"
+						[
+							true,
+							"Because You Loved Me"
+						]
 					],
 					"sources": [
 						[
@@ -1500,7 +1794,10 @@
 				},
 				{
 					"titles": [
-						"I Believe I Can Fly"
+						[
+							true,
+							"I Believe I Can Fly"
+						]
 					],
 					"sources": [
 						[
@@ -1514,7 +1811,10 @@
 				},
 				{
 					"titles": [
-						"Un-Break My Heart"
+						[
+							true,
+							"Un-Break My Heart"
+						]
 					],
 					"sources": [
 						[
@@ -1528,7 +1828,10 @@
 				},
 				{
 					"titles": [
-						"You Were Meant For Me"
+						[
+							true,
+							"You Were Meant For Me"
+						]
 					],
 					"sources": [
 						[
@@ -1542,7 +1845,10 @@
 				},
 				{
 					"titles": [
-						"Gangsta's Paradise"
+						[
+							true,
+							"Gangsta's Paradise"
+						]
 					],
 					"sources": [
 						[
@@ -1560,7 +1866,10 @@
 				},
 				{
 					"titles": [
-						"Macarena (Bayside Boys Remix)"
+						[
+							true,
+							"Macarena (Bayside Boys Remix)"
+						]
 					],
 					"sources": [
 						[
@@ -1574,7 +1883,10 @@
 				},
 				{
 					"titles": [
-						"One Sweet Day"
+						[
+							true,
+							"One Sweet Day"
+						]
 					],
 					"sources": [
 						[
@@ -1592,7 +1904,10 @@
 				},
 				{
 					"titles": [
-						"Waterfalls"
+						[
+							true,
+							"Waterfalls"
+						]
 					],
 					"sources": [
 						[
@@ -1606,7 +1921,10 @@
 				},
 				{
 					"titles": [
-						"I'll Make Love To You"
+						[
+							true,
+							"I'll Make Love To You"
+						]
 					],
 					"sources": [
 						[
@@ -1620,7 +1938,10 @@
 				},
 				{
 					"titles": [
-						"Kiss from a Rose"
+						[
+							true,
+							"Kiss from a Rose"
+						]
 					],
 					"sources": [
 						[
@@ -1634,7 +1955,10 @@
 				},
 				{
 					"titles": [
-						"I Swear"
+						[
+							true,
+							"I Swear"
+						]
 					],
 					"sources": [
 						[
@@ -1648,7 +1972,10 @@
 				},
 				{
 					"titles": [
-						"The Sign"
+						[
+							true,
+							"The Sign"
+						]
 					],
 					"sources": [
 						[
@@ -1662,7 +1989,10 @@
 				},
 				{
 					"titles": [
-						"Whoomp! (There It Is)"
+						[
+							true,
+							"Whoomp! (There It Is)"
+						]
 					],
 					"sources": [
 						[
@@ -1676,7 +2006,10 @@
 				},
 				{
 					"titles": [
-						"Baby Got Back"
+						[
+							true,
+							"Baby Got Back"
+						]
 					],
 					"sources": [
 						[
@@ -1690,7 +2023,10 @@
 				},
 				{
 					"titles": [
-						"End Of The Road"
+						[
+							true,
+							"End Of The Road"
+						]
 					],
 					"sources": [
 						[
@@ -1704,7 +2040,10 @@
 				},
 				{
 					"titles": [
-						"I Will Always Love You"
+						[
+							true,
+							"I Will Always Love You"
+						]
 					],
 					"sources": [
 						[
@@ -1718,7 +2057,10 @@
 				},
 				{
 					"titles": [
-						"Jump"
+						[
+							true,
+							"Jump"
+						]
 					],
 					"sources": [
 						[
@@ -1732,7 +2074,10 @@
 				},
 				{
 					"titles": [
-						"(Everything I Do) I Do It For You"
+						[
+							true,
+							"(Everything I Do) I Do It For You"
+						]
 					],
 					"sources": [
 						[
@@ -1746,7 +2091,10 @@
 				},
 				{
 					"titles": [
-						"I Wanna Sex You Up"
+						[
+							true,
+							"I Wanna Sex You Up"
+						]
 					],
 					"sources": [
 						[
@@ -1760,7 +2108,10 @@
 				},
 				{
 					"titles": [
-						"Gonna Make You Sweat (Everybody Dance Now)"
+						[
+							true,
+							"Gonna Make You Sweat (Everybody Dance Now)"
+						]
 					],
 					"sources": [
 						[
@@ -1778,7 +2129,10 @@
 				},
 				{
 					"titles": [
-						"Hold On"
+						[
+							true,
+							"Hold On"
+						]
 					],
 					"sources": [
 						[
@@ -1792,7 +2146,10 @@
 				},
 				{
 					"titles": [
-						"Nothing Compares 2 U"
+						[
+							true,
+							"Nothing Compares 2 U"
+						]
 					],
 					"sources": [
 						[
@@ -1806,7 +2163,10 @@
 				},
 				{
 					"titles": [
-						"Poison"
+						[
+							true,
+							"Poison"
+						]
 					],
 					"sources": [
 						[
@@ -1835,7 +2195,10 @@
 			"songs": [
 				{
 					"titles": [
-						"Boom Boom Pow"
+						[
+							true,
+							"Boom Boom Pow"
+						]
 					],
 					"sources": [
 						[
@@ -1849,7 +2212,10 @@
 				},
 				{
 					"titles": [
-						"Just Dance"
+						[
+							true,
+							"Just Dance"
+						]
 					],
 					"sources": [
 						[
@@ -1867,7 +2233,10 @@
 				},
 				{
 					"titles": [
-						"Lollipop"
+						[
+							true,
+							"Lollipop"
+						]
 					],
 					"sources": [
 						[
@@ -1885,7 +2254,10 @@
 				},
 				{
 					"titles": [
-						"Poker Face"
+						[
+							true,
+							"Poker Face"
+						]
 					],
 					"sources": [
 						[
@@ -1899,7 +2271,10 @@
 				},
 				{
 					"titles": [
-						"Bleeding Love"
+						[
+							true,
+							"Bleeding Love"
+						]
 					],
 					"sources": [
 						[
@@ -1913,7 +2288,10 @@
 				},
 				{
 					"titles": [
-						"Low"
+						[
+							true,
+							"Low"
+						]
 					],
 					"sources": [
 						[
@@ -1931,7 +2309,10 @@
 				},
 				{
 					"titles": [
-						"No One"
+						[
+							true,
+							"No One"
+						]
 					],
 					"sources": [
 						[
@@ -1945,7 +2326,10 @@
 				},
 				{
 					"titles": [
-						"Umbrella"
+						[
+							true,
+							"Umbrella"
+						]
 					],
 					"sources": [
 						[
@@ -1963,7 +2347,10 @@
 				},
 				{
 					"titles": [
-						"Irreplaceable"
+						[
+							true,
+							"Irreplaceable"
+						]
 					],
 					"sources": [
 						[
@@ -1977,7 +2364,10 @@
 				},
 				{
 					"titles": [
-						"Promiscuous"
+						[
+							true,
+							"Promiscuous"
+						]
 					],
 					"sources": [
 						[
@@ -1995,7 +2385,10 @@
 				},
 				{
 					"titles": [
-						"The Sweet Escape"
+						[
+							true,
+							"The Sweet Escape"
+						]
 					],
 					"sources": [
 						[
@@ -2013,7 +2406,10 @@
 				},
 				{
 					"titles": [
-						"Bad Day"
+						[
+							true,
+							"Bad Day"
+						]
 					],
 					"sources": [
 						[
@@ -2027,7 +2423,10 @@
 				},
 				{
 					"titles": [
-						"Hollaback Girl"
+						[
+							true,
+							"Hollaback Girl"
+						]
 					],
 					"sources": [
 						[
@@ -2041,7 +2440,10 @@
 				},
 				{
 					"titles": [
-						"Temperature"
+						[
+							true,
+							"Temperature"
+						]
 					],
 					"sources": [
 						[
@@ -2055,7 +2457,10 @@
 				},
 				{
 					"titles": [
-						"We Belong Together"
+						[
+							true,
+							"We Belong Together"
+						]
 					],
 					"sources": [
 						[
@@ -2069,7 +2474,10 @@
 				},
 				{
 					"titles": [
-						"You're Beautiful"
+						[
+							true,
+							"You're Beautiful"
+						]
 					],
 					"sources": [
 						[
@@ -2083,7 +2491,10 @@
 				},
 				{
 					"titles": [
-						"Burn"
+						[
+							true,
+							"Burn"
+						]
 					],
 					"sources": [
 						[
@@ -2097,7 +2508,10 @@
 				},
 				{
 					"titles": [
-						"If I Ain't Got You"
+						[
+							true,
+							"If I Ain't Got You"
+						]
 					],
 					"sources": [
 						[
@@ -2111,7 +2525,10 @@
 				},
 				{
 					"titles": [
-						"Let Me Love You"
+						[
+							true,
+							"Let Me Love You"
+						]
 					],
 					"sources": [
 						[
@@ -2125,7 +2542,10 @@
 				},
 				{
 					"titles": [
-						"Yeah!"
+						[
+							true,
+							"Yeah!"
+						]
 					],
 					"sources": [
 						[
@@ -2147,7 +2567,10 @@
 				},
 				{
 					"titles": [
-						"Get Busy"
+						[
+							true,
+							"Get Busy"
+						]
 					],
 					"sources": [
 						[
@@ -2161,7 +2584,10 @@
 				},
 				{
 					"titles": [
-						"In Da Club"
+						[
+							true,
+							"In Da Club"
+						]
 					],
 					"sources": [
 						[
@@ -2175,7 +2601,10 @@
 				},
 				{
 					"titles": [
-						"A Thousand Miles"
+						[
+							true,
+							"A Thousand Miles"
+						]
 					],
 					"sources": [
 						[
@@ -2189,7 +2618,10 @@
 				},
 				{
 					"titles": [
-						"Foolish"
+						[
+							true,
+							"Foolish"
+						]
 					],
 					"sources": [
 						[
@@ -2203,7 +2635,10 @@
 				},
 				{
 					"titles": [
-						"Hot In Herre"
+						[
+							true,
+							"Hot In Herre"
+						]
 					],
 					"sources": [
 						[
@@ -2217,7 +2652,10 @@
 				},
 				{
 					"titles": [
-						"Ignition (Remix)"
+						[
+							true,
+							"Ignition (Remix)"
+						]
 					],
 					"sources": [
 						[
@@ -2231,7 +2669,10 @@
 				},
 				{
 					"titles": [
-						"All For You"
+						[
+							true,
+							"All For You"
+						]
 					],
 					"sources": [
 						[
@@ -2245,7 +2686,10 @@
 				},
 				{
 					"titles": [
-						"Fallin'"
+						[
+							true,
+							"Fallin'"
+						]
 					],
 					"sources": [
 						[
@@ -2259,7 +2703,10 @@
 				},
 				{
 					"titles": [
-						"How You Remind Me"
+						[
+							true,
+							"How You Remind Me"
+						]
 					],
 					"sources": [
 						[
@@ -2273,7 +2720,10 @@
 				},
 				{
 					"titles": [
-						"Hanging By A Moment"
+						[
+							true,
+							"Hanging By A Moment"
+						]
 					],
 					"sources": [
 						[
@@ -2302,7 +2752,10 @@
 			"songs": [
 				{
 					"titles": [
-						"God's Plan"
+						[
+							true,
+							"God's Plan"
+						]
 					],
 					"sources": [
 						[
@@ -2316,8 +2769,14 @@
 				},
 				{
 					"titles": [
-						"Old Town Road (Remix)",
-						"Old Town Road"
+						[
+							true,
+							"Old Town Road (Remix)"
+						],
+						[
+							true,
+							"Old Town Road"
+						]
 					],
 					"sources": [
 						[
@@ -2335,7 +2794,10 @@
 				},
 				{
 					"titles": [
-						"Sunflower"
+						[
+							true,
+							"Sunflower"
+						]
 					],
 					"sources": [
 						[
@@ -2353,7 +2815,10 @@
 				},
 				{
 					"titles": [
-						"Without Me"
+						[
+							true,
+							"Without Me"
+						]
 					],
 					"sources": [
 						[
@@ -2367,7 +2832,10 @@
 				},
 				{
 					"titles": [
-						"Havana"
+						[
+							true,
+							"Havana"
+						]
 					],
 					"sources": [
 						[
@@ -2385,7 +2853,10 @@
 				},
 				{
 					"titles": [
-						"HUMBLE."
+						[
+							true,
+							"HUMBLE."
+						]
 					],
 					"sources": [
 						[
@@ -2399,7 +2870,10 @@
 				},
 				{
 					"titles": [
-						"Meant to Be"
+						[
+							true,
+							"Meant to Be"
+						]
 					],
 					"sources": [
 						[
@@ -2417,7 +2891,10 @@
 				},
 				{
 					"titles": [
-						"Perfect"
+						[
+							true,
+							"Perfect"
+						]
 					],
 					"sources": [
 						[
@@ -2431,7 +2908,10 @@
 				},
 				{
 					"titles": [
-						"Shape of You"
+						[
+							true,
+							"Shape of You"
+						]
 					],
 					"sources": [
 						[
@@ -2445,7 +2925,10 @@
 				},
 				{
 					"titles": [
-						"That's What I Like"
+						[
+							true,
+							"That's What I Like"
+						]
 					],
 					"sources": [
 						[
@@ -2459,7 +2942,10 @@
 				},
 				{
 					"titles": [
-						"One Dance"
+						[
+							true,
+							"One Dance"
+						]
 					],
 					"sources": [
 						[
@@ -2481,7 +2967,10 @@
 				},
 				{
 					"titles": [
-						"Work"
+						[
+							true,
+							"Work"
+						]
 					],
 					"sources": [
 						[
@@ -2499,7 +2988,10 @@
 				},
 				{
 					"titles": [
-						"Love Yourself"
+						[
+							true,
+							"Love Yourself"
+						]
 					],
 					"sources": [
 						[
@@ -2513,7 +3005,10 @@
 				},
 				{
 					"titles": [
-						"See You Again"
+						[
+							true,
+							"See You Again"
+						]
 					],
 					"sources": [
 						[
@@ -2531,7 +3026,10 @@
 				},
 				{
 					"titles": [
-						"Thinking out Loud"
+						[
+							true,
+							"Thinking out Loud"
+						]
 					],
 					"sources": [
 						[
@@ -2545,7 +3043,10 @@
 				},
 				{
 					"titles": [
-						"Uptown Funk"
+						[
+							true,
+							"Uptown Funk"
+						]
 					],
 					"sources": [
 						[
@@ -2563,7 +3064,10 @@
 				},
 				{
 					"titles": [
-						"All of Me"
+						[
+							true,
+							"All of Me"
+						]
 					],
 					"sources": [
 						[
@@ -2577,7 +3081,10 @@
 				},
 				{
 					"titles": [
-						"Blurred Lines"
+						[
+							true,
+							"Blurred Lines"
+						]
 					],
 					"sources": [
 						[
@@ -2600,7 +3107,10 @@
 				},
 				{
 					"titles": [
-						"Dark Horse"
+						[
+							true,
+							"Dark Horse"
+						]
 					],
 					"sources": [
 						[
@@ -2618,7 +3128,10 @@
 				},
 				{
 					"titles": [
-						"Happy"
+						[
+							true,
+							"Happy"
+						]
 					],
 					"sources": [
 						[
@@ -2633,7 +3146,10 @@
 				},
 				{
 					"titles": [
-						"Payphone"
+						[
+							true,
+							"Payphone"
+						]
 					],
 					"sources": [
 						[
@@ -2651,7 +3167,10 @@
 				},
 				{
 					"titles": [
-						"Radioactive"
+						[
+							true,
+							"Radioactive"
+						]
 					],
 					"sources": [
 						[
@@ -2665,7 +3184,10 @@
 				},
 				{
 					"titles": [
-						"Thrift Shop"
+						[
+							true,
+							"Thrift Shop"
+						]
 					],
 					"sources": [
 						[
@@ -2687,7 +3209,10 @@
 				},
 				{
 					"titles": [
-						"Call Me Maybe"
+						[
+							true,
+							"Call Me Maybe"
+						]
 					],
 					"sources": [
 						[
@@ -2701,7 +3226,10 @@
 				},
 				{
 					"titles": [
-						"Party Rock Anthem"
+						[
+							true,
+							"Party Rock Anthem"
+						]
 					],
 					"sources": [
 						[
@@ -2723,8 +3251,14 @@
 				},
 				{
 					"titles": [
-						"Somebody That I Used To Know",
-						"Somebody I Used To Know"
+						[
+							true,
+							"Somebody That I Used To Know"
+						],
+						[
+							true,
+							"Somebody I Used To Know"
+						]
 					],
 					"sources": [
 						[
@@ -2742,7 +3276,10 @@
 				},
 				{
 					"titles": [
-						"We Are Young"
+						[
+							true,
+							"We Are Young"
+						]
 					],
 					"sources": [
 						[
@@ -2762,7 +3299,10 @@
 				},
 				{
 					"titles": [
-						"Firework"
+						[
+							true,
+							"Firework"
+						]
 					],
 					"sources": [
 						[
@@ -2776,7 +3316,10 @@
 				},
 				{
 					"titles": [
-						"OMG"
+						[
+							true,
+							"OMG"
+						]
 					],
 					"sources": [
 						[
@@ -2795,7 +3338,10 @@
 				},
 				{
 					"titles": [
-						"Rolling in the Deep"
+						[
+							true,
+							"Rolling in the Deep"
+						]
 					],
 					"sources": [
 						[
@@ -2820,15 +3366,20 @@
 			],
 			"sourceName": "Artist",
 			"author": "MusiQuiz",
-			"covers": [ "./celeste/cover.png" ],
+			"covers": [
+				"./celeste/cover.png"
+			],
 			"songs": [
 				{
 					"titles": [
-						"Anxiety"
+						[
+							false,
+							"Anxiety"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2838,11 +3389,14 @@
 				},
 				{
 					"titles": [
-						"Awake"
+						[
+							false,
+							"Awake"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2852,11 +3406,14 @@
 				},
 				{
 					"titles": [
-						"Checking In"
+						[
+							false,
+							"Checking In"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2866,11 +3423,14 @@
 				},
 				{
 					"titles": [
-						"Confronting Myself"
+						[
+							false,
+							"Confronting Myself"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2880,11 +3440,14 @@
 				},
 				{
 					"titles": [
-						"Exhale"
+						[
+							false,
+							"Exhale"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2894,11 +3457,14 @@
 				},
 				{
 					"titles": [
-						"Farewell"
+						[
+							false,
+							"Farewell"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2908,11 +3474,14 @@
 				},
 				{
 					"titles": [
-						"First Steps"
+						[
+							false,
+							"First Steps"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2922,11 +3491,14 @@
 				},
 				{
 					"titles": [
-						"Golden"
+						[
+							false,
+							"Golden"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2936,11 +3508,14 @@
 				},
 				{
 					"titles": [
-						"Heart of the Mountain"
+						[
+							false,
+							"Heart of the Mountain"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2950,11 +3525,14 @@
 				},
 				{
 					"titles": [
-						"In the Mirror"
+						[
+							false,
+							"In the Mirror"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2964,11 +3542,14 @@
 				},
 				{
 					"titles": [
-						"Little Goth"
+						[
+							false,
+							"Little Goth"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2978,11 +3559,14 @@
 				},
 				{
 					"titles": [
-						"Madeline and Theo"
+						[
+							false,
+							"Madeline and Theo"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -2992,11 +3576,14 @@
 				},
 				{
 					"titles": [
-						"My Dearest Friends"
+						[
+							false,
+							"My Dearest Friends"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -3006,11 +3593,14 @@
 				},
 				{
 					"titles": [
-						"Postcard from Celeste Mountain"
+						[
+							false,
+							"Postcard from Celeste Mountain"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -3020,11 +3610,14 @@
 				},
 				{
 					"titles": [
-						"Prologue"
+						[
+							false,
+							"Prologue"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -3034,11 +3627,14 @@
 				},
 				{
 					"titles": [
-						"Quiet and Falling"
+						[
+							false,
+							"Quiet and Falling"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -3048,11 +3644,14 @@
 				},
 				{
 					"titles": [
-						"Reach for the Summit"
+						[
+							false,
+							"Reach for the Summit"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -3062,11 +3661,14 @@
 				},
 				{
 					"titles": [
-						"Reflection"
+						[
+							false,
+							"Reflection"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -3076,11 +3678,14 @@
 				},
 				{
 					"titles": [
-						"Resurrections"
+						[
+							false,
+							"Resurrections"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -3090,11 +3695,14 @@
 				},
 				{
 					"titles": [
-						"Scattered and Lost"
+						[
+							false,
+							"Scattered and Lost"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -3104,11 +3712,14 @@
 				},
 				{
 					"titles": [
-						"Spirit of Hospitality"
+						[
+							false,
+							"Spirit of Hospitality"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -3118,11 +3729,14 @@
 				},
 				{
 					"titles": [
-						"Starjump"
+						[
+							false,
+							"Starjump"
+						]
 					],
 					"sources": [
 						[
-							true,
+							false,
 							"Lena Raine"
 						]
 					],
@@ -3137,15 +3751,20 @@
 			"title": "Best of Pixar Collection",
 			"description": "The most popular soundtracks from Pixar films.",
 			"difficulty": "Easy",
-			"gameStyle": 2,
+			"gameStyle": 1,
 			"disabledLifelines": [],
 			"sourceName": "Movie",
 			"author": "MusiQuiz",
-			"covers": [ "./best-of-pixar/cover.png" ],
+			"covers": [
+				"./best-of-pixar/cover.png"
+			],
 			"songs": [
 				{
 					"titles": [
-						"Turning Red"
+						[
+							false,
+							"Turning Red"
+						]
 					],
 					"sources": [
 						[
@@ -3159,7 +3778,10 @@
 				},
 				{
 					"titles": [
-						"Telescope"
+						[
+							false,
+							"Telescope"
+						]
 					],
 					"sources": [
 						[
@@ -3173,7 +3795,10 @@
 				},
 				{
 					"titles": [
-						"Carried Me With You"
+						[
+							false,
+							"Carried Me With You"
+						]
 					],
 					"sources": [
 						[
@@ -3187,7 +3812,10 @@
 				},
 				{
 					"titles": [
-						"Epiphany"
+						[
+							false,
+							"Epiphany"
+						]
 					],
 					"sources": [
 						[
@@ -3201,8 +3829,11 @@
 				},
 				{
 					"titles": [
-						"It's All Right",
-						"It Is All Right"
+						[
+							false,
+							"It's All Right",
+							"It Is All Right"
+						]
 					],
 					"sources": [
 						[
@@ -3216,7 +3847,10 @@
 				},
 				{
 					"titles": [
-						"Terry Time"
+						[
+							false,
+							"Terry Time"
+						]
 					],
 					"sources": [
 						[
@@ -3230,7 +3864,10 @@
 				},
 				{
 					"titles": [
-						"Parting Gifts & New Horizons"
+						[
+							false,
+							"Parting Gifts & New Horizons"
+						]
 					],
 					"sources": [
 						[
@@ -3244,7 +3881,10 @@
 				},
 				{
 					"titles": [
-						"Un Poco Loco"
+						[
+							false,
+							"Un Poco Loco"
+						]
 					],
 					"sources": [
 						[
@@ -3258,8 +3898,11 @@
 				},
 				{
 					"titles": [
-						"How Far I'll Go",
-						"How Far I Will Go"
+						[
+							false,
+							"How Far I'll Go",
+							"How Far I Will Go"
+						]
 					],
 					"sources": [
 						[
@@ -3273,7 +3916,10 @@
 				},
 				{
 					"titles": [
-						"Bundle of Joy"
+						[
+							false,
+							"Bundle of Joy"
+						]
 					],
 					"sources": [
 						[
@@ -3287,7 +3933,10 @@
 				},
 				{
 					"titles": [
-						"Homestead"
+						[
+							false,
+							"Homestead"
+						]
 					],
 					"sources": [
 						[
@@ -3302,8 +3951,11 @@
 				},
 				{
 					"titles": [
-						"Into The Open Air",
-						"In To The Open Air"
+						[
+							false,
+							"Into The Open Air",
+							"In To The Open Air"
+						]
 					],
 					"sources": [
 						[
@@ -3317,7 +3969,10 @@
 				},
 				{
 					"titles": [
-						"Touch The Sky"
+						[
+							false,
+							"Touch The Sky"
+						]
 					],
 					"sources": [
 						[
@@ -3331,7 +3986,10 @@
 				},
 				{
 					"titles": [
-						"We Belong Together"
+						[
+							false,
+							"We Belong Together"
+						]
 					],
 					"sources": [
 						[
@@ -3345,7 +4003,10 @@
 				},
 				{
 					"titles": [
-						"Married Life"
+						[
+							false,
+							"Married Life"
+						]
 					],
 					"sources": [
 						[
@@ -3359,8 +4020,14 @@
 				},
 				{
 					"titles": [
-						"2815 A.D.",
-						"2815 A D"
+						[
+							false,
+							"2815 A.D."
+						],
+						[
+							true,
+							"2815 A D"
+						]
 					],
 					"sources": [
 						[
@@ -3375,7 +4042,10 @@
 				},
 				{
 					"titles": [
-						"Down To Earth"
+						[
+							false,
+							"Down To Earth"
+						]
 					],
 					"sources": [
 						[
@@ -3390,7 +4060,10 @@
 				},
 				{
 					"titles": [
-						"Le Festin"
+						[
+							false,
+							"Le Festin"
+						]
 					],
 					"sources": [
 						[
@@ -3404,7 +4077,10 @@
 				},
 				{
 					"titles": [
-						"Main Theme"
+						[
+							false,
+							"Main Theme"
+						]
 					],
 					"sources": [
 						[
@@ -3418,7 +4094,10 @@
 				},
 				{
 					"titles": [
-						"Life is a Highway"
+						[
+							false,
+							"Life is a Highway"
+						]
 					],
 					"sources": [
 						[
@@ -3432,7 +4111,10 @@
 				},
 				{
 					"titles": [
-						"Real Gone"
+						[
+							false,
+							"Real Gone"
+						]
 					],
 					"sources": [
 						[
@@ -3446,8 +4128,11 @@
 				},
 				{
 					"titles": [
-						"Life's Incredible Again",
-						"Life Is Incredible Again"
+						[
+							false,
+							"Life's Incredible Again",
+							"Life Is Incredible Again"
+						]
 					],
 					"sources": [
 						[
@@ -3462,7 +4147,10 @@
 				},
 				{
 					"titles": [
-						"The Incredits"
+						[
+							false,
+							"The Incredits"
+						]
 					],
 					"sources": [
 						[
@@ -3477,8 +4165,11 @@
 				},
 				{
 					"titles": [
-						"Nemo Egg",
-						"Main Title"
+						[
+							false,
+							"Nemo Egg",
+							"Main Title"
+						]
 					],
 					"sources": [
 						[
@@ -3492,8 +4183,11 @@
 				},
 				{
 					"titles": [
-						"If I Didn't Have You",
-						"If I Did Not Have You"
+						[
+							false,
+							"If I Didn't Have You",
+							"If I Did Not Have You"
+						]
 					],
 					"sources": [
 						[
@@ -3507,7 +4201,10 @@
 				},
 				{
 					"titles": [
-						"Monsters, Inc."
+						[
+							false,
+							"Monsters, Inc."
+						]
 					],
 					"sources": [
 						[
@@ -3521,7 +4218,10 @@
 				},
 				{
 					"titles": [
-						"When She Loved Me"
+						[
+							false,
+							"When She Loved Me"
+						]
 					],
 					"sources": [
 						[
@@ -3535,7 +4235,10 @@
 				},
 				{
 					"titles": [
-						"The Time Of Your Life"
+						[
+							false,
+							"The Time Of Your Life"
+						]
 					],
 					"sources": [
 						[
@@ -3550,8 +4253,15 @@
 				},
 				{
 					"titles": [
-						"You've Got a Friend in Me",
-						"You Have Got a Friend in Me"
+						[
+							false,
+							"You've Got a Friend in Me",
+							"You Have Got a Friend in Me"
+						],
+						[
+							true,
+							"You Have Got a Friend in Me"
+						]
 					],
 					"sources": [
 						[
