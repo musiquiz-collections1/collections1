@@ -97,17 +97,17 @@ def generate_html_tree(structure, base_path="", level=0):
 
 	for name, content in sorted_items:
 		if content is None:
-			# It's a file
+			# It's a file - don't indent files inside directories since CSS handles indentation
+			file_indent = "" if level > 0 else indent
 			file_path = f"{base_path}/{name}" if base_path else name
-			html += f'{indent}<a href="{file_path}">{name}</a>\n'
+			html += f'{file_indent}<a href="{file_path}">{name}</a>\n'
 		else:
 			# It's a directory
 			dir_id = f"dir_{base_path.replace('/', '_')}_{name}" if base_path else f"dir_{name}"
 			dir_id = dir_id.replace(' ', '_').replace('-', '_')
-			html += f'{indent}<span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">▶</span> <span class="dir-name" onclick="toggleDirectory(\'{dir_id}\')">{name}/</span>\n'
-			html += f'{indent}  <div id="{dir_id}" class="dir-content collapsed">\n'
+			html += f'{indent}<span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">▶</span><span class="dir-name" onclick="toggleDirectory(\'{dir_id}\')"> {name}/</span><div id="{dir_id}" class="dir-content collapsed">'
 			html += generate_html_tree(content, f"{base_path}/{name}" if base_path else name, level + 1)
-			html += f'{indent}  </div>\n'
+			html += f'</div>\n'
 
 	return html
 
@@ -186,25 +186,22 @@ def update_index_html():
 			white-space: pre-wrap;
 		}}
 		.expand-collapse-all {{
+			text-align: center;
 			display: block;
-			margin: 0.5rem auto 1rem auto;
+			margin: 0 0 0.5rem;
 			padding: 0.5rem 1rem;
-			background: #1db954;
-			color: white;
-			border: none;
-			border-radius: 4px;
 			cursor: pointer;
-			font-size: 0.9rem;
+			font-size: 1.1rem;
 			transition: background-color 0.2s;
-		}}
-		.expand-collapse-all:hover {{
-			background: #1ed760;
+			font-weight:bold;
+			text-transform: uppercase;
+			font-family: Arial, sans-serif;
 		}}
 		.dir-toggle {{
 			cursor: pointer;
 			color: #1db954;
 			font-weight: bold;
-			margin-right: 0.2rem;
+			padding-right: 0.2rem;
 		}}
 		.dir-toggle:hover {{
 			color: #1ed760;
@@ -232,7 +229,7 @@ def update_index_html():
 	<h1>Musiquiz Collections</h1>
 	<p class="updated">{timestamp}</p>
 	<a href="" style="margin-top: 0.5rem; font-size: 1.5em;">Refresh</a>
-	<div class="directory"><button class="expand-collapse-all" onclick="toggleAllDirectories()">Expand All</button>{tree_html}\t</div>
+	<div class="directory"><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
 	<script>
 		function toggleDirectory(dirId) {{
 			const element = document.getElementById(dirId);
@@ -253,7 +250,7 @@ def update_index_html():
 
 		function toggleAllDirectories() {{
 			const button = document.querySelector('.expand-collapse-all');
-			const isExpanding = button.textContent === 'Expand All';
+			const isExpanding = button.textContent === 'Expand';
 			
 			// Get all directory content divs
 			const dirContents = document.querySelectorAll('.dir-content');
@@ -279,7 +276,7 @@ def update_index_html():
 			}});
 			
 			// Update button text
-			button.textContent = isExpanding ? 'Collapse All' : 'Expand All';
+			button.textContent = isExpanding ? 'Collapse' : 'Expand';
 		}}
 
 		// Handle scroll position preservation for browser back/forward navigation
@@ -319,9 +316,9 @@ def update_index_html():
 			const totalDirs = document.querySelectorAll('.dir-content').length;
 			
 			if (expandedDirs.length === totalDirs) {{
-				button.textContent = 'Collapse All';
+				button.textContent = 'Collapse';
 			}} else {{
-				button.textContent = 'Expand All';
+				button.textContent = 'Expand';
 			}}
 		}}
 
