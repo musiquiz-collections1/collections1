@@ -234,9 +234,16 @@ def update_index_html():
 			}}
 		}}
 
-		// Restore expanded state on page load
+		// Restore expanded state on page load while preserving scroll position
 		document.addEventListener('DOMContentLoaded', function() {{
+			// Save current scroll position
+			const scrollX = window.scrollX;
+			const scrollY = window.scrollY;
+
+			// Get expanded directories from localStorage
 			const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
+
+			// Restore expanded state
 			expandedDirs.forEach(dirId => {{
 				const element = document.getElementById(dirId);
 				if (element) {{
@@ -248,6 +255,11 @@ def update_index_html():
 					}}
 				}}
 			}});
+
+			// Restore scroll position after a brief delay to allow DOM to settle
+			setTimeout(() => {{
+				window.scrollTo(scrollX, scrollY);
+			}}, 10);
 		}});
 	</script>
 </body>

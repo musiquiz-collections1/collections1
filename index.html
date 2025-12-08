@@ -85,7 +85,7 @@
 </head>
 <body>
     <h1>Musiquiz Collections</h1>
-    <p class="updated">2025-12-08 16:08:41</p>
+    <p class="updated">2025-12-08 16:10:30</p>
 	<div class="directory">
 <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar')">▶</span> <span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar')">best-of-pixar/</span>
   <div id="dir_best_of_pixar" class="dir-content collapsed">
@@ -440,9 +440,16 @@
 			}
 		}
 
-		// Restore expanded state on page load
+		// Restore expanded state on page load while preserving scroll position
 		document.addEventListener('DOMContentLoaded', function() {
+			// Save current scroll position
+			const scrollX = window.scrollX;
+			const scrollY = window.scrollY;
+
+			// Get expanded directories from localStorage
 			const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
+
+			// Restore expanded state
 			expandedDirs.forEach(dirId => {
 				const element = document.getElementById(dirId);
 				if (element) {
@@ -454,6 +461,11 @@
 					}
 				}
 			});
+
+			// Restore scroll position after a brief delay to allow DOM to settle
+			setTimeout(() => {
+				window.scrollTo(scrollX, scrollY);
+			}, 10);
 		});
 	</script>
 </body>
