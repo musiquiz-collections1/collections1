@@ -185,7 +185,7 @@ def update_index_html():
 			font-size: 2rem;
 			color: brown;
 			text-shadow: 2px 2px 1px rgba(0,0,0,0.5);
-			margin-bottom: 1rem;
+			margin-bottom: 0.5rem;
 		}}
 		p {{
 			font-size: 1.2rem;
@@ -260,14 +260,45 @@ def update_index_html():
 		.dir-content.expanded {{
 			display: block;
 		}}
+		#copyLink {{
+			display:block;
+			outline: none;
+			background: darkgray;
+			text-align:center;
+			font-weight: bold;
+			font-size: 1rem;
+			color: rgba(0,0,0,0.5);
+			margin: 0 0 0.5rem;
+			border: 4px inset hsl(0,0%,55%);
+			cursor: text;
+		}}
+		#copyLink::selection {{
+			background: rgba(0,0,0,0.25);
+		}}
+	
+		#copyLink.anim {{
+			animation: flash 0.5s ease;
+		}}
+		@keyframes flash {{
+			0%, 100% {{ filter: brightness(1); }}
+			50% {{ filter: brightness(1.2); }}
+		}}
 	</style>
 </head>
 <body>
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
 	<span><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2>Collections</h1></span>
 	<p class="updated">{timestamp}</p>
+	<span id="copyLink" onclick="this.classList.add('anim');setTimeout(()=>this.classList.remove('anim'),500);selectText(this); navigator.clipboard.writeText(this.innerText);">https://musiquiz-collections1.github.io/collections1/</span>
 	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
 	<script>
+		function selectText(element) {{
+			const range = document.createRange();
+			range.selectNodeContents(element);
+			const selection = window.getSelection();
+			selection.removeAllRanges();
+			selection.addRange(range);
+		}}
 		function toggleDirectory(dirId) {{
 			const element = document.getElementById(dirId);
 			const toggle = element.previousElementSibling.previousElementSibling;
