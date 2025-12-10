@@ -139,15 +139,15 @@
 			animation: flash 0.5s ease;
 		}
 		@keyframes flash {
-			0%, 100% { filter: brightness(1); }
-			50% { filter: brightness(1.2); }
+			0%, 50% { filter: brightness(1.2); }
+			100% { filter: brightness(1); }
 		}
 	</style>
 </head>
 <body>
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
 	<span><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2>Collections</h1></span>
-	<p class="updated">2025-12-09 01:35:57</p>
+	<p class="updated">2025-12-10 01:31:53</p>
 	<span id="copyLink" onclick="this.classList.add('anim');setTimeout(()=>this.classList.remove('anim'),500);selectText(this); navigator.clipboard.writeText(this.innerText);">https://musiquiz-collections1.github.io/collections1/</span>
 	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a><span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar')"> best-of-pixar/</span><div id="dir_best_of_pixar" class="dir-content collapsed">  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_A_Bugs_Life')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_A_Bugs_Life')"> A Bugs Life/</span><div id="dir_best_of_pixar_A_Bugs_Life" class="dir-content collapsed"><a href="best-of-pixar/A Bugs Life/The Time Of Your Life.mp3">The Time Of Your Life.mp3</a>
 </div>
@@ -439,12 +439,12 @@
 				element.classList.remove('collapsed');
 				element.classList.add('expanded');
 				toggle.textContent = '▾';
-				localStorage.setItem(dirId, 'expanded');
+				sessionStorage.setItem(dirId, 'expanded');
 			} else {
 				element.classList.remove('expanded');
 				element.classList.add('collapsed');
 				toggle.textContent = '▸';
-				localStorage.removeItem(dirId);
+				sessionStorage.removeItem(dirId);
 			}
 		}
 
@@ -465,13 +465,13 @@
 					content.classList.remove('collapsed');
 					content.classList.add('expanded');
 					if (toggle) toggle.textContent = '▾';
-					localStorage.setItem(dirId, 'expanded');
+					sessionStorage.setItem(dirId, 'expanded');
 				} else {
 					// Collapse all
 					content.classList.remove('expanded');
 					content.classList.add('collapsed');
 					if (toggle) toggle.textContent = '▸';
-					localStorage.removeItem(dirId);
+					sessionStorage.removeItem(dirId);
 				}
 			});
 			
@@ -488,8 +488,8 @@
 			if (event.persisted) {
 				// Wait for browser to finish its scroll restoration, then restore our expanded state
 				setTimeout(() => {
-					// Get expanded directories from localStorage
-					const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
+					// Get expanded directories from sessionStorage
+					const expandedDirs = Object.keys(sessionStorage).filter(key => key.startsWith('dir_'));
 
 					// Restore expanded state
 					expandedDirs.forEach(dirId => {

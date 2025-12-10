@@ -280,8 +280,8 @@ def update_index_html():
 			animation: flash 0.5s ease;
 		}}
 		@keyframes flash {{
-			0%, 100% {{ filter: brightness(1); }}
-			50% {{ filter: brightness(1.2); }}
+			0%, 50% {{ filter: brightness(1.2); }}
+			100% {{ filter: brightness(1); }}
 		}}
 	</style>
 </head>
@@ -307,12 +307,12 @@ def update_index_html():
 				element.classList.remove('collapsed');
 				element.classList.add('expanded');
 				toggle.textContent = '\u25be';
-				localStorage.setItem(dirId, 'expanded');
+				sessionStorage.setItem(dirId, 'expanded');
 			}} else {{
 				element.classList.remove('expanded');
 				element.classList.add('collapsed');
 				toggle.textContent = '\u25b8';
-				localStorage.removeItem(dirId);
+				sessionStorage.removeItem(dirId);
 			}}
 		}}
 
@@ -333,13 +333,13 @@ def update_index_html():
 					content.classList.remove('collapsed');
 					content.classList.add('expanded');
 					if (toggle) toggle.textContent = '\u25be';
-					localStorage.setItem(dirId, 'expanded');
+					sessionStorage.setItem(dirId, 'expanded');
 				}} else {{
 					// Collapse all
 					content.classList.remove('expanded');
 					content.classList.add('collapsed');
 					if (toggle) toggle.textContent = '\u25b8';
-					localStorage.removeItem(dirId);
+					sessionStorage.removeItem(dirId);
 				}}
 			}});
 			
@@ -356,8 +356,8 @@ def update_index_html():
 			if (event.persisted) {{
 				// Wait for browser to finish its scroll restoration, then restore our expanded state
 				setTimeout(() => {{
-					// Get expanded directories from localStorage
-					const expandedDirs = Object.keys(localStorage).filter(key => key.startsWith('dir_'));
+					// Get expanded directories from sessionStorage
+					const expandedDirs = Object.keys(sessionStorage).filter(key => key.startsWith('dir_'));
 
 					// Restore expanded state
 					expandedDirs.forEach(dirId => {{
