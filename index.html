@@ -147,9 +147,15 @@
 <body>
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
 	<span><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2>Collections</h1></span>
-	<p class="updated">2025-12-10 01:51:39</p>
+	<p class="updated">2025-12-10 12:11:31</p>
 	<span id="copyLink" onclick="this.classList.add('anim');setTimeout(()=>this.classList.remove('anim'),500);selectText(this); navigator.clipboard.writeText(this.innerText);"></span>
-	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a><span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar')"> best-of-pixar/</span><div id="dir_best_of_pixar" class="dir-content collapsed">  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_A_Bugs_Life')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_A_Bugs_Life')"> A Bugs Life/</span><div id="dir_best_of_pixar_A_Bugs_Life" class="dir-content collapsed"><a href="best-of-pixar/A Bugs Life/The Time Of Your Life.mp3">The Time Of Your Life.mp3</a>
+	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a><span class="dir-toggle" onclick="toggleDirectory('dir_best_of_disney')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_disney')"> best-of-disney/</span><div id="dir_best_of_disney" class="dir-content collapsed">  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_disney_Moana')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_disney_Moana')"> Moana/</span><div id="dir_best_of_disney_Moana" class="dir-content collapsed"><a href="best-of-disney/Moana/How Far I'll Go.mp3">How Far I'll Go.mp3</a>
+</div>
+</div>
+<span class="dir-toggle" onclick="toggleDirectory('dir_best_of_ghibli')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_ghibli')"> best-of-ghibli/</span><div id="dir_best_of_ghibli" class="dir-content collapsed">  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_ghibli_Grave_of_the_Fireflies')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_ghibli_Grave_of_the_Fireflies')"> Grave of the Fireflies/</span><div id="dir_best_of_ghibli_Grave_of_the_Fireflies" class="dir-content collapsed"><a href="best-of-ghibli/Grave of the Fireflies/Firefly.flac">Firefly.flac</a>
+</div>
+</div>
+<span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar')"> best-of-pixar/</span><div id="dir_best_of_pixar" class="dir-content collapsed">  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_A_Bug's_Life')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_A_Bug's_Life')"> A Bug's Life/</span><div id="dir_best_of_pixar_A_Bug's_Life" class="dir-content collapsed"><a href="best-of-pixar/A Bug's Life/The Time Of Your Life.mp3">The Time Of Your Life.mp3</a>
 </div>
   <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Brave')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_Brave')"> Brave/</span><div id="dir_best_of_pixar_Brave" class="dir-content collapsed"><a href="best-of-pixar/Brave/Into The Open Air.mp3">Into The Open Air.mp3</a>
 <a href="best-of-pixar/Brave/Touch The Sky.mp3">Touch The Sky.mp3</a>
@@ -165,10 +171,8 @@
 </div>
   <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Luca')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_Luca')"> Luca/</span><div id="dir_best_of_pixar_Luca" class="dir-content collapsed"><a href="best-of-pixar/Luca/Telescope.mp3">Telescope.mp3</a>
 </div>
-  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Moana')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_Moana')"> Moana/</span><div id="dir_best_of_pixar_Moana" class="dir-content collapsed"><a href="best-of-pixar/Moana/How Far I'll Go.mp3">How Far I'll Go.mp3</a>
-</div>
-  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Monsters_Inc')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_Monsters_Inc')"> Monsters Inc/</span><div id="dir_best_of_pixar_Monsters_Inc" class="dir-content collapsed"><a href="best-of-pixar/Monsters Inc/If I Didn't Have You.mp3">If I Didn't Have You.mp3</a>
-<a href="best-of-pixar/Monsters Inc/Monsters, Inc..mp3">Monsters, Inc..mp3</a>
+  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Monsters,_Inc')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_Monsters,_Inc')"> Monsters, Inc/</span><div id="dir_best_of_pixar_Monsters,_Inc" class="dir-content collapsed"><a href="best-of-pixar/Monsters, Inc/If I Didn't Have You.mp3">If I Didn't Have You.mp3</a>
+<a href="best-of-pixar/Monsters, Inc/Monsters Inc.mp3">Monsters Inc.mp3</a>
 </div>
   <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Onward')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_Onward')"> Onward/</span><div id="dir_best_of_pixar_Onward" class="dir-content collapsed"><a href="best-of-pixar/Onward/Carried Me With You.mp3">Carried Me With You.mp3</a>
 </div>
@@ -196,8 +200,8 @@
 </div>
   <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_Up')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_Up')"> Up/</span><div id="dir_best_of_pixar_Up" class="dir-content collapsed"><a href="best-of-pixar/Up/Married Life.mp3">Married Life.mp3</a>
 </div>
-  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_WALL_E')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_WALL_E')"> WALL-E/</span><div id="dir_best_of_pixar_WALL_E" class="dir-content collapsed"><a href="best-of-pixar/WALL-E/2815 A.D..mp3">2815 A.D..mp3</a>
-<a href="best-of-pixar/WALL-E/Down To Earth.mp3">Down To Earth.mp3</a>
+  <span class="dir-toggle" onclick="toggleDirectory('dir_best_of_pixar_WALL_E')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('dir_best_of_pixar_WALL_E')"> WALL-E/</span><div id="dir_best_of_pixar_WALL_E" class="dir-content collapsed"><a href="best-of-pixar/WALL-E/2815 AD.mp3">2815 AD.mp3</a>
+<a href="best-of-pixar/WALL-E/Down to Earth.mp3">Down to Earth.mp3</a>
 </div>
 <a href="best-of-pixar/cover.png">cover.png</a>
 </div>

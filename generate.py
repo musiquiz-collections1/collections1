@@ -48,6 +48,7 @@ def load_collections():
                 song.setdefault("title", [])
                 song.setdefault("audioFile", "")
                 song.setdefault("startTime", None)
+                song.setdefault("endTime", None)
                 song.setdefault("year", None)
                 song.setdefault("level", None)
             # Reorder collection keys to ensure "songs" is last
@@ -79,6 +80,8 @@ def main():
                     "sources": [[True, artist] for artist in meta["artists"]],
                     "audioFile": fpath.replace("\\", "/"),
                     "startTime": None,
+                    "endTime": None,
+                    "level": None,
                     "year": meta["year"]
                 })
         if songs:  # Only add if there are songs

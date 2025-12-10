@@ -3683,23 +3683,6 @@
 				{
 					"title": [
 						false,
-						"How Far I'll Go",
-						"How Far I Will Go"
-					],
-					"sources": [
-						[
-							true,
-							"Moana"
-						]
-					],
-					"audioFile": "./best-of-pixar/Moana/How Far I'll Go.mp3",
-					"startTime": null,
-					"year": 2016,
-					"level": null
-				},
-				{
-					"title": [
-						false,
 						"Bundle of Joy"
 					],
 					"sources": [
@@ -3807,7 +3790,7 @@
 							"WALL E"
 						]
 					],
-					"audioFile": "./best-of-pixar/WALL-E/2815 A.D..mp3",
+					"audioFile": "./best-of-pixar/WALL-E/2815 AD.mp3",
 					"startTime": null,
 					"year": 2008,
 					"level": null
@@ -3815,7 +3798,7 @@
 				{
 					"title": [
 						false,
-						"Down To Earth"
+						"Down to Earth"
 					],
 					"sources": [
 						[
@@ -3824,7 +3807,7 @@
 							"WALL E"
 						]
 					],
-					"audioFile": "./best-of-pixar/WALL-E/Down To Earth.mp3",
+					"audioFile": "./best-of-pixar/WALL-E/Down to Earth.mp3",
 					"startTime": null,
 					"year": 2008,
 					"level": null
@@ -3955,7 +3938,7 @@
 							"Monsters, Inc."
 						]
 					],
-					"audioFile": "./best-of-pixar/Monsters Inc/If I Didn't Have You.mp3",
+					"audioFile": "./best-of-pixar/Monsters, Inc/If I Didn't Have You.mp3",
 					"startTime": null,
 					"year": 2002,
 					"level": null
@@ -3971,7 +3954,7 @@
 							"Monsters, Inc."
 						]
 					],
-					"audioFile": "./best-of-pixar/Monsters Inc/Monsters, Inc..mp3",
+					"audioFile": "./best-of-pixar/Monsters, Inc/Monsters Inc.mp3",
 					"startTime": null,
 					"year": 2002,
 					"level": null
@@ -4004,7 +3987,7 @@
 							"Bug's Life"
 						]
 					],
-					"audioFile": "./best-of-pixar/A Bugs Life/The Time Of Your Life.mp3",
+					"audioFile": "./best-of-pixar/A Bug's Life/The Time Of Your Life.mp3",
 					"startTime": null,
 					"year": 1998,
 					"level": null
