@@ -14,7 +14,7 @@
 			],
 			"songs": [
 				{
-					"titles": [
+					"title": [
 						true,
 						"Aquarius/Let the Sunshine In (The Flesh Failures)"
 					],
@@ -29,7 +29,7 @@
 					"year": 1969
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Can't Get Next To You"
 					],
@@ -44,7 +44,7 @@
 					"year": 1969
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Sugar Sugar"
 					],
@@ -59,7 +59,7 @@
 					"year": 1969
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Hey Jude"
 					],
@@ -74,7 +74,7 @@
 					"year": 1968
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Honey"
 					],
@@ -89,7 +89,7 @@
 					"year": 1968
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Love Is Blue"
 					],
@@ -104,7 +104,7 @@
 					"year": 1967
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Ode To Billie Joe"
 					],
@@ -119,7 +119,7 @@
 					"year": 1967
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"The Letter"
 					],
@@ -134,7 +134,7 @@
 					"year": 1967
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"To Sir With Love"
 					],
@@ -149,7 +149,7 @@
 					"year": 1967
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Windy"
 					],
@@ -164,7 +164,7 @@
 					"year": 1967
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"96 Tears"
 					],
@@ -179,7 +179,7 @@
 					"year": 1966
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"What Becomes Of The Brokenhearted"
 					],
@@ -194,7 +194,7 @@
 					"year": 1966
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"(I Can't Get No) Satisfaction"
 					],
@@ -209,7 +209,7 @@
 					"year": 1965
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"California Dreamin'"
 					],
@@ -224,7 +224,7 @@
 					"year": 1965
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Can't Help Myself (Sugar Pie, Honey Bunch)"
 					],
@@ -239,7 +239,7 @@
 					"year": 1965
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Wooly Bully"
 					],
@@ -254,7 +254,7 @@
 					"year": 1965
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"You Were On My Mind"
 					],
@@ -269,7 +269,7 @@
 					"year": 1965
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Hello, Dolly!"
 					],
@@ -284,7 +284,7 @@
 					"year": 1964
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Oh, Pretty Woman"
 					],
@@ -299,7 +299,7 @@
 					"year": 1964
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"You've Lost That Lovin' Feelin'"
 					],
@@ -314,7 +314,7 @@
 					"year": 1964
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Want To Hold Your Hand"
 					],
@@ -329,7 +329,7 @@
 					"year": 1963
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Surfin' U.S.A."
 					],
@@ -344,7 +344,7 @@
 					"year": 1963
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Mashed Potato Time"
 					],
@@ -359,7 +359,7 @@
 					"year": 1962
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Rhythm of the Rain"
 					],
@@ -374,7 +374,7 @@
 					"year": 1962
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"The End of the World"
 					],
@@ -389,7 +389,7 @@
 					"year": 1962
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Fall To Pieces"
 					],
@@ -408,7 +408,7 @@
 					"year": 1961
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Stranger on the Shore"
 					],
@@ -423,7 +423,7 @@
 					"year": 1961
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Tossin' and Turnin'"
 					],
@@ -438,7 +438,7 @@
 					"year": 1961
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Cathy's Clown"
 					],
@@ -453,7 +453,7 @@
 					"year": 1960
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Michael, Row the Boat Ashore"
 					],
@@ -483,7 +483,7 @@
 			],
 			"songs": [
 				{
-					"titles": [
+					"title": [
 						true,
 						"Bad Girls"
 					],
@@ -498,7 +498,7 @@
 					"year": 1979
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"My Sharona"
 					],
@@ -513,7 +513,7 @@
 					"year": 1979
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Le Freak"
 					],
@@ -528,7 +528,7 @@
 					"year": 1978
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Night Fever"
 					],
@@ -543,7 +543,7 @@
 					"year": 1978
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Shadow Dancing"
 					],
@@ -558,7 +558,7 @@
 					"year": 1978
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Best of My Love"
 					],
@@ -573,7 +573,7 @@
 					"year": 1977
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Just Want To Be Your Everything"
 					],
@@ -588,7 +588,7 @@
 					"year": 1977
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"You Light Up My Life"
 					],
@@ -603,7 +603,7 @@
 					"year": 1977
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Disco Lady"
 					],
@@ -618,7 +618,7 @@
 					"year": 1976
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Don't Go Breaking My Heart"
 					],
@@ -637,7 +637,7 @@
 					"year": 1976
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Silly Love Songs"
 					],
@@ -652,7 +652,7 @@
 					"year": 1976
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Tonight's the Night (Gonna Be Alright)"
 					],
@@ -667,7 +667,7 @@
 					"year": 1976
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Philadelphia Freedom"
 					],
@@ -682,7 +682,7 @@
 					"year": 1975
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Rhinestone Cowboy"
 					],
@@ -697,7 +697,7 @@
 					"year": 1975
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Bad Bad, Leroy Brown"
 					],
@@ -712,7 +712,7 @@
 					"year": 1973
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Let's Get It On"
 					],
@@ -727,7 +727,7 @@
 					"year": 1973
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Love Will Keep Us Together"
 					],
@@ -742,7 +742,7 @@
 					"year": 1973
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Love's Theme"
 					],
@@ -757,7 +757,7 @@
 					"year": 1973
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"The Way We Were"
 					],
@@ -772,7 +772,7 @@
 					"year": 1973
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Tie a Yellow Ribbon Round the Ole Oak Tree"
 					],
@@ -791,7 +791,7 @@
 					"year": 1973
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Alone Again (Naturally)"
 					],
@@ -806,7 +806,7 @@
 					"year": 1972
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Killing Me Softly With His Song"
 					],
@@ -821,7 +821,7 @@
 					"year": 1972
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"The First Time Ever I Saw Your Face"
 					],
@@ -836,7 +836,7 @@
 					"year": 1972
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"American Pie"
 					],
@@ -851,7 +851,7 @@
 					"year": 1971
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Feel the Earth Move"
 					],
@@ -866,7 +866,7 @@
 					"year": 1971
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Joy To The World"
 					],
@@ -881,7 +881,7 @@
 					"year": 1971
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Maggie May"
 					],
@@ -896,7 +896,7 @@
 					"year": 1971
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"(They Long To Be) Close To You"
 					],
@@ -911,7 +911,7 @@
 					"year": 1970
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"American Woman"
 					],
@@ -942,7 +942,7 @@
 					"year": 1970
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Bridge Over Troubled Water"
 					],
@@ -972,7 +972,7 @@
 			],
 			"songs": [
 				{
-					"titles": [
+					"title": [
 						true,
 						"Every Rose Has Its Thorn"
 					],
@@ -987,7 +987,7 @@
 					"year": 1988
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Look Away"
 					],
@@ -1002,7 +1002,7 @@
 					"year": 1988
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"My Prerogative"
 					],
@@ -1017,7 +1017,7 @@
 					"year": 1988
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Straight Up"
 					],
@@ -1032,7 +1032,7 @@
 					"year": 1988
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Faith"
 					],
@@ -1047,7 +1047,7 @@
 					"year": 1987
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Need You Tonight"
 					],
@@ -1062,7 +1062,7 @@
 					"year": 1987
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Shake You Down"
 					],
@@ -1077,7 +1077,7 @@
 					"year": 1986
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Walk Like an Egyptian"
 					],
@@ -1092,7 +1092,7 @@
 					"year": 1986
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Miss You"
 					],
@@ -1107,7 +1107,7 @@
 					"year": 1985
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Say You, Say Me"
 					],
@@ -1122,7 +1122,7 @@
 					"year": 1985
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Careless Whisper"
 					],
@@ -1137,7 +1137,7 @@
 					"year": 1984
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Footloose"
 					],
@@ -1152,7 +1152,7 @@
 					"year": 1984
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Want to Know What Love Is"
 					],
@@ -1167,7 +1167,7 @@
 					"year": 1984
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Like a Virgin"
 					],
@@ -1182,7 +1182,7 @@
 					"year": 1984
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Wake Me Up Before You Go-Go"
 					],
@@ -1197,7 +1197,7 @@
 					"year": 1984
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"What's Love Got to Do with It"
 					],
@@ -1212,7 +1212,7 @@
 					"year": 1984
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"When Doves Cry"
 					],
@@ -1227,7 +1227,7 @@
 					"year": 1984
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Alone"
 					],
@@ -1242,7 +1242,7 @@
 					"year": 1983
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Billie Jean"
 					],
@@ -1257,7 +1257,7 @@
 					"year": 1983
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Every Breath You Take"
 					],
@@ -1272,7 +1272,7 @@
 					"year": 1983
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Flashdance… What A Feeling"
 					],
@@ -1295,7 +1295,7 @@
 					"year": 1983
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Say Say Say"
 					],
@@ -1314,7 +1314,7 @@
 					"year": 1983
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Eye of the Tiger"
 					],
@@ -1329,7 +1329,7 @@
 					"year": 1982
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"That's What Friends Are For"
 					],
@@ -1356,7 +1356,7 @@
 					"year": 1982
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Bette Davis Eyes"
 					],
@@ -1371,7 +1371,7 @@
 					"year": 1981
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Endless Love"
 					],
@@ -1390,7 +1390,7 @@
 					"year": 1981
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Physical"
 					],
@@ -1405,7 +1405,7 @@
 					"year": 1981
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Call Me"
 					],
@@ -1420,7 +1420,7 @@
 					"year": 1980
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Lady"
 					],
@@ -1435,7 +1435,7 @@
 					"year": 1980
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Magic"
 					],
@@ -1465,7 +1465,7 @@
 			],
 			"songs": [
 				{
-					"titles": [
+					"title": [
 						true,
 						"No Scrubs"
 					],
@@ -1480,7 +1480,7 @@
 					"year": 1999
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Believe"
 					],
@@ -1495,7 +1495,7 @@
 					"year": 1998
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"The Boy Is Mine"
 					],
@@ -1514,7 +1514,7 @@
 					"year": 1998
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Too Close"
 					],
@@ -1529,7 +1529,7 @@
 					"year": 1998
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"You're Still The One"
 					],
@@ -1544,7 +1544,7 @@
 					"year": 1998
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Angel of Mine"
 					],
@@ -1559,7 +1559,7 @@
 					"year": 1997
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I'll Be Missing You"
 					],
@@ -1582,7 +1582,7 @@
 					"year": 1997
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Because You Loved Me"
 					],
@@ -1597,7 +1597,7 @@
 					"year": 1996
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Believe I Can Fly"
 					],
@@ -1612,7 +1612,7 @@
 					"year": 1996
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Un-Break My Heart"
 					],
@@ -1627,7 +1627,7 @@
 					"year": 1996
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"You Were Meant For Me"
 					],
@@ -1642,7 +1642,7 @@
 					"year": 1996
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Gangsta's Paradise"
 					],
@@ -1661,7 +1661,7 @@
 					"year": 1995
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Macarena (Bayside Boys Remix)"
 					],
@@ -1676,7 +1676,7 @@
 					"year": 1995
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"One Sweet Day"
 					],
@@ -1695,7 +1695,7 @@
 					"year": 1995
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Waterfalls"
 					],
@@ -1710,7 +1710,7 @@
 					"year": 1995
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I'll Make Love To You"
 					],
@@ -1725,7 +1725,7 @@
 					"year": 1994
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Kiss from a Rose"
 					],
@@ -1740,7 +1740,7 @@
 					"year": 1994
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Swear"
 					],
@@ -1755,7 +1755,7 @@
 					"year": 1993
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"The Sign"
 					],
@@ -1770,7 +1770,7 @@
 					"year": 1993
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Whoomp! (There It Is)"
 					],
@@ -1785,7 +1785,7 @@
 					"year": 1993
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Baby Got Back"
 					],
@@ -1800,7 +1800,7 @@
 					"year": 1992
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"End Of The Road"
 					],
@@ -1815,7 +1815,7 @@
 					"year": 1992
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Will Always Love You"
 					],
@@ -1830,7 +1830,7 @@
 					"year": 1992
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Jump"
 					],
@@ -1845,7 +1845,7 @@
 					"year": 1992
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"(Everything I Do) I Do It For You"
 					],
@@ -1860,7 +1860,7 @@
 					"year": 1991
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"I Wanna Sex You Up"
 					],
@@ -1875,7 +1875,7 @@
 					"year": 1991
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Gonna Make You Sweat (Everybody Dance Now)"
 					],
@@ -1894,7 +1894,7 @@
 					"year": 1990
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Hold On"
 					],
@@ -1909,7 +1909,7 @@
 					"year": 1990
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Nothing Compares 2 U"
 					],
@@ -1924,7 +1924,7 @@
 					"year": 1990
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Poison"
 					],
@@ -1954,7 +1954,7 @@
 			],
 			"songs": [
 				{
-					"titles": [
+					"title": [
 						true,
 						"Boom Boom Pow"
 					],
@@ -1969,7 +1969,7 @@
 					"year": 2009
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Just Dance"
 					],
@@ -1988,7 +1988,7 @@
 					"year": 2008
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Lollipop"
 					],
@@ -2007,7 +2007,7 @@
 					"year": 2008
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Poker Face"
 					],
@@ -2022,7 +2022,7 @@
 					"year": 2008
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Bleeding Love"
 					],
@@ -2037,7 +2037,7 @@
 					"year": 2007
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Low"
 					],
@@ -2056,7 +2056,7 @@
 					"year": 2007
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"No One"
 					],
@@ -2071,7 +2071,7 @@
 					"year": 2007
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Umbrella"
 					],
@@ -2090,7 +2090,7 @@
 					"year": 2007
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Irreplaceable"
 					],
@@ -2105,7 +2105,7 @@
 					"year": 2006
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Promiscuous"
 					],
@@ -2124,7 +2124,7 @@
 					"year": 2006
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"The Sweet Escape"
 					],
@@ -2143,7 +2143,7 @@
 					"year": 2006
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Bad Day"
 					],
@@ -2158,7 +2158,7 @@
 					"year": 2005
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Hollaback Girl"
 					],
@@ -2173,7 +2173,7 @@
 					"year": 2005
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Temperature"
 					],
@@ -2188,7 +2188,7 @@
 					"year": 2005
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"We Belong Together"
 					],
@@ -2203,7 +2203,7 @@
 					"year": 2005
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"You're Beautiful"
 					],
@@ -2218,7 +2218,7 @@
 					"year": 2005
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Burn"
 					],
@@ -2233,7 +2233,7 @@
 					"year": 2004
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"If I Ain't Got You"
 					],
@@ -2248,7 +2248,7 @@
 					"year": 2004
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Let Me Love You"
 					],
@@ -2263,7 +2263,7 @@
 					"year": 2004
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Yeah!"
 					],
@@ -2286,7 +2286,7 @@
 					"year": 2004
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Get Busy"
 					],
@@ -2301,7 +2301,7 @@
 					"year": 2003
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"In Da Club"
 					],
@@ -2316,7 +2316,7 @@
 					"year": 2003
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"A Thousand Miles"
 					],
@@ -2331,7 +2331,7 @@
 					"year": 2002
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Foolish"
 					],
@@ -2346,7 +2346,7 @@
 					"year": 2002
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Hot In Herre"
 					],
@@ -2361,7 +2361,7 @@
 					"year": 2002
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Ignition (Remix)"
 					],
@@ -2376,7 +2376,7 @@
 					"year": 2002
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"All For You"
 					],
@@ -2391,7 +2391,7 @@
 					"year": 2001
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Fallin'"
 					],
@@ -2406,7 +2406,7 @@
 					"year": 2001
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"How You Remind Me"
 					],
@@ -2421,7 +2421,7 @@
 					"year": 2001
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Hanging By A Moment"
 					],
@@ -2451,7 +2451,7 @@
 			],
 			"songs": [
 				{
-					"titles": [
+					"title": [
 						true,
 						"God's Plan"
 					],
@@ -2466,7 +2466,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Old Town Road (Remix)",
 						"Old Town Road"
@@ -2486,7 +2486,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Sunflower"
 					],
@@ -2505,7 +2505,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Without Me"
 					],
@@ -2520,7 +2520,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Havana"
 					],
@@ -2539,7 +2539,7 @@
 					"year": 2017
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"HUMBLE."
 					],
@@ -2554,7 +2554,7 @@
 					"year": 2017
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Meant to Be"
 					],
@@ -2573,7 +2573,7 @@
 					"year": 2017
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Perfect"
 					],
@@ -2588,7 +2588,7 @@
 					"year": 2017
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Shape of You"
 					],
@@ -2603,7 +2603,7 @@
 					"year": 2017
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"That's What I Like"
 					],
@@ -2618,7 +2618,7 @@
 					"year": 2017
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"One Dance"
 					],
@@ -2641,7 +2641,7 @@
 					"year": 2016
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Work"
 					],
@@ -2660,7 +2660,7 @@
 					"year": 2016
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Love Yourself"
 					],
@@ -2675,7 +2675,7 @@
 					"year": 2015
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"See You Again"
 					],
@@ -2694,7 +2694,7 @@
 					"year": 2015
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Thinking out Loud"
 					],
@@ -2709,7 +2709,7 @@
 					"year": 2014
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Uptown Funk"
 					],
@@ -2728,7 +2728,7 @@
 					"year": 2014
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"All of Me"
 					],
@@ -2743,7 +2743,7 @@
 					"year": 2013
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Blurred Lines"
 					],
@@ -2767,7 +2767,7 @@
 					"year": 2013
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Dark Horse"
 					],
@@ -2786,7 +2786,7 @@
 					"year": 2013
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Happy"
 					],
@@ -2802,7 +2802,7 @@
 					"year": 2013
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Payphone"
 					],
@@ -2821,7 +2821,7 @@
 					"year": 2012
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Radioactive"
 					],
@@ -2836,7 +2836,7 @@
 					"year": 2012
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Thrift Shop"
 					],
@@ -2859,7 +2859,7 @@
 					"year": 2012
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Call Me Maybe"
 					],
@@ -2874,7 +2874,7 @@
 					"year": 2011
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Party Rock Anthem"
 					],
@@ -2897,7 +2897,7 @@
 					"year": 2011
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Somebody That I Used To Know",
 						"Somebody I Used To Know"
@@ -2917,7 +2917,7 @@
 					"year": 2011
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"We Are Young"
 					],
@@ -2938,7 +2938,7 @@
 					"year": 2011
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Firework"
 					],
@@ -2953,7 +2953,7 @@
 					"year": 2010
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"OMG"
 					],
@@ -2973,7 +2973,7 @@
 					"year": 2010
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Rolling in the Deep"
 					],
@@ -3005,7 +3005,7 @@
 			],
 			"songs": [
 				{
-					"titles": [
+					"title": [
 						true,
 						"Anxiety"
 					],
@@ -3020,7 +3020,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Awake"
 					],
@@ -3035,7 +3035,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Checking In"
 					],
@@ -3050,7 +3050,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Confronting Myself"
 					],
@@ -3065,7 +3065,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Exhale"
 					],
@@ -3080,7 +3080,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Farewell"
 					],
@@ -3095,7 +3095,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"First Steps"
 					],
@@ -3110,7 +3110,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Golden"
 					],
@@ -3125,7 +3125,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Heart of the Mountain"
 					],
@@ -3140,7 +3140,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"In the Mirror"
 					],
@@ -3155,7 +3155,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Little Goth"
 					],
@@ -3170,7 +3170,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Madeline and Theo"
 					],
@@ -3185,7 +3185,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"My Dearest Friends"
 					],
@@ -3200,7 +3200,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Postcard from Celeste Mountain"
 					],
@@ -3215,7 +3215,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Prologue"
 					],
@@ -3230,7 +3230,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Quiet and Falling"
 					],
@@ -3245,7 +3245,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Reach for the Summit"
 					],
@@ -3260,7 +3260,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Reflection"
 					],
@@ -3275,7 +3275,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Resurrections"
 					],
@@ -3290,7 +3290,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Scattered and Lost"
 					],
@@ -3305,7 +3305,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Spirit of Hospitality"
 					],
@@ -3320,7 +3320,7 @@
 					"year": 2018
 				},
 				{
-					"titles": [
+					"title": [
 						true,
 						"Starjump"
 					],
@@ -3350,7 +3350,7 @@
 			],
 			"songs": [
 				{
-					"titles": [
+					"title": [
 						false,
 						"Turning Red"
 					],
@@ -3365,7 +3365,7 @@
 					"year": 2022
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Telescope"
 					],
@@ -3380,7 +3380,7 @@
 					"year": 2021
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Carried Me With You"
 					],
@@ -3395,7 +3395,7 @@
 					"year": 2020
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Epiphany"
 					],
@@ -3410,7 +3410,7 @@
 					"year": 2020
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"It's All Right",
 						"It Is All Right"
@@ -3426,7 +3426,7 @@
 					"year": 2020
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Terry Time"
 					],
@@ -3441,7 +3441,7 @@
 					"year": 2020
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Parting Gifts & New Horizons"
 					],
@@ -3456,7 +3456,7 @@
 					"year": 2019
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Un Poco Loco"
 					],
@@ -3471,7 +3471,7 @@
 					"year": 2017
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"How Far I'll Go",
 						"How Far I Will Go"
@@ -3487,7 +3487,7 @@
 					"year": 2016
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Bundle of Joy"
 					],
@@ -3502,7 +3502,7 @@
 					"year": 2015
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Homestead"
 					],
@@ -3517,7 +3517,7 @@
 					"year": 2015
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Into The Open Air",
 						"In To The Open Air"
@@ -3533,7 +3533,7 @@
 					"year": 2012
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Touch The Sky"
 					],
@@ -3548,7 +3548,7 @@
 					"year": 2012
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"We Belong Together"
 					],
@@ -3563,7 +3563,7 @@
 					"year": 2010
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Married Life"
 					],
@@ -3578,7 +3578,7 @@
 					"year": 2009
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"2815 A.D.",
 						"2815 A D"
@@ -3595,7 +3595,7 @@
 					"year": 2008
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Down To Earth"
 					],
@@ -3611,7 +3611,7 @@
 					"year": 2008
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Le Festin"
 					],
@@ -3626,7 +3626,7 @@
 					"year": 2007
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Main Theme"
 					],
@@ -3641,7 +3641,7 @@
 					"year": 2007
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Life is a Highway"
 					],
@@ -3656,7 +3656,7 @@
 					"year": 2006
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Real Gone"
 					],
@@ -3671,7 +3671,7 @@
 					"year": 2006
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Life's Incredible Again",
 						"Life Is Incredible Again"
@@ -3687,7 +3687,7 @@
 					"year": 2004
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"The Incredits"
 					],
@@ -3702,7 +3702,7 @@
 					"year": 2004
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Nemo Egg",
 						"Main Title"
@@ -3718,7 +3718,7 @@
 					"year": 2003
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"If I Didn't Have You",
 						"If I Did Not Have You"
@@ -3734,7 +3734,7 @@
 					"year": 2002
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"Monsters, Inc."
 					],
@@ -3749,7 +3749,7 @@
 					"year": 2002
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"When She Loved Me"
 					],
@@ -3764,7 +3764,7 @@
 					"year": 1999
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"The Time Of Your Life"
 					],
@@ -3780,7 +3780,7 @@
 					"year": 1998
 				},
 				{
-					"titles": [
+					"title": [
 						false,
 						"You've Got a Friend in Me",
 						"You Have Got a Friend in Me"
