@@ -6166,12 +6166,15 @@
 					"title": [
 						false,
 						"Arrietty's Song",
-						"Arrietty's Theme"
+						"Arrietty's Theme",
+						"Arriety's Song",
+						"Arriety's Theme"
 					],
 					"sources": [
 						[
 							true,
-							"Arrietty"
+							"Arrietty",
+							"Arriety"
 						]
 					],
 					"audioFile": "./best-of-ghibli/Arrietty/Arrietty's Song.mp3",
@@ -6188,7 +6191,8 @@
 					"sources": [
 						[
 							true,
-							"Arrietty"
+							"Arrietty",
+							"Arriety"
 						]
 					],
 					"audioFile": "./best-of-ghibli/Arrietty/The Neglected Garden.mp3",
@@ -6631,7 +6635,9 @@
 						[
 							true,
 							"My Neighbor Totoro",
-							"Totoro"
+							"Totoro",
+							"My Neighbor Tottoro",
+							"Tottoro"
 						]
 					],
 					"audioFile": "./best-of-ghibli/My Neighbor Totoro/Evening Wind.mp3",
@@ -6652,7 +6658,9 @@
 						[
 							true,
 							"My Neighbor Totoro",
-							"Totoro"
+							"Totoro",
+							"My Neighbor Tottoro",
+							"Tottoro"
 						]
 					],
 					"audioFile": "./best-of-ghibli/My Neighbor Totoro/My Neighbor Totoro - Ending Theme Song.mp3",
