@@ -5657,27 +5657,6 @@
 				{
 					"title": [
 						false,
-						"What a Dog / He's a Tramp",
-						"What a Dog / He is a Tramp",
-						"What a Dog",
-						"He's a Tramp",
-						"He is a Tramp"
-					],
-					"sources": [
-						[
-							true,
-							"Lady and the Tramp"
-						]
-					],
-					"audioFile": "./best-of-disney/Lady and the Tramp/What a Dog - He's a Tramp.mp3",
-					"startTime": null,
-					"endTime": null,
-					"level": null,
-					"year": 1955
-				},
-				{
-					"title": [
-						false,
 						"Following the Leader"
 					],
 					"sources": [
