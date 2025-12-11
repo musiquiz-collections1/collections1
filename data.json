@@ -5958,7 +5958,7 @@
 		{
 			"id": "best-of-ghibli",
 			"title": "Best of Studio Ghibli",
-			"description": "The most popular soundtracks from Studio Ghibli.",
+			"description": "The most popular soundtracks from Studio Ghibli feature films.",
 			"difficulty": "Medium",
 			"gameStyle": 2,
 			"disabledLifelines": [],
