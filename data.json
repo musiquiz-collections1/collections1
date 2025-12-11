@@ -16,7 +16,10 @@
 				{
 					"title": [
 						true,
-						"Aquarius/Let the Sunshine In (The Flesh Failures)"
+						"Aquarius / Let the Sunshine In (The Flesh Failures)",
+						"Aquarius",
+						"Let the Sunshine In",
+						"The Flesh Failures"
 					],
 					"sources": [
 						[
@@ -27,7 +30,8 @@
 					"audioFile": "./billboard-top-1960/Aquarius Let the Sunshine In (The Flesh Failures).mp3",
 					"startTime": null,
 					"year": 1969,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -43,7 +47,8 @@
 					"audioFile": "./billboard-top-1960/I Can't Get Next To You.mp3",
 					"startTime": null,
 					"year": 1969,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -59,7 +64,8 @@
 					"audioFile": "./billboard-top-1960/Sugar Sugar.mp3",
 					"startTime": null,
 					"year": 1969,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -75,7 +81,8 @@
 					"audioFile": "./billboard-top-1960/Hey Jude.mp3",
 					"startTime": null,
 					"year": 1968,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -91,7 +98,8 @@
 					"audioFile": "./billboard-top-1960/Honey.mp3",
 					"startTime": null,
 					"year": 1968,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -107,7 +115,8 @@
 					"audioFile": "./billboard-top-1960/Love Is Blue.mp3",
 					"startTime": null,
 					"year": 1967,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -123,7 +132,8 @@
 					"audioFile": "./billboard-top-1960/Ode To Billie Joe.mp3",
 					"startTime": null,
 					"year": 1967,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -139,7 +149,8 @@
 					"audioFile": "./billboard-top-1960/The Letter.mp3",
 					"startTime": null,
 					"year": 1967,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -155,7 +166,8 @@
 					"audioFile": "./billboard-top-1960/To Sir With Love.mp3",
 					"startTime": null,
 					"year": 1967,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -171,7 +183,8 @@
 					"audioFile": "./billboard-top-1960/Windy.mp3",
 					"startTime": null,
 					"year": 1967,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -187,7 +200,8 @@
 					"audioFile": "./billboard-top-1960/96 Tears.mp3",
 					"startTime": null,
 					"year": 1966,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -203,12 +217,14 @@
 					"audioFile": "./billboard-top-1960/What Becomes Of The Brokenhearted.mp3",
 					"startTime": null,
 					"year": 1966,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
 						true,
-						"(I Can't Get No) Satisfaction"
+						"(I Can't Get No) Satisfaction",
+						"Satisfaction"
 					],
 					"sources": [
 						[
@@ -219,7 +235,8 @@
 					"audioFile": "./billboard-top-1960/(I Can't Get No) Satisfaction.mp3",
 					"startTime": null,
 					"year": 1965,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -235,12 +252,15 @@
 					"audioFile": "./billboard-top-1960/California Dreamin'.mp3",
 					"startTime": null,
 					"year": 1965,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
 						true,
-						"I Can't Help Myself (Sugar Pie, Honey Bunch)"
+						"I Can't Help Myself (Sugar Pie, Honey Bunch)",
+						"I Can't Help Myself",
+						"Sugar Pie, Honey Bunch"
 					],
 					"sources": [
 						[
@@ -251,7 +271,8 @@
 					"audioFile": "./billboard-top-1960/I Can't Help Myself (Sugar Pie, Honey Bunch).mp3",
 					"startTime": null,
 					"year": 1965,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -267,7 +288,8 @@
 					"audioFile": "./billboard-top-1960/Wooly Bully.mp3",
 					"startTime": null,
 					"year": 1965,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -283,7 +305,8 @@
 					"audioFile": "./billboard-top-1960/You Were On My Mind.mp3",
 					"startTime": null,
 					"year": 1965,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -299,7 +322,8 @@
 					"audioFile": "./billboard-top-1960/Hello, Dolly!.mp3",
 					"startTime": null,
 					"year": 1964,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -315,7 +339,8 @@
 					"audioFile": "./billboard-top-1960/Oh, Pretty Woman.mp3",
 					"startTime": null,
 					"year": 1964,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -331,7 +356,8 @@
 					"audioFile": "./billboard-top-1960/You've Lost That Lovin' Feelin'.mp3",
 					"startTime": null,
 					"year": 1964,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -347,7 +373,8 @@
 					"audioFile": "./billboard-top-1960/I Want To Hold Your Hand.mp3",
 					"startTime": null,
 					"year": 1963,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -363,7 +390,8 @@
 					"audioFile": "./billboard-top-1960/Surfin' U.S.A..mp3",
 					"startTime": null,
 					"year": 1963,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -379,7 +407,8 @@
 					"audioFile": "./billboard-top-1960/Mashed Potato Time.mp3",
 					"startTime": null,
 					"year": 1962,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -395,7 +424,8 @@
 					"audioFile": "./billboard-top-1960/Rhythm of the Rain.mp3",
 					"startTime": null,
 					"year": 1962,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -411,7 +441,8 @@
 					"audioFile": "./billboard-top-1960/The End of the World.mp3",
 					"startTime": null,
 					"year": 1962,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -431,7 +462,8 @@
 					"audioFile": "./billboard-top-1960/I Fall To Pieces.mp3",
 					"startTime": null,
 					"year": 1961,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -447,7 +479,8 @@
 					"audioFile": "./billboard-top-1960/Stranger on the Shore.mp3",
 					"startTime": null,
 					"year": 1961,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -463,7 +496,8 @@
 					"audioFile": "./billboard-top-1960/Tossin' and Turnin'.mp3",
 					"startTime": null,
 					"year": 1961,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -479,7 +513,8 @@
 					"audioFile": "./billboard-top-1960/Cathy's Clown.mp3",
 					"startTime": null,
 					"year": 1960,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -495,7 +530,8 @@
 					"audioFile": "./billboard-top-1960/Michael, Row the Boat Ashore.mp3",
 					"startTime": null,
 					"year": 1960,
-					"level": null
+					"level": null,
+					"endTime": null
 				}
 			]
 		},
@@ -526,7 +562,8 @@
 					"audioFile": "./billboard-top-1970/Bad Girls.mp3",
 					"startTime": null,
 					"year": 1979,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -542,7 +579,8 @@
 					"audioFile": "./billboard-top-1970/My Sharona.mp3",
 					"startTime": null,
 					"year": 1979,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -558,7 +596,8 @@
 					"audioFile": "./billboard-top-1970/Le Freak.mp3",
 					"startTime": null,
 					"year": 1978,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -574,7 +613,8 @@
 					"audioFile": "./billboard-top-1970/Night Fever.mp3",
 					"startTime": null,
 					"year": 1978,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -590,7 +630,8 @@
 					"audioFile": "./billboard-top-1970/Shadow Dancing.mp3",
 					"startTime": null,
 					"year": 1978,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -606,7 +647,8 @@
 					"audioFile": "./billboard-top-1970/Best of My Love.mp3",
 					"startTime": null,
 					"year": 1977,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -622,7 +664,8 @@
 					"audioFile": "./billboard-top-1970/I Just Want To Be Your Everything.mp3",
 					"startTime": null,
 					"year": 1977,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -638,7 +681,8 @@
 					"audioFile": "./billboard-top-1970/You Light Up My Life.mp3",
 					"startTime": null,
 					"year": 1977,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -654,7 +698,8 @@
 					"audioFile": "./billboard-top-1970/Disco Lady.mp3",
 					"startTime": null,
 					"year": 1976,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -674,7 +719,8 @@
 					"audioFile": "./billboard-top-1970/Don't Go Breaking My Heart.mp3",
 					"startTime": null,
 					"year": 1976,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -690,12 +736,17 @@
 					"audioFile": "./billboard-top-1970/Silly Love Songs.mp3",
 					"startTime": null,
 					"year": 1976,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
 						true,
-						"Tonight's the Night (Gonna Be Alright)"
+						"Tonight's the Night (Gonna Be Alright)",
+						"Tonight's the Night (Going To Be Alright)",
+						"Tonight's the Night",
+						"Gonna Be Alright",
+						"Going To Be Alright"
 					],
 					"sources": [
 						[
@@ -706,7 +757,8 @@
 					"audioFile": "./billboard-top-1970/Tonight's the Night (Gonna Be Alright).mp3",
 					"startTime": null,
 					"year": 1976,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -722,7 +774,8 @@
 					"audioFile": "./billboard-top-1970/Philadelphia Freedom.mp3",
 					"startTime": null,
 					"year": 1975,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -738,7 +791,8 @@
 					"audioFile": "./billboard-top-1970/Rhinestone Cowboy.mp3",
 					"startTime": null,
 					"year": 1975,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -754,7 +808,8 @@
 					"audioFile": "./billboard-top-1970/Bad Bad, Leroy Brown.mp3",
 					"startTime": null,
 					"year": 1973,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -770,7 +825,8 @@
 					"audioFile": "./billboard-top-1970/Let's Get It On.mp3",
 					"startTime": null,
 					"year": 1973,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -786,7 +842,8 @@
 					"audioFile": "./billboard-top-1970/Love Will Keep Us Together.mp3",
 					"startTime": null,
 					"year": 1973,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -802,7 +859,8 @@
 					"audioFile": "./billboard-top-1970/Love's Theme.mp3",
 					"startTime": null,
 					"year": 1973,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -818,7 +876,8 @@
 					"audioFile": "./billboard-top-1970/The Way We Were.mp3",
 					"startTime": null,
 					"year": 1973,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -838,12 +897,15 @@
 					"audioFile": "./billboard-top-1970/Tie a Yellow Ribbon Round the Ole Oak Tree.mp3",
 					"startTime": null,
 					"year": 1973,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
 						true,
-						"Alone Again (Naturally)"
+						"Alone Again (Naturally)",
+						"Alone Again",
+						"Naturally"
 					],
 					"sources": [
 						[
@@ -854,7 +916,8 @@
 					"audioFile": "./billboard-top-1970/Alone Again (Naturally).mp3",
 					"startTime": null,
 					"year": 1972,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -870,7 +933,8 @@
 					"audioFile": "./billboard-top-1970/Killing Me Softly With His Song.mp3",
 					"startTime": null,
 					"year": 1972,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -886,7 +950,8 @@
 					"audioFile": "./billboard-top-1970/The First Time Ever I Saw Your Face.mp3",
 					"startTime": null,
 					"year": 1972,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -902,7 +967,8 @@
 					"audioFile": "./billboard-top-1970/American Pie.mp3",
 					"startTime": null,
 					"year": 1971,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -918,7 +984,8 @@
 					"audioFile": "./billboard-top-1970/I Feel the Earth Move.mp3",
 					"startTime": null,
 					"year": 1971,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -934,7 +1001,8 @@
 					"audioFile": "./billboard-top-1970/Joy To The World.mp3",
 					"startTime": null,
 					"year": 1971,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -950,7 +1018,8 @@
 					"audioFile": "./billboard-top-1970/Maggie May.mp3",
 					"startTime": null,
 					"year": 1971,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -966,7 +1035,8 @@
 					"audioFile": "./billboard-top-1970/(They Long To Be) Close To You.mp3",
 					"startTime": null,
 					"year": 1970,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -998,7 +1068,8 @@
 					"audioFile": "./billboard-top-1970/American Woman.mp3",
 					"startTime": null,
 					"year": 1970,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1014,7 +1085,8 @@
 					"audioFile": "./billboard-top-1970/Bridge Over Troubled Water.mp3",
 					"startTime": null,
 					"year": 1970,
-					"level": null
+					"level": null,
+					"endTime": null
 				}
 			]
 		},
@@ -1045,7 +1117,8 @@
 					"audioFile": "./billboard-top-1980/Every Rose Has Its Thorn.mp3",
 					"startTime": null,
 					"year": 1988,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1061,7 +1134,8 @@
 					"audioFile": "./billboard-top-1980/Look Away.mp3",
 					"startTime": null,
 					"year": 1988,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1077,7 +1151,8 @@
 					"audioFile": "./billboard-top-1980/My Prerogative.mp3",
 					"startTime": null,
 					"year": 1988,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1093,7 +1168,8 @@
 					"audioFile": "./billboard-top-1980/Straight Up.mp3",
 					"startTime": null,
 					"year": 1988,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1109,7 +1185,8 @@
 					"audioFile": "./billboard-top-1980/Faith.mp3",
 					"startTime": null,
 					"year": 1987,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1125,7 +1202,8 @@
 					"audioFile": "./billboard-top-1980/Need You Tonight.mp3",
 					"startTime": null,
 					"year": 1987,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1141,7 +1219,8 @@
 					"audioFile": "./billboard-top-1980/Shake You Down.mp3",
 					"startTime": null,
 					"year": 1986,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1157,7 +1236,8 @@
 					"audioFile": "./billboard-top-1980/Walk Like an Egyptian.mp3",
 					"startTime": null,
 					"year": 1986,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1173,7 +1253,8 @@
 					"audioFile": "./billboard-top-1980/I Miss You.mp3",
 					"startTime": null,
 					"year": 1985,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1189,7 +1270,8 @@
 					"audioFile": "./billboard-top-1980/Say You, Say Me.mp3",
 					"startTime": null,
 					"year": 1985,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1205,7 +1287,8 @@
 					"audioFile": "./billboard-top-1980/Careless Whisper.mp3",
 					"startTime": null,
 					"year": 1984,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1221,7 +1304,8 @@
 					"audioFile": "./billboard-top-1980/Footloose.mp3",
 					"startTime": null,
 					"year": 1984,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1237,7 +1321,8 @@
 					"audioFile": "./billboard-top-1980/I Want to Know What Love Is.mp3",
 					"startTime": null,
 					"year": 1984,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1253,7 +1338,8 @@
 					"audioFile": "./billboard-top-1980/Like a Virgin.mp3",
 					"startTime": null,
 					"year": 1984,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1269,7 +1355,8 @@
 					"audioFile": "./billboard-top-1980/Wake Me Up Before You Go-Go.mp3",
 					"startTime": null,
 					"year": 1984,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1285,7 +1372,8 @@
 					"audioFile": "./billboard-top-1980/What's Love Got to Do with It.mp3",
 					"startTime": null,
 					"year": 1984,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1301,7 +1389,8 @@
 					"audioFile": "./billboard-top-1980/When Doves Cry.mp3",
 					"startTime": null,
 					"year": 1984,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1317,7 +1406,8 @@
 					"audioFile": "./billboard-top-1980/Alone.mp3",
 					"startTime": null,
 					"year": 1983,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1333,7 +1423,8 @@
 					"audioFile": "./billboard-top-1980/Billie Jean.mp3",
 					"startTime": null,
 					"year": 1983,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1349,7 +1440,8 @@
 					"audioFile": "./billboard-top-1980/Every Breath You Take.mp3",
 					"startTime": null,
 					"year": 1983,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1373,7 +1465,8 @@
 					"audioFile": "./billboard-top-1980/Flashdance… What A Feeling.mp3",
 					"startTime": null,
 					"year": 1983,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1393,7 +1486,8 @@
 					"audioFile": "./billboard-top-1980/Say Say Say.mp3",
 					"startTime": null,
 					"year": 1983,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1409,7 +1503,8 @@
 					"audioFile": "./billboard-top-1980/Eye of the Tiger.mp3",
 					"startTime": null,
 					"year": 1982,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1437,7 +1532,8 @@
 					"audioFile": "./billboard-top-1980/That's What Friends Are For.mp3",
 					"startTime": null,
 					"year": 1982,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1453,7 +1549,8 @@
 					"audioFile": "./billboard-top-1980/Bette Davis Eyes.mp3",
 					"startTime": null,
 					"year": 1981,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1473,7 +1570,8 @@
 					"audioFile": "./billboard-top-1980/Endless Love.mp3",
 					"startTime": null,
 					"year": 1981,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1489,7 +1587,8 @@
 					"audioFile": "./billboard-top-1980/Physical.mp3",
 					"startTime": null,
 					"year": 1981,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1505,7 +1604,8 @@
 					"audioFile": "./billboard-top-1980/Call Me.mp3",
 					"startTime": null,
 					"year": 1980,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1521,7 +1621,8 @@
 					"audioFile": "./billboard-top-1980/Lady.mp3",
 					"startTime": null,
 					"year": 1980,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1537,7 +1638,8 @@
 					"audioFile": "./billboard-top-1980/Magic.mp3",
 					"startTime": null,
 					"year": 1980,
-					"level": null
+					"level": null,
+					"endTime": null
 				}
 			]
 		},
@@ -1568,7 +1670,8 @@
 					"audioFile": "./billboard-top-1990/No Scrubs.mp3",
 					"startTime": null,
 					"year": 1999,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1584,7 +1687,8 @@
 					"audioFile": "./billboard-top-1990/Believe.mp3",
 					"startTime": null,
 					"year": 1998,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1604,7 +1708,8 @@
 					"audioFile": "./billboard-top-1990/The Boy Is Mine.mp3",
 					"startTime": null,
 					"year": 1998,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1620,7 +1725,8 @@
 					"audioFile": "./billboard-top-1990/Too Close.mp3",
 					"startTime": null,
 					"year": 1998,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1636,7 +1742,8 @@
 					"audioFile": "./billboard-top-1990/You're Still The One.mp3",
 					"startTime": null,
 					"year": 1998,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1652,7 +1759,8 @@
 					"audioFile": "./billboard-top-1990/Angel of Mine.mp3",
 					"startTime": null,
 					"year": 1997,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1676,7 +1784,8 @@
 					"audioFile": "./billboard-top-1990/I'll Be Missing You.mp3",
 					"startTime": null,
 					"year": 1997,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1692,7 +1801,8 @@
 					"audioFile": "./billboard-top-1990/Because You Loved Me.mp3",
 					"startTime": null,
 					"year": 1996,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1708,7 +1818,8 @@
 					"audioFile": "./billboard-top-1990/I Believe I Can Fly.mp3",
 					"startTime": null,
 					"year": 1996,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1724,7 +1835,8 @@
 					"audioFile": "./billboard-top-1990/Un-Break My Heart.mp3",
 					"startTime": null,
 					"year": 1996,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1740,7 +1852,8 @@
 					"audioFile": "./billboard-top-1990/You Were Meant For Me.mp3",
 					"startTime": null,
 					"year": 1996,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1760,7 +1873,8 @@
 					"audioFile": "./billboard-top-1990/Gangsta's Paradise.mp3",
 					"startTime": null,
 					"year": 1995,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1776,7 +1890,8 @@
 					"audioFile": "./billboard-top-1990/Macarena (Bayside Boys Remix).mp3",
 					"startTime": null,
 					"year": 1995,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1796,7 +1911,8 @@
 					"audioFile": "./billboard-top-1990/One Sweet Day.mp3",
 					"startTime": null,
 					"year": 1995,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1812,7 +1928,8 @@
 					"audioFile": "./billboard-top-1990/Waterfalls.mp3",
 					"startTime": null,
 					"year": 1995,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1828,7 +1945,8 @@
 					"audioFile": "./billboard-top-1990/I'll Make Love To You.mp3",
 					"startTime": null,
 					"year": 1994,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1844,7 +1962,8 @@
 					"audioFile": "./billboard-top-1990/Kiss from a Rose.mp3",
 					"startTime": null,
 					"year": 1994,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1860,7 +1979,8 @@
 					"audioFile": "./billboard-top-1990/I Swear.mp3",
 					"startTime": null,
 					"year": 1993,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1876,7 +1996,8 @@
 					"audioFile": "./billboard-top-1990/The Sign.mp3",
 					"startTime": null,
 					"year": 1993,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1892,7 +2013,8 @@
 					"audioFile": "./billboard-top-1990/Whoomp! (There It Is).mp3",
 					"startTime": null,
 					"year": 1993,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1908,7 +2030,8 @@
 					"audioFile": "./billboard-top-1990/Baby Got Back.mp3",
 					"startTime": null,
 					"year": 1992,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1924,7 +2047,8 @@
 					"audioFile": "./billboard-top-1990/End Of The Road.mp3",
 					"startTime": null,
 					"year": 1992,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1940,7 +2064,8 @@
 					"audioFile": "./billboard-top-1990/I Will Always Love You.mp3",
 					"startTime": null,
 					"year": 1992,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1956,7 +2081,8 @@
 					"audioFile": "./billboard-top-1990/Jump.mp3",
 					"startTime": null,
 					"year": 1992,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1972,7 +2098,8 @@
 					"audioFile": "./billboard-top-1990/(Everything I Do) I Do It For You.mp3",
 					"startTime": null,
 					"year": 1991,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -1988,7 +2115,8 @@
 					"audioFile": "./billboard-top-1990/I Wanna Sex You Up.mp3",
 					"startTime": null,
 					"year": 1991,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2008,7 +2136,8 @@
 					"audioFile": "./billboard-top-1990/Gonna Make You Sweat (Everybody Dance Now).mp3",
 					"startTime": null,
 					"year": 1990,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2024,7 +2153,8 @@
 					"audioFile": "./billboard-top-1990/Hold On.mp3",
 					"startTime": null,
 					"year": 1990,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2040,7 +2170,8 @@
 					"audioFile": "./billboard-top-1990/Nothing Compares 2 U.mp3",
 					"startTime": null,
 					"year": 1990,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2056,7 +2187,8 @@
 					"audioFile": "./billboard-top-1990/Poison.mp3",
 					"startTime": null,
 					"year": 1990,
-					"level": null
+					"level": null,
+					"endTime": null
 				}
 			]
 		},
@@ -2087,7 +2219,8 @@
 					"audioFile": "./billboard-top-2000/Boom Boom Pow.mp3",
 					"startTime": null,
 					"year": 2009,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2107,7 +2240,8 @@
 					"audioFile": "./billboard-top-2000/Just Dance.mp3",
 					"startTime": null,
 					"year": 2008,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2127,7 +2261,8 @@
 					"audioFile": "./billboard-top-2000/Lollipop.mp3",
 					"startTime": null,
 					"year": 2008,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2143,7 +2278,8 @@
 					"audioFile": "./billboard-top-2000/Poker Face.mp3",
 					"startTime": null,
 					"year": 2008,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2159,7 +2295,8 @@
 					"audioFile": "./billboard-top-2000/Bleeding Love.mp3",
 					"startTime": null,
 					"year": 2007,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2179,7 +2316,8 @@
 					"audioFile": "./billboard-top-2000/Low.mp3",
 					"startTime": null,
 					"year": 2007,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2195,7 +2333,8 @@
 					"audioFile": "./billboard-top-2000/No One.mp3",
 					"startTime": null,
 					"year": 2007,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2215,7 +2354,8 @@
 					"audioFile": "./billboard-top-2000/Umbrella.mp3",
 					"startTime": null,
 					"year": 2007,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2231,7 +2371,8 @@
 					"audioFile": "./billboard-top-2000/Irreplaceable.mp3",
 					"startTime": null,
 					"year": 2006,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2251,7 +2392,8 @@
 					"audioFile": "./billboard-top-2000/Promiscuous.mp3",
 					"startTime": null,
 					"year": 2006,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2271,7 +2413,8 @@
 					"audioFile": "./billboard-top-2000/The Sweet Escape.mp3",
 					"startTime": null,
 					"year": 2006,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2287,7 +2430,8 @@
 					"audioFile": "./billboard-top-2000/Bad Day.mp3",
 					"startTime": null,
 					"year": 2005,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2303,7 +2447,8 @@
 					"audioFile": "./billboard-top-2000/Hollaback Girl.mp3",
 					"startTime": null,
 					"year": 2005,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2319,7 +2464,8 @@
 					"audioFile": "./billboard-top-2000/Temperature.mp3",
 					"startTime": null,
 					"year": 2005,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2335,7 +2481,8 @@
 					"audioFile": "./billboard-top-2000/We Belong Together.mp3",
 					"startTime": null,
 					"year": 2005,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2351,7 +2498,8 @@
 					"audioFile": "./billboard-top-2000/You're Beautiful.mp3",
 					"startTime": null,
 					"year": 2005,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2367,7 +2515,8 @@
 					"audioFile": "./billboard-top-2000/Burn.mp3",
 					"startTime": null,
 					"year": 2004,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2383,7 +2532,8 @@
 					"audioFile": "./billboard-top-2000/If I Ain't Got You.mp3",
 					"startTime": null,
 					"year": 2004,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2399,7 +2549,8 @@
 					"audioFile": "./billboard-top-2000/Let Me Love You.mp3",
 					"startTime": null,
 					"year": 2004,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2423,7 +2574,8 @@
 					"audioFile": "./billboard-top-2000/Yeah!.mp3",
 					"startTime": null,
 					"year": 2004,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2439,7 +2591,8 @@
 					"audioFile": "./billboard-top-2000/Get Busy.mp3",
 					"startTime": null,
 					"year": 2003,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2455,7 +2608,8 @@
 					"audioFile": "./billboard-top-2000/In Da Club.mp3",
 					"startTime": null,
 					"year": 2003,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2471,7 +2625,8 @@
 					"audioFile": "./billboard-top-2000/A Thousand Miles.mp3",
 					"startTime": null,
 					"year": 2002,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2487,7 +2642,8 @@
 					"audioFile": "./billboard-top-2000/Foolish.mp3",
 					"startTime": null,
 					"year": 2002,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2503,7 +2659,8 @@
 					"audioFile": "./billboard-top-2000/Hot In Herre.mp3",
 					"startTime": null,
 					"year": 2002,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2519,7 +2676,8 @@
 					"audioFile": "./billboard-top-2000/Ignition (Remix).mp3",
 					"startTime": null,
 					"year": 2002,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2535,7 +2693,8 @@
 					"audioFile": "./billboard-top-2000/All For You.mp3",
 					"startTime": null,
 					"year": 2001,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2551,7 +2710,8 @@
 					"audioFile": "./billboard-top-2000/Fallin'.mp3",
 					"startTime": null,
 					"year": 2001,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2567,7 +2727,8 @@
 					"audioFile": "./billboard-top-2000/How You Remind Me.mp3",
 					"startTime": null,
 					"year": 2001,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2583,7 +2744,8 @@
 					"audioFile": "./billboard-top-2000/Hanging By A Moment.mp3",
 					"startTime": null,
 					"year": 2000,
-					"level": null
+					"level": null,
+					"endTime": null
 				}
 			]
 		},
@@ -2614,7 +2776,8 @@
 					"audioFile": "./billboard-top-2010/God's Plan.mp3",
 					"startTime": null,
 					"year": 2018,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2635,7 +2798,8 @@
 					"audioFile": "./billboard-top-2010/Old Town Road (Remix).mp3",
 					"startTime": null,
 					"year": 2018,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2655,7 +2819,8 @@
 					"audioFile": "./billboard-top-2010/Sunflower.mp3",
 					"startTime": null,
 					"year": 2018,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2671,7 +2836,8 @@
 					"audioFile": "./billboard-top-2010/Without Me.mp3",
 					"startTime": null,
 					"year": 2018,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2691,7 +2857,8 @@
 					"audioFile": "./billboard-top-2010/Havana.mp3",
 					"startTime": null,
 					"year": 2017,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2707,7 +2874,8 @@
 					"audioFile": "./billboard-top-2010/HUMBLE..mp3",
 					"startTime": null,
 					"year": 2017,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2727,7 +2895,8 @@
 					"audioFile": "./billboard-top-2010/Meant to Be.mp3",
 					"startTime": null,
 					"year": 2017,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2743,7 +2912,8 @@
 					"audioFile": "./billboard-top-2010/Perfect.mp3",
 					"startTime": null,
 					"year": 2017,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2759,7 +2929,8 @@
 					"audioFile": "./billboard-top-2010/Shape of You.mp3",
 					"startTime": null,
 					"year": 2017,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2775,7 +2946,8 @@
 					"audioFile": "./billboard-top-2010/That's What I Like.mp3",
 					"startTime": null,
 					"year": 2017,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2799,7 +2971,8 @@
 					"audioFile": "./billboard-top-2010/One Dance.mp3",
 					"startTime": null,
 					"year": 2016,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2819,7 +2992,8 @@
 					"audioFile": "./billboard-top-2010/Work.mp3",
 					"startTime": null,
 					"year": 2016,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2835,7 +3009,8 @@
 					"audioFile": "./billboard-top-2010/Love Yourself.mp3",
 					"startTime": null,
 					"year": 2015,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2855,7 +3030,8 @@
 					"audioFile": "./billboard-top-2010/See You Again.mp3",
 					"startTime": null,
 					"year": 2015,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2871,7 +3047,8 @@
 					"audioFile": "./billboard-top-2010/Thinking out Loud.mp3",
 					"startTime": null,
 					"year": 2014,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2891,7 +3068,8 @@
 					"audioFile": "./billboard-top-2010/Uptown Funk.mp3",
 					"startTime": null,
 					"year": 2014,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2907,7 +3085,8 @@
 					"audioFile": "./billboard-top-2010/All of Me.mp3",
 					"startTime": null,
 					"year": 2013,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2932,7 +3111,8 @@
 					"audioFile": "./billboard-top-2010/Blurred Lines.mp3",
 					"startTime": null,
 					"year": 2013,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2952,7 +3132,8 @@
 					"audioFile": "./billboard-top-2010/Dark Horse.mp3",
 					"startTime": null,
 					"year": 2013,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2969,7 +3150,8 @@
 					"audioFile": "./billboard-top-2010/Happy.mp3",
 					"startTime": null,
 					"year": 2013,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -2989,7 +3171,8 @@
 					"audioFile": "./billboard-top-2010/Payphone.mp3",
 					"startTime": null,
 					"year": 2012,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3005,7 +3188,8 @@
 					"audioFile": "./billboard-top-2010/Radioactive.mp3",
 					"startTime": null,
 					"year": 2012,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3029,7 +3213,8 @@
 					"audioFile": "./billboard-top-2010/Thrift Shop.mp3",
 					"startTime": null,
 					"year": 2012,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3045,7 +3230,8 @@
 					"audioFile": "./billboard-top-2010/Call Me Maybe.mp3",
 					"startTime": null,
 					"year": 2011,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3069,7 +3255,8 @@
 					"audioFile": "./billboard-top-2010/Party Rock Anthem.mp3",
 					"startTime": null,
 					"year": 2011,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3090,7 +3277,8 @@
 					"audioFile": "./billboard-top-2010/Somebody That I Used To Know.mp3",
 					"startTime": null,
 					"year": 2011,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3112,7 +3300,8 @@
 					"audioFile": "./billboard-top-2010/We Are Young.mp3",
 					"startTime": null,
 					"year": 2011,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3128,7 +3317,8 @@
 					"audioFile": "./billboard-top-2010/Firework.mp3",
 					"startTime": null,
 					"year": 2010,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3149,7 +3339,8 @@
 					"audioFile": "./billboard-top-2010/OMG.mp3",
 					"startTime": null,
 					"year": 2010,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3165,382 +3356,14 @@
 					"audioFile": "./billboard-top-2010/Rolling in the Deep.mp3",
 					"startTime": null,
 					"year": 2010,
-					"level": null
-				}
-			]
-		},
-		{
-			"id": "celeste",
-			"title": "Celeste Collection",
-			"description": "Original Soundtrack from 'Celeste (2018)'.",
-			"difficulty": "Medium",
-			"gameStyle": 3,
-			"disabledLifelines": [
-				"year"
-			],
-			"sourceName": "Artist",
-			"author": "MusiQuiz",
-			"covers": [
-				"./celeste/cover.png"
-			],
-			"songs": [
-				{
-					"title": [
-						true,
-						"Anxiety"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Anxiety.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Awake"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Awake.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Checking In"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Checking In.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Confronting Myself"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Confronting Myself.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Exhale"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Exhale.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Farewell"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Farewell.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"First Steps"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/First Steps.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Golden"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Golden.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Heart of the Mountain"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Heart of the Mountain.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"In the Mirror"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/In the Mirror.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Little Goth"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Little Goth.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Madeline and Theo"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Madeline and Theo.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"My Dearest Friends"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/My Dearest Friends.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Postcard from Celeste Mountain"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Postcard from Celeste Mountain.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Prologue"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Prologue.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Quiet and Falling"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Quiet and Falling.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Reach for the Summit"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Reach for the Summit.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Reflection"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Reflection.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Resurrections"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Resurrections.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Scattered and Lost"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Scattered and Lost.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Spirit of Hospitality"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Spirit of Hospitality.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
-				},
-				{
-					"title": [
-						true,
-						"Starjump"
-					],
-					"sources": [
-						[
-							true,
-							"Lena Raine"
-						]
-					],
-					"audioFile": "./celeste/Starjump.mp3",
-					"startTime": null,
-					"year": 2018,
-					"level": null
+					"level": null,
+					"endTime": null
 				}
 			]
 		},
 		{
 			"id": "best-of-pixar",
-			"title": "Best of Pixar Collection",
+			"title": "Best of Pixar",
 			"description": "The most popular soundtracks from Pixar films.",
 			"difficulty": "Easy",
 			"gameStyle": 1,
@@ -3565,7 +3388,8 @@
 					"audioFile": "./best-of-pixar/Turning Red/Turning Red.mp3",
 					"startTime": null,
 					"year": 2022,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3581,7 +3405,8 @@
 					"audioFile": "./best-of-pixar/Luca/Telescope.mp3",
 					"startTime": null,
 					"year": 2021,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3597,7 +3422,8 @@
 					"audioFile": "./best-of-pixar/Onward/Carried Me With You.mp3",
 					"startTime": null,
 					"year": 2020,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3613,7 +3439,8 @@
 					"audioFile": "./best-of-pixar/Soul/Epiphany.mp3",
 					"startTime": null,
 					"year": 2020,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3630,7 +3457,8 @@
 					"audioFile": "./best-of-pixar/Soul/It's All Right.mp3",
 					"startTime": null,
 					"year": 2020,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3646,7 +3474,8 @@
 					"audioFile": "./best-of-pixar/Soul/Terry Time.mp3",
 					"startTime": null,
 					"year": 2020,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3662,7 +3491,8 @@
 					"audioFile": "./best-of-pixar/Toy Story 4/Parting Gifts & New Horizons.mp3",
 					"startTime": null,
 					"year": 2019,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3678,7 +3508,8 @@
 					"audioFile": "./best-of-pixar/Coco/Un Poco Loco.mp3",
 					"startTime": null,
 					"year": 2017,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3694,7 +3525,8 @@
 					"audioFile": "./best-of-pixar/Inside Out/Bundle of Joy.mp3",
 					"startTime": null,
 					"year": 2015,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3710,7 +3542,8 @@
 					"audioFile": "./best-of-pixar/The Good Dinosaur/Homestead.mp3",
 					"startTime": null,
 					"year": 2015,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3727,7 +3560,8 @@
 					"audioFile": "./best-of-pixar/Brave/Into The Open Air.mp3",
 					"startTime": null,
 					"year": 2012,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3743,7 +3577,8 @@
 					"audioFile": "./best-of-pixar/Brave/Touch The Sky.mp3",
 					"startTime": null,
 					"year": 2012,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3759,7 +3594,8 @@
 					"audioFile": "./best-of-pixar/Toy Story 3/We Belong Together.mp3",
 					"startTime": null,
 					"year": 2010,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3775,7 +3611,8 @@
 					"audioFile": "./best-of-pixar/Up/Married Life.mp3",
 					"startTime": null,
 					"year": 2009,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3793,7 +3630,8 @@
 					"audioFile": "./best-of-pixar/WALL-E/2815 AD.mp3",
 					"startTime": null,
 					"year": 2008,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3810,7 +3648,8 @@
 					"audioFile": "./best-of-pixar/WALL-E/Down to Earth.mp3",
 					"startTime": null,
 					"year": 2008,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3826,7 +3665,8 @@
 					"audioFile": "./best-of-pixar/Ratatouille/Le Festin.mp3",
 					"startTime": null,
 					"year": 2007,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3842,7 +3682,8 @@
 					"audioFile": "./best-of-pixar/Ratatouille/Ratatouille Main Theme.mp3",
 					"startTime": null,
 					"year": 2007,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3858,7 +3699,8 @@
 					"audioFile": "./best-of-pixar/Cars/Life is a Highway.mp3",
 					"startTime": null,
 					"year": 2006,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3874,7 +3716,8 @@
 					"audioFile": "./best-of-pixar/Cars/Real Gone.mp3",
 					"startTime": null,
 					"year": 2006,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3891,7 +3734,8 @@
 					"audioFile": "./best-of-pixar/The Incredibles/Life's Incredible Again.mp3",
 					"startTime": null,
 					"year": 2004,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3907,7 +3751,8 @@
 					"audioFile": "./best-of-pixar/The Incredibles/The Incredits.mp3",
 					"startTime": null,
 					"year": 2004,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3924,7 +3769,8 @@
 					"audioFile": "./best-of-pixar/Finding Nemo/Nemo Egg (Main Title).mp3",
 					"startTime": null,
 					"year": 2003,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3941,7 +3787,8 @@
 					"audioFile": "./best-of-pixar/Monsters, Inc/If I Didn't Have You.mp3",
 					"startTime": null,
 					"year": 2002,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3957,7 +3804,8 @@
 					"audioFile": "./best-of-pixar/Monsters, Inc/Monsters Inc.mp3",
 					"startTime": null,
 					"year": 2002,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3973,7 +3821,8 @@
 					"audioFile": "./best-of-pixar/Toy Story 2/When She Loved Me.mp3",
 					"startTime": null,
 					"year": 1999,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -3990,7 +3839,8 @@
 					"audioFile": "./best-of-pixar/A Bug's Life/The Time Of Your Life.mp3",
 					"startTime": null,
 					"year": 1998,
-					"level": null
+					"level": null,
+					"endTime": null
 				},
 				{
 					"title": [
@@ -4008,7 +3858,3426 @@
 					"audioFile": "./best-of-pixar/Toy Story/You've Got a Friend in Me.mp3",
 					"startTime": null,
 					"year": 1995,
-					"level": null
+					"level": null,
+					"endTime": null
+				}
+			]
+		},
+		{
+			"id": "best-of-disney",
+			"title": "Best of Disney Animation",
+			"description": "The most popular soundtracks from Disney animated films.",
+			"difficulty": "Easy",
+			"gameStyle": 1,
+			"disabledLifelines": [],
+			"sourceName": "Movie",
+			"author": "MusiQuiz",
+			"covers": [],
+			"songs": [
+				{
+					"title": [
+						false,
+						"How Far I'll Go"
+					],
+					"sources": [
+						[
+							true,
+							"Auli'i Cravalho"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Moana/How Far I'll Go.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2016
+				},
+				{
+					"title": [
+						false,
+						"Beyond"
+					],
+					"sources": [
+						[
+							true,
+							"Auli'i Cravalho"
+						],
+						[
+							true,
+							"Disney"
+						],
+						[
+							true,
+							"Rachel House"
+						]
+					],
+					"audioFile": "./best-of-disney/Moana 2/Beyond.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2024
+				},
+				{
+					"title": [
+						false,
+						"We're Back"
+					],
+					"sources": [
+						[
+							true,
+							"Auli'i Cravalho"
+						],
+						[
+							true,
+							"Villagers of Motunui"
+						],
+						[
+							true,
+							"Te Vaka"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Moana 2/We're Back.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2024
+				},
+				{
+					"title": [
+						false,
+						"At All Costs"
+					],
+					"sources": [
+						[
+							true,
+							"Chris Pine"
+						],
+						[
+							true,
+							"Ariana DeBose"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Wish/At All Costs.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2023
+				},
+				{
+					"title": [
+						false,
+						"This Wish"
+					],
+					"sources": [
+						[
+							true,
+							"Ariana DeBose"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Wish/This Wish.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2023
+				},
+				{
+					"title": [
+						false,
+						"Welcome To Rosas"
+					],
+					"sources": [
+						[
+							true,
+							"Ariana DeBose"
+						],
+						[
+							true,
+							"Wish - Cast"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Wish/Welcome To Rosas.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2023
+				},
+				{
+					"title": [
+						false,
+						"Surface Pressure"
+					],
+					"sources": [
+						[
+							true,
+							"Jessica Darrow"
+						]
+					],
+					"audioFile": "./best-of-disney/Encanto/Surface Pressure.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2021
+				},
+				{
+					"title": [
+						false,
+						"We Don't Talk About Bruno"
+					],
+					"sources": [
+						[
+							true,
+							"Carolina Gaitán - La Gaita"
+						],
+						[
+							true,
+							"Mauro Castillo"
+						],
+						[
+							true,
+							"Adassa"
+						],
+						[
+							true,
+							"Rhenzy Feliz"
+						],
+						[
+							true,
+							"Diane Guerrero"
+						],
+						[
+							true,
+							"Stephanie Beatriz"
+						],
+						[
+							true,
+							"Encanto - Cast"
+						]
+					],
+					"audioFile": "./best-of-disney/Encanto/We Don't Talk About Bruno.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2021
+				},
+				{
+					"title": [
+						false,
+						"All Is Found"
+					],
+					"sources": [
+						[
+							true,
+							"Evan Rachel Wood"
+						]
+					],
+					"audioFile": "./best-of-disney/Frozen 2/All Is Found.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2019
+				},
+				{
+					"title": [
+						false,
+						"Into the Unknown"
+					],
+					"sources": [
+						[
+							true,
+							"Idina Menzel"
+						],
+						[
+							true,
+							"AURORA"
+						]
+					],
+					"audioFile": "./best-of-disney/Frozen 2/Into the Unknown.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2019
+				},
+				{
+					"title": [
+						false,
+						"Some Things Never Change"
+					],
+					"sources": [
+						[
+							true,
+							"Kristen Bell"
+						],
+						[
+							true,
+							"Idina Menzel"
+						],
+						[
+							true,
+							"Josh Gad"
+						],
+						[
+							true,
+							"Jonathan Groff"
+						],
+						[
+							true,
+							"Cast of Frozen 2"
+						]
+					],
+					"audioFile": "./best-of-disney/Frozen 2/Some Things Never Change.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2019
+				},
+				{
+					"title": [
+						false,
+						"Where You Are"
+					],
+					"sources": [
+						[
+							true,
+							"Christopher Jackson"
+						],
+						[
+							true,
+							"Rachel House"
+						],
+						[
+							true,
+							"Nicole Scherzinger"
+						],
+						[
+							true,
+							"Auli'i Cravalho"
+						],
+						[
+							true,
+							"Louise Bush"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Moana/Where You Are.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2016
+				},
+				{
+					"title": [
+						false,
+						"You're Welcome"
+					],
+					"sources": [
+						[
+							true,
+							"Dwayne Johnson"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Moana/You're Welcome.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2016
+				},
+				{
+					"title": [
+						false,
+						"Do You Want to Build a Snowman?"
+					],
+					"sources": [
+						[
+							true,
+							"Kristen Bell"
+						],
+						[
+							true,
+							"Agatha Lee Monn"
+						],
+						[
+							true,
+							"Katie Lopez"
+						]
+					],
+					"audioFile": "./best-of-disney/Frozen/Do You Want to Build a Snowman.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2013
+				},
+				{
+					"title": [
+						false,
+						"For the First Time in Forever"
+					],
+					"sources": [
+						[
+							true,
+							"Kristen Bell"
+						],
+						[
+							true,
+							"Idina Menzel"
+						]
+					],
+					"audioFile": "./best-of-disney/Frozen/For the First Time in Forever.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2013
+				},
+				{
+					"title": [
+						false,
+						"Let It Go"
+					],
+					"sources": [
+						[
+							true,
+							"Idina Menzel"
+						]
+					],
+					"audioFile": "./best-of-disney/Frozen/Let It Go.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2013
+				},
+				{
+					"title": [
+						false,
+						"Love Is an Open Door"
+					],
+					"sources": [
+						[
+							true,
+							"Kristen Bell"
+						],
+						[
+							true,
+							"Santino Fontana"
+						]
+					],
+					"audioFile": "./best-of-disney/Frozen/Love Is an Open Door.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2013
+				},
+				{
+					"title": [
+						false,
+						"I See the Light"
+					],
+					"sources": [
+						[
+							true,
+							"Mandy Moore"
+						],
+						[
+							true,
+							"Zachary Levi"
+						]
+					],
+					"audioFile": "./best-of-disney/Tangled/I See the Light.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2010
+				},
+				{
+					"title": [
+						false,
+						"I've Got a Dream"
+					],
+					"sources": [
+						[
+							true,
+							"Mandy Moore"
+						],
+						[
+							true,
+							"Brad Garrett"
+						],
+						[
+							true,
+							"Ensemble - Tangled"
+						],
+						[
+							true,
+							"Zachary Levi"
+						],
+						[
+							true,
+							"Jeffrey Tambor"
+						]
+					],
+					"audioFile": "./best-of-disney/Tangled/I've Got a Dream.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2010
+				},
+				{
+					"title": [
+						false,
+						"Mother Knows Best"
+					],
+					"sources": [
+						[
+							true,
+							"Donna Murphy"
+						]
+					],
+					"audioFile": "./best-of-disney/Tangled/Mother Knows Best.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2010
+				},
+				{
+					"title": [
+						false,
+						"When Will My Life Begin?"
+					],
+					"sources": [
+						[
+							true,
+							"Mandy Moore"
+						]
+					],
+					"audioFile": "./best-of-disney/Tangled/When Will My Life Begin.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2010
+				},
+				{
+					"title": [
+						false,
+						"Almost There"
+					],
+					"sources": [
+						[
+							true,
+							"Anika Noni Rose"
+						]
+					],
+					"audioFile": "./best-of-disney/The Princess and the Frog/Almost There.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2009
+				},
+				{
+					"title": [
+						false,
+						"Dig a Little Deeper"
+					],
+					"sources": [
+						[
+							true,
+							"Jenifer Lewis"
+						],
+						[
+							true,
+							"The Pinnacle Gospel Choir"
+						]
+					],
+					"audioFile": "./best-of-disney/The Princess and the Frog/Dig a Little Deeper.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2009
+				},
+				{
+					"title": [
+						false,
+						"Friends on the Other Side"
+					],
+					"sources": [
+						[
+							true,
+							"Keith David"
+						]
+					],
+					"audioFile": "./best-of-disney/The Princess and the Frog/Friends on the Other Side.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2009
+				},
+				{
+					"title": [
+						false,
+						"When We're Human"
+					],
+					"sources": [
+						[
+							true,
+							"Michael-Leon Wooley"
+						],
+						[
+							true,
+							"Bruno Campos"
+						],
+						[
+							true,
+							"Anika Noni Rose"
+						],
+						[
+							true,
+							"Terence Blanchard"
+						]
+					],
+					"audioFile": "./best-of-disney/The Princess and the Frog/When We're Human.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2009
+				},
+				{
+					"title": [
+						false,
+						"Look Through My Eyes"
+					],
+					"sources": [
+						[
+							true,
+							"Phil Collins"
+						]
+					],
+					"audioFile": "./best-of-disney/Brother Bear/Look Through My Eyes.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2003
+				},
+				{
+					"title": [
+						false,
+						"No Way Out"
+					],
+					"sources": [
+						[
+							true,
+							"Phil Collins"
+						]
+					],
+					"audioFile": "./best-of-disney/Brother Bear/No Way Out.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2003
+				},
+				{
+					"title": [
+						false,
+						"On My Way"
+					],
+					"sources": [
+						[
+							true,
+							"Phil Collins"
+						]
+					],
+					"audioFile": "./best-of-disney/Brother Bear/On My Way.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2003
+				},
+				{
+					"title": [
+						false,
+						"Hawaiian Roller Coaster Ride"
+					],
+					"sources": [
+						[
+							true,
+							"Mark Keali'i Ho'omalu"
+						],
+						[
+							true,
+							"Kamehameha Schools Children's Chorus"
+						]
+					],
+					"audioFile": "./best-of-disney/Lilo & Stitch/Hawaiian Roller Coaster Ride.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2002
+				},
+				{
+					"title": [
+						false,
+						"He Mele No Lilo"
+					],
+					"sources": [
+						[
+							true,
+							"Mark Keali'i Ho'omalu"
+						],
+						[
+							true,
+							"Kamehameha Schools Children's Chorus"
+						]
+					],
+					"audioFile": "./best-of-disney/Lilo & Stitch/He Mele No Lilo.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2002
+				},
+				{
+					"title": [
+						false,
+						"I'm Still Here / Jim's Theme",
+						"I'm Still Here",
+						"Jim's Theme"
+					],
+					"sources": [
+						[
+							true,
+							"John Rzeznik"
+						]
+					],
+					"audioFile": "./best-of-disney/Treasure Planet/I'm Still Here (Jim's Theme).mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2002
+				},
+				{
+					"title": [
+						false,
+						"The Crystal Chamber"
+					],
+					"sources": [
+						[
+							true,
+							"James Newton Howard"
+						]
+					],
+					"audioFile": "./best-of-disney/Atlantis The Lost Empire/The Crystal Chamber.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2001
+				},
+				{
+					"title": [
+						false,
+						"The Submarine"
+					],
+					"sources": [
+						[
+							true,
+							"James Newton Howard"
+						]
+					],
+					"audioFile": "./best-of-disney/Atlantis The Lost Empire/The Submarine.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2001
+				},
+				{
+					"title": [
+						false,
+						"One Family"
+					],
+					"sources": [
+						[
+							true,
+							"Mark Mancina"
+						],
+						[
+							true,
+							"Phil Collins"
+						]
+					],
+					"audioFile": "./best-of-disney/Tarzan/One Family.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1999
+				},
+				{
+					"title": [
+						false,
+						"Son of Man"
+					],
+					"sources": [
+						[
+							true,
+							"Phil Collins"
+						]
+					],
+					"audioFile": "./best-of-disney/Tarzan/Son of Man.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1999
+				},
+				{
+					"title": [
+						false,
+						"Strangers Like Me"
+					],
+					"sources": [
+						[
+							true,
+							"Phil Collins"
+						]
+					],
+					"audioFile": "./best-of-disney/Tarzan/Strangers Like Me.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1999
+				},
+				{
+					"title": [
+						false,
+						"Trashin' The Camp"
+					],
+					"sources": [
+						[
+							true,
+							"Rosie O'Donnell"
+						],
+						[
+							true,
+							"Phil Collins"
+						],
+						[
+							true,
+							"Cast - Tarzan"
+						]
+					],
+					"audioFile": "./best-of-disney/Tarzan/Trashin' The Camp.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1999
+				},
+				{
+					"title": [
+						false,
+						"Two Worlds"
+					],
+					"sources": [
+						[
+							true,
+							"Phil Collins"
+						]
+					],
+					"audioFile": "./best-of-disney/Tarzan/Two Worlds.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1999
+				},
+				{
+					"title": [
+						false,
+						"You'll Be In My Heart"
+					],
+					"sources": [
+						[
+							true,
+							"Glenn Close"
+						],
+						[
+							true,
+							"Phil Collins"
+						]
+					],
+					"audioFile": "./best-of-disney/Tarzan/You'll Be In My Heart.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1999
+				},
+				{
+					"title": [
+						false,
+						"A Girl Worth Fighting For"
+					],
+					"sources": [
+						[
+							true,
+							"Lea Salonga"
+						],
+						[
+							true,
+							"Harvey Fierstein"
+						],
+						[
+							true,
+							"Matthew Wilder"
+						],
+						[
+							true,
+							"James Hong"
+						],
+						[
+							true,
+							"Jerry Tondo"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Mulan/A Girl Worth Fighting For.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1998
+				},
+				{
+					"title": [
+						false,
+						"Honor To Us All"
+					],
+					"sources": [
+						[
+							true,
+							"Lea Salonga"
+						],
+						[
+							true,
+							"Beth Fowler"
+						],
+						[
+							true,
+							"Marnie Nixon"
+						],
+						[
+							true,
+							"Chorus - Mulan"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Mulan/Honor To Us All.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1998
+				},
+				{
+					"title": [
+						false,
+						"I'll Make a Man Out of You"
+					],
+					"sources": [
+						[
+							true,
+							"Donny Osmond"
+						],
+						[
+							true,
+							"Chorus - Mulan"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Mulan/I'll Make a Man Out of You.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1998
+				},
+				{
+					"title": [
+						false,
+						"Mulan's Decision"
+					],
+					"sources": [
+						[
+							true,
+							"Jerry Goldsmith"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Mulan/Mulan's Decision.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1998
+				},
+				{
+					"title": [
+						false,
+						"Reflection"
+					],
+					"sources": [
+						[
+							true,
+							"Lea Salonga"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Mulan/Reflection.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1998
+				},
+				{
+					"title": [
+						false,
+						"A Star Is Born"
+					],
+					"sources": [
+						[
+							true,
+							"Cheryl Freeman"
+						],
+						[
+							true,
+							"LaChanze"
+						],
+						[
+							true,
+							"Vaneese Thomas"
+						],
+						[
+							true,
+							"Lillias White"
+						],
+						[
+							true,
+							"Roz Ryan"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Hercules/A Star Is Born.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1997
+				},
+				{
+					"title": [
+						false,
+						"Go the Distance"
+					],
+					"sources": [
+						[
+							true,
+							"Roger Bart"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Hercules/Go the Distance.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1997
+				},
+				{
+					"title": [
+						false,
+						"I Won't Say / I'm In Love",
+						"I Won't Say",
+						"I'm In Love"
+					],
+					"sources": [
+						[
+							true,
+							"Susan Egan"
+						],
+						[
+							true,
+							"Cheryl Freeman"
+						],
+						[
+							true,
+							"LaChanze"
+						],
+						[
+							true,
+							"Vaneese Thomas"
+						],
+						[
+							true,
+							"Lillias White"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Hercules/I Won't Say (I'm In Love).mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1997
+				},
+				{
+					"title": [
+						false,
+						"The Gospel Truth I / Main Titles"
+					],
+					"sources": [
+						[
+							true,
+							"Cheryl Freeman"
+						],
+						[
+							true,
+							"LaChanze"
+						],
+						[
+							true,
+							"Vaneese Thomas"
+						],
+						[
+							true,
+							"Lillias White"
+						],
+						[
+							true,
+							"Roz Ryan"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Hercules/The Gospel Truth - Main Titles.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1997
+				},
+				{
+					"title": [
+						false,
+						"Zero To Hero"
+					],
+					"sources": [
+						[
+							true,
+							"Chorus - Hercules"
+						],
+						[
+							true,
+							"Lillias White"
+						],
+						[
+							true,
+							"Cheryl Freeman"
+						],
+						[
+							true,
+							"LaChanze"
+						],
+						[
+							true,
+							"Roz Ryan"
+						],
+						[
+							true,
+							"Vaneese Thomas"
+						],
+						[
+							true,
+							"Tawatha Agee"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Hercules/Zero To Hero.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1997
+				},
+				{
+					"title": [
+						false,
+						"God Help the Outcasts"
+					],
+					"sources": [
+						[
+							true,
+							"Heidi Mollenhauer"
+						],
+						[
+							true,
+							"Chorus - The Hunchback of Notre Dame"
+						]
+					],
+					"audioFile": "./best-of-disney/The Hunchback of Notre Dame/God Help the Outcasts.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1996
+				},
+				{
+					"title": [
+						false,
+						"Heaven's Light/Hellfire"
+					],
+					"sources": [
+						[
+							true,
+							"Tony Jay"
+						],
+						[
+							true,
+							"Tom Hulce"
+						],
+						[
+							true,
+							"Chorus - The Hunchback of Notre Dame"
+						]
+					],
+					"audioFile": "./best-of-disney/The Hunchback of Notre Dame/Heaven's Light Hellfire.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1996
+				},
+				{
+					"title": [
+						false,
+						"Out There"
+					],
+					"sources": [
+						[
+							true,
+							"Tony Jay"
+						],
+						[
+							true,
+							"Tom Hulce"
+						]
+					],
+					"audioFile": "./best-of-disney/The Hunchback of Notre Dame/Out There.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1996
+				},
+				{
+					"title": [
+						false,
+						"Someday"
+					],
+					"sources": [
+						[
+							true,
+							"All-4-One"
+						]
+					],
+					"audioFile": "./best-of-disney/The Hunchback of Notre Dame/Someday.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1996
+				},
+				{
+					"title": [
+						false,
+						"The Bells of Notre Dame"
+					],
+					"sources": [
+						[
+							true,
+							"David Ogden Stiers"
+						],
+						[
+							true,
+							"Tony Jay"
+						],
+						[
+							true,
+							"Paul Kandel"
+						],
+						[
+							true,
+							"Chorus - The Hunchback of Notre Dame"
+						]
+					],
+					"audioFile": "./best-of-disney/The Hunchback of Notre Dame/The Bells of Notre Dame.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1996
+				},
+				{
+					"title": [
+						false,
+						"After Today"
+					],
+					"sources": [
+						[
+							true,
+							"Aaron Lohr"
+						],
+						[
+							true,
+							"Chorus - After Today"
+						]
+					],
+					"audioFile": "./best-of-disney/A Goofy Movie/After Today.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"I2I"
+					],
+					"sources": [
+						[
+							true,
+							"Tevin Campbell"
+						],
+						[
+							true,
+							"Rosie Gaines"
+						]
+					],
+					"audioFile": "./best-of-disney/A Goofy Movie/I2I.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"On The Open Road"
+					],
+					"sources": [
+						[
+							true,
+							"Aaron Lohr"
+						],
+						[
+							true,
+							"Bill Farmer"
+						],
+						[
+							true,
+							"Chorus - On The Open Road"
+						]
+					],
+					"audioFile": "./best-of-disney/A Goofy Movie/On The Open Road.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"Stand Out"
+					],
+					"sources": [
+						[
+							true,
+							"Tevin Campbell"
+						]
+					],
+					"audioFile": "./best-of-disney/A Goofy Movie/Stand Out.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"Colors of the Wind"
+					],
+					"sources": [
+						[
+							true,
+							"Judy Kuhn"
+						]
+					],
+					"audioFile": "./best-of-disney/Pocahontas/Colors of the Wind.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"Just Around the Riverbend"
+					],
+					"sources": [
+						[
+							true,
+							"Judy Kuhn"
+						]
+					],
+					"audioFile": "./best-of-disney/Pocahontas/Just Around the Riverbend.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"Listen With Your Heart Pt. 1"
+					],
+					"sources": [
+						[
+							true,
+							"Linda Hunt"
+						],
+						[
+							true,
+							"Bobbi Page"
+						]
+					],
+					"audioFile": "./best-of-disney/Pocahontas/Listen With Your Heart Pt 1.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"Mine, Mine, Mine"
+					],
+					"sources": [
+						[
+							true,
+							"David Ogden Stiers"
+						],
+						[
+							true,
+							"Mel Gibson"
+						]
+					],
+					"audioFile": "./best-of-disney/Pocahontas/Mine Mine Mine.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"Savages Pt. 1"
+					],
+					"sources": [
+						[
+							true,
+							"Chorus - Pocahontas"
+						],
+						[
+							true,
+							"David Ogden Stiers"
+						],
+						[
+							true,
+							"Jim Cummings"
+						]
+					],
+					"audioFile": "./best-of-disney/Pocahontas/Savages Pt 1.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"Be Prepared"
+					],
+					"sources": [
+						[
+							true,
+							"Jeremy Irons"
+						],
+						[
+							true,
+							"Whoopi Goldberg"
+						],
+						[
+							true,
+							"Cheech Marin"
+						],
+						[
+							true,
+							"Jim Cummings"
+						]
+					],
+					"audioFile": "./best-of-disney/The Lion King/Be Prepared.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1994
+				},
+				{
+					"title": [
+						false,
+						"Can You Feel the Love Tonight"
+					],
+					"sources": [
+						[
+							true,
+							"Joseph Williams"
+						],
+						[
+							true,
+							"Sally Dworsky"
+						],
+						[
+							true,
+							"Nathan Lane"
+						],
+						[
+							true,
+							"Ernie Sabella"
+						],
+						[
+							true,
+							"Kristle Edwards"
+						]
+					],
+					"audioFile": "./best-of-disney/The Lion King/Can You Feel the Love Tonight.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1994
+				},
+				{
+					"title": [
+						false,
+						"Circle of Life"
+					],
+					"sources": [
+						[
+							true,
+							"Carmen Twillie"
+						],
+						[
+							true,
+							"Lebo M."
+						]
+					],
+					"audioFile": "./best-of-disney/The Lion King/Circle of Life.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1994
+				},
+				{
+					"title": [
+						false,
+						"Hakuna Matata"
+					],
+					"sources": [
+						[
+							true,
+							"Nathan Lane"
+						],
+						[
+							true,
+							"Ernie Sabella"
+						],
+						[
+							true,
+							"Jason Weaver"
+						],
+						[
+							true,
+							"Joseph Williams"
+						]
+					],
+					"audioFile": "./best-of-disney/The Lion King/Hakuna Matata.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1994
+				},
+				{
+					"title": [
+						false,
+						"I Just Can't Wait to Be King"
+					],
+					"sources": [
+						[
+							true,
+							"Jason Weaver"
+						],
+						[
+							true,
+							"Rowan Atkinson"
+						],
+						[
+							true,
+							"Laura Williams"
+						]
+					],
+					"audioFile": "./best-of-disney/The Lion King/I Just Can't Wait to Be King.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1994
+				},
+				{
+					"title": [
+						false,
+						"This Land"
+					],
+					"sources": [
+						[
+							true,
+							"Hans Zimmer"
+						],
+						[
+							true,
+							"Lebo M."
+						]
+					],
+					"audioFile": "./best-of-disney/The Lion King/This Land.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1994
+				},
+				{
+					"title": [
+						false,
+						"A Whole New World"
+					],
+					"sources": [
+						[
+							true,
+							"Lea Salonga"
+						],
+						[
+							true,
+							"Brad Kane"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Aladdin/A Whole New World.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1992
+				},
+				{
+					"title": [
+						false,
+						"Arabian Nights"
+					],
+					"sources": [
+						[
+							true,
+							"Bruce Adler"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Aladdin/Arabian Nights.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1992
+				},
+				{
+					"title": [
+						false,
+						"Friend Like Me"
+					],
+					"sources": [
+						[
+							true,
+							"Robin Williams"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Aladdin/Friend Like Me.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1992
+				},
+				{
+					"title": [
+						false,
+						"One Jump Ahead"
+					],
+					"sources": [
+						[
+							true,
+							"Brad Kane"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Aladdin/One Jump Ahead.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1992
+				},
+				{
+					"title": [
+						false,
+						"Prince Ali"
+					],
+					"sources": [
+						[
+							true,
+							"Robin Williams"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Aladdin/Prince Ali.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1992
+				},
+				{
+					"title": [
+						false,
+						"Be Our Guest"
+					],
+					"sources": [
+						[
+							true,
+							"Angela Lansbury"
+						],
+						[
+							true,
+							"Jerry Orbach"
+						],
+						[
+							true,
+							"Chorus - Beauty And the Beast"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Beauty and the Beast/Be Our Guest.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1991
+				},
+				{
+					"title": [
+						false,
+						"Beauty and the Beast"
+					],
+					"sources": [
+						[
+							true,
+							"Angela Lansbury"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Beauty and the Beast/Beauty and the Beast.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1991
+				},
+				{
+					"title": [
+						false,
+						"Belle"
+					],
+					"sources": [
+						[
+							true,
+							"Richard White"
+						],
+						[
+							true,
+							"Paige O'Hara"
+						],
+						[
+							true,
+							"Chorus - Beauty And the Beast"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Beauty and the Beast/Belle.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1991
+				},
+				{
+					"title": [
+						false,
+						"Gaston"
+					],
+					"sources": [
+						[
+							true,
+							"Richard White"
+						],
+						[
+							true,
+							"Jesse Corti"
+						],
+						[
+							true,
+							"Chorus - Beauty And the Beast"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Beauty and the Beast/Gaston.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1991
+				},
+				{
+					"title": [
+						false,
+						"Something There"
+					],
+					"sources": [
+						[
+							true,
+							"Robby Benson"
+						],
+						[
+							true,
+							"Jerry Orbach"
+						],
+						[
+							true,
+							"Paige O'Hara"
+						],
+						[
+							true,
+							"Angela Lansbury"
+						],
+						[
+							true,
+							"David Ogden Stiers"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Beauty and the Beast/Something There.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1991
+				},
+				{
+					"title": [
+						false,
+						"The Mob Song"
+					],
+					"sources": [
+						[
+							true,
+							"Chorus - Beauty And the Beast"
+						],
+						[
+							true,
+							"Richard White"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Beauty and the Beast/The Mob Song.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1991
+				},
+				{
+					"title": [
+						false,
+						"Transformation"
+					],
+					"sources": [
+						[
+							true,
+							"Alan Menken"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/Beauty and the Beast/Transformation.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1991
+				},
+				{
+					"title": [
+						false,
+						"Kiss the Girl"
+					],
+					"sources": [
+						[
+							true,
+							"Samuel E. Wright"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/The Little Mermaid/Kiss the Girl.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1989
+				},
+				{
+					"title": [
+						false,
+						"Part of Your World"
+					],
+					"sources": [
+						[
+							true,
+							"Jodi Benson"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/The Little Mermaid/Part of Your World.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1989
+				},
+				{
+					"title": [
+						false,
+						"Poor Unfortunate Souls"
+					],
+					"sources": [
+						[
+							true,
+							"Pat Carroll"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/The Little Mermaid/Poor Unfortunate Souls.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1989
+				},
+				{
+					"title": [
+						false,
+						"Under the Sea"
+					],
+					"sources": [
+						[
+							true,
+							"Samuel E. Wright"
+						],
+						[
+							true,
+							"Disney"
+						]
+					],
+					"audioFile": "./best-of-disney/The Little Mermaid/Under the Sea.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1989
+				},
+				{
+					"title": [
+						false,
+						"Streets Of Gold"
+					],
+					"sources": [
+						[
+							true,
+							"Ruth Pointer"
+						]
+					],
+					"audioFile": "./best-of-disney/Oliver & Company/Streets Of Gold.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1988
+				},
+				{
+					"title": [
+						false,
+						"Why Should I Worry?"
+					],
+					"sources": [
+						[
+							true,
+							"Billy Joel"
+						]
+					],
+					"audioFile": "./best-of-disney/Oliver & Company/Why Should I Worry.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1988
+				},
+				{
+					"title": [
+						false,
+						"Big Ben Chase"
+					],
+					"sources": [
+						[
+							true,
+							"Henry Mancini"
+						]
+					],
+					"audioFile": "./best-of-disney/The Great Mouse Detective/Big Ben Chase.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1986
+				},
+				{
+					"title": [
+						false,
+						"\"Goodbye So Soon\""
+					],
+					"sources": [
+						[
+							true,
+							"Vincent Price"
+						]
+					],
+					"audioFile": "./best-of-disney/The Great Mouse Detective/Goodbye So Soon.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1986
+				},
+				{
+					"title": [
+						false,
+						"\"The World's Greatest Criminal Mind\""
+					],
+					"sources": [
+						[
+							true,
+							"Vincent Price"
+						]
+					],
+					"audioFile": "./best-of-disney/The Great Mouse Detective/The World's Greatest Criminal Mind.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1986
+				},
+				{
+					"title": [
+						false,
+						"Tomorrow Is Another Day"
+					],
+					"sources": [
+						[
+							true,
+							"Shelby Flint"
+						]
+					],
+					"audioFile": "./best-of-disney/The Rescuers/Tomorrow Is Another Day.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1977
+				},
+				{
+					"title": [
+						false,
+						"Ev'rybody Wants to Be a Cat"
+					],
+					"sources": [
+						[
+							true,
+							"Scatman Crothers"
+						],
+						[
+							true,
+							"Phil Harris"
+						],
+						[
+							true,
+							"Thurl Ravenscroft"
+						],
+						[
+							true,
+							"Liz English"
+						]
+					],
+					"audioFile": "./best-of-disney/The Aristocats/Ev'rybody Wants to Be a Cat.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1970
+				},
+				{
+					"title": [
+						false,
+						"I Wan'na Be Like You / The Monkey Song",
+						"I Wan'na Be Like You / Monkey Song",
+						"I Wan'na Be Like You",
+						"The Monkey Song"
+					],
+					"sources": [
+						[
+							true,
+							"Louis Prima"
+						],
+						[
+							true,
+							"Phil Harris"
+						],
+						[
+							true,
+							"Bruce Reitherman"
+						]
+					],
+					"audioFile": "./best-of-disney/The Jungle Book/I Wan'na Be Like You (The Monkey Song).mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1967
+				},
+				{
+					"title": [
+						false,
+						"The Bare Necessities"
+					],
+					"sources": [
+						[
+							true,
+							"Phil Harris"
+						],
+						[
+							true,
+							"Bruce Reitherman"
+						]
+					],
+					"audioFile": "./best-of-disney/The Jungle Book/The Bare Necessities.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1967
+				},
+				{
+					"title": [
+						false,
+						"Cruella De Vil"
+					],
+					"sources": [
+						[
+							true,
+							"Bill Lee"
+						]
+					],
+					"audioFile": "./best-of-disney/One Hundred and One Dalmatians/Cruella De Vil.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1961
+				},
+				{
+					"title": [
+						false,
+						"Overture"
+					],
+					"sources": [
+						[
+							true,
+							"George Bruns"
+						]
+					],
+					"audioFile": "./best-of-disney/One Hundred and One Dalmatians/Overture.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1961
+				},
+				{
+					"title": [
+						false,
+						"An Unusual Prince / Once Upon A Dream"
+					],
+					"sources": [
+						[
+							true,
+							"Mary Costa"
+						],
+						[
+							true,
+							"Bill Shirley"
+						],
+						[
+							true,
+							"Chorus - Sleeping Beauty"
+						]
+					],
+					"audioFile": "./best-of-disney/Sleeping Beauty/An Unusual Prince - Once Upon A Dream.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1959
+				},
+				{
+					"title": [
+						false,
+						"Main Title / Once Upon A Dream / Prologue"
+					],
+					"sources": [
+						[
+							true,
+							"Chorus - Sleeping Beauty"
+						]
+					],
+					"audioFile": "./best-of-disney/Sleeping Beauty/Main Title - Once Upon A Dream - Prologue.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1959
+				},
+				{
+					"title": [
+						false,
+						"Main Title (Bella Notte)/The Wag of a Dog's Tail"
+					],
+					"sources": [
+						[
+							true,
+							"Disney Studio Chorus"
+						],
+						[
+							true,
+							"Oliver Wallace"
+						]
+					],
+					"audioFile": "./best-of-disney/Lady and the Tramp/Main Title (Bella Notte) - The Wag of a Dog's Tail.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1955
+				},
+				{
+					"title": [
+						false,
+						"What a Dog/He's a Tramp"
+					],
+					"sources": [
+						[
+							true,
+							"Oliver Wallace"
+						],
+						[
+							true,
+							"Peggy Lee"
+						]
+					],
+					"audioFile": "./best-of-disney/Lady and the Tramp/What a Dog - He's a Tramp.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1955
+				},
+				{
+					"title": [
+						false,
+						"Following the Leader"
+					],
+					"sources": [
+						[
+							true,
+							"Bobby Driscoll"
+						],
+						[
+							true,
+							"Paul Collins"
+						]
+					],
+					"audioFile": "./best-of-disney/Peter Pan/Following the Leader.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1953
+				},
+				{
+					"title": [
+						false,
+						"Main Title (The Second Star to the Right) / All This Has Happened Before"
+					],
+					"sources": [
+						[
+							true,
+							"The Jud Conlon Chorus"
+						]
+					],
+					"audioFile": "./best-of-disney/Peter Pan/Main Title (The Second Star to the Right) - All This Has Happened Before.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1953
+				},
+				{
+					"title": [
+						false,
+						"Your Mother and Mine"
+					],
+					"sources": [
+						[
+							true,
+							"Kathryn Beaumont"
+						]
+					],
+					"audioFile": "./best-of-disney/Peter Pan/Your Mother and Mine.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1953
+				},
+				{
+					"title": [
+						false,
+						"Main Title"
+					],
+					"sources": [
+						[
+							true,
+							"The Jud Conlon Chorus"
+						]
+					],
+					"audioFile": "./best-of-disney/Alice in Wonderland/Main Title.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1951
+				},
+				{
+					"title": [
+						false,
+						"Painting the Roses Red / March of the Cards"
+					],
+					"sources": [
+						[
+							true,
+							"The Mello Men"
+						],
+						[
+							true,
+							"Kathryn Beaumont"
+						]
+					],
+					"audioFile": "./best-of-disney/Alice in Wonderland/Painting the Roses Red - March of the Cards.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1951
+				},
+				{
+					"title": [
+						false,
+						"Pay Attention / In a World of My Own"
+					],
+					"sources": [
+						[
+							true,
+							"Kathryn Beaumont"
+						]
+					],
+					"audioFile": "./best-of-disney/Alice in Wonderland/Pay Attention - In a World of My Own.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1951
+				},
+				{
+					"title": [
+						false,
+						"The Garden / All in the Golden Afternoon"
+					],
+					"sources": [
+						[
+							true,
+							"Kathryn Beaumont"
+						],
+						[
+							true,
+							"Disney Studio Chorus"
+						]
+					],
+					"audioFile": "./best-of-disney/Alice in Wonderland/The Garden - All in the Golden Afternoon.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1951
+				},
+				{
+					"title": [
+						false,
+						"A Dream Is a Wish Your Heart Makes"
+					],
+					"sources": [
+						[
+							true,
+							"Ilene Woods"
+						],
+						[
+							true,
+							"Mice Chorus"
+						]
+					],
+					"audioFile": "./best-of-disney/Cinderella/A Dream Is a Wish Your Heart Makes.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1950
+				},
+				{
+					"title": [
+						false,
+						"Where Did I Put That Thing / Bibbidi-Bobbidi-Boo (The Magic Song)",
+						"Where Did I Put That Thing",
+						"Bibbidi-Bobbidi-Boo",
+						"The Magic Song"
+					],
+					"sources": [
+						[
+							true,
+							"Verna Felton"
+						]
+					],
+					"audioFile": "./best-of-disney/Cinderella/Where Did I Put That Thing - Bibbidi-Bobbidi-Boo (The Magic Song).mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1950
+				},
+				{
+					"title": [
+						false,
+						"The Sorcerer's Apprentice"
+					],
+					"sources": [
+						[
+							true,
+							"Leopold Stokowski"
+						],
+						[
+							true,
+							"The Philadelphia Orchestra"
+						]
+					],
+					"audioFile": "./best-of-disney/Fantasia/The Sorcerer's Apprentice.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1940
+				},
+				{
+					"title": [
+						false,
+						"When You Wish Upon a Star"
+					],
+					"sources": [
+						[
+							true,
+							"Cliff Edwards"
+						],
+						[
+							true,
+							"Disney Studio Chorus"
+						]
+					],
+					"audioFile": "./best-of-disney/Pinocchio/When You Wish Upon a Star.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1940
+				},
+				{
+					"title": [
+						false,
+						"Heigh-Ho"
+					],
+					"sources": [
+						[
+							true,
+							"The Dwarf Chorus"
+						]
+					],
+					"audioFile": "./best-of-disney/Snow White and the Seven Dwarfs/Heigh-Ho.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1937
+				},
+				{
+					"title": [
+						false,
+						"Some Day My Prince Will Come"
+					],
+					"sources": [
+						[
+							true,
+							"Adriana Caselotti"
+						]
+					],
+					"audioFile": "./best-of-disney/Snow White and the Seven Dwarfs/Some Day My Prince Will Come.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1937
+				},
+				{
+					"title": [
+						false,
+						"The Silly Song / The Dwarfs' Yodel Song",
+						"The Silly Song / Dwarfs' Yodel Song",
+						"The Silly Song",
+						"The Dwarfs' Yodel Song"
+					],
+					"sources": [
+						[
+							true,
+							"The Dwarf Chorus"
+						]
+					],
+					"audioFile": "./best-of-disney/Snow White and the Seven Dwarfs/The Silly Song (The Dwarfs' Yodel Song).mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1937
+				},
+				{
+					"title": [
+						false,
+						"Whistle While You Work"
+					],
+					"sources": [
+						[
+							true,
+							"Adriana Caselotti"
+						]
+					],
+					"audioFile": "./best-of-disney/Snow White and the Seven Dwarfs/Whistle While You Work.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1937
+				}
+			]
+		},
+		{
+			"id": "best-of-ghibli",
+			"title": "Best of Ghibli",
+			"description": "The most popular soundtracks from Studio Ghibli.",
+			"difficulty": "Medium",
+			"gameStyle": 1,
+			"disabledLifelines": [],
+			"sourceName": "Movie",
+			"author": "MusiQuiz",
+			"covers": [],
+			"songs": [
+				{
+					"title": [
+						false,
+						"Firefly"
+					],
+					"sources": [
+						[
+							true,
+							"Grave of the Fireflies"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Grave of the Fireflies/Firefly.flac",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1988
+				},
+				{
+					"title": [
+						false,
+						"Ask Me Why / Mother's Message",
+						"Ask Me Why",
+						"Mother's Message"
+					],
+					"sources": [
+						[
+							true,
+							"The Boy and the Heron",
+							"Boy and Heron"
+						]
+					],
+					"audioFile": "./best-of-ghibli/The Boy and the Heron/Ask Me Why (Mother's Message).mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2023
+				},
+				{
+					"title": [
+						false,
+						"Sanctuary"
+					],
+					"sources": [
+						[
+							true,
+							"The Boy and the Heron",
+							"Boy and Heron"
+						]
+					],
+					"audioFile": "./best-of-ghibli/The Boy and the Heron/Sanctuary.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2023
+				},
+				{
+					"title": [
+						false,
+						"The Great Collapse"
+					],
+					"sources": [
+						[
+							true,
+							"The Boy and the Heron",
+							"Boy and Heron"
+						]
+					],
+					"audioFile": "./best-of-ghibli/The Boy and the Heron/The Great Collapse.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2023
+				},
+				{
+					"title": [
+						false,
+						"The Last Smile"
+					],
+					"sources": [
+						[
+							true,
+							"The Boy and the Heron",
+							"Boy and Heron"
+						]
+					],
+					"audioFile": "./best-of-ghibli/The Boy and the Heron/The Last Smile.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2023
+				},
+				{
+					"title": [
+						false,
+						"Fine On The Outside"
+					],
+					"sources": [
+						[
+							true,
+							"When Marnie Was There"
+						]
+					],
+					"audioFile": "./best-of-ghibli/When Marnie Was There/Fine On The Outside.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2014
+				},
+				{
+					"title": [
+						false,
+						"Spring Waltz"
+					],
+					"sources": [
+						[
+							true,
+							"The Tale of the Princess Kaguya",
+							"Princess Kaguya"
+						]
+					],
+					"audioFile": "./best-of-ghibli/The Tale of the Princess Kaguya/Spring Waltz.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2013
+				},
+				{
+					"title": [
+						false,
+						"A Journey / A Dream of Flight",
+						"A Journey",
+						"Journey",
+						"Dream of Flight"
+					],
+					"sources": [
+						[
+							true,
+							"The Wind Rises"
+						]
+					],
+					"audioFile": "./best-of-ghibli/The Wind Rises/A Journey (A Dream of Flight).mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2013
+				},
+				{
+					"title": [
+						false,
+						"Caproni / An Aeronautical Designer's Dream",
+						"Caproni",
+						"An Aeronautical Designer's Dream"
+					],
+					"sources": [
+						[
+							true,
+							"The Wind Rises"
+						]
+					],
+					"audioFile": "./best-of-ghibli/The Wind Rises/Caproni (An Aeronautical Designer's Dream).mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2013
+				},
+				{
+					"title": [
+						false,
+						"Nahoko / The Encounter",
+						"Nahoko",
+						"The Encounter"
+					],
+					"sources": [
+						[
+							true,
+							"The Wind Rises"
+						]
+					],
+					"audioFile": "./best-of-ghibli/The Wind Rises/Nahoko (The Encounter).mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2013
+				},
+				{
+					"title": [
+						false,
+						"Reminiscence"
+					],
+					"sources": [
+						[
+							true,
+							"From Up on Poppy Hill"
+						]
+					],
+					"audioFile": "./best-of-ghibli/From Up on Poppy Hill/Reminiscence.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2011
+				},
+				{
+					"title": [
+						false,
+						"Signal Flags"
+					],
+					"sources": [
+						[
+							true,
+							"From Up on Poppy Hill"
+						]
+					],
+					"audioFile": "./best-of-ghibli/From Up on Poppy Hill/Signal Flags.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2011
+				},
+				{
+					"title": [
+						false,
+						"The Latin Quarter"
+					],
+					"sources": [
+						[
+							true,
+							"From Up on Poppy Hill"
+						]
+					],
+					"audioFile": "./best-of-ghibli/From Up on Poppy Hill/The Latin Quarter.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2011
+				},
+				{
+					"title": [
+						false,
+						"Arrietty's Song",
+						"Arrietty's Theme"
+					],
+					"sources": [
+						[
+							true,
+							"Arrietty"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Arrietty/Arrietty's Song.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2010
+				},
+				{
+					"title": [
+						false,
+						"The Neglected Garden"
+					],
+					"sources": [
+						[
+							true,
+							"Arrietty"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Arrietty/The Neglected Garden.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2010
+				},
+				{
+					"title": [
+						false,
+						"Deep Sea Pastures"
+					],
+					"sources": [
+						[
+							true,
+							"Ponyo"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Ponyo/Deep Sea Pastures.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2008
+				},
+				{
+					"title": [
+						false,
+						"Mother Sea"
+					],
+					"sources": [
+						[
+							true,
+							"Ponyo"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Ponyo/Mother Sea.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2008
+				},
+				{
+					"title": [
+						false,
+						"The End and the Beginning / Song of Time / Ending",
+						"The End and the Beginning",
+						"Song of Time",
+						"Theme Song",
+						"Main Theme",
+						"Ending"
+					],
+					"sources": [
+						[
+							true,
+							"Tales of Earthsea"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Tales of Earthsea/The End and the Beginning - Song of Time (Theme Song) - Ending.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2006
+				},
+				{
+					"title": [
+						false,
+						"Therru's Song",
+						"Therru's Theme"
+					],
+					"sources": [
+						[
+							true,
+							"Tales of Earthsea"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Tales of Earthsea/Therru's Song.mp3",
+					"startTime": 74,
+					"endTime": null,
+					"level": null,
+					"year": 2006
+				},
+				{
+					"title": [
+						false,
+						"Sophie's Castle"
+					],
+					"sources": [
+						[
+							true,
+							"Howl's Moving Castle"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Howl's Moving Castle/Sophie's Castle.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2004
+				},
+				{
+					"title": [
+						false,
+						"The Flower Garden"
+					],
+					"sources": [
+						[
+							true,
+							"Howl's Moving Castle"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Howl's Moving Castle/The Flower Garden.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2004
+				},
+				{
+					"title": [
+						false,
+						"The Secret Cave"
+					],
+					"sources": [
+						[
+							true,
+							"Howl's Moving Castle"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Howl's Moving Castle/The Secret Cave.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2004
+				},
+				{
+					"title": [
+						false,
+						"A Road to Somewhere"
+					],
+					"sources": [
+						[
+							true,
+							"Spirited Away"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Spirited Away/A Road to Somewhere.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2001
+				},
+				{
+					"title": [
+						false,
+						"One Summer Day"
+					],
+					"sources": [
+						[
+							true,
+							"Spirited Away"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Spirited Away/One Summer Day.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2001
+				},
+				{
+					"title": [
+						false,
+						"The Sixth Station"
+					],
+					"sources": [
+						[
+							true,
+							"Spirited Away"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Spirited Away/The Sixth Station.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 2001
+				},
+				{
+					"title": [
+						false,
+						"Ashitaka and San"
+					],
+					"sources": [
+						[
+							true,
+							"Princess Mononoke"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Princess Mononoke/Ashitaka and San.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1997
+				},
+				{
+					"title": [
+						false,
+						"The Encounter"
+					],
+					"sources": [
+						[
+							true,
+							"Princess Mononoke"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Princess Mononoke/The Encounter.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1997
+				},
+				{
+					"title": [
+						false,
+						"The Legend of Ashitaka"
+					],
+					"sources": [
+						[
+							true,
+							"Princess Mononoke"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Princess Mononoke/The Legend of Ashitaka.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1997
+				},
+				{
+					"title": [
+						false,
+						"Theme Song",
+						"Main Theme"
+					],
+					"sources": [
+						[
+							true,
+							"Princess Mononoke"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Princess Mononoke/Theme Song.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1997
+				},
+				{
+					"title": [
+						false,
+						"A Hilly Town"
+					],
+					"sources": [
+						[
+							true,
+							"Whisper of the Heart",
+							"Whispers of the Heart"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Whisper of the Heart/A Hilly Town.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"The Elf Queen"
+					],
+					"sources": [
+						[
+							true,
+							"Whisper of the Heart",
+							"Whispers of the Heart"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Whisper of the Heart/The Elf Queen.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1995
+				},
+				{
+					"title": [
+						false,
+						"Life of a Tanuki"
+					],
+					"sources": [
+						[
+							true,
+							"Pom Poko"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Pom Poko/Life of a Tanuki.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1994
+				},
+				{
+					"title": [
+						false,
+						"Bygone Days"
+					],
+					"sources": [
+						[
+							true,
+							"Porco Rosso"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Porco Rosso/Bygone Days.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1992
+				},
+				{
+					"title": [
+						false,
+						"The Wind of Ages / When a Human Can be a Human",
+						"The Wind of Ages",
+						"When a Human Can be a Human"
+					],
+					"sources": [
+						[
+							true,
+							"Porco Rosso"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Porco Rosso/The Wind of Ages - When a Human Can be a Human.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1992
+				},
+				{
+					"title": [
+						false,
+						"A Town with an Ocean View"
+					],
+					"sources": [
+						[
+							true,
+							"Kiki's Delivery Service",
+							"Kiki's Delivery"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Kiki's Delivery Service/A Town with an Ocean View.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1989
+				},
+				{
+					"title": [
+						false,
+						"A Very Busy Kiki"
+					],
+					"sources": [
+						[
+							true,
+							"Kiki's Delivery Service",
+							"Kiki's Delivery"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Kiki's Delivery Service/A Very Busy Kiki.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1989
+				},
+				{
+					"title": [
+						false,
+						"Departure"
+					],
+					"sources": [
+						[
+							true,
+							"Kiki's Delivery Service",
+							"Kiki's Delivery"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Kiki's Delivery Service/Departure.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1989
+				},
+				{
+					"title": [
+						false,
+						"Flying Delivery Service"
+					],
+					"sources": [
+						[
+							true,
+							"Kiki's Delivery Service",
+							"Kiki's Delivery"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Kiki's Delivery Service/Flying Delivery Service.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1989
+				},
+				{
+					"title": [
+						false,
+						"On a Clear Day"
+					],
+					"sources": [
+						[
+							true,
+							"Kiki's Delivery Service",
+							"Kiki's Delivery"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Kiki's Delivery Service/On a Clear Day.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1989
+				},
+				{
+					"title": [
+						false,
+						"Evening Wind"
+					],
+					"sources": [
+						[
+							true,
+							"My Neighbor Totoro",
+							"Totoro"
+						]
+					],
+					"audioFile": "./best-of-ghibli/My Neighbor Totoro/Evening Wind.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1988
+				},
+				{
+					"title": [
+						false,
+						"Ending Theme Song",
+						"Ending",
+						"Theme Song"
+					],
+					"sources": [
+						[
+							true,
+							"My Neighbor Totoro",
+							"Totoro"
+						]
+					],
+					"audioFile": "./best-of-ghibli/My Neighbor Totoro/My Neighbor Totoro - Ending Theme Song.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1988
+				},
+				{
+					"title": [
+						false,
+						"Carrying You"
+					],
+					"sources": [
+						[
+							true,
+							"Castle in the Sky"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Castle In The Sky/Carrying You.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1986
+				},
+				{
+					"title": [
+						false,
+						"Castle in the Sky"
+					],
+					"sources": [
+						[
+							true,
+							"Castle in the Sky"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Castle In The Sky/Castle in the Sky.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1986
+				},
+				{
+					"title": [
+						false,
+						"Sheeta's Decision"
+					],
+					"sources": [
+						[
+							true,
+							"Castle in the Sky"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Castle In The Sky/Sheeta's Decision.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1986
+				},
+				{
+					"title": [
+						false,
+						"The Girl Who Fell From the Sky"
+					],
+					"sources": [
+						[
+							true,
+							"Castle in the Sky"
+						]
+					],
+					"audioFile": "./best-of-ghibli/Castle In The Sky/The Girl Who Fell From the Sky.mp3",
+					"startTime": null,
+					"endTime": null,
+					"level": null,
+					"year": 1986
 				}
 			]
 		}
