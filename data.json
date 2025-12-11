@@ -3877,16 +3877,14 @@
 				{
 					"title": [
 						false,
-						"How Far I'll Go"
+						"How Far I'll Go",
+						"How Far I Will Go"
 					],
 					"sources": [
 						[
 							true,
-							"Auli'i Cravalho"
-						],
-						[
-							true,
-							"Disney"
+							"Moana",
+							"Vaiana"
 						]
 					],
 					"audioFile": "./best-of-disney/Moana/How Far I'll Go.mp3",
@@ -3903,15 +3901,10 @@
 					"sources": [
 						[
 							true,
-							"Auli'i Cravalho"
-						],
-						[
-							true,
-							"Disney"
-						],
-						[
-							true,
-							"Rachel House"
+							"Moana 2",
+							"Vaiana 2",
+							"Moana II",
+							"Vaiana II"
 						]
 					],
 					"audioFile": "./best-of-disney/Moana 2/Beyond.mp3",
@@ -3923,24 +3916,16 @@
 				{
 					"title": [
 						false,
-						"We're Back"
+						"We're Back",
+						"We are Back"
 					],
 					"sources": [
 						[
 							true,
-							"Auli'i Cravalho"
-						],
-						[
-							true,
-							"Villagers of Motunui"
-						],
-						[
-							true,
-							"Te Vaka"
-						],
-						[
-							true,
-							"Disney"
+							"Moana 2",
+							"Vaiana 2",
+							"Moana II",
+							"Vaiana II"
 						]
 					],
 					"audioFile": "./best-of-disney/Moana 2/We're Back.mp3",
@@ -3957,15 +3942,7 @@
 					"sources": [
 						[
 							true,
-							"Chris Pine"
-						],
-						[
-							true,
-							"Ariana DeBose"
-						],
-						[
-							true,
-							"Disney"
+							"Wish"
 						]
 					],
 					"audioFile": "./best-of-disney/Wish/At All Costs.mp3",
@@ -3982,11 +3959,7 @@
 					"sources": [
 						[
 							true,
-							"Ariana DeBose"
-						],
-						[
-							true,
-							"Disney"
+							"Wish"
 						]
 					],
 					"audioFile": "./best-of-disney/Wish/This Wish.mp3",
@@ -4003,15 +3976,7 @@
 					"sources": [
 						[
 							true,
-							"Ariana DeBose"
-						],
-						[
-							true,
-							"Wish - Cast"
-						],
-						[
-							true,
-							"Disney"
+							"Wish"
 						]
 					],
 					"audioFile": "./best-of-disney/Wish/Welcome To Rosas.mp3",
@@ -4028,7 +3993,7 @@
 					"sources": [
 						[
 							true,
-							"Jessica Darrow"
+							"Encanto"
 						]
 					],
 					"audioFile": "./best-of-disney/Encanto/Surface Pressure.mp3",
@@ -4040,36 +4005,15 @@
 				{
 					"title": [
 						false,
-						"We Don't Talk About Bruno"
+						"We Don't Talk About Bruno",
+						"We Do Not Talk About Bruno",
+						"Don't Talk About Bruno",
+						"Do Not Talk About Bruno"
 					],
 					"sources": [
 						[
 							true,
-							"Carolina Gaitán - La Gaita"
-						],
-						[
-							true,
-							"Mauro Castillo"
-						],
-						[
-							true,
-							"Adassa"
-						],
-						[
-							true,
-							"Rhenzy Feliz"
-						],
-						[
-							true,
-							"Diane Guerrero"
-						],
-						[
-							true,
-							"Stephanie Beatriz"
-						],
-						[
-							true,
-							"Encanto - Cast"
+							"Encanto"
 						]
 					],
 					"audioFile": "./best-of-disney/Encanto/We Don't Talk About Bruno.mp3",
@@ -4086,7 +4030,8 @@
 					"sources": [
 						[
 							true,
-							"Evan Rachel Wood"
+							"Frozen 2",
+							"Frozen II"
 						]
 					],
 					"audioFile": "./best-of-disney/Frozen 2/All Is Found.mp3",
@@ -4103,11 +4048,8 @@
 					"sources": [
 						[
 							true,
-							"Idina Menzel"
-						],
-						[
-							true,
-							"AURORA"
+							"Frozen 2",
+							"Frozen II"
 						]
 					],
 					"audioFile": "./best-of-disney/Frozen 2/Into the Unknown.mp3",
@@ -4124,23 +4066,8 @@
 					"sources": [
 						[
 							true,
-							"Kristen Bell"
-						],
-						[
-							true,
-							"Idina Menzel"
-						],
-						[
-							true,
-							"Josh Gad"
-						],
-						[
-							true,
-							"Jonathan Groff"
-						],
-						[
-							true,
-							"Cast of Frozen 2"
+							"Frozen 2",
+							"Frozen II"
 						]
 					],
 					"audioFile": "./best-of-disney/Frozen 2/Some Things Never Change.mp3",
@@ -4157,27 +4084,8 @@
 					"sources": [
 						[
 							true,
-							"Christopher Jackson"
-						],
-						[
-							true,
-							"Rachel House"
-						],
-						[
-							true,
-							"Nicole Scherzinger"
-						],
-						[
-							true,
-							"Auli'i Cravalho"
-						],
-						[
-							true,
-							"Louise Bush"
-						],
-						[
-							true,
-							"Disney"
+							"Moana",
+							"Vaiana"
 						]
 					],
 					"audioFile": "./best-of-disney/Moana/Where You Are.mp3",
@@ -4189,16 +4097,14 @@
 				{
 					"title": [
 						false,
-						"You're Welcome"
+						"You're Welcome",
+						"You Are Welcome"
 					],
 					"sources": [
 						[
 							true,
-							"Dwayne Johnson"
-						],
-						[
-							true,
-							"Disney"
+							"Moana",
+							"Vaiana"
 						]
 					],
 					"audioFile": "./best-of-disney/Moana/You're Welcome.mp3",
@@ -4215,15 +4121,7 @@
 					"sources": [
 						[
 							true,
-							"Kristen Bell"
-						],
-						[
-							true,
-							"Agatha Lee Monn"
-						],
-						[
-							true,
-							"Katie Lopez"
+							"Frozen"
 						]
 					],
 					"audioFile": "./best-of-disney/Frozen/Do You Want to Build a Snowman.mp3",
@@ -4240,11 +4138,7 @@
 					"sources": [
 						[
 							true,
-							"Kristen Bell"
-						],
-						[
-							true,
-							"Idina Menzel"
+							"Frozen"
 						]
 					],
 					"audioFile": "./best-of-disney/Frozen/For the First Time in Forever.mp3",
@@ -4261,7 +4155,7 @@
 					"sources": [
 						[
 							true,
-							"Idina Menzel"
+							"Frozen"
 						]
 					],
 					"audioFile": "./best-of-disney/Frozen/Let It Go.mp3",
@@ -4278,11 +4172,7 @@
 					"sources": [
 						[
 							true,
-							"Kristen Bell"
-						],
-						[
-							true,
-							"Santino Fontana"
+							"Frozen"
 						]
 					],
 					"audioFile": "./best-of-disney/Frozen/Love Is an Open Door.mp3",
@@ -4299,11 +4189,7 @@
 					"sources": [
 						[
 							true,
-							"Mandy Moore"
-						],
-						[
-							true,
-							"Zachary Levi"
+							"Tangled"
 						]
 					],
 					"audioFile": "./best-of-disney/Tangled/I See the Light.mp3",
@@ -4315,28 +4201,13 @@
 				{
 					"title": [
 						false,
-						"I've Got a Dream"
+						"I've Got a Dream",
+						"I Have Got a Dream"
 					],
 					"sources": [
 						[
 							true,
-							"Mandy Moore"
-						],
-						[
-							true,
-							"Brad Garrett"
-						],
-						[
-							true,
-							"Ensemble - Tangled"
-						],
-						[
-							true,
-							"Zachary Levi"
-						],
-						[
-							true,
-							"Jeffrey Tambor"
+							"Tangled"
 						]
 					],
 					"audioFile": "./best-of-disney/Tangled/I've Got a Dream.mp3",
@@ -4353,7 +4224,7 @@
 					"sources": [
 						[
 							true,
-							"Donna Murphy"
+							"Tangled"
 						]
 					],
 					"audioFile": "./best-of-disney/Tangled/Mother Knows Best.mp3",
@@ -4370,7 +4241,7 @@
 					"sources": [
 						[
 							true,
-							"Mandy Moore"
+							"Tangled"
 						]
 					],
 					"audioFile": "./best-of-disney/Tangled/When Will My Life Begin.mp3",
@@ -4387,7 +4258,7 @@
 					"sources": [
 						[
 							true,
-							"Anika Noni Rose"
+							"The Princess and the Frog"
 						]
 					],
 					"audioFile": "./best-of-disney/The Princess and the Frog/Almost There.mp3",
@@ -4404,11 +4275,7 @@
 					"sources": [
 						[
 							true,
-							"Jenifer Lewis"
-						],
-						[
-							true,
-							"The Pinnacle Gospel Choir"
+							"The Princess and the Frog"
 						]
 					],
 					"audioFile": "./best-of-disney/The Princess and the Frog/Dig a Little Deeper.mp3",
@@ -4425,7 +4292,7 @@
 					"sources": [
 						[
 							true,
-							"Keith David"
+							"The Princess and the Frog"
 						]
 					],
 					"audioFile": "./best-of-disney/The Princess and the Frog/Friends on the Other Side.mp3",
@@ -4437,24 +4304,13 @@
 				{
 					"title": [
 						false,
-						"When We're Human"
+						"When We're Human",
+						"When We Are Human"
 					],
 					"sources": [
 						[
 							true,
-							"Michael-Leon Wooley"
-						],
-						[
-							true,
-							"Bruno Campos"
-						],
-						[
-							true,
-							"Anika Noni Rose"
-						],
-						[
-							true,
-							"Terence Blanchard"
+							"The Princess and the Frog"
 						]
 					],
 					"audioFile": "./best-of-disney/The Princess and the Frog/When We're Human.mp3",
@@ -4471,7 +4327,7 @@
 					"sources": [
 						[
 							true,
-							"Phil Collins"
+							"Brother Bear"
 						]
 					],
 					"audioFile": "./best-of-disney/Brother Bear/Look Through My Eyes.mp3",
@@ -4488,7 +4344,7 @@
 					"sources": [
 						[
 							true,
-							"Phil Collins"
+							"Brother Bear"
 						]
 					],
 					"audioFile": "./best-of-disney/Brother Bear/No Way Out.mp3",
@@ -4505,7 +4361,7 @@
 					"sources": [
 						[
 							true,
-							"Phil Collins"
+							"Brother Bear"
 						]
 					],
 					"audioFile": "./best-of-disney/Brother Bear/On My Way.mp3",
@@ -4522,11 +4378,7 @@
 					"sources": [
 						[
 							true,
-							"Mark Keali'i Ho'omalu"
-						],
-						[
-							true,
-							"Kamehameha Schools Children's Chorus"
+							"Lilo & Stitch"
 						]
 					],
 					"audioFile": "./best-of-disney/Lilo & Stitch/Hawaiian Roller Coaster Ride.mp3",
@@ -4543,11 +4395,7 @@
 					"sources": [
 						[
 							true,
-							"Mark Keali'i Ho'omalu"
-						],
-						[
-							true,
-							"Kamehameha Schools Children's Chorus"
+							"Lilo & Stitch"
 						]
 					],
 					"audioFile": "./best-of-disney/Lilo & Stitch/He Mele No Lilo.mp3",
@@ -4561,12 +4409,14 @@
 						false,
 						"I'm Still Here / Jim's Theme",
 						"I'm Still Here",
+						"I am Still Here / Jim's Theme",
+						"I am Still Here",
 						"Jim's Theme"
 					],
 					"sources": [
 						[
 							true,
-							"John Rzeznik"
+							"Treasure Planet"
 						]
 					],
 					"audioFile": "./best-of-disney/Treasure Planet/I'm Still Here (Jim's Theme).mp3",
@@ -4583,7 +4433,7 @@
 					"sources": [
 						[
 							true,
-							"James Newton Howard"
+							"Atlantis: The Lost Empire"
 						]
 					],
 					"audioFile": "./best-of-disney/Atlantis The Lost Empire/The Crystal Chamber.mp3",
@@ -4600,7 +4450,7 @@
 					"sources": [
 						[
 							true,
-							"James Newton Howard"
+							"Atlantis: The Lost Empire"
 						]
 					],
 					"audioFile": "./best-of-disney/Atlantis The Lost Empire/The Submarine.mp3",
@@ -4617,11 +4467,7 @@
 					"sources": [
 						[
 							true,
-							"Mark Mancina"
-						],
-						[
-							true,
-							"Phil Collins"
+							"Tarzan"
 						]
 					],
 					"audioFile": "./best-of-disney/Tarzan/One Family.mp3",
@@ -4638,7 +4484,7 @@
 					"sources": [
 						[
 							true,
-							"Phil Collins"
+							"Tarzan"
 						]
 					],
 					"audioFile": "./best-of-disney/Tarzan/Son of Man.mp3",
@@ -4655,7 +4501,7 @@
 					"sources": [
 						[
 							true,
-							"Phil Collins"
+							"Tarzan"
 						]
 					],
 					"audioFile": "./best-of-disney/Tarzan/Strangers Like Me.mp3",
@@ -4667,20 +4513,13 @@
 				{
 					"title": [
 						false,
-						"Trashin' The Camp"
+						"Trashin' The Camp",
+						"Trashing The Camp"
 					],
 					"sources": [
 						[
 							true,
-							"Rosie O'Donnell"
-						],
-						[
-							true,
-							"Phil Collins"
-						],
-						[
-							true,
-							"Cast - Tarzan"
+							"Tarzan"
 						]
 					],
 					"audioFile": "./best-of-disney/Tarzan/Trashin' The Camp.mp3",
@@ -4697,7 +4536,7 @@
 					"sources": [
 						[
 							true,
-							"Phil Collins"
+							"Tarzan"
 						]
 					],
 					"audioFile": "./best-of-disney/Tarzan/Two Worlds.mp3",
@@ -4709,16 +4548,13 @@
 				{
 					"title": [
 						false,
-						"You'll Be In My Heart"
+						"You'll Be In My Heart",
+						"You Will Be In My Heart"
 					],
 					"sources": [
 						[
 							true,
-							"Glenn Close"
-						],
-						[
-							true,
-							"Phil Collins"
+							"Tarzan"
 						]
 					],
 					"audioFile": "./best-of-disney/Tarzan/You'll Be In My Heart.mp3",
@@ -4735,27 +4571,7 @@
 					"sources": [
 						[
 							true,
-							"Lea Salonga"
-						],
-						[
-							true,
-							"Harvey Fierstein"
-						],
-						[
-							true,
-							"Matthew Wilder"
-						],
-						[
-							true,
-							"James Hong"
-						],
-						[
-							true,
-							"Jerry Tondo"
-						],
-						[
-							true,
-							"Disney"
+							"Mulan"
 						]
 					],
 					"audioFile": "./best-of-disney/Mulan/A Girl Worth Fighting For.mp3",
@@ -4772,23 +4588,7 @@
 					"sources": [
 						[
 							true,
-							"Lea Salonga"
-						],
-						[
-							true,
-							"Beth Fowler"
-						],
-						[
-							true,
-							"Marnie Nixon"
-						],
-						[
-							true,
-							"Chorus - Mulan"
-						],
-						[
-							true,
-							"Disney"
+							"Mulan"
 						]
 					],
 					"audioFile": "./best-of-disney/Mulan/Honor To Us All.mp3",
@@ -4800,20 +4600,13 @@
 				{
 					"title": [
 						false,
-						"I'll Make a Man Out of You"
+						"I'll Make a Man Out of You",
+						"I Will Make a Man Out of You"
 					],
 					"sources": [
 						[
 							true,
-							"Donny Osmond"
-						],
-						[
-							true,
-							"Chorus - Mulan"
-						],
-						[
-							true,
-							"Disney"
+							"Mulan"
 						]
 					],
 					"audioFile": "./best-of-disney/Mulan/I'll Make a Man Out of You.mp3",
@@ -4830,11 +4623,7 @@
 					"sources": [
 						[
 							true,
-							"Jerry Goldsmith"
-						],
-						[
-							true,
-							"Disney"
+							"Mulan"
 						]
 					],
 					"audioFile": "./best-of-disney/Mulan/Mulan's Decision.mp3",
@@ -4851,11 +4640,7 @@
 					"sources": [
 						[
 							true,
-							"Lea Salonga"
-						],
-						[
-							true,
-							"Disney"
+							"Mulan"
 						]
 					],
 					"audioFile": "./best-of-disney/Mulan/Reflection.mp3",
@@ -4872,27 +4657,7 @@
 					"sources": [
 						[
 							true,
-							"Cheryl Freeman"
-						],
-						[
-							true,
-							"LaChanze"
-						],
-						[
-							true,
-							"Vaneese Thomas"
-						],
-						[
-							true,
-							"Lillias White"
-						],
-						[
-							true,
-							"Roz Ryan"
-						],
-						[
-							true,
-							"Disney"
+							"Hercules"
 						]
 					],
 					"audioFile": "./best-of-disney/Hercules/A Star Is Born.mp3",
@@ -4909,11 +4674,7 @@
 					"sources": [
 						[
 							true,
-							"Roger Bart"
-						],
-						[
-							true,
-							"Disney"
+							"Hercules"
 						]
 					],
 					"audioFile": "./best-of-disney/Hercules/Go the Distance.mp3",
@@ -4926,33 +4687,17 @@
 					"title": [
 						false,
 						"I Won't Say / I'm In Love",
-						"I Won't Say",
-						"I'm In Love"
+						"I Will Not Say / I'm In Love",
+						"I Will Not Say / I am In Love",
+						"I Won't Say / I am In Love",
+						"I Will Not Say",
+						"I'm In Love",
+						"I am In Love"
 					],
 					"sources": [
 						[
 							true,
-							"Susan Egan"
-						],
-						[
-							true,
-							"Cheryl Freeman"
-						],
-						[
-							true,
-							"LaChanze"
-						],
-						[
-							true,
-							"Vaneese Thomas"
-						],
-						[
-							true,
-							"Lillias White"
-						],
-						[
-							true,
-							"Disney"
+							"Hercules"
 						]
 					],
 					"audioFile": "./best-of-disney/Hercules/I Won't Say (I'm In Love).mp3",
@@ -4964,32 +4709,17 @@
 				{
 					"title": [
 						false,
-						"The Gospel Truth I / Main Titles"
+						"The Gospel Truth / Main Titles",
+						"The Gospel Truth",
+						"Main Title",
+						"Main Titles",
+						"Main Theme",
+						"Theme Song"
 					],
 					"sources": [
 						[
 							true,
-							"Cheryl Freeman"
-						],
-						[
-							true,
-							"LaChanze"
-						],
-						[
-							true,
-							"Vaneese Thomas"
-						],
-						[
-							true,
-							"Lillias White"
-						],
-						[
-							true,
-							"Roz Ryan"
-						],
-						[
-							true,
-							"Disney"
+							"Hercules"
 						]
 					],
 					"audioFile": "./best-of-disney/Hercules/The Gospel Truth - Main Titles.mp3",
@@ -5006,35 +4736,7 @@
 					"sources": [
 						[
 							true,
-							"Chorus - Hercules"
-						],
-						[
-							true,
-							"Lillias White"
-						],
-						[
-							true,
-							"Cheryl Freeman"
-						],
-						[
-							true,
-							"LaChanze"
-						],
-						[
-							true,
-							"Roz Ryan"
-						],
-						[
-							true,
-							"Vaneese Thomas"
-						],
-						[
-							true,
-							"Tawatha Agee"
-						],
-						[
-							true,
-							"Disney"
+							"Hercules"
 						]
 					],
 					"audioFile": "./best-of-disney/Hercules/Zero To Hero.mp3",
@@ -5051,11 +4753,8 @@
 					"sources": [
 						[
 							true,
-							"Heidi Mollenhauer"
-						],
-						[
-							true,
-							"Chorus - The Hunchback of Notre Dame"
+							"The Hunchback of Notre Dame",
+							"The Hunchback"
 						]
 					],
 					"audioFile": "./best-of-disney/The Hunchback of Notre Dame/God Help the Outcasts.mp3",
@@ -5067,20 +4766,15 @@
 				{
 					"title": [
 						false,
-						"Heaven's Light/Hellfire"
+						"Heaven's Light / Hellfire",
+						"Heaven's Light",
+						"Hellfire"
 					],
 					"sources": [
 						[
 							true,
-							"Tony Jay"
-						],
-						[
-							true,
-							"Tom Hulce"
-						],
-						[
-							true,
-							"Chorus - The Hunchback of Notre Dame"
+							"The Hunchback of Notre Dame",
+							"The Hunchback"
 						]
 					],
 					"audioFile": "./best-of-disney/The Hunchback of Notre Dame/Heaven's Light Hellfire.mp3",
@@ -5097,11 +4791,8 @@
 					"sources": [
 						[
 							true,
-							"Tony Jay"
-						],
-						[
-							true,
-							"Tom Hulce"
+							"The Hunchback of Notre Dame",
+							"The Hunchback"
 						]
 					],
 					"audioFile": "./best-of-disney/The Hunchback of Notre Dame/Out There.mp3",
@@ -5118,7 +4809,8 @@
 					"sources": [
 						[
 							true,
-							"All-4-One"
+							"The Hunchback of Notre Dame",
+							"The Hunchback"
 						]
 					],
 					"audioFile": "./best-of-disney/The Hunchback of Notre Dame/Someday.mp3",
@@ -5135,19 +4827,8 @@
 					"sources": [
 						[
 							true,
-							"David Ogden Stiers"
-						],
-						[
-							true,
-							"Tony Jay"
-						],
-						[
-							true,
-							"Paul Kandel"
-						],
-						[
-							true,
-							"Chorus - The Hunchback of Notre Dame"
+							"The Hunchback of Notre Dame",
+							"The Hunchback"
 						]
 					],
 					"audioFile": "./best-of-disney/The Hunchback of Notre Dame/The Bells of Notre Dame.mp3",
@@ -5164,11 +4845,7 @@
 					"sources": [
 						[
 							true,
-							"Aaron Lohr"
-						],
-						[
-							true,
-							"Chorus - After Today"
+							"A Goofy Movie"
 						]
 					],
 					"audioFile": "./best-of-disney/A Goofy Movie/After Today.mp3",
@@ -5180,16 +4857,15 @@
 				{
 					"title": [
 						false,
-						"I2I"
+						"I2I",
+						"I To I",
+						"Eye 2 Eye",
+						"Eye To Eye"
 					],
 					"sources": [
 						[
 							true,
-							"Tevin Campbell"
-						],
-						[
-							true,
-							"Rosie Gaines"
+							"A Goofy Movie"
 						]
 					],
 					"audioFile": "./best-of-disney/A Goofy Movie/I2I.mp3",
@@ -5206,15 +4882,7 @@
 					"sources": [
 						[
 							true,
-							"Aaron Lohr"
-						],
-						[
-							true,
-							"Bill Farmer"
-						],
-						[
-							true,
-							"Chorus - On The Open Road"
+							"A Goofy Movie"
 						]
 					],
 					"audioFile": "./best-of-disney/A Goofy Movie/On The Open Road.mp3",
@@ -5231,7 +4899,7 @@
 					"sources": [
 						[
 							true,
-							"Tevin Campbell"
+							"A Goofy Movie"
 						]
 					],
 					"audioFile": "./best-of-disney/A Goofy Movie/Stand Out.mp3",
@@ -5248,7 +4916,7 @@
 					"sources": [
 						[
 							true,
-							"Judy Kuhn"
+							"Pocahontas"
 						]
 					],
 					"audioFile": "./best-of-disney/Pocahontas/Colors of the Wind.mp3",
@@ -5265,7 +4933,7 @@
 					"sources": [
 						[
 							true,
-							"Judy Kuhn"
+							"Pocahontas"
 						]
 					],
 					"audioFile": "./best-of-disney/Pocahontas/Just Around the Riverbend.mp3",
@@ -5277,16 +4945,14 @@
 				{
 					"title": [
 						false,
-						"Listen With Your Heart Pt. 1"
+						"Listen With Your Heart (Pt. 1)",
+						"Listen With Your Heart (Part. 1)",
+						"Listen With Your Heart"
 					],
 					"sources": [
 						[
 							true,
-							"Linda Hunt"
-						],
-						[
-							true,
-							"Bobbi Page"
+							"Pocahontas"
 						]
 					],
 					"audioFile": "./best-of-disney/Pocahontas/Listen With Your Heart Pt 1.mp3",
@@ -5298,16 +4964,13 @@
 				{
 					"title": [
 						false,
-						"Mine, Mine, Mine"
+						"Mine, Mine, Mine",
+						"Mine"
 					],
 					"sources": [
 						[
 							true,
-							"David Ogden Stiers"
-						],
-						[
-							true,
-							"Mel Gibson"
+							"Pocahontas"
 						]
 					],
 					"audioFile": "./best-of-disney/Pocahontas/Mine Mine Mine.mp3",
@@ -5319,20 +4982,14 @@
 				{
 					"title": [
 						false,
-						"Savages Pt. 1"
+						"Savages (Pt. 1)",
+						"Savages (Part. 1)",
+						"Savages"
 					],
 					"sources": [
 						[
 							true,
-							"Chorus - Pocahontas"
-						],
-						[
-							true,
-							"David Ogden Stiers"
-						],
-						[
-							true,
-							"Jim Cummings"
+							"Pocahontas"
 						]
 					],
 					"audioFile": "./best-of-disney/Pocahontas/Savages Pt 1.mp3",
@@ -5349,19 +5006,7 @@
 					"sources": [
 						[
 							true,
-							"Jeremy Irons"
-						],
-						[
-							true,
-							"Whoopi Goldberg"
-						],
-						[
-							true,
-							"Cheech Marin"
-						],
-						[
-							true,
-							"Jim Cummings"
+							"The Lion King"
 						]
 					],
 					"audioFile": "./best-of-disney/The Lion King/Be Prepared.mp3",
@@ -5378,23 +5023,7 @@
 					"sources": [
 						[
 							true,
-							"Joseph Williams"
-						],
-						[
-							true,
-							"Sally Dworsky"
-						],
-						[
-							true,
-							"Nathan Lane"
-						],
-						[
-							true,
-							"Ernie Sabella"
-						],
-						[
-							true,
-							"Kristle Edwards"
+							"The Lion King"
 						]
 					],
 					"audioFile": "./best-of-disney/The Lion King/Can You Feel the Love Tonight.mp3",
@@ -5411,11 +5040,7 @@
 					"sources": [
 						[
 							true,
-							"Carmen Twillie"
-						],
-						[
-							true,
-							"Lebo M."
+							"The Lion King"
 						]
 					],
 					"audioFile": "./best-of-disney/The Lion King/Circle of Life.mp3",
@@ -5432,19 +5057,7 @@
 					"sources": [
 						[
 							true,
-							"Nathan Lane"
-						],
-						[
-							true,
-							"Ernie Sabella"
-						],
-						[
-							true,
-							"Jason Weaver"
-						],
-						[
-							true,
-							"Joseph Williams"
+							"The Lion King"
 						]
 					],
 					"audioFile": "./best-of-disney/The Lion King/Hakuna Matata.mp3",
@@ -5456,20 +5069,15 @@
 				{
 					"title": [
 						false,
-						"I Just Can't Wait to Be King"
+						"I Just Can't Wait to Be King",
+						"I Just Can Not Wait to Be King",
+						"Can't Wait to Be King",
+						"Can Not Wait to Be King"
 					],
 					"sources": [
 						[
 							true,
-							"Jason Weaver"
-						],
-						[
-							true,
-							"Rowan Atkinson"
-						],
-						[
-							true,
-							"Laura Williams"
+							"The Lion King"
 						]
 					],
 					"audioFile": "./best-of-disney/The Lion King/I Just Can't Wait to Be King.mp3",
@@ -5486,11 +5094,7 @@
 					"sources": [
 						[
 							true,
-							"Hans Zimmer"
-						],
-						[
-							true,
-							"Lebo M."
+							"The Lion King"
 						]
 					],
 					"audioFile": "./best-of-disney/The Lion King/This Land.mp3",
@@ -5507,15 +5111,7 @@
 					"sources": [
 						[
 							true,
-							"Lea Salonga"
-						],
-						[
-							true,
-							"Brad Kane"
-						],
-						[
-							true,
-							"Disney"
+							"Aladdin"
 						]
 					],
 					"audioFile": "./best-of-disney/Aladdin/A Whole New World.mp3",
@@ -5532,11 +5128,7 @@
 					"sources": [
 						[
 							true,
-							"Bruce Adler"
-						],
-						[
-							true,
-							"Disney"
+							"Aladdin"
 						]
 					],
 					"audioFile": "./best-of-disney/Aladdin/Arabian Nights.mp3",
@@ -5553,11 +5145,7 @@
 					"sources": [
 						[
 							true,
-							"Robin Williams"
-						],
-						[
-							true,
-							"Disney"
+							"Aladdin"
 						]
 					],
 					"audioFile": "./best-of-disney/Aladdin/Friend Like Me.mp3",
@@ -5574,11 +5162,7 @@
 					"sources": [
 						[
 							true,
-							"Brad Kane"
-						],
-						[
-							true,
-							"Disney"
+							"Aladdin"
 						]
 					],
 					"audioFile": "./best-of-disney/Aladdin/One Jump Ahead.mp3",
@@ -5595,11 +5179,7 @@
 					"sources": [
 						[
 							true,
-							"Robin Williams"
-						],
-						[
-							true,
-							"Disney"
+							"Aladdin"
 						]
 					],
 					"audioFile": "./best-of-disney/Aladdin/Prince Ali.mp3",
@@ -5616,19 +5196,7 @@
 					"sources": [
 						[
 							true,
-							"Angela Lansbury"
-						],
-						[
-							true,
-							"Jerry Orbach"
-						],
-						[
-							true,
-							"Chorus - Beauty And the Beast"
-						],
-						[
-							true,
-							"Disney"
+							"Beauty and the Beast"
 						]
 					],
 					"audioFile": "./best-of-disney/Beauty and the Beast/Be Our Guest.mp3",
@@ -5645,11 +5213,7 @@
 					"sources": [
 						[
 							true,
-							"Angela Lansbury"
-						],
-						[
-							true,
-							"Disney"
+							"Beauty and the Beast"
 						]
 					],
 					"audioFile": "./best-of-disney/Beauty and the Beast/Beauty and the Beast.mp3",
@@ -5666,19 +5230,7 @@
 					"sources": [
 						[
 							true,
-							"Richard White"
-						],
-						[
-							true,
-							"Paige O'Hara"
-						],
-						[
-							true,
-							"Chorus - Beauty And the Beast"
-						],
-						[
-							true,
-							"Disney"
+							"Beauty and the Beast"
 						]
 					],
 					"audioFile": "./best-of-disney/Beauty and the Beast/Belle.mp3",
@@ -5695,19 +5247,7 @@
 					"sources": [
 						[
 							true,
-							"Richard White"
-						],
-						[
-							true,
-							"Jesse Corti"
-						],
-						[
-							true,
-							"Chorus - Beauty And the Beast"
-						],
-						[
-							true,
-							"Disney"
+							"Beauty and the Beast"
 						]
 					],
 					"audioFile": "./best-of-disney/Beauty and the Beast/Gaston.mp3",
@@ -5724,27 +5264,7 @@
 					"sources": [
 						[
 							true,
-							"Robby Benson"
-						],
-						[
-							true,
-							"Jerry Orbach"
-						],
-						[
-							true,
-							"Paige O'Hara"
-						],
-						[
-							true,
-							"Angela Lansbury"
-						],
-						[
-							true,
-							"David Ogden Stiers"
-						],
-						[
-							true,
-							"Disney"
+							"Beauty and the Beast"
 						]
 					],
 					"audioFile": "./best-of-disney/Beauty and the Beast/Something There.mp3",
@@ -5761,15 +5281,7 @@
 					"sources": [
 						[
 							true,
-							"Chorus - Beauty And the Beast"
-						],
-						[
-							true,
-							"Richard White"
-						],
-						[
-							true,
-							"Disney"
+							"Beauty and the Beast"
 						]
 					],
 					"audioFile": "./best-of-disney/Beauty and the Beast/The Mob Song.mp3",
@@ -5786,11 +5298,7 @@
 					"sources": [
 						[
 							true,
-							"Alan Menken"
-						],
-						[
-							true,
-							"Disney"
+							"Beauty and the Beast"
 						]
 					],
 					"audioFile": "./best-of-disney/Beauty and the Beast/Transformation.mp3",
@@ -5807,11 +5315,7 @@
 					"sources": [
 						[
 							true,
-							"Samuel E. Wright"
-						],
-						[
-							true,
-							"Disney"
+							"The Little Mermaid"
 						]
 					],
 					"audioFile": "./best-of-disney/The Little Mermaid/Kiss the Girl.mp3",
@@ -5828,11 +5332,7 @@
 					"sources": [
 						[
 							true,
-							"Jodi Benson"
-						],
-						[
-							true,
-							"Disney"
+							"The Little Mermaid"
 						]
 					],
 					"audioFile": "./best-of-disney/The Little Mermaid/Part of Your World.mp3",
@@ -5849,11 +5349,7 @@
 					"sources": [
 						[
 							true,
-							"Pat Carroll"
-						],
-						[
-							true,
-							"Disney"
+							"The Little Mermaid"
 						]
 					],
 					"audioFile": "./best-of-disney/The Little Mermaid/Poor Unfortunate Souls.mp3",
@@ -5870,11 +5366,7 @@
 					"sources": [
 						[
 							true,
-							"Samuel E. Wright"
-						],
-						[
-							true,
-							"Disney"
+							"The Little Mermaid"
 						]
 					],
 					"audioFile": "./best-of-disney/The Little Mermaid/Under the Sea.mp3",
@@ -5891,7 +5383,7 @@
 					"sources": [
 						[
 							true,
-							"Ruth Pointer"
+							"Oliver & Company"
 						]
 					],
 					"audioFile": "./best-of-disney/Oliver & Company/Streets Of Gold.mp3",
@@ -5908,7 +5400,7 @@
 					"sources": [
 						[
 							true,
-							"Billy Joel"
+							"Oliver & Company"
 						]
 					],
 					"audioFile": "./best-of-disney/Oliver & Company/Why Should I Worry.mp3",
@@ -5925,7 +5417,9 @@
 					"sources": [
 						[
 							true,
-							"Henry Mancini"
+							"The Great Mouse Detective",
+							"Basil the Great Mouse Detective",
+							"The Adventures of the Great Mouse Detective"
 						]
 					],
 					"audioFile": "./best-of-disney/The Great Mouse Detective/Big Ben Chase.mp3",
@@ -5937,12 +5431,15 @@
 				{
 					"title": [
 						false,
-						"\"Goodbye So Soon\""
+						"\"Goodbye So Soon\"",
+						"Goodbye So Soon"
 					],
 					"sources": [
 						[
 							true,
-							"Vincent Price"
+							"The Great Mouse Detective",
+							"Basil the Great Mouse Detective",
+							"The Adventures of the Great Mouse Detective"
 						]
 					],
 					"audioFile": "./best-of-disney/The Great Mouse Detective/Goodbye So Soon.mp3",
@@ -5954,12 +5451,17 @@
 				{
 					"title": [
 						false,
-						"\"The World's Greatest Criminal Mind\""
+						"\"The World's Greatest Criminal Mind\"",
+						"The World's Greatest Criminal Mind",
+						"\"The Greatest Criminal Mind\"",
+						"The Greatest Criminal Mind"
 					],
 					"sources": [
 						[
 							true,
-							"Vincent Price"
+							"The Great Mouse Detective",
+							"Basil the Great Mouse Detective",
+							"The Adventures of the Great Mouse Detective"
 						]
 					],
 					"audioFile": "./best-of-disney/The Great Mouse Detective/The World's Greatest Criminal Mind.mp3",
@@ -5976,7 +5478,7 @@
 					"sources": [
 						[
 							true,
-							"Shelby Flint"
+							"The Rescuers"
 						]
 					],
 					"audioFile": "./best-of-disney/The Rescuers/Tomorrow Is Another Day.mp3",
@@ -5988,24 +5490,12 @@
 				{
 					"title": [
 						false,
-						"Ev'rybody Wants to Be a Cat"
+						"Everybody Wants to Be a Cat"
 					],
 					"sources": [
 						[
 							true,
-							"Scatman Crothers"
-						],
-						[
-							true,
-							"Phil Harris"
-						],
-						[
-							true,
-							"Thurl Ravenscroft"
-						],
-						[
-							true,
-							"Liz English"
+							"The Aristocats"
 						]
 					],
 					"audioFile": "./best-of-disney/The Aristocats/Ev'rybody Wants to Be a Cat.mp3",
@@ -6025,15 +5515,7 @@
 					"sources": [
 						[
 							true,
-							"Louis Prima"
-						],
-						[
-							true,
-							"Phil Harris"
-						],
-						[
-							true,
-							"Bruce Reitherman"
+							"The Jungle Book"
 						]
 					],
 					"audioFile": "./best-of-disney/The Jungle Book/I Wan'na Be Like You (The Monkey Song).mp3",
@@ -6050,11 +5532,7 @@
 					"sources": [
 						[
 							true,
-							"Phil Harris"
-						],
-						[
-							true,
-							"Bruce Reitherman"
+							"The Jungle Book"
 						]
 					],
 					"audioFile": "./best-of-disney/The Jungle Book/The Bare Necessities.mp3",
@@ -6071,7 +5549,8 @@
 					"sources": [
 						[
 							true,
-							"Bill Lee"
+							"One Hundred and One Dalmatians",
+							"101 Dalmatians"
 						]
 					],
 					"audioFile": "./best-of-disney/One Hundred and One Dalmatians/Cruella De Vil.mp3",
@@ -6088,7 +5567,8 @@
 					"sources": [
 						[
 							true,
-							"George Bruns"
+							"One Hundred and One Dalmatians",
+							"101 Dalmatians"
 						]
 					],
 					"audioFile": "./best-of-disney/One Hundred and One Dalmatians/Overture.mp3",
@@ -6105,15 +5585,7 @@
 					"sources": [
 						[
 							true,
-							"Mary Costa"
-						],
-						[
-							true,
-							"Bill Shirley"
-						],
-						[
-							true,
-							"Chorus - Sleeping Beauty"
+							"Sleeping Beauty"
 						]
 					],
 					"audioFile": "./best-of-disney/Sleeping Beauty/An Unusual Prince - Once Upon A Dream.mp3",
@@ -6125,12 +5597,18 @@
 				{
 					"title": [
 						false,
-						"Main Title / Once Upon A Dream / Prologue"
+						"Main Title / Once Upon A Dream / Prologue",
+						"Main Title",
+						"Main Theme",
+						"Theme Song",
+						"Once Upon A Dream",
+						"Prologue",
+						"Ending"
 					],
 					"sources": [
 						[
 							true,
-							"Chorus - Sleeping Beauty"
+							"Sleeping Beauty"
 						]
 					],
 					"audioFile": "./best-of-disney/Sleeping Beauty/Main Title - Once Upon A Dream - Prologue.mp3",
@@ -6142,16 +5620,18 @@
 				{
 					"title": [
 						false,
-						"Main Title (Bella Notte)/The Wag of a Dog's Tail"
+						"Bella Notte / The Wag of a Dog's Tail",
+						"Bella Notte / Wag of a Dog's Tail",
+						"Bella Notte",
+						"Wag of a Dog's Tail",
+						"Main Title",
+						"Main Theme",
+						"Theme Song"
 					],
 					"sources": [
 						[
 							true,
-							"Disney Studio Chorus"
-						],
-						[
-							true,
-							"Oliver Wallace"
+							"Lady and the Tramp"
 						]
 					],
 					"audioFile": "./best-of-disney/Lady and the Tramp/Main Title (Bella Notte) - The Wag of a Dog's Tail.mp3",
@@ -6163,16 +5643,16 @@
 				{
 					"title": [
 						false,
-						"What a Dog/He's a Tramp"
+						"What a Dog / He's a Tramp",
+						"What a Dog / He is a Tramp",
+						"What a Dog",
+						"He's a Tramp",
+						"He is a Tramp"
 					],
 					"sources": [
 						[
 							true,
-							"Oliver Wallace"
-						],
-						[
-							true,
-							"Peggy Lee"
+							"Lady and the Tramp"
 						]
 					],
 					"audioFile": "./best-of-disney/Lady and the Tramp/What a Dog - He's a Tramp.mp3",
@@ -6189,11 +5669,7 @@
 					"sources": [
 						[
 							true,
-							"Bobby Driscoll"
-						],
-						[
-							true,
-							"Paul Collins"
+							"Peter Pan"
 						]
 					],
 					"audioFile": "./best-of-disney/Peter Pan/Following the Leader.mp3",
@@ -6205,12 +5681,17 @@
 				{
 					"title": [
 						false,
-						"Main Title (The Second Star to the Right) / All This Has Happened Before"
+						"The Second Star to the Right / All This Has Happened Before",
+						"The Second Star to the Right",
+						"All This Has Happened Before",
+						"Main Title",
+						"Main Theme",
+						"Theme Song"
 					],
 					"sources": [
 						[
 							true,
-							"The Jud Conlon Chorus"
+							"Peter Pan"
 						]
 					],
 					"audioFile": "./best-of-disney/Peter Pan/Main Title (The Second Star to the Right) - All This Has Happened Before.mp3",
@@ -6227,7 +5708,7 @@
 					"sources": [
 						[
 							true,
-							"Kathryn Beaumont"
+							"Peter Pan"
 						]
 					],
 					"audioFile": "./best-of-disney/Peter Pan/Your Mother and Mine.mp3",
@@ -6239,12 +5720,14 @@
 				{
 					"title": [
 						false,
-						"Main Title"
+						"Main Title",
+						"Main Theme",
+						"Theme Song"
 					],
 					"sources": [
 						[
 							true,
-							"The Jud Conlon Chorus"
+							"Alice in Wonderland"
 						]
 					],
 					"audioFile": "./best-of-disney/Alice in Wonderland/Main Title.mp3",
@@ -6256,16 +5739,14 @@
 				{
 					"title": [
 						false,
-						"Painting the Roses Red / March of the Cards"
+						"Painting the Roses Red / March of the Cards",
+						"Painting the Roses Red",
+						"March of the Cards"
 					],
 					"sources": [
 						[
 							true,
-							"The Mello Men"
-						],
-						[
-							true,
-							"Kathryn Beaumont"
+							"Alice in Wonderland"
 						]
 					],
 					"audioFile": "./best-of-disney/Alice in Wonderland/Painting the Roses Red - March of the Cards.mp3",
@@ -6277,12 +5758,14 @@
 				{
 					"title": [
 						false,
-						"Pay Attention / In a World of My Own"
+						"Pay Attention / In a World of My Own",
+						"Pay Attention",
+						"In a World of My Own"
 					],
 					"sources": [
 						[
 							true,
-							"Kathryn Beaumont"
+							"Alice in Wonderland"
 						]
 					],
 					"audioFile": "./best-of-disney/Alice in Wonderland/Pay Attention - In a World of My Own.mp3",
@@ -6294,16 +5777,14 @@
 				{
 					"title": [
 						false,
-						"The Garden / All in the Golden Afternoon"
+						"The Garden / All in the Golden Afternoon",
+						"The Garden",
+						"All in the Golden Afternoon"
 					],
 					"sources": [
 						[
 							true,
-							"Kathryn Beaumont"
-						],
-						[
-							true,
-							"Disney Studio Chorus"
+							"Alice in Wonderland"
 						]
 					],
 					"audioFile": "./best-of-disney/Alice in Wonderland/The Garden - All in the Golden Afternoon.mp3",
@@ -6320,11 +5801,7 @@
 					"sources": [
 						[
 							true,
-							"Ilene Woods"
-						],
-						[
-							true,
-							"Mice Chorus"
+							"Cinderella"
 						]
 					],
 					"audioFile": "./best-of-disney/Cinderella/A Dream Is a Wish Your Heart Makes.mp3",
@@ -6344,7 +5821,7 @@
 					"sources": [
 						[
 							true,
-							"Verna Felton"
+							"Cinderella"
 						]
 					],
 					"audioFile": "./best-of-disney/Cinderella/Where Did I Put That Thing - Bibbidi-Bobbidi-Boo (The Magic Song).mp3",
@@ -6361,11 +5838,7 @@
 					"sources": [
 						[
 							true,
-							"Leopold Stokowski"
-						],
-						[
-							true,
-							"The Philadelphia Orchestra"
+							"Fantasia"
 						]
 					],
 					"audioFile": "./best-of-disney/Fantasia/The Sorcerer's Apprentice.mp3",
@@ -6382,11 +5855,7 @@
 					"sources": [
 						[
 							true,
-							"Cliff Edwards"
-						],
-						[
-							true,
-							"Disney Studio Chorus"
+							"Pinocchio"
 						]
 					],
 					"audioFile": "./best-of-disney/Pinocchio/When You Wish Upon a Star.mp3",
@@ -6403,7 +5872,8 @@
 					"sources": [
 						[
 							true,
-							"The Dwarf Chorus"
+							"Snow White and the Seven Dwarfs",
+							"Snow White"
 						]
 					],
 					"audioFile": "./best-of-disney/Snow White and the Seven Dwarfs/Heigh-Ho.mp3",
@@ -6420,7 +5890,8 @@
 					"sources": [
 						[
 							true,
-							"Adriana Caselotti"
+							"Snow White and the Seven Dwarfs",
+							"Snow White"
 						]
 					],
 					"audioFile": "./best-of-disney/Snow White and the Seven Dwarfs/Some Day My Prince Will Come.mp3",
@@ -6440,7 +5911,8 @@
 					"sources": [
 						[
 							true,
-							"The Dwarf Chorus"
+							"Snow White and the Seven Dwarfs",
+							"Snow White"
 						]
 					],
 					"audioFile": "./best-of-disney/Snow White and the Seven Dwarfs/The Silly Song (The Dwarfs' Yodel Song).mp3",
@@ -6457,7 +5929,8 @@
 					"sources": [
 						[
 							true,
-							"Adriana Caselotti"
+							"Snow White and the Seven Dwarfs",
+							"Snow White"
 						]
 					],
 					"audioFile": "./best-of-disney/Snow White and the Seven Dwarfs/Whistle While You Work.mp3",
@@ -6773,7 +6246,8 @@
 						"Song of Time",
 						"Theme Song",
 						"Main Theme",
-						"Ending"
+						"Ending",
+						"Prologue"
 					],
 					"sources": [
 						[
@@ -7178,6 +6652,7 @@
 						false,
 						"Ending Theme Song",
 						"Ending",
+						"Prologue",
 						"Theme Song"
 					],
 					"sources": [
