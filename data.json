@@ -3366,7 +3366,7 @@
 			"title": "Best of Pixar Animation Studios",
 			"description": "The most popular soundtracks from Pixar animated feature films.",
 			"difficulty": "Easy",
-			"gameStyle": 1,
+			"gameStyle": 2,
 			"disabledLifelines": [],
 			"sourceName": "Movie",
 			"author": "MusiQuiz",
@@ -3654,7 +3654,8 @@
 				{
 					"title": [
 						false,
-						"Le Festin"
+						"Le Festin",
+						"La Festin"
 					],
 					"sources": [
 						[
@@ -3872,7 +3873,7 @@
 			"title": "Best of Walt Disney Animation Studios",
 			"description": "The most popular soundtracks from Disney animated feature films.",
 			"difficulty": "Medium",
-			"gameStyle": 1,
+			"gameStyle": 2,
 			"disabledLifelines": [],
 			"sourceName": "Movie",
 			"author": "MusiQuiz",
@@ -5502,7 +5503,8 @@
 				{
 					"title": [
 						false,
-						"Everybody Wants to Be a Cat"
+						"Everybody Wants to Be a Cat",
+						"Everyone Wants to Be a Cat"
 					],
 					"sources": [
 						[
@@ -5958,7 +5960,7 @@
 			"title": "Best of Studio Ghibli",
 			"description": "The most popular soundtracks from Studio Ghibli.",
 			"difficulty": "Medium",
-			"gameStyle": 1,
+			"gameStyle": 2,
 			"disabledLifelines": [],
 			"sourceName": "Movie",
 			"author": "MusiQuiz",
