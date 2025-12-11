@@ -4,7 +4,7 @@
 			"id": "billboard-top-1960",
 			"title": "Top 'Billboard Hot 100' Songs (1960s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 1960-1969, all songs released within the same decade.",
-			"difficulty": "Hard",
+			"difficulty": "Medium",
 			"gameStyle": 1,
 			"disabledLifelines": [],
 			"sourceName": "Artist",
@@ -539,7 +539,7 @@
 			"id": "billboard-top-1970",
 			"title": "Top 'Billboard Hot 100' Songs (1970s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 1970-1979, all songs released within the same decade.",
-			"difficulty": "Hard",
+			"difficulty": "Medium",
 			"gameStyle": 1,
 			"disabledLifelines": [],
 			"sourceName": "Artist",
@@ -1094,7 +1094,7 @@
 			"id": "billboard-top-1980",
 			"title": "Top 'Billboard Hot 100' Songs (1980s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 1980-1989, all songs released within the same decade.",
-			"difficulty": "Hard",
+			"difficulty": "Medium",
 			"gameStyle": 1,
 			"disabledLifelines": [],
 			"sourceName": "Artist",
@@ -1647,7 +1647,7 @@
 			"id": "billboard-top-1990",
 			"title": "Top 'Billboard Hot 100' Songs (1990s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 1990-1999, all songs released within the same decade.",
-			"difficulty": "Hard",
+			"difficulty": "Medium",
 			"gameStyle": 1,
 			"disabledLifelines": [],
 			"sourceName": "Artist",
@@ -2196,7 +2196,7 @@
 			"id": "billboard-top-2000",
 			"title": "Top 'Billboard Hot 100' Songs (2000s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 2000-2009, all songs released within the same decade.",
-			"difficulty": "Hard",
+			"difficulty": "Medium",
 			"gameStyle": 1,
 			"disabledLifelines": [],
 			"sourceName": "Artist",
@@ -2753,7 +2753,7 @@
 			"id": "billboard-top-2010",
 			"title": "Top 'Billboard Hot 100' Songs (2010s)",
 			"description": "The most popular songs from the 'Billboard Hot 100' 2010-2019, all songs released within the same decade.",
-			"difficulty": "Hard",
+			"difficulty": "Medium",
 			"gameStyle": 1,
 			"disabledLifelines": [],
 			"sourceName": "Artist",
@@ -3645,7 +3645,7 @@
 							"WALL E"
 						]
 					],
-					"audioFile": "./best-of-pixar/WALL-E/Down to Earth.mp3",
+					"audioFile": "./best-of-pixar/WALL-E/Down To Earth.mp3",
 					"startTime": null,
 					"year": 2008,
 					"level": null,
@@ -3671,7 +3671,9 @@
 				{
 					"title": [
 						false,
-						"Main Theme"
+						"Main Title",
+						"Main Theme",
+						"Theme Song"
 					],
 					"sources": [
 						[
@@ -3740,7 +3742,9 @@
 				{
 					"title": [
 						false,
-						"The Incredits"
+						"The Incredits",
+						"Credits",
+						"Ending"
 					],
 					"sources": [
 						[
@@ -3867,7 +3871,7 @@
 			"id": "best-of-disney",
 			"title": "Best of Walt Disney Animation Studios",
 			"description": "The most popular soundtracks from Disney animated feature films.",
-			"difficulty": "Easy",
+			"difficulty": "Medium",
 			"gameStyle": 1,
 			"disabledLifelines": [],
 			"sourceName": "Movie",
@@ -5611,7 +5615,7 @@
 						"Theme Song",
 						"Once Upon A Dream",
 						"Prologue",
-						"Ending"
+						"Opening"
 					],
 					"sources": [
 						[
@@ -6255,7 +6259,7 @@
 						"Theme Song",
 						"Main Theme",
 						"Ending",
-						"Prologue"
+						"Credits"
 					],
 					"sources": [
 						[
@@ -6660,7 +6664,7 @@
 						false,
 						"Ending Theme Song",
 						"Ending",
-						"Prologue",
+						"Credits",
 						"Theme Song"
 					],
 					"sources": [
