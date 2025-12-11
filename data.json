@@ -4189,7 +4189,8 @@
 					"sources": [
 						[
 							true,
-							"Tangled"
+							"Tangled",
+							"Tangeled"
 						]
 					],
 					"audioFile": "./best-of-disney/Tangled/I See the Light.mp3",
@@ -4202,12 +4203,14 @@
 					"title": [
 						false,
 						"I've Got a Dream",
-						"I Have Got a Dream"
+						"I Have Got a Dream",
+						"I Have a Dream"
 					],
 					"sources": [
 						[
 							true,
-							"Tangled"
+							"Tangled",
+							"Tangeled"
 						]
 					],
 					"audioFile": "./best-of-disney/Tangled/I've Got a Dream.mp3",
@@ -4224,7 +4227,8 @@
 					"sources": [
 						[
 							true,
-							"Tangled"
+							"Tangled",
+							"Tangeled"
 						]
 					],
 					"audioFile": "./best-of-disney/Tangled/Mother Knows Best.mp3",
@@ -4241,7 +4245,8 @@
 					"sources": [
 						[
 							true,
-							"Tangled"
+							"Tangled",
+							"Tangeled"
 						]
 					],
 					"audioFile": "./best-of-disney/Tangled/When Will My Life Begin.mp3",
@@ -5071,6 +5076,8 @@
 						false,
 						"I Just Can't Wait to Be King",
 						"I Just Can Not Wait to Be King",
+						"I Can't Wait to Be King",
+						"I Can Not Wait to Be King",
 						"Can't Wait to Be King",
 						"Can Not Wait to Be King"
 					],
@@ -5276,7 +5283,8 @@
 				{
 					"title": [
 						false,
-						"The Mob Song"
+						"The Mob Song",
+						"The Mob"
 					],
 					"sources": [
 						[
