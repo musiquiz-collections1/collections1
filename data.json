@@ -3872,7 +3872,7 @@
 			"disabledLifelines": [],
 			"sourceName": "Movie",
 			"author": "MusiQuiz",
-			"covers": [],
+			"covers": [ "./best-of-disney/cover.png" ],
 			"songs": [
 				{
 					"title": [
@@ -6477,7 +6477,7 @@
 			"disabledLifelines": [],
 			"sourceName": "Movie",
 			"author": "MusiQuiz",
-			"covers": [],
+			"covers": [ "./best-of-ghibli/cover.png" ],
 			"songs": [
 				{
 					"title": [
