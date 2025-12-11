@@ -3363,8 +3363,8 @@
 		},
 		{
 			"id": "best-of-pixar",
-			"title": "Best of Pixar",
-			"description": "The most popular soundtracks from Pixar films.",
+			"title": "Best of Pixar Animation Studios",
+			"description": "The most popular soundtracks from Pixar animated feature films.",
 			"difficulty": "Easy",
 			"gameStyle": 1,
 			"disabledLifelines": [],
@@ -3865,8 +3865,8 @@
 		},
 		{
 			"id": "best-of-disney",
-			"title": "Best of Disney Animation",
-			"description": "The most popular soundtracks from Disney animated films.",
+			"title": "Best of Walt Disney Animation Studios",
+			"description": "The most popular soundtracks from Disney animated feature films.",
 			"difficulty": "Easy",
 			"gameStyle": 1,
 			"disabledLifelines": [],
@@ -6470,7 +6470,7 @@
 		},
 		{
 			"id": "best-of-ghibli",
-			"title": "Best of Ghibli",
+			"title": "Best of Studio Ghibli",
 			"description": "The most popular soundtracks from Studio Ghibli.",
 			"difficulty": "Medium",
 			"gameStyle": 1,
