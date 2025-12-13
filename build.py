@@ -131,7 +131,7 @@ def update_index_html():
 		try:
 			with open(index_path, 'r', encoding='utf-8') as f:
 				content = f.read()
-				match = re.search(r'<p class="version">(.*?)</p>', content)
+				match = re.search(r'<p id="version">(.*?)</p>', content)
 				if match:
 					version = match.group(1)
 		except:
@@ -286,7 +286,7 @@ def update_index_html():
 </head>
 <body>
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: fixed; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
-	<p class="version" style="position:fixed; top: 1rem; right: 1rem;">{version}</p>
+	<p id="version" style="position:fixed; top: 1rem; right: 1rem;">{version}</p>
 	<span style="margin: 5rem 0 0;"><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2>Collections</h1></span>
 	<span id="copyLink" onclick="this.classList.add('anim');setTimeout(()=>this.classList.remove('anim'),500);selectText(this); navigator.clipboard.writeText(this.innerText);"></span>
 	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
