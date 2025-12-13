@@ -80,7 +80,7 @@ def minute_to_scrambled_word(minute):
         idx = val % len(word_list)
         parts.append(word_list[perm[idx]])
     
-    return "".join(parts)
+    return "<br>".join(parts)
 
 # Generate all words
 all_words = []
