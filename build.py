@@ -286,6 +286,7 @@ def update_index_html():
 			position:fixed;
 			top: 1rem;
 			right: 1rem;
+			color: burlywood;	
 		}}
 	</style>
 </head>
