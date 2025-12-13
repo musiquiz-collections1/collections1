@@ -282,11 +282,16 @@ def update_index_html():
 			0%, 50% {{ filter: brightness(1.2); }}
 			100% {{ filter: brightness(1); }}
 		}}
+		#version {{
+			position:fixed;
+			top: 1rem;
+			right: 1rem;
+		}}
 	</style>
 </head>
 <body>
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: fixed; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
-	<p id="version" style="position:fixed; top: 1rem; right: 1rem;">{version}</p>
+	<p id="version">{version}</p>
 	<span style="margin: 5rem 0 0;"><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2>Collections</h1></span>
 	<span id="copyLink" onclick="this.classList.add('anim');setTimeout(()=>this.classList.remove('anim'),500);selectText(this); navigator.clipboard.writeText(this.innerText);"></span>
 	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
