@@ -289,6 +289,12 @@ def update_index_html():
 			color: burlywood;	
 			font-size: 1rem;
     		font-weight: bold;
+			user-select: all;
+    		cursor: default;
+		}}
+		#version:active,
+		#version:hover {{
+			color: coral;
 		}}
 	</style>
 </head>
