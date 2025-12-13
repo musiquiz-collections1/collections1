@@ -125,17 +125,15 @@ def update_index_html():
 
 	index_path = script_dir / "index.html"
 
-	# Read existing timestamp from current index.html if it exists
-	timestamp = "TIMESTAMP_PLACEHOLDER"
+	version = "PLACEHOLDER"
 	if index_path.exists():
 		import re
 		try:
 			with open(index_path, 'r', encoding='utf-8') as f:
 				content = f.read()
-				# Extract timestamp from <p class="updated"> tag
-				match = re.search(r'<p class="updated">(.*?)</p>', content)
+				match = re.search(r'<p class="version">(.*?)</p>', content)
 				if match:
-					timestamp = match.group(1)
+					version = match.group(1)
 		except:
 			pass  # Fall back to placeholder if reading fails
 
@@ -288,8 +286,8 @@ def update_index_html():
 </head>
 <body>
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: fixed; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
+	<p class="version" style="position:fixed; top: 1rem; right: 1rem;>{version}</p>
 	<span style="margin: 5rem 0 0;"><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2>Collections</h1></span>
-	<p class="updated">{timestamp}</p>
 	<span id="copyLink" onclick="this.classList.add('anim');setTimeout(()=>this.classList.remove('anim'),500);selectText(this); navigator.clipboard.writeText(this.innerText);"></span>
 	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
 	<script>
@@ -400,7 +398,7 @@ def update_index_html():
 	with open(index_path, 'w', encoding='utf-8') as f:
 		f.write(html_content)
 
-	print(f"Directory structure updated in index.html at {timestamp}")
+	print(f"Directory structure updated in index.html at {version}")
 
 if __name__ == "__main__":
 	update_index_html()
