@@ -1,0 +1,46 @@
+
+{
+	"id": "billboard-top-2010",
+	"title": "Top 'Billboard Hot 100' Songs (1970s)",
+	"description": "The most popular songs from the 'Billboard Hot 100' 1970-1979, all songs released within the same decade.",
+	"difficulty": "Medium",
+	"gameStyle": 1,
+	"disabledLifelines": [],
+	"sourceName": "Artist",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		"billboard/1970-1979/Bad Girls",
+		"billboard/1970-1979/My Sharona",
+		"billboard/1970-1979/Le Freak",
+		"billboard/1970-1979/Night Fever",
+		"billboard/1970-1979/Shadow Dancing",
+		"billboard/1970-1979/Best of My Love",
+		"billboard/1970-1979/I Just Want To Be Your Everything",
+		"billboard/1970-1979/You Light Up My Life",
+		"billboard/1970-1979/Disco Lady",
+		"billboard/1970-1979/Don't Go Breaking My Heart",
+		"billboard/1970-1979/Silly Love Songs",
+		"billboard/1970-1979/Tonight's the Night (Gonna Be Alright)",
+		"billboard/1970-1979/Philadelphia Freedom",
+		"billboard/1970-1979/Rhinestone Cowboy",
+		"billboard/1970-1979/Bad Bad, Leroy Brown",
+		"billboard/1970-1979/Let's Get It On",
+		"billboard/1970-1979/Love Will Keep Us Together",
+		"billboard/1970-1979/Love's Theme",
+		"billboard/1970-1979/The Way We Were",
+		"billboard/1970-1979/Tie a Yellow Ribbon Round the Ole Oak Tree",
+		"billboard/1970-1979/Alone Again (Naturally)",
+		"billboard/1970-1979/Killing Me Softly With His Song",
+		"billboard/1970-1979/The First Time Ever I Saw Your Face",
+		"billboard/1970-1979/American Pie",
+		"billboard/1970-1979/I Feel the Earth Move",
+		"billboard/1970-1979/Joy To The World",
+		"billboard/1970-1979/Maggie May",
+		"billboard/1970-1979/(They Long To Be) Close To You",
+		"billboard/1970-1979/American Woman",
+		"billboard/1970-1979/Bridge Over Troubled Water"
+	]
+}

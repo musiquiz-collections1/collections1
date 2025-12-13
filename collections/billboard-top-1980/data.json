@@ -1,0 +1,46 @@
+
+{
+	"id": "billboard-top-2010",
+	"title": "Top 'Billboard Hot 100' Songs (1980s)",
+	"description": "The most popular songs from the 'Billboard Hot 100' 1980-1989, all songs released within the same decade.",
+	"difficulty": "Medium",
+	"gameStyle": 1,
+	"disabledLifelines": [],
+	"sourceName": "Artist",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		"billboard/1980-1989/Every Rose Has Its Thorn",
+		"billboard/1980-1989/Look Away",
+		"billboard/1980-1989/My Prerogative",
+		"billboard/1980-1989/Straight Up",
+		"billboard/1980-1989/Faith",
+		"billboard/1980-1989/Need You Tonight",
+		"billboard/1980-1989/Shake You Down",
+		"billboard/1980-1989/Walk Like an Egyptian",
+		"billboard/1980-1989/I Miss You",
+		"billboard/1980-1989/Say You, Say Me",
+		"billboard/1980-1989/Careless Whisper",
+		"billboard/1980-1989/Footloose",
+		"billboard/1980-1989/I Want to Know What Love Is",
+		"billboard/1980-1989/Like a Virgin",
+		"billboard/1980-1989/Wake Me Up Before You Go-Go",
+		"billboard/1980-1989/What's Love Got to Do with It",
+		"billboard/1980-1989/When Doves Cry",
+		"billboard/1980-1989/Alone",
+		"billboard/1980-1989/Billie Jean",
+		"billboard/1980-1989/Every Breath You Take",
+		"billboard/1980-1989/Flashdance… What A Feeling",
+		"billboard/1980-1989/Say Say Say",
+		"billboard/1980-1989/Eye of the Tiger",
+		"billboard/1980-1989/That's What Friends Are For",
+		"billboard/1980-1989/Bette Davis Eyes",
+		"billboard/1980-1989/Endless Love",
+		"billboard/1980-1989/Physical",
+		"billboard/1980-1989/Call Me",
+		"billboard/1980-1989/Lady",
+		"billboard/1980-1989/Magic"
+	]
+}

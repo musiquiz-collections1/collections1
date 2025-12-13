@@ -1,0 +1,46 @@
+
+{
+	"id": "billboard-top-2010",
+	"title": "Top 'Billboard Hot 100' Songs (2010s)",
+	"description": "The most popular songs from the 'Billboard Hot 100' 2010-2019, all songs released within the same decade.",
+	"difficulty": "Medium",
+	"gameStyle": 1,
+	"disabledLifelines": [],
+	"sourceName": "Artist",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		"billboard/2010-2019/God's Plan",
+		"billboard/2010-2019/Old Town Road (Remix)",
+		"billboard/2010-2019/Sunflower",
+		"billboard/2010-2019/Without Me",
+		"billboard/2010-2019/Havana",
+		"billboard/2010-2019/HUMBLE.",
+		"billboard/2010-2019/Meant to Be",
+		"billboard/2010-2019/Perfect",
+		"billboard/2010-2019/Shape of You",
+		"billboard/2010-2019/That's What I Like",
+		"billboard/2010-2019/One Dance",
+		"billboard/2010-2019/Work",
+		"billboard/2010-2019/Love Yourself",
+		"billboard/2010-2019/See You Again",
+		"billboard/2010-2019/Thinking out Loud",
+		"billboard/2010-2019/Uptown Funk",
+		"billboard/2010-2019/All of Me",
+		"billboard/2010-2019/Blurred Lines",
+		"billboard/2010-2019/Dark Horse",
+		"billboard/2010-2019/Happy",
+		"billboard/2010-2019/Payphone",
+		"billboard/2010-2019/Radioactive",
+		"billboard/2010-2019/Thrift Shop",
+		"billboard/2010-2019/Call Me Maybe",
+		"billboard/2010-2019/Party Rock Anthem",
+		"billboard/2010-2019/Somebody That I Used To Know",
+		"billboard/2010-2019/We Are Young",
+		"billboard/2010-2019/Firework",
+		"billboard/2010-2019/OMG",
+		"billboard/2010-2019/Rolling in the Deep"
+	]
+}

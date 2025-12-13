@@ -1,0 +1,44 @@
+
+{
+	"id": "best-of-pixar",
+	"title": "Best of Pixar Animation Studios",
+	"description": "The most popular soundtracks from Pixar animated feature films.",
+	"difficulty": "Easy",
+	"gameStyle": 2,
+	"disabledLifelines": [],
+	"sourceName": "Movie",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		"pixar/Turning Red/Turning Red",
+		"pixar/Luca/Telescope",
+		"pixar/Onward/Carried Me With You",
+		"pixar/Soul/Epiphany",
+		"pixar/Soul/It's All Right",
+		"pixar/Soul/Terry Time",
+		"pixar/Toy Story 4/Parting Gifts & New Horizons",
+		"pixar/Coco/Un Poco Loco",
+		"pixar/Inside Out/Bundle of Joy",
+		"pixar/The Good Dinosaur/Homestead",
+		"pixar/Brave/Into The Open Air",
+		"pixar/Brave/Touch The Sky",
+		"pixar/Toy Story 3/We Belong Together",
+		"pixar/Up/Married Life",
+		"pixar/WALL-E/2815 AD",
+		"pixar/WALL-E/Down To Earth",
+		"pixar/Ratatouille/Le Festin",
+		"pixar/Ratatouille/Ratatouille Main Theme",
+		"pixar/Cars/Life is a Highway",
+		"pixar/Cars/Real Gone",
+		"pixar/The Incredibles/Life's Incredible Again",
+		"pixar/The Incredibles/The Incredits",
+		"pixar/Finding Nemo/Nemo Egg (Main Title)",
+		"pixar/Monsters, Inc/If I Didn't Have You",
+		"pixar/Monsters, Inc/Monsters Inc",
+		"pixar/Toy Story 2/When She Loved Me",
+		"pixar/A Bug's Life/The Time Of Your Life",
+		"pixar/Toy Story/You've Got a Friend in Me"
+	]
+}

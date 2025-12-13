@@ -1,0 +1,46 @@
+
+{
+	"id": "billboard-top-2010",
+	"title": "Top 'Billboard Hot 100' Songs (1990s)",
+	"description": "The most popular songs from the 'Billboard Hot 100' 1990-1999, all songs released within the same decade.",
+	"difficulty": "Medium",
+	"gameStyle": 1,
+	"disabledLifelines": [],
+	"sourceName": "Artist",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		"billboard/1990-1999/No Scrubs",
+		"billboard/1990-1999/Believe",
+		"billboard/1990-1999/The Boy Is Mine",
+		"billboard/1990-1999/Too Close",
+		"billboard/1990-1999/You're Still The One",
+		"billboard/1990-1999/Angel of Mine",
+		"billboard/1990-1999/I'll Be Missing You",
+		"billboard/1990-1999/Because You Loved Me",
+		"billboard/1990-1999/I Believe I Can Fly",
+		"billboard/1990-1999/Un-Break My Heart",
+		"billboard/1990-1999/You Were Meant For Me",
+		"billboard/1990-1999/Gangsta's Paradise",
+		"billboard/1990-1999/Macarena (Bayside Boys Remix)",
+		"billboard/1990-1999/One Sweet Day",
+		"billboard/1990-1999/Waterfalls",
+		"billboard/1990-1999/I'll Make Love To You",
+		"billboard/1990-1999/Kiss from a Rose",
+		"billboard/1990-1999/I Swear",
+		"billboard/1990-1999/The Sign",
+		"billboard/1990-1999/Whoomp! (There It Is)",
+		"billboard/1990-1999/Baby Got Back",
+		"billboard/1990-1999/End Of The Road",
+		"billboard/1990-1999/I Will Always Love You",
+		"billboard/1990-1999/Jump",
+		"billboard/1990-1999/(Everything I Do) I Do It For You",
+		"billboard/1990-1999/I Wanna Sex You Up",
+		"billboard/1990-1999/Gonna Make You Sweat (Everybody Dance Now)",
+		"billboard/1990-1999/Hold On",
+		"billboard/1990-1999/Nothing Compares 2 U",
+		"billboard/1990-1999/Poison"
+	]
+}

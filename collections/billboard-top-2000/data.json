@@ -1,0 +1,46 @@
+
+{
+	"id": "billboard-top-2010",
+	"title": "Top 'Billboard Hot 100' Songs (2000s)",
+	"description": "The most popular songs from the 'Billboard Hot 100' 2000-2009, all songs released within the same decade.",
+	"difficulty": "Medium",
+	"gameStyle": 1,
+	"disabledLifelines": [],
+	"sourceName": "Artist",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		"billboard/2000-2009/Boom Boom Pow",
+		"billboard/2000-2009/Just Dance",
+		"billboard/2000-2009/Lollipop",
+		"billboard/2000-2009/Poker Face",
+		"billboard/2000-2009/Bleeding Love",
+		"billboard/2000-2009/Low",
+		"billboard/2000-2009/No One",
+		"billboard/2000-2009/Umbrella",
+		"billboard/2000-2009/Irreplaceable",
+		"billboard/2000-2009/Promiscuous",
+		"billboard/2000-2009/The Sweet Escape",
+		"billboard/2000-2009/Bad Day",
+		"billboard/2000-2009/Hollaback Girl",
+		"billboard/2000-2009/Temperature",
+		"billboard/2000-2009/We Belong Together",
+		"billboard/2000-2009/You're Beautiful",
+		"billboard/2000-2009/Burn",
+		"billboard/2000-2009/If I Ain't Got You",
+		"billboard/2000-2009/Let Me Love You",
+		"billboard/2000-2009/Yeah!",
+		"billboard/2000-2009/Get Busy",
+		"billboard/2000-2009/In Da Club",
+		"billboard/2000-2009/A Thousand Miles",
+		"billboard/2000-2009/Foolish",
+		"billboard/2000-2009/Hot In Herre",
+		"billboard/2000-2009/Ignition (Remix)",
+		"billboard/2000-2009/All For You",
+		"billboard/2000-2009/Fallin'",
+		"billboard/2000-2009/How You Remind Me",
+		"billboard/2000-2009/Hanging By A Moment"
+	]
+}

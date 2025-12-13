@@ -1,0 +1,46 @@
+
+{
+	"id": "billboard-top-2010",
+	"title": "Top 'Billboard Hot 100' Songs (2000s)",
+	"description": "The most popular songs from the 'Billboard Hot 100' 2000-2009, all songs released within the same decade.",
+	"difficulty": "Medium",
+	"gameStyle": 1,
+	"disabledLifelines": [],
+	"sourceName": "Artist",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		"billboard/1960-1969/Aquarius Let the Sunshine In (The Flesh Failures)",
+		"billboard/1960-1969/I Can't Get Next To You",
+		"billboard/1960-1969/Sugar Sugar",
+		"billboard/1960-1969/Hey Jude",
+		"billboard/1960-1969/Honey",
+		"billboard/1960-1969/Love Is Blue",
+		"billboard/1960-1969/Ode To Billie Joe",
+		"billboard/1960-1969/The Letter",
+		"billboard/1960-1969/To Sir With Love",
+		"billboard/1960-1969/Windy",
+		"billboard/1960-1969/96 Tears",
+		"billboard/1960-1969/What Becomes Of The Brokenhearted",
+		"billboard/1960-1969/(I Can't Get No) Satisfaction",
+		"billboard/1960-1969/California Dreamin'",
+		"billboard/1960-1969/I Can't Help Myself (Sugar Pie, Honey Bunch)",
+		"billboard/1960-1969/Wooly Bully",
+		"billboard/1960-1969/You Were On My Mind",
+		"billboard/1960-1969/Hello, Dolly!",
+		"billboard/1960-1969/Oh, Pretty Woman",
+		"billboard/1960-1969/You've Lost That Lovin' Feelin'",
+		"billboard/1960-1969/I Want To Hold Your Hand",
+		"billboard/1960-1969/Surfin' U.S.A.",
+		"billboard/1960-1969/Mashed Potato Time",
+		"billboard/1960-1969/Rhythm of the Rain",
+		"billboard/1960-1969/The End of the World",
+		"billboard/1960-1969/I Fall To Pieces",
+		"billboard/1960-1969/Stranger on the Shore",
+		"billboard/1960-1969/Tossin' and Turnin'",
+		"billboard/1960-1969/Cathy's Clown",
+		"billboard/1960-1969/Michael, Row the Boat Ashore"
+	]
+}
