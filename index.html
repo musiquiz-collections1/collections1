@@ -21,7 +21,7 @@
 			min-height: 100vh;
 			display: flex;
 			flex-direction: column;
-			justify-content: center;
+			justify-content: flex-start;
 			align-items: center;
 		}
 		body > * {
@@ -146,8 +146,8 @@
 </head>
 <body>
 	<a onclick="location.reload(true)" style="font-size: 1.5em; position: absolute; top: 1rem; left: 1rem; cursor: pointer;user-select: none;">Refresh</a>
-	<span><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2>Collections</h1></span>
-	<p class="updated">2025-12-13 13:05:02</p>
+	<span style="margin: 5rem 0 0;"><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2>Collections</h1></span>
+	<p class="updated">2025-12-13 13:11:28</p>
 	<span id="copyLink" onclick="this.classList.add('anim');setTimeout(()=>this.classList.remove('anim'),500);selectText(this); navigator.clipboard.writeText(this.innerText);"></span>
 	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a><span class="dir-toggle" onclick="toggleDirectory(`dir_audio`)">&#9656;</span><span class="dir-name" onclick="toggleDirectory(`dir_audio`)"> audio/</span><div id="dir_audio" class="dir-content collapsed">  <span class="dir-toggle" onclick="toggleDirectory(`dir_audio_billboard`)">&#9656;</span><span class="dir-name" onclick="toggleDirectory(`dir_audio_billboard`)"> billboard/</span><div id="dir_audio_billboard" class="dir-content collapsed">    <span class="dir-toggle" onclick="toggleDirectory(`dir_audio_billboard_1960_1969`)">&#9656;</span><span class="dir-name" onclick="toggleDirectory(`dir_audio_billboard_1960_1969`)"> 1960-1969/</span><div id="dir_audio_billboard_1960_1969" class="dir-content collapsed"><a href="audio/billboard/1960-1969/(I Can't Get No) Satisfaction.mp3">(I Can't Get No) Satisfaction.mp3</a>
 <a href="audio/billboard/1960-1969/96 Tears.mp3">96 Tears.mp3</a>
@@ -631,7 +631,6 @@
 </div>
 <a href="collections/index.json">index.json</a>
 </div>
-<a href=".htaccess">.htaccess</a>
 <a href="index.html">index.html</a>
 <a href="build.py">build.py</a>
 	</div>
