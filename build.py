@@ -82,7 +82,6 @@ def get_directory_structure(root_path, ignore_patterns=None):
 def generate_html_tree(structure, base_path="", level=0):
 	"""Generate HTML for the directory tree with expand/collapse functionality"""
 	html = ""
-	indent = "  " * level if level > 0 else ""  # Only indent for subdirectories
 
 	# Sort items: directories first, then files (by extension then filename)
 	def sort_key(item):
@@ -98,17 +97,16 @@ def generate_html_tree(structure, base_path="", level=0):
 
 	for name, content in sorted_items:
 		if content is None:
-			# It's a file - don't indent files inside directories since CSS handles indentation
-			file_indent = "" if level > 0 else indent
+			# It's a file
 			file_path = f"{base_path}/{name}" if base_path else name
-			html += f'{file_indent}<a href="{file_path}">{name}</a>\n'
+			html += f'<div class="tree-item file" data-level="{level}"><a href="{file_path}">{name}</a></div>'
 		else:
 			# It's a directory
 			dir_id = f"dir_{base_path.replace('/', '_')}_{name}" if base_path else f"dir_{name}"
 			dir_id = dir_id.replace(' ', '_').replace('-', '_')
-			html += f'{indent}<span class="dir-toggle" onclick="toggleDirectory(`{dir_id}`)">&#9656;</span><span class="dir-name" onclick="toggleDirectory(`{dir_id}`)"> {name}/</span><div id="{dir_id}" class="dir-content collapsed">'
+			html += f'<div class="tree-item dir" data-level="{level}"><span class="dir-toggle" onclick="toggleDirectory(`{dir_id}`)">&#9656;</span><span class="dir-name" onclick="toggleDirectory(`{dir_id}`)"> {name}/</span></div><div id="{dir_id}" class="dir-content collapsed">'
 			html += generate_html_tree(content, f"{base_path}/{name}" if base_path else name, level + 1)
-			html += f'</div>\n'
+			html += '</div>'
 
 	return html
 
@@ -238,6 +236,7 @@ def update_index_html():
 			padding-right: 0.2rem;
 			font-size: 1.2rem;
     		line-height: normal;
+			user-select: none;
 		}}
 		.dir-toggle:hover {{
 			color: #1ed760;
@@ -251,7 +250,11 @@ def update_index_html():
 			color: #1ed760;
 		}}
 		.dir-content {{
-			margin-left: 1rem;
+			margin-left: 0;
+		}}
+		.tree-item {{
+			display: block;
+			margin-left: calc(attr(data-level number, 0) * 1rem);
 		}}
 		.dir-content.collapsed {{
 			display: none;
@@ -315,7 +318,7 @@ def update_index_html():
 		}}
 		function toggleDirectory(dirId) {{
 			const element = document.getElementById(dirId);
-			const toggle = element.previousElementSibling.previousElementSibling;
+			const toggle = element.previousElementSibling.querySelector('.dir-toggle');
 
 			if (element.classList.contains('collapsed')) {{
 				element.classList.remove('collapsed');
@@ -379,7 +382,7 @@ def update_index_html():
 						if (element && element.classList.contains('collapsed')) {{
 							element.classList.remove('collapsed');
 							element.classList.add('expanded');
-							const toggle = element.previousElementSibling.previousElementSibling;
+							const toggle = element.previousElementSibling.querySelector('.dir-toggle');
 							if (toggle) {{
 								toggle.textContent = '\u25be';
 							}}
@@ -411,8 +414,6 @@ def update_index_html():
 	# Write the new content
 	with open(index_path, 'w', encoding='utf-8') as f:
 		f.write(html_content)
-
-	print(f"Directory structure updated in index.html at {version}")
 
 if __name__ == "__main__":
 	update_index_html()
