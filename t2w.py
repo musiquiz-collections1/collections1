@@ -1,35 +1,35 @@
 import hashlib
 
 word_banks = [
-    ["Aqua", "Black", "Blue", "Brown", "Cyan",
-     "Fuchsia", "Gold", "Gray", "Green", "Lime",
-     "Magenta", "Maroon", "Navy", "Olive", "Orange",
-     "Pink", "Purple", "Red", "Silver", "Teal",
-     "White", "Yellow"],
+    ["Aqua", "Black", "Coral", "Brown", "Cyan",
+	"Fuchsia", "Gold", "Gray", "Ivory", "Lime",
+	"Magenta", "Maroon", "Navy", "Olive", "Orange",
+	"Pink", "Purple", "Plum", "Silver", "Teal",
+	"White", "Salmon"],
 
     ["Baking", "Cooking", "Crying", "Dancing", "Drawing",
-     "Dreaming", "Eating", "Fishing", "Flying", "Gardening",
-     "Jumping", "Laughing", "Painting", "Pondering", "Reading",
-     "Running", "Singing", "Sleeping", "Swimming", "Thinking",
-     "Walking", "Writing"],
+	"Dreaming", "Eating", "Fishing", "Flying", "Gardening",
+	"Jumping", "Laughing", "Painting", "Pondering", "Reading",
+	"Running", "Singing", "Sleeping", "Swimming", "Thinking",
+	"Walking", "Writing"],
 
     ["Badger", "Beaver", "Condor", "Coyote", "Eagle",
-     "Falcon", "Gorilla", "Hippo", "Jaguar", "Lion",
-     "Mantis", "Orca", "Otter", "Panda", "Python",
-     "Rhino", "Shark", "Tiger", "Walrus", "Weasel",
-     "Wolf", "Zebra"],
+	"Falcon", "Gorilla", "Hippo", "Jaguar", "Lion",
+	"Mantis", "Orca", "Otter", "Panda", "Python",
+	"Rhino", "Shark", "Tiger", "Walrus", "Weasel",
+	"Wolf", "Zebra"],
      
     ["Aerial", "Alpine", "Aquatic", "Arid", "Barren",
-     "Buried", "Coastal", "Cold", "Dense", "Flat",
-     "Inland", "Lush", "Moist", "Parched", "Polar",
-     "Rocky", "Sandy", "Sparse", "Temperate", "Terrestrial",
-     "Torrid", "Tropical"],
+	"Buried", "Coastal", "Cold", "Dense", "Flat",
+	"Inland", "Lush", "Moist", "Parched", "Polar",
+	"Rocky", "Sandy", "Sparse", "Temperate", "Terrestrial",
+	"Torrid", "Tropical"],
 
     ["Aether", "Burrow", "Cave", "City", "Desert",
-     "Farm", "Forest", "Glacier", "Grassland", "Ground",
-     "Jungle", "Lake", "Menagerie", "Mountain", "Ocean",
-     "Reef", "River", "Savannah", "Swamp", "Tree",
-     "Tundra", "Volcano"]
+	"Farm", "Forest", "Glacier", "Grassland", "Ground",
+	"Jungle", "Lake", "Menagerie", "Mountain", "Ocean",
+	"Reef", "River", "Savannah", "Swamp", "Tree",
+	"Tundra", "Volcano"]
 ]
 
 def create_permuted_mapping():
