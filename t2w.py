@@ -3,32 +3,36 @@ import hashlib
 
 # Expanded word banks
 word_banks = [
-    # Position 1
-    ["Alpha", "Brave", "Cosmic", "Digital", "Electric", "Frozen", "Golden", 
-     "Hidden", "Iron", "Jade", "Mystic", "Noble", "Omega", "Prime", "Quantum",
-     "Royal", "Solar", "Titan", "Ultra", "Void", "Wild", "Xeno", "Zenith"],
-    
-    # Position 2  
-    ["Lion", "Dragon", "Eagle", "Phoenix", "Tiger", "Wolf", "Hawk", 
-     "Falcon", "Raven", "Owl", "Shark", "Bear", "Fox", "Panther", "Griffin",
-     "Basilisk", "Chimera", "Hydra", "Kraken", "Manticore", "Pegasus", "Unicorn"],
-    
-    # Position 3
-    ["Stone", "Fire", "Storm", "Blade", "Shield", "Star", "Moon", 
-     "Sun", "Wave", "Flame", "Ice", "Light", "Shadow", "Metal", "Crystal",
-     "Earth", "Air", "Water", "Energy", "Plasma", "Vortex", "Nova"],
-    
-    # Position 4
-    ["Bolt", "X", "Mark", "Core", "Edge", "Shift", "Pulse", "Spark", 
-     "Surge", "Flux", "Beam", "Ray", "Field", "Ring", "Disk",
-     "Node", "Gate", "Key", "Lock", "Chain", "Grid", "Web"],
-    
-    # Position 5
-    ["Alpha", "Beta", "Gamma", "Delta", "Epsilon", "Zeta", "Eta", "Theta", 
-     "Iota", "Kappa", "Lambda", "Mu", "Nu", "Xi", "Omicron",
-     "Pi", "Rho", "Sigma", "Tau", "Upsilon", "Phi", "Chi", "Psi", "Omega"]
-]
+    ["Badger", "Bear", "Beaver", "Condor", "Coyote",
+     "Eagle", "Falcon", "Gorilla", "Hippo", "Jaguar",
+     "Lion", "Mantis", "Orca", "Otter", "Python",
+     "Rhino", "Shark", "Tiger", "Walrus", "Weasel",
+     "Wolf", "Zebra"],
 
+    ["Andromeda", "Auriga", "Corvus", "Cygnus", "Delphinus",
+     "Dorado", "Draco", "Gemini", "Lacerta", "Cetus",
+     "Libra", "Lynx", "Lyra", "Ophiuchus", "Orion",
+     "Pegasus", "Perseus", "Pisces", "Sagittarius", "Indus",
+     "Taurus", "Vulpecula"],
+
+    ["Calcination", "Carbonization", "Combustion", "Condensation", "Decomposition",
+     "Displacement", "Distillation", "Electrolysis", "Fermentation", "Halogenation",
+     "Hydration", "Hydrolysis", "Isomerization", "Neutralization", "Nitration",
+     "Oxidation", "Polymerization", "Precipitation", "Pyrolysis", "Reduction",
+     "Sublimation", "Synthesis"],
+
+    ["Argon", "Barium", "Calcium", "Carbon", "Cerium",
+     "Cobalt", "Copper", "Germanium", "Helium", "Iodine",
+     "Molybdenum", "Neptunium", "Nickel", "Osmium", "Plutonium",
+     "Potassium", "Radon", "Silicon", "Sodium", "Tellurium",
+     "Titanium", "Uranium"],
+
+    ["Agate", "Amber", "Amethyst", "Beryl", "Citrine",
+     "Diamond", "Emerald", "Garnet", "Jade", "Jasper",
+     "Lapis", "Malachite", "Obsidian", "Onyx", "Opal",
+     "Peridot", "Quartz", "Ruby", "Sapphire", "Spinel",
+     "Topaz", "Zircon"]
+]
 def create_permuted_mapping():
     """Create a completely permuted mapping for maximum randomness"""
     # Use different hash seeds for each position
