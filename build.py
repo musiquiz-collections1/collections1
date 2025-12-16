@@ -302,12 +302,9 @@ def update_index_html():
 			outline-offset: 3px;
 		}}
 		#version > span {{
-			background: inherit;
-			background-clip: text;
-			-webkit-background-clip: text;
-			color: transparent;
-			-webkit-text-fill-color: transparent;
-			/* This makes the text itself show the background of #version, as if see-through */
+			color: #fff;
+			mix-blend-mode: exclusion;
+			/* This creates a knockout/cutout illusion for the text */
 		}}
 	</style>
 </head>
