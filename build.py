@@ -307,6 +307,15 @@ def update_index_html():
 			filter: hue-rotate(320deg) brightness(0.5);
 			padding: 0 1rem;
 		}}
+		
+		@media (max-width: 800px) {{
+			.headerElement {{
+				font-size: 3rem;
+			}}
+			h2 {{
+				font-size: 1rem;
+			}}
+		}}
 	</style>
 </head>
 <body>
