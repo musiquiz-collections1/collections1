@@ -300,10 +300,10 @@ def update_index_html():
 			outline-width: 2px;
 			outline-color: var(--color);
 			outline-offset: 3px;
-			opacity: 0.5;
 		}}
 		#version > span {{
 			color: var(--color);
+			filter: brightness(0.5)
 		}}
 	</style>
 </head>
