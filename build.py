@@ -300,6 +300,7 @@ def update_index_html():
 			outline-width: 2px;
 			outline-color: var(--color);
 			outline-offset: 3px;
+			filter: contrast(0.5);
 		}}
 		#version > span {{
 			color: var(--color);
