@@ -1,38 +1,37 @@
-import datetime
 import hashlib
 
-# Expanded word banks
 word_banks = [
-    ["Badger", "Bear", "Beaver", "Condor", "Coyote",
-     "Eagle", "Falcon", "Gorilla", "Hippo", "Jaguar",
-     "Lion", "Mantis", "Orca", "Otter", "Python",
+    ["Aqua", "Black", "Blue", "Brown", "Cyan",
+     "Fuchsia", "Gold", "Gray", "Green", "Lime",
+     "Magenta", "Maroon", "Navy", "Olive", "Orange",
+     "Pink", "Purple", "Red", "Silver", "Teal",
+     "White", "Yellow"],
+
+    ["Baking", "Cooking", "Crying", "Dancing", "Drawing",
+     "Dreaming", "Eating", "Fishing", "Flying", "Gardening",
+     "Jumping", "Laughing", "Painting", "Pondering", "Reading",
+     "Running", "Singing", "Sleeping", "Swimming", "Thinking",
+     "Walking", "Writing"],
+
+    ["Badger", "Beaver", "Condor", "Coyote", "Eagle",
+     "Falcon", "Gorilla", "Hippo", "Jaguar", "Lion",
+     "Mantis", "Orca", "Otter", "Panda", "Python",
      "Rhino", "Shark", "Tiger", "Walrus", "Weasel",
      "Wolf", "Zebra"],
+     
+    ["Aerial", "Alpine", "Aquatic", "Arid", "Barren",
+     "Buried", "Coastal", "Cold", "Dense", "Flat",
+     "Inland", "Lush", "Moist", "Parched", "Polar",
+     "Rocky", "Sandy", "Sparse", "Temperate", "Terrestrial",
+     "Torrid", "Tropical"],
 
-    ["Andromeda", "Auriga", "Corvus", "Cygnus", "Delphinus",
-     "Dorado", "Draco", "Gemini", "Lacerta", "Cetus",
-     "Libra", "Lynx", "Lyra", "Ophiuchus", "Orion",
-     "Pegasus", "Perseus", "Pisces", "Sagittarius", "Indus",
-     "Taurus", "Vulpecula"],
-
-    ["Calcination", "Carbonization", "Combustion", "Condensation", "Decomposition",
-     "Displacement", "Distillation", "Electrolysis", "Fermentation", "Halogenation",
-     "Hydration", "Hydrolysis", "Isomerization", "Neutralization", "Nitration",
-     "Oxidation", "Polymerization", "Precipitation", "Pyrolysis", "Reduction",
-     "Sublimation", "Synthesis"],
-
-    ["Argon", "Barium", "Calcium", "Carbon", "Cerium",
-     "Cobalt", "Copper", "Germanium", "Helium", "Iodine",
-     "Molybdenum", "Neptunium", "Nickel", "Osmium", "Plutonium",
-     "Potassium", "Radon", "Silicon", "Sodium", "Tellurium",
-     "Titanium", "Uranium"],
-
-    ["Agate", "Amber", "Amethyst", "Beryl", "Citrine",
-     "Diamond", "Emerald", "Garnet", "Jade", "Jasper",
-     "Lapis", "Malachite", "Obsidian", "Onyx", "Opal",
-     "Peridot", "Quartz", "Ruby", "Sapphire", "Spinel",
-     "Topaz", "Zircon"]
+    ["Aether", "Burrow", "Cave", "City", "Desert",
+     "Farm", "Forest", "Glacier", "Grassland", "Ground",
+     "Jungle", "Lake", "Menagerie", "Mountain", "Ocean",
+     "Reef", "River", "Savannah", "Swamp", "Tree",
+     "Tundra", "Volcano"]
 ]
+
 def create_permuted_mapping():
     """Create a completely permuted mapping for maximum randomness"""
     # Use different hash seeds for each position
