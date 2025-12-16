@@ -270,7 +270,7 @@ def update_index_html():
 			font-weight: bold;
 			font-size: 1rem;
 			color: rgba(0,0,0,0.5);
-			margin: 0 0 0.5rem;
+			margin: 0 1rem 0.5rem;
 			border: 4px inset hsl(0,0%,55%);
 			cursor: text;
 		}}
@@ -286,7 +286,7 @@ def update_index_html():
 			100% {{ filter: brightness(1); }}
 		}}
 		#version {{
-			position:fixed;
+			position:absolute;
 			top: 1rem;
 			right: 1rem;
 			font-size: 1rem;
