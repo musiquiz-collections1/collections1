@@ -315,6 +315,9 @@ def update_index_html():
 			h2 {{
 				font-size: 1rem;
 			}}
+			#version {{
+				font-size: 0.75rem;
+			}}
 		}}
 	</style>
 </head>
