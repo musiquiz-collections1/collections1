@@ -289,25 +289,25 @@ def update_index_html():
 			position:fixed;
 			top: 1rem;
 			right: 1rem;
-			color: burlywood;	
 			font-size: 1rem;
     		font-weight: bold;
 			user-select: all;
     		cursor: default;
-			background: cadetblue;
+			background: var(--color);
 			padding: 0.5rem;
 			border-radius: 1px;
 			outline: solid;
 			outline-width: 2px;
-			outline-color: cadetblue;
+			outline-color: var(--color);
 			outline-offset: 3px;
 		}}
-		#version:active,
-		#version:hover {{
-			color: coral;
-		}}
 		#version > span {{
-			color: var(--color);
+			background: inherit;
+			background-clip: text;
+			-webkit-background-clip: text;
+			color: transparent;
+			-webkit-text-fill-color: transparent;
+			/* This makes the text itself show the background of #version, as if see-through */
 		}}
 	</style>
 </head>
