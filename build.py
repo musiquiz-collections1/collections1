@@ -294,14 +294,16 @@ def update_index_html():
     		font-weight: bold;
 			user-select: all;
     		cursor: default;
-			background: linear-gradient(to top, var(--color), white);
-			-webkit-background-clip: text;
-			-webkit-text-fill-color: transparent;
-			background-clip: text;
 		}}
 		#version:active,
 		#version:hover {{
 			color: coral;
+		}}
+		#version > span {{
+			background: linear-gradient(to top, var(--color), white);
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+			background-clip: text;
 		}}
 	</style>
 </head>
