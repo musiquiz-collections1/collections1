@@ -300,11 +300,12 @@ def update_index_html():
 			outline-width: 2px;
 			outline-color: var(--color);
 			outline-offset: 3px;
+			opacity: 0.5;
 		}}
 		#version > span {{
-			color: #fff;
-			mix-blend-mode: exclusion;
-			/* This creates a knockout/cutout illusion for the text */
+			background: transparent;
+			background-clip: text;
+			color: var(--color);
 		}}
 	</style>
 </head>
