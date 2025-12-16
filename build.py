@@ -300,7 +300,7 @@ def update_index_html():
 			color: coral;
 		}}
 		#version > span {{
-			background: linear-gradient(to top, var(--color), white);
+			background: linear-gradient(var(--color) 50%, hsl(0,0%,80%));
 			-webkit-background-clip: text;
 			-webkit-text-fill-color: transparent;
 			background-clip: text;
