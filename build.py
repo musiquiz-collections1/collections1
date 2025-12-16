@@ -304,6 +304,7 @@ def update_index_html():
 			-webkit-background-clip: text;
 			-webkit-text-fill-color: transparent;
 			background-clip: text;
+			text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
 		}}
 	</style>
 </head>
