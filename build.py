@@ -294,17 +294,20 @@ def update_index_html():
     		font-weight: bold;
 			user-select: all;
     		cursor: default;
+			background: cadetblue;
+			padding: 0.5rem;
+			border-radius: 1px;
+			outline: solid;
+			outline-width: 2px;
+			outline-color: cadetblue;
+			outline-offset: 3px;
 		}}
 		#version:active,
 		#version:hover {{
 			color: coral;
 		}}
 		#version > span {{
-			background: linear-gradient(var(--color) 50%, hsl(0,0%,80%));
-			-webkit-background-clip: text;
-			-webkit-text-fill-color: transparent;
-			background-clip: text;
-			text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
+			color: var(--color);
 		}}
 	</style>
 </head>
