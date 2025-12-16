@@ -303,8 +303,6 @@ def update_index_html():
 			opacity: 0.5;
 		}}
 		#version > span {{
-			background: transparent;
-			background-clip: text;
 			color: var(--color);
 		}}
 	</style>
