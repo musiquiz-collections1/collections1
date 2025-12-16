@@ -303,7 +303,7 @@ def update_index_html():
 		}}
 		#version > span {{
 			color: var(--color);
-			filter: brightness(10) contast(0.5);
+			filter: brightness(10) contrast(0.5);
 		}}
 	</style>
 </head>
