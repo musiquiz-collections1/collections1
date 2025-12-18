@@ -4,6 +4,7 @@
 	"title": "Best of Studio Ghibli",
 	"description": "The most popular soundtracks from Studio Ghibli feature films.",
 	"difficulty": "Medium",
+	"language": ["Japanese", "English"],
 	"gameStyle": 2,
 	"disabledLifelines": [],
 	"sourceName": "Movie",

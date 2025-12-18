@@ -4,6 +4,7 @@
 	"title": "Top 'Billboard Hot 100' Songs (2010s)",
 	"description": "The most popular songs from the 'Billboard Hot 100' 2010-2019, all songs released within the same decade.",
 	"difficulty": "Medium",
+	"language": ["English"],
 	"gameStyle": 1,
 	"disabledLifelines": [],
 	"sourceName": "Artist",

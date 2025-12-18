@@ -4,6 +4,7 @@
 	"title": "Best of Walt Disney Animation Studios",
 	"description": "The most popular soundtracks from Disney animated feature films.",
 	"difficulty": "Medium",
+	"language": ["English"],
 	"gameStyle": 2,
 	"disabledLifelines": [],
 	"sourceName": "Movie",

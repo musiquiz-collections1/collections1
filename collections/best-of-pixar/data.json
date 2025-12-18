@@ -4,6 +4,7 @@
 	"title": "Best of Pixar Animation Studios",
 	"description": "The most popular soundtracks from Pixar animated feature films.",
 	"difficulty": "Easy",
+	"language": ["English"],
 	"gameStyle": 2,
 	"disabledLifelines": [],
 	"sourceName": "Movie",

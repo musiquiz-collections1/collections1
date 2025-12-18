@@ -4,6 +4,7 @@
 	"title": "Top 'Billboard Hot 100' Songs (1970s)",
 	"description": "The most popular songs from the 'Billboard Hot 100' 1970-1979, all songs released within the same decade.",
 	"difficulty": "Medium",
+	"language": ["English"],
 	"gameStyle": 1,
 	"disabledLifelines": [],
 	"sourceName": "Artist",
