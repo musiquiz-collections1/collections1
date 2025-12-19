@@ -304,7 +304,7 @@ def update_index_html():
 		}}
 		#version > span {{
 			color: var(--color);
-			filter: hue-rotate(320deg) brightness(10);
+			filter: brightness(10) invert(1);
 			padding: 0 1rem;
 		}}
 		
