@@ -1,11 +1,11 @@
 import hashlib
 
 word_banks = [
-    ["Aqua", "Tomato", "Coral", "Brown", "Cyan",
-	"Fuchsia", "Gold", "Gray", "Ivory", "Lime",
-	"Magenta", "Maroon", "Navy", "Olive", "Orange",
-	"Pink", "Purple", "Plum", "Silver", "Teal",
-	"Khaki", "Salmon"],
+    ["Blue", "Brown", "Coral", "Crimson", "Fuchsia",
+	"Goldenrod", "Gray", "Green", "Indigo", "Magenta",
+	"Maroon", "Navy", "Olive", "Orange", "Peru",
+	"Pink", "Plum", "Purple", "Salmon", "Sienna",
+	"Teal", "Turquoise"],
 
     ["Baking", "Cooking", "Crying", "Dancing", "Drawing",
 	"Dreaming", "Eating", "Fishing", "Flying", "Gardening",
