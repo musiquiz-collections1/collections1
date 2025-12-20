@@ -173,7 +173,7 @@ def update_index_html():
 			letter-spacing: 2px;
 			font-weight: 900;
 			font-family: 'Roboto', sans-serif;
-			background: linear-gradient(90deg, var(--color1) 0%, var(--color1) 50%,var(--color2) 50%, var(--color2) 100%);
+			background: linear-gradient(90deg, var(--color1) 0%, var(--color1) 50.2%,var(--color2) 50.2%, var(--color2) 100%);
 			-webkit-background-clip: text;
 			-webkit-text-fill-color: transparent;
 			background-clip: text;
