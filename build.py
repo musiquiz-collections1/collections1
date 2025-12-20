@@ -142,7 +142,7 @@ def update_index_html():
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" href="https://savocid.github.io/musiquiz/img/favicon2.png">
-	<title>Musiquiz Collections</title>
+	<title>Collections</title>
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
 	<style>
 		* {{
