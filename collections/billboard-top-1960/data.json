@@ -1,8 +1,8 @@
 
 {
-	"id": "billboard-top-2010",
-	"title": "Top 'Billboard Hot 100' Songs (2000s)",
-	"description": "The most popular songs from the 'Billboard Hot 100' 2000-2009, all songs released within the same decade.",
+	"id": "billboard-top-1960",
+	"title": "Top 'Billboard Hot 100' Songs (1960s)",
+	"description": "The most popular songs from the 'Billboard Hot 100' 1960-1969, all songs released within the same decade.",
 	"difficulty": "Medium",
 	"language": ["English"],
 	"gameStyle": 1,
