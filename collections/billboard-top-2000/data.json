@@ -5,7 +5,7 @@
 	"description": "The most popular songs from the 'Billboard Hot 100' 2000-2009, all songs released within the same decade.",
 	"difficulty": "Medium",
 	"language": ["English"],
-	"gameStyle": 1,
+	"guess": ["Artists", "Songs"],
 	"disabledLifelines": [],
 	"sourceName": "Artist",
 	"author": "MusiQuiz",

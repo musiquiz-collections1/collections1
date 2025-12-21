@@ -5,7 +5,7 @@
 	"description": "The most popular soundtracks from Studio Ghibli feature films.",
 	"difficulty": "Medium",
 	"language": ["Japanese", "English"],
-	"gameStyle": 2,
+	"guess": ["Sources"],
 	"disabledLifelines": [],
 	"sourceName": "Movie",
 	"author": "MusiQuiz",

@@ -35,13 +35,13 @@ def canonicalize_songs(songs):
 	Reorder keys for each song dict into a canonical order, preserving existing
 	values and never overwriting existing data. Missing keys get sensible defaults.
 	"""
-	ORDER = ['title', 'sources', 'year', 'audioFile', 'level', 'startTime', 'endTime', 'processed',]
+	ORDER = ['title', 'artists', 'sources', 'year', 'audioFile', 'level', 'startTime', 'endTime', 'processed',]
 
 	def default_for(key, original):
 		if key == 'title':
 			return original.get('title', [True, 'Unknown Title'])
-		if key == 'sources':
-			return original.get('sources', [[True, 'Unknown Artist']])
+		if key == 'artists':
+			return original.get('artists', [[True, 'Unknown Artist']])
 		if key == 'audioFile':
 			return original.get('audioFile', None)
 		if key == 'startTime':
@@ -93,23 +93,45 @@ def scan_audio_files():
 				# Remove file extension from key to match existing format
 				key_path = os.path.splitext(relative_path)[0]
 
-				if key_path not in existing_files:
+				# Always get metadata
+				metadata = get_metadata(filepath)
+
+				# Merge into existing entry without overwriting existing values
+				existing = songs.get(key_path, {})
+				# Log new files for visibility
+				if not existing:
 					print(f"Processing new file: {relative_path}")
-					metadata = get_metadata(filepath)
 
-					# Create song entry
-					song = {
-						"title": [True, metadata["title"] or "Unknown Title"],
-						"sources": [[True, artist] for artist in metadata["artists"]] if metadata["artists"] else [[True, "Unknown Artist"]],
-						"audioFile": relative_path,
-						"startTime": None,
-						"endTime": None,
-						"level": None,
-						"year": metadata["year"],
-						"processed": False,
-					}
+				# Start from a copy of existing to preserve unknown extra keys
+				song = dict(existing)
 
-					songs[key_path] = song
+				# Title: set if missing or falsey
+				if not song.get("title"):
+					song["title"] = [True, metadata["title"] or "Unknown Title"]
+
+				# Artists: set if missing or empty
+				if not song.get("artists"):
+					song["artists"] = [[True, artist] for artist in metadata["artists"]] if metadata["artists"] else [[True, "Unknown Artist"]]
+
+				# Sources: preserve existing, otherwise keep None
+				song["sources"] = song.get("sources", None)
+
+				# audioFile: set if missing
+				if not song.get("audioFile"):
+					song["audioFile"] = relative_path
+
+				# startTime / endTime / level / processed: preserve existing or set sensible defaults
+				song["startTime"] = song.get("startTime", None)
+				song["endTime"] = song.get("endTime", None)
+				song["level"] = song.get("level", None)
+				song["processed"] = song.get("processed", False)
+
+				# Year: set only if currently missing (None)
+				if song.get("year") is None:
+					song["year"] = metadata["year"]
+
+				# Store the merged entry
+				songs[key_path] = song
 
 	songs = canonicalize_songs(songs)
 
