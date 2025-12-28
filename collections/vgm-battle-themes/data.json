@@ -3,6 +3,7 @@
 	"id": "vgm-battle-themes",
 	"title": "Best Video Game Battle Themes",
 	"description": "Most popular battle themes from various games.",
+	"group": "VGM",
 	"difficulty": "Extreme",
 	"language": ["English"],
 	"guess": ["Sources"],

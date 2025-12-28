@@ -3,6 +3,7 @@
 	"id": "vgm-mmorpg",
 	"title": "Best MMORPG Video Game Music",
 	"description": "Most popular video game soundtracks from MMORPGs (Massively multiplayer online role-playing game).",
+	"group": "VGM",
 	"difficulty": "Extreme",
 	"language": ["English"],
 	"guess": ["Sources"],

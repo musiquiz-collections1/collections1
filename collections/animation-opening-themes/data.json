@@ -3,6 +3,7 @@
 	"id": "animation-opening-themes",
 	"title": "Animation Opening Themes",
 	"description": "Opening themes/titles from western animated TV Shows.",
+	"group": "TV",
 	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Sources"],

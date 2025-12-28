@@ -3,6 +3,7 @@
 	"id": "best-of-nintendo",
 	"title": "Best of Nintendo",
 	"description": "The most popular video game soundtracks from Nintendo franchises.",
+	"group": "VGM",
 	"difficulty": "Medium",
 	"language": ["English"],
 	"guess": ["Sources"],

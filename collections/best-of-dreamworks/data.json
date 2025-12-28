@@ -3,6 +3,7 @@
 	"id": "best-of-dreamworks",
 	"title": "Best of DreamWorks Animation",
 	"description": "The most popular soundtracks from DreamWorks animated feature films.",
+	"group": "Movie",
 	"difficulty": "Easy",
 	"language": ["English"],
 	"guess": ["Sources"],

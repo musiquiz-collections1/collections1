@@ -3,6 +3,7 @@
 	"id": "vgm-main-themes",
 	"title": "Best Video Game Main Themes",
 	"description": "Most popular main themes from various games.",
+	"group": "VGM",
 	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Sources"],

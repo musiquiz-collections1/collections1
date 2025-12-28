@@ -3,6 +3,7 @@
 	"id": "academy-awards-score",
 	"title": "Academy Awards 'Best Original Score' Winners",
 	"description": "Film Music from the Academy Awards (Oscars) 'Best Original Score' Winners since the inception of the category 1934.",
+	"group": "Movie",
 	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Sources"],

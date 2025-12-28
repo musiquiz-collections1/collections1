@@ -3,6 +3,7 @@
 	"id": "anime-opening-themes",
 	"title": "Anime Opening Themes",
 	"description": "Opening themes/titles from eastern animated TV Shows (Anime).",
+	"group": "TV",
 	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Sources"],

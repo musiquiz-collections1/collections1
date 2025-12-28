@@ -3,6 +3,7 @@
 	"id": "classical-compositions",
 	"title": "Most Popular Classical Compositions of All Time",
 	"description": "The most widely recognized classical music compositions of all time.",
+	"group": "Artist",
 	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Artists"],

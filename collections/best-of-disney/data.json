@@ -3,6 +3,7 @@
 	"id": "best-of-disney",
 	"title": "Best of Walt Disney Animation Studios",
 	"description": "The most popular soundtracks from Disney animated feature films.",
+	"group": "Movie",
 	"difficulty": "Medium",
 	"language": ["English"],
 	"guess": ["Sources"],
