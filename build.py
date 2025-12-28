@@ -165,6 +165,14 @@ def update_index_html():
 		body > * {{
 			padding: 0.5rem;
 		}}
+		a {{
+			color:cornflowerblue;
+			text-decoration: none;
+		}}
+		a:hover,
+		a:active {{
+			color:lightblue;
+		}}
 		.headerElement {{
 			--color1: gold;
 			--color2: cyan;
@@ -183,7 +191,7 @@ def update_index_html():
 		}}
 		h2 > * {{
 			font-size: 2rem;
-			color: brown;
+			color: brown !important;
 			text-shadow: 2px 2px 1px rgba(0,0,0,0.5);
 		}}
 		p {{
@@ -191,14 +199,7 @@ def update_index_html():
 			padding: 0;
 			margin-bottom: 0.5rem;
 		}}
-		a {{
-			color:cornflowerblue;
-			text-decoration: none;
-		}}
-		a:hover,
-		a:active {{
-			color:lightblue;
-		}}
+	
 		.directory {{
 			font-family: 'Courier New', monospace;
 			text-align: left;
