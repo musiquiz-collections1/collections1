@@ -179,10 +179,12 @@ def update_index_html():
 			background-clip: text;
 		}}
 		h2 {{
+			margin-bottom: 0.5rem;
+		}}
+		h2 > * {{
 			font-size: 2rem;
 			color: brown;
 			text-shadow: 2px 2px 1px rgba(0,0,0,0.5);
-			margin-bottom: 0.5rem;
 		}}
 		p {{
 			font-size: 1.2rem;
@@ -323,7 +325,7 @@ def update_index_html():
 </head>
 <body>
 	<p id="version">{version}</p>
-	<span style="margin: 5rem 0 0;"><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2><a href="./index.html">Collections</a></h1></span>
+	<span style="margin: 5rem 0 0;"><h1 class="headerElement"><a href="https://savocid.github.io/musiquiz">MusiQuiz</a></h1><h2><a href="./index.html" style=>Collections</a></h1></span>
 	<span id="copyLink" onclick="this.classList.add('anim');setTimeout(()=>this.classList.remove('anim'),500);selectText(this); navigator.clipboard.writeText(this.innerText);"></span>
 	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
 	<script>
