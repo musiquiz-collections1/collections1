@@ -14,7 +14,7 @@
 		"cover.png"
 	],
 	"songs": [
-		{"key": "billboard/1960-1969/Aquarius Let the Sunshine In (The Flesh Failures)"},
+		{"key": "billboard/1960-1969/Aquarius Let the Sunshine In (The Flesh Failures)", "year": 1990},
 		{"key": "billboard/1960-1969/I Can't Get Next To You"},
 		{"key": "billboard/1960-1969/Sugar Sugar"},
 		{"key": "billboard/1960-1969/Hey Jude"},
