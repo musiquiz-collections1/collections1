@@ -194,8 +194,9 @@ def update_index_html():
 			color: brown;
 			text-shadow: 2px 2px 1px rgba(0,0,0,0.5);
 		}}
-		h2 > a:active {{
-			red;
+		h2 > a:hover,
+		h2 > a:active  {{
+			color: red;
 		}}
 		p {{
 			font-size: 1.2rem;
