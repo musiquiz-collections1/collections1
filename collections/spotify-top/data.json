@@ -3,7 +3,7 @@
 	"id": "spotify-top",
 	"title": "Most Popular Spotify Songs Annually",
 	"description": "The most streamed songs on Spotify annually since 2008.",
-	"group": "Artist",
+	"group": "Music",
 	"difficulty": "Easy",
 	"language": ["English"],
 	"guess": ["Artists","Songs"],

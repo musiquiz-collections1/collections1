@@ -3,7 +3,7 @@
 	"id": "best-of-hans-zimmer",
 	"title": "Best of Hans Zimmer",
 	"description": "The most popular (film and video game) soundtracks composed by Hans Zimmer.",
-	"group": "Artist",
+	"group": "Music",
 	"difficulty": "Medium",
 	"language": ["English"],
 	"guess": ["Sources"],

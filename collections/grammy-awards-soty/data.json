@@ -3,7 +3,7 @@
 	"id": "grammy-awards-soty",
 	"title": "Grammy Awards 'Song of the Year' Winners",
 	"description": "Music from the Grammy Awards 'Song of the Year' Winners.",
-	"group": "Artist",
+	"group": "Music",
 	"difficulty": "Medium",
 	"language": ["English"],
 	"guess": ["Artists","Songs"],
