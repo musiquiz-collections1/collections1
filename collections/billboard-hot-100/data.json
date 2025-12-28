@@ -7,7 +7,7 @@
 	"language": ["English"],
 	"guess": ["Artists", "Songs"],
 	"disabledLifelines": [],
-	"sourceName": "Artist",
+	"sourceName": null,
 	"author": "MusiQuiz",
 	"covers": [
 		"cover.png"

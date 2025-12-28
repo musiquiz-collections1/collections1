@@ -2,5 +2,29 @@
 	"best-of-disney",
 	"best-of-pixar",
 	"best-of-ghibli",
-	"billboard-hot-100"
+	"best-of-dreamworks",
+
+	"billboard-hot-100",
+	"spotify-top",
+	"grammy-awards-soty",
+
+	"the-game-awards-music",
+	"vgm-battle-themes",
+	"vgm-main-themes",
+	"vgm-mmorpg",
+	"vgm-online-multiplayer",
+	"best-of-nintendo",
+
+	"academy-awards-score",
+	"academy-awards-song",
+	"primetime-emmy-awards-theme",
+	"primetime-emmy-awards-music",
+	"tv-opening-themes",
+	"animation-opening-themes",
+	"anime-opening-themes",
+
+	"best-of-hans-zimmer",
+	"best-of-john-williams",
+
+	"classical-compositions"
 ]

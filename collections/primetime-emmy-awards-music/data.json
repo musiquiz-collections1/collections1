@@ -1,0 +1,18 @@
+
+{
+	"id": "primetime-emmy-awards-music",
+	"title": "Primetime Emmy Awards 'Outstanding Original Music and Lyrics' Winners",
+	"description": "TV Show music from the Primetime Emmy Awards 'Outstanding Original Music and Lyrics' Winners.",
+	"difficulty": "Hard",
+	"language": ["English"],
+	"guess": ["Sources"],
+	"disabledLifelines": [],
+	"sourceName": "TV Show",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}

@@ -1,0 +1,18 @@
+
+{
+	"id": "best-of-dreamworks",
+	"title": "Best of DreamWorks Animation",
+	"description": "The most popular soundtracks from DreamWorks animated feature films.",
+	"difficulty": "Easy",
+	"language": ["English"],
+	"guess": ["Sources"],
+	"disabledLifelines": [],
+	"sourceName": "Movie",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}

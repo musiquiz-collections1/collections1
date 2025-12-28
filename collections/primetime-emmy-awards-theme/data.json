@@ -1,0 +1,18 @@
+
+{
+	"id": "primetime-emmy-awards-theme",
+	"title": "Primetime Emmy Awards 'Outstanding Original Main Title Theme Music' Winners",
+	"description": "TV Show music from the Primetime Emmy Awards 'Outstanding Original Main Title Theme Music' Winners.",
+	"difficulty": "Medium",
+	"language": ["English"],
+	"guess": ["Sources"],
+	"disabledLifelines": [],
+	"sourceName": "TV Show",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}

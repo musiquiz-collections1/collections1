@@ -1,0 +1,18 @@
+
+{
+	"id": "academy-awards-score",
+	"title": "Academy Awards 'Best Original Score' Winners",
+	"description": "Film Music from the Academy Awards (Oscars) 'Best Original Score' Winners since the inception of the category 1934.",
+	"difficulty": "Hard",
+	"language": ["English"],
+	"guess": ["Sources"],
+	"disabledLifelines": [],
+	"sourceName": "Movie",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}

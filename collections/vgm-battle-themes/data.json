@@ -1,0 +1,18 @@
+
+{
+	"id": "vgm-battle-themes",
+	"title": "Best Video Game Battle Themes",
+	"description": "Most popular battle themes from various games.",
+	"difficulty": "Extreme",
+	"language": ["English"],
+	"guess": ["Sources"],
+	"disabledLifelines": [],
+	"sourceName": "Game",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}

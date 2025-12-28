@@ -1,0 +1,18 @@
+
+{
+	"id": "best-of-nintendo",
+	"title": "Best of Nintendo",
+	"description": "The most popular video game soundtracks from Nintendo franchises.",
+	"difficulty": "Medium",
+	"language": ["English"],
+	"guess": ["Sources"],
+	"disabledLifelines": [],
+	"sourceName": "Game",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}

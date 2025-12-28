@@ -1,0 +1,18 @@
+
+{
+	"id": "the-game-awards-music",
+	"title": "The Game Awards 'Best Score and Music' Winners",
+	"description": "Video Game music from The Game Awards 'Best Score and Music' Winners since its inception in 2014.",
+	"difficulty": "Hard",
+	"language": ["English"],
+	"guess": ["Sources"],
+	"disabledLifelines": [],
+	"sourceName": "Game",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}

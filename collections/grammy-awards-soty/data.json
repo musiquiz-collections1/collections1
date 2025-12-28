@@ -1,0 +1,18 @@
+
+{
+	"id": "grammy-awards-soty",
+	"title": "Grammy Awards 'Song of the Year' Winners",
+	"description": "Music from the Grammy Awards 'Song of the Year' Winners.",
+	"difficulty": "Medium",
+	"language": ["English"],
+	"guess": ["Artists","Songs"],
+	"disabledLifelines": [],
+	"sourceName": null,
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}

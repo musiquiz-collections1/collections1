@@ -1,0 +1,18 @@
+
+{
+	"id": "anime-opening-themes",
+	"title": "Anime Opening Themes",
+	"description": "Opening themes/titles from eastern animated TV Shows (Anime).",
+	"difficulty": "Hard",
+	"language": ["English"],
+	"guess": ["Sources"],
+	"disabledLifelines": [],
+	"sourceName": "Anime",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}

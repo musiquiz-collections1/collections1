@@ -1,0 +1,18 @@
+
+{
+	"id": "tv-opening-themes",
+	"title": "TV Show Opening Themes",
+	"description": "Opening themes/titles from popular TV Shows.",
+	"difficulty": "Hard",
+	"language": ["English"],
+	"guess": ["Sources"],
+	"disabledLifelines": [],
+	"sourceName": "TV Show",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}

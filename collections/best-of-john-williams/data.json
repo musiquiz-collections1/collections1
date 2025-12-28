@@ -1,0 +1,18 @@
+
+{
+	"id": "best-of-john-williams",
+	"title": "Best of John Williams",
+	"description": "The most popular film soundtracks composed by John Williams.",
+	"difficulty": "Medium",
+	"language": ["English"],
+	"guess": ["Sources"],
+	"disabledLifelines": [],
+	"sourceName": "Movie",
+	"author": "MusiQuiz",
+	"covers": [
+		"cover.png"
+	],
+	"songs": [
+		
+	]
+}
