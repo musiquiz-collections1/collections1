@@ -14,7 +14,7 @@
 		"cover.png"
 	],
 	"songs": {
-		"disney/Moana/How Far I'll Go": {},
+		"disney/Moana/How Far I'll Go": { "year": 2050 },
 		"disney/Moana 2/Beyond": {},
 		"disney/Moana 2/We're Back": {},
 		"disney/Wish/At All Costs": {},
