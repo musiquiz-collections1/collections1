@@ -4,7 +4,6 @@
 	"title": "Anime Opening Themes",
 	"description": "Opening themes/titles from eastern animated television programs (Anime).",
 	"group": "TV",
-	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Sources"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Hard": {}
 	}
 }

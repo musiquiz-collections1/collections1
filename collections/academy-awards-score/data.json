@@ -4,7 +4,6 @@
 	"title": "Academy Awards 'Best Original Score' Winners",
 	"description": "Music from the winning soundtracks of the Academy Awards (Oscars) for 'Best Original Score'.",
 	"group": "Movie",
-	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Sources"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Hard": {}
 	}
 }

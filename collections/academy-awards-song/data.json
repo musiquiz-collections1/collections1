@@ -4,7 +4,6 @@
 	"title": "Academy Awards 'Best Original Song' Winners",
 	"description": "Winning songs of the Academy Awards (Oscars) for 'Best Original Song'.",
 	"group": "Movie",
-	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Sources"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Hard": {}
 	}
 }

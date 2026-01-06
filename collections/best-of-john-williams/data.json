@@ -4,7 +4,6 @@
 	"title": "Best of John Williams",
 	"description": "The most popular film soundtracks composed by John Williams.",
 	"group": "Movie",
-	"difficulty": "Medium",
 	"language": ["English"],
 	"guess": ["Sources"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Medium": {}
 	}
 }

@@ -4,7 +4,6 @@
 	"title": "Primetime Emmy Awards 'Outstanding Original Main Title Theme Music' Winners",
 	"description": "Winning title theme music of the Primetime Emmy Awards for 'Outstanding Original Main Title Theme Music'.",
 	"group": "TV",
-	"difficulty": "Medium",
 	"language": ["English"],
 	"guess": ["Sources"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Medium": {}
 	}
 }

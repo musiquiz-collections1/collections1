@@ -4,7 +4,6 @@
 	"title": "Animation Opening Themes",
 	"description": "Opening themes/titles from western animated television programs.",
 	"group": "TV",
-	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Sources"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Hard": {}
 	}
 }

@@ -4,7 +4,6 @@
 	"title": "Most Popular Classical Compositions of All Time",
 	"description": "The most widely recognized classical music compositions of all time.",
 	"group": "Music",
-	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Artists"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Hard": {}
 	}
 }

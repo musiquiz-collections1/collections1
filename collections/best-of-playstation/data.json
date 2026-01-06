@@ -1,8 +1,8 @@
 
 {
-	"id": "vgm-battle-themes",
-	"title": "Best Video Game Battle Themes",
-	"description": "Most popular battle themes from various different games.",
+	"id": "best-of-playstation",
+	"title": "Best of PlayStation",
+	"description": "The most popular video game soundtracks from PlayStation franchises.",
 	"group": "VGM",
 	"language": ["English"],
 	"guess": ["Sources"],
@@ -13,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		"Extreme": {}
+		"Medium": {}
 	}
 }

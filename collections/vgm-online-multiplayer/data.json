@@ -4,7 +4,6 @@
 	"title": "Best Online Multiplayer Video Game Music",
 	"description": "Most popular soundtracks from Online Multiplayer video games.",
 	"group": "VGM",
-	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Sources"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Hard": {}
 	}
 }

@@ -4,7 +4,6 @@
 	"title": "The Game Awards 'Best Score and Music' Nominees",
 	"description": "Music from the nominated soundtracks of The Game Awards for 'Best Score and Music'.",
 	"group": "VGM",
-	"difficulty": "Hard",
 	"language": ["English"],
 	"guess": ["Sources"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Hard": {}
 	}
 }

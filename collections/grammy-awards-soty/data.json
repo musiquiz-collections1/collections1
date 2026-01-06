@@ -4,7 +4,6 @@
 	"title": "Grammy Awards 'Song of the Year' Winners",
 	"description": "Winning songs of the Grammy Awards for 'Song of the Year'.",
 	"group": "Music",
-	"difficulty": "Medium",
 	"language": ["English"],
 	"guess": ["Artists","Songs"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Medium": {}
 	}
 }

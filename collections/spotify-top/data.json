@@ -4,7 +4,6 @@
 	"title": "Most Streamed Spotify Songs Annually",
 	"description": "The most streamed songs on Spotify annually since 2008.",
 	"group": "Music",
-	"difficulty": "Easy",
 	"language": ["English"],
 	"guess": ["Artists","Songs"],
 	"disabledLifelines": [],
@@ -14,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		
+		"Easy": {}
 	}
 }
