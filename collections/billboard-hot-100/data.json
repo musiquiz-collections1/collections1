@@ -13,7 +13,7 @@
 		"cover.png"
 	],
 	"songs": {
-		"Medium": {
+		"Easy": {
 			"billboard/1960-1969/Aquarius Let the Sunshine In (The Flesh Failures)": {},
 			"billboard/1960-1969/I Can't Get Next To You": {},
 			"billboard/1960-1969/Sugar Sugar": {},
@@ -42,7 +42,9 @@
 			"billboard/1960-1969/I Fall To Pieces": {},
 			"billboard/1960-1969/Stranger on the Shore": {},
 			"billboard/1960-1969/Tossin' and Turnin'": {},
-			"billboard/1960-1969/Cathy's Clown": {},
+			"billboard/1960-1969/Cathy's Clown": {}
+		},
+		"Medium": {
 			"billboard/1960-1969/Michael, Row the Boat Ashore": {},
 			"billboard/1970-1979/Bad Girls": {},
 			"billboard/1970-1979/My Sharona": {},
