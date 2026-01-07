@@ -35,7 +35,7 @@ def canonicalize_songs(songs):
 	Reorder keys for each song dict into a canonical order, preserving existing
 	values and never overwriting existing data. Missing keys get sensible defaults.
 	"""
-	ORDER = ['title', 'artists', 'sources', 'year', 'audioFile', 'level', 'startTime', 'endTime', 'processed',]
+	ORDER = ['title', 'artists', 'sources', 'year', 'audioFile', 'startTime', 'endTime', 'processed',]
 
 	def default_for(key, original):
 		if key == 'title':
@@ -51,8 +51,6 @@ def canonicalize_songs(songs):
 		if key == 'processed':
 			# preserve existing or default to False
 			return original.get('processed', False)
-		if key == 'level':
-			return original.get('level', None)
 		if key == 'year':
 			return original.get('year', None)
 		return original.get(key, None)
@@ -120,10 +118,9 @@ def scan_audio_files():
 				if not song.get("audioFile"):
 					song["audioFile"] = relative_path
 
-				# startTime / endTime / level / processed: preserve existing or set sensible defaults
+				# startTime / endTime / processed: preserve existing or set sensible defaults
 				song["startTime"] = song.get("startTime", None)
 				song["endTime"] = song.get("endTime", None)
-				song["level"] = song.get("level", None)
 				song["processed"] = song.get("processed", False)
 
 				# Year: set only if currently missing (None)
