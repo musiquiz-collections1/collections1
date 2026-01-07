@@ -1922,7 +1922,8 @@
   "billboard/1990-1999/Macarena (Bayside Boys Remix)": {
     "title": [
       true,
-      "Macarena (Bayside Boys Remix)"
+      "Macarena (Bayside Boys Remix)",
+      "Macarena"
     ],
     "artists": [
       [
@@ -1935,7 +1936,7 @@
     "audioFile": "billboard/1990-1999/Macarena (Bayside Boys Remix).mp3",
     "startTime": null,
     "endTime": null,
-    "processed": false
+    "processed": true
   },
   "billboard/1990-1999/One Sweet Day": {
     "title": [
