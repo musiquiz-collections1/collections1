@@ -3,5 +3,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
-audio/
-audio-test/
+audio/*
+!audio/songs.json

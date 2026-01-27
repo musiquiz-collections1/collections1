@@ -56,6 +56,40 @@ def should_ignore(item_path, ignore_patterns, root_path):
 
 	return False
 
+def get_audio_structure_from_json(songs_json_path):
+	"""Generate directory structure for audio files from songs.json"""
+	audio_structure = {}
+	
+	try:
+		with open(songs_json_path, 'r', encoding='utf-8') as f:
+			songs = json.load(f)
+		
+		# Build directory tree from audioFile paths
+		for song_data in songs.values():
+			audio_file = song_data.get('audioFile', '')
+			if not audio_file:
+				continue
+			
+			# Split path into parts (e.g., "billboard/1960-1969/Song.mp3")
+			parts = audio_file.split('/')
+			
+			# Navigate/create nested structure
+			current = audio_structure
+			for i, part in enumerate(parts):
+				if i == len(parts) - 1:
+					# Last part is the file
+					current[part] = None
+				else:
+					# It's a directory
+					if part not in current:
+						current[part] = {}
+					current = current[part]
+	except Exception as e:
+		print(f"Error reading songs.json: {e}")
+		return {}
+	
+	return audio_structure
+
 def get_directory_structure(root_path, ignore_patterns=None):
 	"""Generate a nested dictionary structure of the directory tree"""
 	if ignore_patterns is None:
@@ -68,6 +102,13 @@ def get_directory_structure(root_path, ignore_patterns=None):
 
 		# Check if item should be ignored
 		if should_ignore(item_path, ignore_patterns, root_path):
+			# Special case: if ignoring audio directory, build structure from songs.json
+			if item == 'audio':
+				songs_json_path = os.path.join(item_path, 'songs.json')
+				if os.path.exists(songs_json_path):
+					audio_structure = get_audio_structure_from_json(songs_json_path)
+					if audio_structure:
+						structure['audio'] = audio_structure
 			continue
 
 		if os.path.isdir(item_path):
@@ -79,9 +120,12 @@ def get_directory_structure(root_path, ignore_patterns=None):
 
 	return structure
 
-def generate_html_tree(structure, base_path="", level=0):
+def generate_html_tree(structure, base_path="", level=0, is_audio_dir=False, max_preload_level=2):
 	"""Generate HTML for the directory tree with expand/collapse functionality"""
 	html = ""
+	
+	# Base URL for audio files on Cloudflare Worker
+	AUDIO_BASE_URL = "https://dry-flower-db63.musiquiz-collections1.workers.dev"
 
 	# Sort items: directories first, then files (by extension then filename)
 	def sort_key(item):
@@ -99,13 +143,32 @@ def generate_html_tree(structure, base_path="", level=0):
 		if content is None:
 			# It's a file
 			file_path = f"{base_path}/{name}" if base_path else name
-			html += f'<div class="tree-item file" data-level="{level}"><a href="{file_path}">{name}</a></div>'
+			
+			# Use Cloudflare Worker URL for audio files
+			if is_audio_dir or base_path.startswith('audio'):
+				href = f"{AUDIO_BASE_URL}/{file_path}"
+			else:
+				href = file_path
+			
+			html += f'<div class="tree-item file" data-level="{level}"><a href="{href}">{name}</a></div>'
 		else:
 			# It's a directory
 			dir_id = f"dir_{base_path.replace('/', '_')}_{name}" if base_path else f"dir_{name}"
 			dir_id = dir_id.replace(' ', '_').replace('-', '_')
+			
+			# Check if we're in audio directory
+			new_is_audio = is_audio_dir or (base_path == '' and name == 'audio') or base_path.startswith('audio')
+			
 			html += f'<div class="tree-item dir" data-level="{level}"><span class="dir-toggle" onclick="toggleDirectory(`{dir_id}`)">&#9656;</span><span class="dir-name" onclick="toggleDirectory(`{dir_id}`)"> {name}/</span></div><div id="{dir_id}" class="dir-content collapsed">'
-			html += generate_html_tree(content, f"{base_path}/{name}" if base_path else name, level + 1)
+			
+			# Only pre-generate children up to max_preload_level
+			if level < max_preload_level:
+				html += generate_html_tree(content, f"{base_path}/{name}" if base_path else name, level + 1, new_is_audio, max_preload_level)
+			else:
+				# Add lazy load marker for deeper levels
+				path = f"{base_path}/{name}" if base_path else name
+				html += f'<div class="lazy-placeholder" data-path="{path}" data-level="{level + 1}" data-is-audio="{str(new_is_audio).lower()}"></div>'
+			
 			html += '</div>'
 
 	return html
@@ -120,6 +183,9 @@ def update_index_html():
 
 	# Generate HTML tree
 	tree_html = generate_html_tree(structure)
+	
+	# Convert structure to JSON for lazy loading
+	structure_json = json.dumps(structure, indent=2)
 
 	index_path = script_dir / "index.html"
 
@@ -334,7 +400,12 @@ def update_index_html():
 	<span id="copyLink" onclick="this.classList.add('anim');setTimeout(()=>this.classList.remove('anim'),500);selectText(this); navigator.clipboard.writeText(this.innerText);"></span>
 	<div class="directory"><strong class="directory-title">Directory</strong><a class="expand-collapse-all" onclick="toggleAllDirectories()">Expand</a>{tree_html}\t</div>
 	<script>
+		// Directory structure for lazy loading
+		const dirStructure = {structure_json};
+		const AUDIO_BASE_URL = "https://dry-flower-db63.musiquiz-collections1.workers.dev";
+		
 		document.getElementById("copyLink").innerText = (window.location.href).replace("index.html","");
+		
 		function selectText(element) {{
 			const range = document.createRange();
 			range.selectNodeContents(element);
@@ -342,11 +413,68 @@ def update_index_html():
 			selection.removeAllRanges();
 			selection.addRange(range);
 		}}
+		
+		function generateTreeHtml(structure, basePath, level, isAudioDir) {{
+			let html = '';
+			
+			// Sort items: directories first, then files
+			const items = Object.entries(structure).sort((a, b) => {{
+				const [nameA, contentA] = a;
+				const [nameB, contentB] = b;
+				
+				if (contentA === null && contentB !== null) return 1;
+				if (contentA !== null && contentB === null) return -1;
+				
+				return nameA.toLowerCase().localeCompare(nameB.toLowerCase());
+			}});
+			
+			for (const [name, content] of items) {{
+				if (content === null) {{
+					// It's a file
+					const filePath = basePath ? `${{basePath}}/${{name}}` : name;
+					const href = (isAudioDir || basePath.startsWith('audio')) 
+						? `${{AUDIO_BASE_URL}}/${{filePath}}` 
+						: filePath;
+					html += `<div class="tree-item file" data-level="${{level}}"><a href="${{href}}">${{name}}</a></div>`;
+				}} else {{
+					// It's a directory
+					const dirPath = basePath ? `${{basePath}}/${{name}}` : name;
+					const dirId = `dir_${{dirPath.replace(/\\//g, '_').replace(/[\\s-]/g, '_')}}`;
+					const newIsAudio = isAudioDir || (basePath === '' && name === 'audio') || basePath.startsWith('audio');
+					
+					html += `<div class="tree-item dir" data-level="${{level}}"><span class="dir-toggle" onclick="toggleDirectory('${{dirId}}')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('${{dirId}}')"> ${{name}}/</span></div><div id="${{dirId}}" class="dir-content collapsed">`;
+					html += generateTreeHtml(content, dirPath, level + 1, newIsAudio);
+					html += '</div>';
+				}}
+			}}
+			
+			return html;
+		}}
+		
 		function toggleDirectory(dirId) {{
 			const element = document.getElementById(dirId);
 			const toggle = element.previousElementSibling.querySelector('.dir-toggle');
 
 			if (element.classList.contains('collapsed')) {{
+				// Expanding - check if lazy loading needed
+				const placeholder = element.querySelector('.lazy-placeholder');
+				if (placeholder) {{
+					const path = placeholder.getAttribute('data-path');
+					const level = parseInt(placeholder.getAttribute('data-level'));
+					const isAudio = placeholder.getAttribute('data-is-audio') === 'true';
+					
+					// Navigate to the structure at this path
+					const parts = path.split('/');
+					let current = dirStructure;
+					for (const part of parts) {{
+						current = current[part];
+					}}
+					
+					// Generate HTML for this directory
+					const html = generateTreeHtml(current, path, level, isAudio);
+					element.innerHTML = html;
+				}}
+				
 				element.classList.remove('collapsed');
 				element.classList.add('expanded');
 				toggle.textContent = '\u25be';
@@ -363,31 +491,41 @@ def update_index_html():
 			const button = document.querySelector('.expand-collapse-all');
 			const isExpanding = button.textContent === 'Expand';
 			
-			// Get all directory content divs
-			const dirContents = document.querySelectorAll('.dir-content');
-			const dirToggles = document.querySelectorAll('.dir-toggle');
-			
-			dirContents.forEach((content, index) => {{
-				const toggle = dirToggles[index];
-				const dirId = content.id;
+			if (isExpanding) {{
+				// Get all top-level directories (level 0 and 1)
+				const topDirs = Array.from(document.querySelectorAll('.dir-content')).filter(content => {{
+					// Get the tree-item that precedes this dir-content
+					const prevSibling = content.previousElementSibling;
+					if (!prevSibling) return false;
+					const level = parseInt(prevSibling.getAttribute('data-level') || '0');
+					return level <= 1;
+				}});
 				
-				if (isExpanding) {{
-					// Expand all
-					content.classList.remove('collapsed');
-					content.classList.add('expanded');
-					if (toggle) toggle.textContent = '\u25be';
-					sessionStorage.setItem(dirId, 'expanded');
-				}} else {{
-					// Collapse all
+				// Expand each top-level directory
+				topDirs.forEach(content => {{
+					if (content.classList.contains('collapsed')) {{
+						toggleDirectory(content.id);
+					}}
+				}});
+				
+				button.textContent = 'Collapse';
+			}} else {{
+				// Collapse all directories
+				const dirContents = document.querySelectorAll('.dir-content');
+				const dirToggles = document.querySelectorAll('.dir-toggle');
+				
+				dirContents.forEach((content, index) => {{
+					const toggle = dirToggles[index];
+					const dirId = content.id;
+					
 					content.classList.remove('expanded');
 					content.classList.add('collapsed');
 					if (toggle) toggle.textContent = '\u25b8';
 					sessionStorage.removeItem(dirId);
-				}}
-			}});
-			
-			// Update button text
-			button.textContent = isExpanding ? 'Collapse' : 'Expand';
+				}});
+				
+				button.textContent = 'Expand';
+			}}
 		}}
 
 		// Handle scroll position preservation for browser back/forward navigation
@@ -406,12 +544,7 @@ def update_index_html():
 					expandedDirs.forEach(dirId => {{
 						const element = document.getElementById(dirId);
 						if (element && element.classList.contains('collapsed')) {{
-							element.classList.remove('collapsed');
-							element.classList.add('expanded');
-							const toggle = element.previousElementSibling.querySelector('.dir-toggle');
-							if (toggle) {{
-								toggle.textContent = '\u25be';
-							}}
+							toggleDirectory(dirId);
 						}}
 					}});
 
