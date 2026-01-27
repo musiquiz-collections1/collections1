@@ -161,7 +161,7 @@ def generate_html_tree(structure, base_path="", level=0, is_audio_dir=False, max
 		else:
 			# It's a directory
 			dir_id = f"dir_{base_path.replace('/', '_')}_{name}" if base_path else f"dir_{name}"
-			dir_id = dir_id.replace(' ', '_').replace('-', '_')
+			dir_id = dir_id.replace(' ', '_').replace('-', '_').replace("'", '_').replace('"', '_').replace('&', '_')
 			
 			new_is_audio = is_audio_dir or (base_path == "" and name == "audio") or base_path.startswith('audio')
 			
@@ -463,7 +463,7 @@ def update_index_html():
 				}} else {{
 					// It's a directory
 					const dirPath = basePath ? `${{basePath}}/${{name}}` : name;
-					const dirId = `dir_${{dirPath.replace(/\\//g, '_').replace(/[\\s-]/g, '_')}}`;
+					const dirId = `dir_${{dirPath.replace(/\\//g, '_').replace(/[\\s-]/g, '_').replace(/['"&]/g, '_')}}`;
 					const newIsAudio = isAudioDir || (basePath === '' && name === 'audio') || basePath.startsWith('audio');
 					
 					html += `<div class="tree-item dir" data-level="${{level}}"><span class="dir-toggle" onclick="toggleDirectory('${{dirId}}')">&#9656;</span><span class="dir-name" onclick="toggleDirectory('${{dirId}}')"> ${{name}}/</span></div><div id="${{dirId}}" class="dir-content collapsed">`;
