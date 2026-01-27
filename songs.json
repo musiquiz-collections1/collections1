@@ -45147,7 +45147,7 @@
     "endTime": null,
     "processed": false
   },
-  "vgm/F-ZERO AX/Planet Colors (Green Plant)": {
+  "vgm/F-ZERO GX/Planet Colors (Green Plant)": {
     "title": [
       true,
       "Planet Colors (Green Plant)"
@@ -45169,12 +45169,12 @@
       "GameCube"
     ],
     "year": 2003,
-    "audioFile": "vgm/F-ZERO AX/Planet Colors (Green Plant).mp3",
+    "audioFile": "vgm/F-ZERO GX/Planet Colors (Green Plant).mp3",
     "startTime": null,
     "endTime": null,
     "processed": false
   },
-  "vgm/F-ZERO AX/Shotgun Kiss (Vegas Palace)": {
+  "vgm/F-ZERO GX/Shotgun Kiss (Vegas Palace)": {
     "title": [
       true,
       "Shotgun Kiss (Vegas Palace)"
@@ -45196,12 +45196,12 @@
       "GameCube"
     ],
     "year": 2003,
-    "audioFile": "vgm/F-ZERO AX/Shotgun Kiss (Vegas Palace).mp3",
+    "audioFile": "vgm/F-ZERO GX/Shotgun Kiss (Vegas Palace).mp3",
     "startTime": null,
     "endTime": null,
     "processed": false
   },
-  "vgm/F-ZERO AX/ZEN (Aeropolis)": {
+  "vgm/F-ZERO GX/ZEN (Aeropolis)": {
     "title": [
       true,
       "ZEN (Aeropolis)"
@@ -45223,7 +45223,7 @@
       "GameCube"
     ],
     "year": 2003,
-    "audioFile": "vgm/F-ZERO AX/ZEN (Aeropolis).mp3",
+    "audioFile": "vgm/F-ZERO GX/ZEN (Aeropolis).mp3",
     "startTime": null,
     "endTime": null,
     "processed": false
