@@ -9,6 +9,13 @@ import json
 from pathlib import Path
 import fnmatch
 
+# Load AUDIO_BASE_URL from config.json
+script_dir = Path(__file__).parent
+config_path = script_dir / "config.json"
+with open(config_path, 'r', encoding='utf-8') as f:
+	config = json.load(f)
+	AUDIO_BASE_URL = config['audioBaseUrl']
+
 def read_gitignore(root_path):
 	"""Read .gitignore file and return list of ignore patterns"""
 	gitignore_path = os.path.join(root_path, '.gitignore')
@@ -56,9 +63,10 @@ def should_ignore(item_path, ignore_patterns, root_path):
 
 	return False
 
-def get_audio_structure_from_json(songs_json_path):
+def get_audio_structure_from_json(root_path):
 	"""Generate directory structure for audio files from songs.json"""
 	audio_structure = {}
+	songs_json_path = os.path.join(root_path, 'songs.json')
 	
 	try:
 		with open(songs_json_path, 'r', encoding='utf-8') as f:
@@ -104,11 +112,9 @@ def get_directory_structure(root_path, ignore_patterns=None):
 		if should_ignore(item_path, ignore_patterns, root_path):
 			# Special case: if ignoring audio directory, build structure from songs.json
 			if item == 'audio':
-				songs_json_path = os.path.join(item_path, 'songs.json')
-				if os.path.exists(songs_json_path):
-					audio_structure = get_audio_structure_from_json(songs_json_path)
-					if audio_structure:
-						structure['audio'] = audio_structure
+				audio_structure = get_audio_structure_from_json(root_path)
+				if audio_structure:
+					structure['audio'] = audio_structure
 			continue
 
 		if os.path.isdir(item_path):
@@ -123,9 +129,6 @@ def get_directory_structure(root_path, ignore_patterns=None):
 def generate_html_tree(structure, base_path="", level=0, is_audio_dir=False, max_preload_level=2):
 	"""Generate HTML for the directory tree with expand/collapse functionality"""
 	html = ""
-	
-	# Base URL for audio files on Cloudflare Worker
-	AUDIO_BASE_URL = "https://dry-flower-db63.musiquiz-collections1.workers.dev"
 
 	# Sort items: directories first, then files (by extension then filename)
 	def sort_key(item):
@@ -181,8 +184,8 @@ def update_index_html():
 	# Get directory structure
 	structure = get_directory_structure(root_path)
 
-	# Generate HTML tree
-	tree_html = generate_html_tree(structure)
+	# Generate HTML tree (pre-render everything - no lazy loading)
+	tree_html = generate_html_tree(structure, max_preload_level=999)
 	
 	# Convert structure to JSON for lazy loading
 	structure_json = json.dumps(structure, indent=2)
@@ -324,16 +327,21 @@ def update_index_html():
 		}}
 		.dir-content {{
 			margin-left: 0;
+			contain: layout style paint;
 		}}
 		.tree-item {{
 			display: block;
 			margin-left: calc(attr(data-level number, 0) * 1rem);
+			contain: layout;
 		}}
 		.dir-content.collapsed {{
-			display: none;
+			content-visibility: hidden;
+			height: 0;
+			overflow: hidden;
 		}}
 		.dir-content.expanded {{
-			display: block;
+			content-visibility: auto;
+			height: auto;
 		}}
 		#copyLink {{
 			display:block;
@@ -402,7 +410,20 @@ def update_index_html():
 	<script>
 		// Directory structure for lazy loading
 		const dirStructure = {structure_json};
-		const AUDIO_BASE_URL = "https://dry-flower-db63.musiquiz-collections1.workers.dev";
+		const AUDIO_BASE_URL = "{AUDIO_BASE_URL}";
+		
+		// Clear any cached lazy-loaded content (version bump to invalidate old cache)
+		const STRUCTURE_VERSION = '3';
+		if (sessionStorage.getItem('structure_version') !== STRUCTURE_VERSION) {{
+			// Clear all directory-related sessionStorage
+			Object.keys(sessionStorage).filter(key => key.startsWith('dir_')).forEach(key => {{
+				sessionStorage.removeItem(key);
+			}});
+			sessionStorage.setItem('structure_version', STRUCTURE_VERSION);
+		}}
+		
+		// Force clear dir_audio specifically (may have corrupted content from old lazy loading bug)
+		sessionStorage.removeItem('dir_audio');
 		
 		document.getElementById("copyLink").innerText = (window.location.href).replace("index.html","");
 		
@@ -453,7 +474,16 @@ def update_index_html():
 		
 		function toggleDirectory(dirId) {{
 			const element = document.getElementById(dirId);
-			const toggle = element.previousElementSibling.querySelector('.dir-toggle');
+			if (!element) {{
+				console.error('Directory element not found:', dirId);
+				return;
+			}}
+			
+			const toggle = element.previousElementSibling?.querySelector('.dir-toggle');
+			if (!toggle) {{
+				console.error('Toggle element not found for:', dirId);
+				return;
+			}}
 
 			if (element.classList.contains('collapsed')) {{
 				// Expanding - check if lazy loading needed
@@ -464,10 +494,19 @@ def update_index_html():
 					const isAudio = placeholder.getAttribute('data-is-audio') === 'true';
 					
 					// Navigate to the structure at this path
-					const parts = path.split('/');
+					const parts = path.split('/').filter(p => p);
 					let current = dirStructure;
+					
 					for (const part of parts) {{
+						if (!current || typeof current !== 'object') {{
+							console.error('Invalid structure navigation at:', part, 'in path:', path);
+							return;
+						}}
 						current = current[part];
+						if (!current) {{
+							console.error('Path not found:', part, 'in path:', path);
+							return;
+						}}
 					}}
 					
 					// Generate HTML for this directory
@@ -492,17 +531,10 @@ def update_index_html():
 			const isExpanding = button.textContent === 'Expand';
 			
 			if (isExpanding) {{
-				// Get all top-level directories (level 0 and 1)
-				const topDirs = Array.from(document.querySelectorAll('.dir-content')).filter(content => {{
-					// Get the tree-item that precedes this dir-content
-					const prevSibling = content.previousElementSibling;
-					if (!prevSibling) return false;
-					const level = parseInt(prevSibling.getAttribute('data-level') || '0');
-					return level <= 1;
-				}});
+				// Expand all directories
+				const allDirs = Array.from(document.querySelectorAll('.dir-content'));
 				
-				// Expand each top-level directory
-				topDirs.forEach(content => {{
+				allDirs.forEach(content => {{
 					if (content.classList.contains('collapsed')) {{
 						toggleDirectory(content.id);
 					}}
