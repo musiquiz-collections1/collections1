@@ -13,6 +13,6 @@
 		"cover.png"
 	],
 	"songs": {
-		"vgm/Banjo-Kazooie/Clanker's Cavern": {"difficulty": "Easy"}
+		"audio/vgm/Banjo-Kazooie/Clanker's Cavern": {"difficulty": "Easy"}
 	}
 }
