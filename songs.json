@@ -141871,5 +141871,3464 @@
     "startTime": null,
     "endTime": null,
     "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Clanker's Cavern": {
+    "title": [
+      true,
+      "Clanker's Cavern"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Clanker's Cavern.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Freezeezy Peak": {
+    "title": [
+      true,
+      "Freezeezy Peak"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Freezeezy Peak.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Gobi's Valley": {
+    "title": [
+      true,
+      "Gobi's Valley"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Gobi's Valley.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Gruntilda's Lair": {
+    "title": [
+      true,
+      "Gruntilda's Lair"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Gruntilda's Lair.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Inside the Church": {
+    "title": [
+      true,
+      "Inside the Church"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Inside the Church.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Main Theme": {
+    "title": [
+      true,
+      "Main Theme"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Main Theme.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Mumbo's Mountain": {
+    "title": [
+      true,
+      "Mumbo's Mountain"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Mumbo's Mountain.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Pause": {
+    "title": [
+      true,
+      "Pause"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Pause.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Rusty Bucket Bay": {
+    "title": [
+      true,
+      "Rusty Bucket Bay"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Rusty Bucket Bay.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Spiral Mountain": {
+    "title": [
+      true,
+      "Spiral Mountain"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Spiral Mountain.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Banjo-Kazooie/Treasure Trove Cove": {
+    "title": [
+      true,
+      "Treasure Trove Cove"
+    ],
+    "artists": [
+      [
+        true,
+        "Grant Kirkhope"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Banjo-Kazooie",
+        "Banjo Kazooie"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Xbox 360"
+    ],
+    "year": 1998,
+    "audioFile": "audio/vgm/Banjo-Kazooie/Treasure Trove Cove.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black 2 and White 2/Aspertia City": {
+    "title": [
+      true,
+      "Aspertia City"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black 2 and White 2",
+        "Pokémon Black 2 & White 2",
+        "Pokémon Black and White Versions 2",
+        "Pokémon Black & White Versions 2",
+        "Pokémon Black 2",
+        "Pokémon Black Version 2",
+        "Pokémon White 2",
+        "Pokémon White Version 2"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2012,
+    "audioFile": "audio/vgm/Pokémon Black 2 and White 2/Aspertia City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black and White/An Unwavering Heart": {
+    "title": [
+      true,
+      "An Unwavering Heart"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black and White",
+        "Pokémon Black & White",
+        "Pokémon Black and White Versions",
+        "Pokémon Black & White Versions",
+        "Pokémon Black",
+        "Pokémon Black Version",
+        "Pokémon White",
+        "Pokémon White Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2010,
+    "audioFile": "audio/vgm/Pokémon Black and White/An Unwavering Heart.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black and White/Dragonspiral Tower": {
+    "title": [
+      true,
+      "Dragonspiral Tower"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black and White",
+        "Pokémon Black & White",
+        "Pokémon Black and White Versions",
+        "Pokémon Black & White Versions",
+        "Pokémon Black",
+        "Pokémon Black Version",
+        "Pokémon White",
+        "Pokémon White Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2010,
+    "audioFile": "audio/vgm/Pokémon Black and White/Dragonspiral Tower.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black and White/Driftveil City": {
+    "title": [
+      true,
+      "Driftveil City"
+    ],
+    "artists": [
+      [
+        true,
+        "Hitomi Sato"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black and White",
+        "Pokémon Black & White",
+        "Pokémon Black and White Versions",
+        "Pokémon Black & White Versions",
+        "Pokémon Black",
+        "Pokémon Black Version",
+        "Pokémon White",
+        "Pokémon White Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2010,
+    "audioFile": "audio/vgm/Pokémon Black and White/Driftveil City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black and White/Nacrene City": {
+    "title": [
+      true,
+      "Nacrene City"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black and White",
+        "Pokémon Black & White",
+        "Pokémon Black and White Versions",
+        "Pokémon Black & White Versions",
+        "Pokémon Black",
+        "Pokémon Black Version",
+        "Pokémon White",
+        "Pokémon White Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2010,
+    "audioFile": "audio/vgm/Pokémon Black and White/Nacrene City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black and White/Nimbasa City": {
+    "title": [
+      true,
+      "Nimbasa City"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black and White",
+        "Pokémon Black & White",
+        "Pokémon Black and White Versions",
+        "Pokémon Black & White Versions",
+        "Pokémon Black",
+        "Pokémon Black Version",
+        "Pokémon White",
+        "Pokémon White Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2010,
+    "audioFile": "audio/vgm/Pokémon Black and White/Nimbasa City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black and White/Nuvema Town": {
+    "title": [
+      true,
+      "Nuvema Town"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black and White",
+        "Pokémon Black & White",
+        "Pokémon Black and White Versions",
+        "Pokémon Black & White Versions",
+        "Pokémon Black",
+        "Pokémon Black Version",
+        "Pokémon White",
+        "Pokémon White Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2010,
+    "audioFile": "audio/vgm/Pokémon Black and White/Nuvema Town.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black and White/Route 1": {
+    "title": [
+      true,
+      "Route 1"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black and White",
+        "Pokémon Black & White",
+        "Pokémon Black and White Versions",
+        "Pokémon Black & White Versions",
+        "Pokémon Black",
+        "Pokémon Black Version",
+        "Pokémon White",
+        "Pokémon White Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2010,
+    "audioFile": "audio/vgm/Pokémon Black and White/Route 1.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black and White/Route 10": {
+    "title": [
+      true,
+      "Route 10"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black and White",
+        "Pokémon Black & White",
+        "Pokémon Black and White Versions",
+        "Pokémon Black & White Versions",
+        "Pokémon Black",
+        "Pokémon Black Version",
+        "Pokémon White",
+        "Pokémon White Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2010,
+    "audioFile": "audio/vgm/Pokémon Black and White/Route 10.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black and White/Title Screen": {
+    "title": [
+      true,
+      "Title Screen"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black and White",
+        "Pokémon Black & White",
+        "Pokémon Black and White Versions",
+        "Pokémon Black & White Versions",
+        "Pokémon Black",
+        "Pokémon Black Version",
+        "Pokémon White",
+        "Pokémon White Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2010,
+    "audioFile": "audio/vgm/Pokémon Black and White/Title Screen.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Black and White/Undella Town (Autumn - Winter - Spring)": {
+    "title": [
+      true,
+      "Undella Town (Autumn/Winter/Spring)"
+    ],
+    "artists": [
+      [
+        true,
+        "Hitomi Sato"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Black and White",
+        "Pokémon Black & White",
+        "Pokémon Black and White Versions",
+        "Pokémon Black & White Versions",
+        "Pokémon Black",
+        "Pokémon Black Version",
+        "Pokémon White",
+        "Pokémon White Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2010,
+    "audioFile": "audio/vgm/Pokémon Black and White/Undella Town (Autumn - Winter - Spring).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Champion Cynthia": {
+    "title": [
+      true,
+      "Champion Cynthia"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Champion Cynthia.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Eterna City (Day)": {
+    "title": [
+      true,
+      "Eterna City (Day)"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Eterna City (Day).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Eterna Forest": {
+    "title": [
+      true,
+      "Eterna Forest"
+    ],
+    "artists": [
+      [
+        true,
+        "Hitomi Sato"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Eterna Forest.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Floaroma Town (Day)": {
+    "title": [
+      true,
+      "Floaroma Town (Day)"
+    ],
+    "artists": [
+      [
+        true,
+        "Hitomi Sato"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Floaroma Town (Day).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Introduction": {
+    "title": [
+      true,
+      "Introduction"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Introduction.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Jubilife City (Day)": {
+    "title": [
+      true,
+      "Jubilife City (Day)"
+    ],
+    "artists": [
+      [
+        true,
+        "Hitomi Sato"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Jubilife City (Day).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Lake": {
+    "title": [
+      true,
+      "Lake"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Lake.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Route 201 (Day)": {
+    "title": [
+      true,
+      "Route 201 (Day)"
+    ],
+    "artists": [
+      [
+        true,
+        "Hitomi Sato"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Route 201 (Day).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Route 209 (Day)": {
+    "title": [
+      true,
+      "Route 209 (Day)"
+    ],
+    "artists": [
+      [
+        true,
+        "Hitomi Sato"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Route 209 (Day).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Snowpoint City (Day)": {
+    "title": [
+      true,
+      "Snowpoint City (Day)"
+    ],
+    "artists": [
+      [
+        true,
+        "Hitomi Sato"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Snowpoint City (Day).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Solaceon Town (Day)": {
+    "title": [
+      true,
+      "Solaceon Town (Day)"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Solaceon Town (Day).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/The Pokémon Lab": {
+    "title": [
+      true,
+      "The Pokémon Lab"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/The Pokémon Lab.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Diamond and Pearl/Twinleaf Town (Day)": {
+    "title": [
+      true,
+      "Twinleaf Town (Day)"
+    ],
+    "artists": [
+      [
+        true,
+        "Hitomi Sato"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Diamond and Pearl",
+        "Pokémon Diamond & Pearl",
+        "Pokémon Diamond and Pearl Versions",
+        "Pokémon Diamond & Pearl Versions",
+        "Pokémon Diamond",
+        "Pokémon Diamond Version",
+        "Pokémon Pearl",
+        "Pokémon Pearl Version",
+        "Pokémon Platinum",
+        "Pokémon Platinum Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/Pokémon Diamond and Pearl/Twinleaf Town (Day).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Gold and Silver/Azalea Town": {
+    "title": [
+      true,
+      "Azalea Town"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Gold and Silver",
+        "Pokémon Gold & Silver",
+        "Pokémon Gold and Silver Versions",
+        "Pokémon Gold & Silver Versions",
+        "Pokémon Gold",
+        "Pokémon Gold Version",
+        "Pokémon Silver",
+        "Pokémon Silver Version",
+        "Pokémon Crystal",
+        "Pokémon Crystal Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Nintendo 3DS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Pokémon Gold and Silver/Azalea Town.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Gold and Silver/Goldenrod City": {
+    "title": [
+      true,
+      "Goldenrod City"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Gold and Silver",
+        "Pokémon Gold & Silver",
+        "Pokémon Gold and Silver Versions",
+        "Pokémon Gold & Silver Versions",
+        "Pokémon Gold",
+        "Pokémon Gold Version",
+        "Pokémon Silver",
+        "Pokémon Silver Version",
+        "Pokémon Crystal",
+        "Pokémon Crystal Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Nintendo 3DS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Pokémon Gold and Silver/Goldenrod City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Gold and Silver/New Bark Town": {
+    "title": [
+      true,
+      "New Bark Town"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Gold and Silver",
+        "Pokémon Gold & Silver",
+        "Pokémon Gold and Silver Versions",
+        "Pokémon Gold & Silver Versions",
+        "Pokémon Gold",
+        "Pokémon Gold Version",
+        "Pokémon Silver",
+        "Pokémon Silver Version",
+        "Pokémon Crystal",
+        "Pokémon Crystal Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Nintendo 3DS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Pokémon Gold and Silver/New Bark Town.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Gold and Silver/Pokémon Gym": {
+    "title": [
+      true,
+      "Pokémon Gym"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Gold and Silver",
+        "Pokémon Gold & Silver",
+        "Pokémon Gold and Silver Versions",
+        "Pokémon Gold & Silver Versions",
+        "Pokémon Gold",
+        "Pokémon Gold Version",
+        "Pokémon Silver",
+        "Pokémon Silver Version",
+        "Pokémon Crystal",
+        "Pokémon Crystal Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Nintendo 3DS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Pokémon Gold and Silver/Pokémon Gym.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Gold and Silver/Route 30": {
+    "title": [
+      true,
+      "Route 30"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Gold and Silver",
+        "Pokémon Gold & Silver",
+        "Pokémon Gold and Silver Versions",
+        "Pokémon Gold & Silver Versions",
+        "Pokémon Gold",
+        "Pokémon Gold Version",
+        "Pokémon Silver",
+        "Pokémon Silver Version",
+        "Pokémon Crystal",
+        "Pokémon Crystal Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Nintendo 3DS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Pokémon Gold and Silver/Route 30.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Gold and Silver/Slowpoke Well": {
+    "title": [
+      true,
+      "Slowpoke Well"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Gold and Silver",
+        "Pokémon Gold & Silver",
+        "Pokémon Gold and Silver Versions",
+        "Pokémon Gold & Silver Versions",
+        "Pokémon Gold",
+        "Pokémon Gold Version",
+        "Pokémon Silver",
+        "Pokémon Silver Version",
+        "Pokémon Crystal",
+        "Pokémon Crystal Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Nintendo 3DS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Pokémon Gold and Silver/Slowpoke Well.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Gold and Silver/Surf": {
+    "title": [
+      true,
+      "Surf"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Gold and Silver",
+        "Pokémon Gold & Silver",
+        "Pokémon Gold and Silver Versions",
+        "Pokémon Gold & Silver Versions",
+        "Pokémon Gold",
+        "Pokémon Gold Version",
+        "Pokémon Silver",
+        "Pokémon Silver Version",
+        "Pokémon Crystal",
+        "Pokémon Crystal Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Nintendo 3DS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Pokémon Gold and Silver/Surf.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Gold and Silver/Title Screen (Gold & Silver)": {
+    "title": [
+      true,
+      "Title Screen (Gold & Silver Version)"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Gold and Silver",
+        "Pokémon Gold & Silver",
+        "Pokémon Gold and Silver Versions",
+        "Pokémon Gold & Silver Versions",
+        "Pokémon Gold",
+        "Pokémon Gold Version",
+        "Pokémon Silver",
+        "Pokémon Silver Version",
+        "Pokémon Crystal",
+        "Pokémon Crystal Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Nintendo 3DS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Pokémon Gold and Silver/Title Screen (Gold & Silver).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Gold and Silver/Violet City": {
+    "title": [
+      true,
+      "Violet City"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Gold and Silver",
+        "Pokémon Gold & Silver",
+        "Pokémon Gold and Silver Versions",
+        "Pokémon Gold & Silver Versions",
+        "Pokémon Gold",
+        "Pokémon Gold Version",
+        "Pokémon Silver",
+        "Pokémon Silver Version",
+        "Pokémon Crystal",
+        "Pokémon Crystal Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Nintendo 3DS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Pokémon Gold and Silver/Violet City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon HeartGold and SoulSilver/Ecruteak City": {
+    "title": [
+      true,
+      "Ecruteak City"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon HeartGold and SoulSilver",
+        "Pokémon HeartGold & SoulSilver",
+        "Pokémon HeartGold and SoulSilver Versions",
+        "Pokémon HeartGold & SoulSilver Versions",
+        "Pokémon HeartGold",
+        "Pokémon HeartGold Version",
+        "Pokémon SoulSilver",
+        "Pokémon SoulSilver Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2009,
+    "audioFile": "audio/vgm/Pokémon HeartGold and SoulSilver/Ecruteak City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon HeartGold and SoulSilver/National Park": {
+    "title": [
+      true,
+      "National Park"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon HeartGold and SoulSilver",
+        "Pokémon HeartGold & SoulSilver",
+        "Pokémon HeartGold and SoulSilver Versions",
+        "Pokémon HeartGold & SoulSilver Versions",
+        "Pokémon HeartGold",
+        "Pokémon HeartGold Version",
+        "Pokémon SoulSilver",
+        "Pokémon SoulSilver Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "year": 2009,
+    "audioFile": "audio/vgm/Pokémon HeartGold and SoulSilver/National Park.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/Hall of Fame": {
+    "title": [
+      true,
+      "Hall of Fame"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/Hall of Fame.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/Lavender Town Theme": {
+    "title": [
+      true,
+      "Lavender Town Theme"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/Lavender Town Theme.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/Pallet Town Theme": {
+    "title": [
+      true,
+      "Pallet Town Theme"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/Pallet Town Theme.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/Pokémon Center": {
+    "title": [
+      true,
+      "Pokémon Center"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/Pokémon Center.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/Professor Oak's Laboratory": {
+    "title": [
+      true,
+      "Professor Oak's Laboratory"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/Professor Oak's Laboratory.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/Road to Lavender Town Leaving Vermilion City": {
+    "title": [
+      true,
+      "Road to Lavender Town: Leaving Vermilion City"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/Road to Lavender Town Leaving Vermilion City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/Road to Viridian City Leaving Pallet Town": {
+    "title": [
+      true,
+      "Road to Viridian City: Leaving Pallet Town"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/Road to Viridian City Leaving Pallet Town.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/The S.S. Anne": {
+    "title": [
+      true,
+      "The S.S. Anne"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/The S.S. Anne.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/The Sea": {
+    "title": [
+      true,
+      "The Sea"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/The Sea.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/Title Screen": {
+    "title": [
+      true,
+      "Title Screen"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/Title Screen.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Red and Green/Vermilion City Theme": {
+    "title": [
+      true,
+      "Vermilion City Theme"
+    ],
+    "artists": [
+      [
+        true,
+        "Pokémon"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Red and Green",
+        "Pokémon Red & Green",
+        "Pokémon Red and Green Versions",
+        "Pokémon Red & Green Versions",
+        "Pokémon Red",
+        "Pokémon Red Version",
+        "Pocket Monsters Red",
+        "Pokémon Green",
+        "Pokémon Green Version",
+        "Pocket Monsters Green",
+        "Pokémon Blue",
+        "Pokémon Blue Version",
+        "Pokémon Yellow",
+        "Pokémon Yellow Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy",
+      "Nintendo 3DS"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Pokémon Red and Green/Vermilion City Theme.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Ruby and Sapphire/Cave of Origin": {
+    "title": [
+      true,
+      "Cave of Origin"
+    ],
+    "artists": [
+      [
+        true,
+        "Morikazu Aoki"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Ruby and Sapphire",
+        "Pokémon Ruby & Sapphire",
+        "Pokémon Ruby and Sapphire Versions",
+        "Pokémon Ruby & Sapphire Versions",
+        "Pokémon Ruby",
+        "Pokémon Ruby Version",
+        "Pokémon Sapphire",
+        "Pokémon Sapphire Version",
+        "Pokémon Emerald",
+        "Pokémon Emerald Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "year": 2002,
+    "audioFile": "audio/vgm/Pokémon Ruby and Sapphire/Cave of Origin.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Ruby and Sapphire/Dewford Town": {
+    "title": [
+      true,
+      "Dewford Town"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Ruby and Sapphire",
+        "Pokémon Ruby & Sapphire",
+        "Pokémon Ruby and Sapphire Versions",
+        "Pokémon Ruby & Sapphire Versions",
+        "Pokémon Ruby",
+        "Pokémon Ruby Version",
+        "Pokémon Sapphire",
+        "Pokémon Sapphire Version",
+        "Pokémon Emerald",
+        "Pokémon Emerald Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "year": 2002,
+    "audioFile": "audio/vgm/Pokémon Ruby and Sapphire/Dewford Town.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Ruby and Sapphire/Ever Grande City": {
+    "title": [
+      true,
+      "Ever Grande City"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Ruby and Sapphire",
+        "Pokémon Ruby & Sapphire",
+        "Pokémon Ruby and Sapphire Versions",
+        "Pokémon Ruby & Sapphire Versions",
+        "Pokémon Ruby",
+        "Pokémon Ruby Version",
+        "Pokémon Sapphire",
+        "Pokémon Sapphire Version",
+        "Pokémon Emerald",
+        "Pokémon Emerald Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "year": 2002,
+    "audioFile": "audio/vgm/Pokémon Ruby and Sapphire/Ever Grande City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Ruby and Sapphire/Littleroot Town": {
+    "title": [
+      true,
+      "Littleroot Town"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Ruby and Sapphire",
+        "Pokémon Ruby & Sapphire",
+        "Pokémon Ruby and Sapphire Versions",
+        "Pokémon Ruby & Sapphire Versions",
+        "Pokémon Ruby",
+        "Pokémon Ruby Version",
+        "Pokémon Sapphire",
+        "Pokémon Sapphire Version",
+        "Pokémon Emerald",
+        "Pokémon Emerald Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "year": 2002,
+    "audioFile": "audio/vgm/Pokémon Ruby and Sapphire/Littleroot Town.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Ruby and Sapphire/Mt. Pyre": {
+    "title": [
+      true,
+      "Mt. Pyre"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Ruby and Sapphire",
+        "Pokémon Ruby & Sapphire",
+        "Pokémon Ruby and Sapphire Versions",
+        "Pokémon Ruby & Sapphire Versions",
+        "Pokémon Ruby",
+        "Pokémon Ruby Version",
+        "Pokémon Sapphire",
+        "Pokémon Sapphire Version",
+        "Pokémon Emerald",
+        "Pokémon Emerald Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "year": 2002,
+    "audioFile": "audio/vgm/Pokémon Ruby and Sapphire/Mt. Pyre.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Ruby and Sapphire/Route 101": {
+    "title": [
+      true,
+      "Route 101"
+    ],
+    "artists": [
+      [
+        true,
+        "Morikazu Aoki"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Ruby and Sapphire",
+        "Pokémon Ruby & Sapphire",
+        "Pokémon Ruby and Sapphire Versions",
+        "Pokémon Ruby & Sapphire Versions",
+        "Pokémon Ruby",
+        "Pokémon Ruby Version",
+        "Pokémon Sapphire",
+        "Pokémon Sapphire Version",
+        "Pokémon Emerald",
+        "Pokémon Emerald Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "year": 2002,
+    "audioFile": "audio/vgm/Pokémon Ruby and Sapphire/Route 101.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Ruby and Sapphire/Route 110": {
+    "title": [
+      true,
+      "Route 110"
+    ],
+    "artists": [
+      [
+        true,
+        "Morikazu Aoki"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Ruby and Sapphire",
+        "Pokémon Ruby & Sapphire",
+        "Pokémon Ruby and Sapphire Versions",
+        "Pokémon Ruby & Sapphire Versions",
+        "Pokémon Ruby",
+        "Pokémon Ruby Version",
+        "Pokémon Sapphire",
+        "Pokémon Sapphire Version",
+        "Pokémon Emerald",
+        "Pokémon Emerald Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "year": 2002,
+    "audioFile": "audio/vgm/Pokémon Ruby and Sapphire/Route 110.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Ruby and Sapphire/Rustboro City": {
+    "title": [
+      true,
+      "Rustboro City"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Ruby and Sapphire",
+        "Pokémon Ruby & Sapphire",
+        "Pokémon Ruby and Sapphire Versions",
+        "Pokémon Ruby & Sapphire Versions",
+        "Pokémon Ruby",
+        "Pokémon Ruby Version",
+        "Pokémon Sapphire",
+        "Pokémon Sapphire Version",
+        "Pokémon Emerald",
+        "Pokémon Emerald Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "year": 2002,
+    "audioFile": "audio/vgm/Pokémon Ruby and Sapphire/Rustboro City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Ruby and Sapphire/Title Screen - Main Theme": {
+    "title": [
+      true,
+      "Title Screen: Main Theme"
+    ],
+    "artists": [
+      [
+        true,
+        "Junichi Masuda"
+      ],
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Ruby and Sapphire",
+        "Pokémon Ruby & Sapphire",
+        "Pokémon Ruby and Sapphire Versions",
+        "Pokémon Ruby & Sapphire Versions",
+        "Pokémon Ruby",
+        "Pokémon Ruby Version",
+        "Pokémon Sapphire",
+        "Pokémon Sapphire Version",
+        "Pokémon Emerald",
+        "Pokémon Emerald Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "year": 2002,
+    "audioFile": "audio/vgm/Pokémon Ruby and Sapphire/Title Screen - Main Theme.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Ruby and Sapphire/Verdanturf Town": {
+    "title": [
+      true,
+      "Verdanturf Town"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Ruby and Sapphire",
+        "Pokémon Ruby & Sapphire",
+        "Pokémon Ruby and Sapphire Versions",
+        "Pokémon Ruby & Sapphire Versions",
+        "Pokémon Ruby",
+        "Pokémon Ruby Version",
+        "Pokémon Sapphire",
+        "Pokémon Sapphire Version",
+        "Pokémon Emerald",
+        "Pokémon Emerald Version"
+      ]
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "year": 2002,
+    "audioFile": "audio/vgm/Pokémon Ruby and Sapphire/Verdanturf Town.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Scarlet and Violet/Area Zero": {
+    "title": [
+      true,
+      "Area Zero"
+    ],
+    "artists": [
+      [
+        true,
+        "Toby Fox"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Scarlet and Violet",
+        "Pokémon Scarlet & Violet",
+        "Pokémon Scarlet and Violet Versions",
+        "Pokémon Scarlet & Violet Versions",
+        "Pokémon Scarlet",
+        "Pokémon Scarlet Version",
+        "Pokémon Violet",
+        "Pokémon Violet Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Nintendo Switch 2"
+    ],
+    "year": 2022,
+    "audioFile": "audio/vgm/Pokémon Scarlet and Violet/Area Zero.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Scarlet and Violet/Levincia": {
+    "title": [
+      true,
+      "Levincia"
+    ],
+    "artists": [
+      [
+        true,
+        "Hitomi Sato"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Scarlet and Violet",
+        "Pokémon Scarlet & Violet",
+        "Pokémon Scarlet and Violet Versions",
+        "Pokémon Scarlet & Violet Versions",
+        "Pokémon Scarlet",
+        "Pokémon Scarlet Version",
+        "Pokémon Violet",
+        "Pokémon Violet Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Nintendo Switch 2"
+    ],
+    "year": 2022,
+    "audioFile": "audio/vgm/Pokémon Scarlet and Violet/Levincia.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Sun and Moon/Battle! (Gladion)": {
+    "title": [
+      true,
+      "Battle! (Gladion)"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Sun and Moon",
+        "Pokémon Sun & Moon",
+        "Pokémon Sun and Moon Versions",
+        "Pokémon Sun & Moon Versions",
+        "Pokémon Sun",
+        "Pokémon Sun Version",
+        "Pokémon Moon",
+        "Pokémon Moon Version",
+        "Pokémon Ultra Sun",
+        "Pokémon Ultra Sun Version",
+        "Pokémon Ultra Moon",
+        "Pokémon Ultra Moon Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2016,
+    "audioFile": "audio/vgm/Pokémon Sun and Moon/Battle! (Gladion).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Sun and Moon/Battle! (Lusamine)": {
+    "title": [
+      true,
+      "Battle! (Lusamine)"
+    ],
+    "artists": [
+      [
+        true,
+        "Minako Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Sun and Moon",
+        "Pokémon Sun & Moon",
+        "Pokémon Sun and Moon Versions",
+        "Pokémon Sun & Moon Versions",
+        "Pokémon Sun",
+        "Pokémon Sun Version",
+        "Pokémon Moon",
+        "Pokémon Moon Version",
+        "Pokémon Ultra Sun",
+        "Pokémon Ultra Sun Version",
+        "Pokémon Ultra Moon",
+        "Pokémon Ultra Moon Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2016,
+    "audioFile": "audio/vgm/Pokémon Sun and Moon/Battle! (Lusamine).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Sun and Moon/Guzma's Theme": {
+    "title": [
+      true,
+      "Guzma's Theme"
+    ],
+    "artists": [
+      [
+        true,
+        "Minako Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Sun and Moon",
+        "Pokémon Sun & Moon",
+        "Pokémon Sun and Moon Versions",
+        "Pokémon Sun & Moon Versions",
+        "Pokémon Sun",
+        "Pokémon Sun Version",
+        "Pokémon Moon",
+        "Pokémon Moon Version",
+        "Pokémon Ultra Sun",
+        "Pokémon Ultra Sun Version",
+        "Pokémon Ultra Moon",
+        "Pokémon Ultra Moon Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2016,
+    "audioFile": "audio/vgm/Pokémon Sun and Moon/Guzma's Theme.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Sun and Moon/Hau'oli City (Night)": {
+    "title": [
+      true,
+      "Hau'oli City (Night)"
+    ],
+    "artists": [
+      [
+        true,
+        "Minako Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Sun and Moon",
+        "Pokémon Sun & Moon",
+        "Pokémon Sun and Moon Versions",
+        "Pokémon Sun & Moon Versions",
+        "Pokémon Sun",
+        "Pokémon Sun Version",
+        "Pokémon Moon",
+        "Pokémon Moon Version",
+        "Pokémon Ultra Sun",
+        "Pokémon Ultra Sun Version",
+        "Pokémon Ultra Moon",
+        "Pokémon Ultra Moon Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2016,
+    "audioFile": "audio/vgm/Pokémon Sun and Moon/Hau'oli City (Night).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Sun and Moon/Lillie's Theme": {
+    "title": [
+      true,
+      "Lillie's Theme"
+    ],
+    "artists": [
+      [
+        true,
+        "Minako Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Sun and Moon",
+        "Pokémon Sun & Moon",
+        "Pokémon Sun and Moon Versions",
+        "Pokémon Sun & Moon Versions",
+        "Pokémon Sun",
+        "Pokémon Sun Version",
+        "Pokémon Moon",
+        "Pokémon Moon Version",
+        "Pokémon Ultra Sun",
+        "Pokémon Ultra Sun Version",
+        "Pokémon Ultra Moon",
+        "Pokémon Ultra Moon Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2016,
+    "audioFile": "audio/vgm/Pokémon Sun and Moon/Lillie's Theme.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Sun and Moon/Malie City (Night)": {
+    "title": [
+      true,
+      "Malie City (Night)"
+    ],
+    "artists": [
+      [
+        true,
+        "Minako Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Sun and Moon",
+        "Pokémon Sun & Moon",
+        "Pokémon Sun and Moon Versions",
+        "Pokémon Sun & Moon Versions",
+        "Pokémon Sun",
+        "Pokémon Sun Version",
+        "Pokémon Moon",
+        "Pokémon Moon Version",
+        "Pokémon Ultra Sun",
+        "Pokémon Ultra Sun Version",
+        "Pokémon Ultra Moon",
+        "Pokémon Ultra Moon Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2016,
+    "audioFile": "audio/vgm/Pokémon Sun and Moon/Malie City (Night).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Sun and Moon/Route 1 on Melemele Island": {
+    "title": [
+      true,
+      "Route 1 on Melemele Island"
+    ],
+    "artists": [
+      [
+        true,
+        "Minako Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Sun and Moon",
+        "Pokémon Sun & Moon",
+        "Pokémon Sun and Moon Versions",
+        "Pokémon Sun & Moon Versions",
+        "Pokémon Sun",
+        "Pokémon Sun Version",
+        "Pokémon Moon",
+        "Pokémon Moon Version",
+        "Pokémon Ultra Sun",
+        "Pokémon Ultra Sun Version",
+        "Pokémon Ultra Moon",
+        "Pokémon Ultra Moon Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2016,
+    "audioFile": "audio/vgm/Pokémon Sun and Moon/Route 1 on Melemele Island.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Sword and Shield/Postwick": {
+    "title": [
+      true,
+      "Postwick"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Sword and Shield",
+        "Pokémon Sword & Shield",
+        "Pokémon Sword and Shield Versions",
+        "Pokémon Sword & Shield Versions",
+        "Pokémon Sword",
+        "Pokémon Sword Version",
+        "Pokémon Shield",
+        "Pokémon Shield Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "year": 2019,
+    "audioFile": "audio/vgm/Pokémon Sword and Shield/Postwick.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Sword and Shield/Slumbering Weald": {
+    "title": [
+      true,
+      "Slumbering Weald"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Sword and Shield",
+        "Pokémon Sword & Shield",
+        "Pokémon Sword and Shield Versions",
+        "Pokémon Sword & Shield Versions",
+        "Pokémon Sword",
+        "Pokémon Sword Version",
+        "Pokémon Shield",
+        "Pokémon Shield Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "year": 2019,
+    "audioFile": "audio/vgm/Pokémon Sword and Shield/Slumbering Weald.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon Sword and Shield/Title Screen": {
+    "title": [
+      true,
+      "Title Screen"
+    ],
+    "artists": [
+      [
+        true,
+        "Go Ichinose"
+      ],
+      [
+        true,
+        "Junichi Masuda"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon Sword and Shield",
+        "Pokémon Sword & Shield",
+        "Pokémon Sword and Shield Versions",
+        "Pokémon Sword & Shield Versions",
+        "Pokémon Sword",
+        "Pokémon Sword Version",
+        "Pokémon Shield",
+        "Pokémon Shield Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "year": 2019,
+    "audioFile": "audio/vgm/Pokémon Sword and Shield/Title Screen.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Anistar City": {
+    "title": [
+      true,
+      "Anistar City"
+    ],
+    "artists": [
+      [
+        true,
+        "Minako Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Anistar City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/AZ": {
+    "title": [
+      true,
+      "AZ"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/AZ.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Battle! (Lysandre)": {
+    "title": [
+      true,
+      "Battle! (Lysandre)"
+    ],
+    "artists": [
+      [
+        true,
+        "Minako Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Battle! (Lysandre).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Camphrier Town": {
+    "title": [
+      true,
+      "Camphrier Town"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Camphrier Town.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Dendemille Town": {
+    "title": [
+      true,
+      "Dendemille Town"
+    ],
+    "artists": [
+      [
+        true,
+        "Minako Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Dendemille Town.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Gate": {
+    "title": [
+      true,
+      "Gate"
+    ],
+    "artists": [
+      [
+        true,
+        "Minako Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Gate.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Laverre City": {
+    "title": [
+      true,
+      "Laverre City"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Laverre City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Lumiose City": {
+    "title": [
+      true,
+      "Lumiose City"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Lumiose City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Professor Sycamore's Theme": {
+    "title": [
+      true,
+      "Professor Sycamore's Theme"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Professor Sycamore's Theme.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Route 4": {
+    "title": [
+      true,
+      "Route 4"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Route 4.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Snowbelle City": {
+    "title": [
+      true,
+      "Snowbelle City"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Snowbelle City.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/The Kalos Power Plant": {
+    "title": [
+      true,
+      "The Kalos Power Plant"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/The Kalos Power Plant.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Title Screen": {
+    "title": [
+      true,
+      "Title Screen"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Title Screen.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Pokémon X and Y/Vaniville Town": {
+    "title": [
+      true,
+      "Vaniville Town"
+    ],
+    "artists": [
+      [
+        true,
+        "Shota Kageyama"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Pokémon X and Y",
+        "Pokémon X & Y",
+        "Pokémon X and Y Versions",
+        "Pokémon X & Y Versions",
+        "Pokémon X",
+        "Pokémon X Version",
+        "Pokémon Y",
+        "Pokémon Y Version"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2013,
+    "audioFile": "audio/vgm/Pokémon X and Y/Vaniville Town.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Portal 2/9999999": {
+    "title": [
+      true,
+      "9999999"
+    ],
+    "artists": [
+      [
+        true,
+        "Mike Morasky"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Portal 2"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "Nintendo Switch"
+    ],
+    "year": 2011,
+    "audioFile": "audio/vgm/Portal 2/9999999.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Portal 2/Bombs for Throwing at You": {
+    "title": [
+      true,
+      "Bombs for Throwing at You"
+    ],
+    "artists": [
+      [
+        true,
+        "Mike Morasky"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Portal 2"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "Nintendo Switch"
+    ],
+    "year": 2011,
+    "audioFile": "audio/vgm/Portal 2/Bombs for Throwing at You.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Portal 2/Cara Mia Addio!": {
+    "title": [
+      true,
+      "Cara Mia Addio [Feat. Ellen McLain]"
+    ],
+    "artists": [
+      [
+        true,
+        "GLaDOS"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Portal 2"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "Nintendo Switch"
+    ],
+    "year": 2011,
+    "audioFile": "audio/vgm/Portal 2/Cara Mia Addio!.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Portal 2/Reconstructing More Science": {
+    "title": [
+      true,
+      "Reconstructing More Science"
+    ],
+    "artists": [
+      [
+        true,
+        "Mike Morasky"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Portal 2"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "Nintendo Switch"
+    ],
+    "year": 2011,
+    "audioFile": "audio/vgm/Portal 2/Reconstructing More Science.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Portal 2/There She is": {
+    "title": [
+      true,
+      "There She is"
+    ],
+    "artists": [
+      [
+        true,
+        "Mike Morasky"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Portal 2"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "Nintendo Switch"
+    ],
+    "year": 2011,
+    "audioFile": "audio/vgm/Portal 2/There She is.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Portal 2/Want You Gone": {
+    "title": [
+      true,
+      "Want You Gone [Feat. Ellen McLain]"
+    ],
+    "artists": [
+      [
+        true,
+        "GLaDOS"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Portal 2"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "Nintendo Switch"
+    ],
+    "year": 2011,
+    "audioFile": "audio/vgm/Portal 2/Want You Gone.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Portal 2/Your Precious Moon": {
+    "title": [
+      true,
+      "Your Precious Moon"
+    ],
+    "artists": [
+      [
+        true,
+        "Mike Morasky"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Portal 2"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "Nintendo Switch"
+    ],
+    "year": 2011,
+    "audioFile": "audio/vgm/Portal 2/Your Precious Moon.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
   }
 }
