@@ -157,7 +157,16 @@ def generate_html_tree(structure, base_path="", level=0, is_audio_dir=False, max
 			else:
 				href = file_path
 			
-		html += f'<div class="tree-item file" data-level="{level}"><a href="{href}" target="_blank">{name}</a></div>'
+			html += f'<div class="tree-item file" data-level="{level}"><a href="{href}" target="_blank">{name}</a></div>'
+		else:
+			# It's a directory
+			dir_id = f"dir_{base_path.replace('/', '_')}_{name}" if base_path else f"dir_{name}"
+			dir_id = dir_id.replace(' ', '_').replace('-', '_')
+			
+			new_is_audio = is_audio_dir or (base_path == "" and name == "audio") or base_path.startswith('audio')
+			
+			html += f'<div class="tree-item dir" data-level="{level}"><span class="dir-toggle" onclick="toggleDirectory(\'{dir_id}\')">&#9656;</span><span class="dir-name" onclick="toggleDirectory(\'{dir_id}\')"> {name}/</span></div><div id="{dir_id}" class="dir-content collapsed">'
+			
 			# Only pre-generate children up to max_preload_level
 			if level < max_preload_level:
 				html += generate_html_tree(content, f"{base_path}/{name}" if base_path else name, level + 1, new_is_audio, max_preload_level)
