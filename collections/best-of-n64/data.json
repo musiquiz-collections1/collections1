@@ -13,6 +13,58 @@
 		"cover.png"
 	],
 	"songs": {
-		"audio/vgm/Banjo-Kazooie/Clanker's Cavern": {"difficulty": "Easy"}
+		"audio/vgm/Banjo-Kazooie/Clanker's Cavern": {"difficulty": "Easy"},
+		"audio/vgm/Banjo-Kazooie/Gobi's Valley": {"difficulty": "Easy"},
+		"audio/vgm/Banjo-Kazooie/Gruntilda's Lair": {"difficulty": "Easy"},
+		"audio/vgm/Banjo-Kazooie/Spiral Mountain": {"difficulty": "Easy"},
+		"audio/vgm/Banjo-Kazooie/Treasure Trove Cove": {"difficulty": "Easy"},
+
+		"audio/vgm/Super Mario 64/Dire, Dire Docks": {"difficulty": "Easy"},
+		"audio/vgm/Super Mario 64/Koopa's Road": {"difficulty": "Easy"},
+		"audio/vgm/Super Mario 64/File Select": {"difficulty": "Easy"},
+
+		"audio/vgm/Donkey Kong 64/DK Isle": {"difficulty": "Easy"},
+		"audio/vgm/Donkey Kong 64/DK Rap": {"difficulty": "Easy"},
+		"audio/vgm/Donkey Kong 64/Gloomy Galleon - Caves": {"difficulty": "Easy"},
+		"audio/vgm/Donkey Kong 64/Haunted Bananas (Creepy Castle)": {"difficulty": "Easy"},
+		"audio/vgm/Donkey Kong 64/The Clock in the Woods (Fungi Forest - Day)": {"difficulty": "Easy"},
+		"audio/vgm/Donkey Kong 64/The Sands of Mystery (Angry Aztec)": {"difficulty": "Easy"},
+		"audio/vgm/Donkey Kong 64/Toys 'R' Alive (Frantic Factory)": {"difficulty": "Easy"},
+
+		"audio/vgm/Mario Kart 64/1st-4th Place Results": {"difficulty": "Easy"},
+		"audio/vgm/Mario Kart 64/Luigi Raceway - Mario Raceway - Royal Raceway - Wario&#8203;Stadium": {"difficulty": "Easy"},
+		"audio/vgm/Mario Kart 64/Rainbow Road": {"difficulty": "Easy"},
+		"audio/vgm/Mario Kart 64/Toad's Turnpike": {"difficulty": "Easy"},
+
+		"audio/vgm/Paper Mario/File Select": {"difficulty": "Medium"},
+		"audio/vgm/Paper Mario/March Ahead": {"difficulty": "Medium"},
+		"audio/vgm/Paper Mario/Story of the Stolen Spirits": {"difficulty": "Medium"},
+
+		"audio/vgm/Star Fox 64/Star Wolf's Theme": {"difficulty": "Medium"},
+		"audio/vgm/Star Fox 64/Zoness": {"difficulty": "Medium"},
+
+		"audio/vgm/F-Zero X/Decide in the Eyes": {"difficulty": "Easy"},
+		"audio/vgm/F-Zero X/Dream Chaser": {"difficulty": "Easy"},
+		"audio/vgm/F-Zero X/Drivin' Through on Max": {"difficulty": "Easy"},
+
+		"audio/vgm/Diddy Kong Racing/Ancient Lake": {"difficulty": "Easy"},
+		"audio/vgm/Diddy Kong Racing/Everfrost Peak": {"difficulty": "Easy"},
+		"audio/vgm/Diddy Kong Racing/Hot Top Volcano": {"difficulty": "Easy"},
+		"audio/vgm/Diddy Kong Racing/Pirate Lagoon": {"difficulty": "Easy"},
+		"audio/vgm/Diddy Kong Racing/Walrus Cove": {"difficulty": "Easy"},
+
+		"audio/vgm/Wave Race 64/Dolphin Park": {"difficulty": "Medium"},
+		"audio/vgm/Wave Race 64/Drake Lake": {"difficulty": "Medium"},
+		"audio/vgm/Wave Race 64/Sunset Bay": {"difficulty": "Medium"},
+
+		"audio/vgm/1080° Snowboarding/Dance!": {"difficulty": "Medium"},
+		"audio/vgm/1080° Snowboarding/Work Your Body": {"difficulty": "Medium"},
+
+		"audio/vgm/Conker's Bad Fur Day/Conker The King": {"difficulty": "Medium"},
+		"audio/vgm/Conker's Bad Fur Day/Windy & Co.": {"difficulty": "Medium"},
+
+		"audio/vgm/Perfect Dark/Chicago- Stealth": {"difficulty": "Medium"},
+		"audio/vgm/Perfect Dark/Deep Sea - Nullify Threat": {"difficulty": "Medium"}
+
 	}
 }
