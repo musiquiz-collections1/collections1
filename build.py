@@ -78,7 +78,11 @@ def get_audio_structure_from_json(root_path):
 			if not audio_file:
 				continue
 			
-			# Split path into parts (e.g., "billboard/1960-1969/Song.mp3")
+			# Strip "audio/" prefix since we're building the contents of audio/ directory
+			if audio_file.startswith('audio/'):
+				audio_file = audio_file[6:]  # Remove "audio/" prefix
+			
+			# Split path into parts (e.g., "vgm/Yoshi's Island/Castle & Fortress.mp3")
 			parts = audio_file.split('/')
 			
 			# Navigate/create nested structure
