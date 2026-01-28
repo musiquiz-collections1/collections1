@@ -13,11 +13,93 @@
 		"cover.png"
 	],
 	"songs": {
+		"audio/vgm/Banjo-Kazooie/Main Theme": {"difficulty": "Easy"},
 		"audio/vgm/Banjo-Kazooie/Clanker's Cavern": {"difficulty": "Easy"},
 		"audio/vgm/Banjo-Kazooie/Gobi's Valley": {"difficulty": "Easy"},
 		"audio/vgm/Banjo-Kazooie/Gruntilda's Lair": {"difficulty": "Easy"},
 		"audio/vgm/Banjo-Kazooie/Spiral Mountain": {"difficulty": "Easy"},
 		"audio/vgm/Banjo-Kazooie/Treasure Trove Cove": {"difficulty": "Easy"},
+
+		"audio/vgm/Banjo-Tooie/Mayahem Temple": {"difficulty": "Easy"},
+		"audio/vgm/Banjo-Tooie/Glitter Gulch Mine": {"difficulty": "Easy"},
+
+		"audio/vgm/Super Smash Bros/Opening": {"difficulty": "Easy"},
+		"audio/vgm/Super Smash Bros/Character Select": {"difficulty": "Easy"},
+		"audio/vgm/Super Smash Bros/Bonus Stage": {"difficulty": "Medium"},
+		"audio/vgm/Super Smash Bros/Duel Zone": {"difficulty": "Medium"},
+
+		"audio/vgm/Yoshi's Story/Yoshi on the Beach": {"difficulty": "Easy"},
+		"audio/vgm/Yoshi's Story/Yoshi's Song": {"difficulty": "Easy"},
+
+		"audio/vgm/Jet Force Gemini/Character Select": {"difficulty": "Medium"},
+		"audio/vgm/Jet Force Gemini/Mizar's Palace": {"difficulty": "Hard"},
+		"audio/vgm/Jet Force Gemini/Ichor": {"difficulty": "Hard"},
+
+		"audio/vgm/Blast Corps/Time to Get Moving!": {"difficulty": "Medium"},
+		"audio/vgm/Blast Corps/Major Trouble": {"difficulty": "Hard"},
+
+		"audio/vgm/GoldenEye 007/Chemical Warfare Facility": {"difficulty": "Medium"},
+
+		"audio/vgm/Rayman 2  The Great Escape/Ly the Fairy": {"difficulty": "Medium"},
+		"audio/vgm/Rayman 2  The Great Escape/Pirates ~ Part 1": {"difficulty": "Medium"},
+		"audio/vgm/Rayman 2  The Great Escape/The Hall of Doors": {"difficulty": "Medium"},
+		"audio/vgm/Rayman 2  The Great Escape/The Teensie Circle": {"difficulty": "Medium"},
+		"audio/vgm/Rayman 2  The Great Escape/The Woods of Light": {"difficulty": "Medium"},
+		"audio/vgm/Rayman 2  The Great Escape/The Marshlands": {"difficulty": "Medium"},
+
+		"audio/vgm/Mystical Ninja Starring Goemon/The Journey Begins on Mt. Fuji Road (Kai ~ Road to Iga)": {"difficulty": "Hard"},
+
+		"audio/vgm/Kirby 64  The Crystal Shards/Pop Star": {"difficulty": "Easy"},
+		"audio/vgm/Kirby 64  The Crystal Shards/Aqua Star": {"difficulty": "Medium"},
+		"audio/vgm/Kirby 64  The Crystal Shards/File Select": {"difficulty": "Hard"},
+		"audio/vgm/Kirby 64  The Crystal Shards/Boss": {"difficulty": "Hard"},
+		"audio/vgm/Kirby 64  The Crystal Shards/Zero-Two": {"difficulty": "Hard"},
+		"audio/vgm/Kirby 64  The Crystal Shards/Factory Inspection": {"difficulty": "Hard"},
+
+		"audio/vgm/The Legend of Zelda  Ocarina of Time/Gerudo Valley": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Ocarina of Time/Hyrule Field Main Theme": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Ocarina of Time/Kokiri Forest": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Ocarina of Time/Lost Woods": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Ocarina of Time/Temple of Time": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Ocarina of Time/Title Theme": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Ocarina of Time/Windmill Hut": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Ocarina of Time/Zeldas Theme": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Ocarina of Time/Inside the Deku Tree": {"difficulty": "Medium"},
+
+		"audio/vgm/The Legend of Zelda  Majora's Mask/Title Theme": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Majora's Mask/Clock Town, First Day": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Majora's Mask/Song of Healing": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Majora's Mask/Majora's Theme": {"difficulty": "Easy"},
+		"audio/vgm/The Legend of Zelda  Majora's Mask/Last Day": {"difficulty": "Medium"},
+		"audio/vgm/The Legend of Zelda  Majora's Mask/Tatl & Tael": {"difficulty": "Medium"},
+		"audio/vgm/The Legend of Zelda  Majora's Mask/Kamaro's Dance": {"difficulty": "Medium"},
+
+		"audio/vgm/Castlevania  Legacy of Darkness/Main Menu": {"difficulty": "Medium"},
+		"audio/vgm/Castlevania  Legacy of Darkness/Art Tower - The Sinking Old Sanctuary": {"difficulty": "Hard"},
+
+		"audio/vgm/Bomberman Hero/Redial": {"difficulty": "Medium"},
+		"audio/vgm/Bomberman Hero/Zip": {"difficulty": "Hard"},
+
+		"audio/vgm/Pilotwings 64/Game Menu": {"difficulty": "Medium"},
+		"audio/vgm/Pilotwings 64/Hang Glider": {"difficulty": "Medium"},
+		"audio/vgm/Pilotwings 64/Birdman": {"difficulty": "Hard"},
+
+		"audio/vgm/Gex  Enter the Gecko/The Media Dimension": {"difficulty": "Easy"},
+		"audio/vgm/Gex  Enter the Gecko/Scream TV": {"difficulty": "Medium"},
+		"audio/vgm/Gex  Enter the Gecko/Rezopolis": {"difficulty": "Hard"},
+
+		"audio/vgm/Gex 3  Deep Cover Gecko/Title Theme": {"difficulty": "Medium"},
+		"audio/vgm/Gex 3  Deep Cover Gecko/Clueless in Seattle": {"difficulty": "Hard"},
+		"audio/vgm/Gex 3  Deep Cover Gecko/Totally Scrooged": {"difficulty": "Hard"},
+
+		"audio/vgm/Forsaken/Pyrolite": {"difficulty": "Hard"},
+		"audio/vgm/Forsaken/Pure Power": {"difficulty": "Hard"},
+
+		"audio/vgm/Buck Bumble/Radar Run": {"difficulty": "Hard"},
+
+		"audio/vgm/Killer Instinct Gold/Character Select": {"difficulty": "Medium"},
+		"audio/vgm/Killer Instinct Gold/Maya": {"difficulty": "Hard"},
+		"audio/vgm/Killer Instinct Gold/Main Theme": {"difficulty": "Hard"},
 
 		"audio/vgm/Super Mario 64/Dire, Dire Docks": {"difficulty": "Easy"},
 		"audio/vgm/Super Mario 64/Koopa's Road": {"difficulty": "Easy"},
@@ -31,17 +113,23 @@
 		"audio/vgm/Donkey Kong 64/The Sands of Mystery (Angry Aztec)": {"difficulty": "Easy"},
 		"audio/vgm/Donkey Kong 64/Toys 'R' Alive (Frantic Factory)": {"difficulty": "Easy"},
 
+		"audio/vgm/Mario Kart 64/Main Menu": {"difficulty": "Easy"},
 		"audio/vgm/Mario Kart 64/1st-4th Place Results": {"difficulty": "Easy"},
 		"audio/vgm/Mario Kart 64/Luigi Raceway - Mario Raceway - Royal Raceway - Wario&#8203;Stadium": {"difficulty": "Easy"},
 		"audio/vgm/Mario Kart 64/Rainbow Road": {"difficulty": "Easy"},
 		"audio/vgm/Mario Kart 64/Toad's Turnpike": {"difficulty": "Easy"},
 
+		"audio/vgm/Paper Mario/Main Title": {"difficulty": "Medium"},
 		"audio/vgm/Paper Mario/File Select": {"difficulty": "Medium"},
+		"audio/vgm/Paper Mario/Battle Fanfare": {"difficulty": "Medium"},
+		"audio/vgm/Paper Mario/Angry Bowser": {"difficulty": "Medium"},
 		"audio/vgm/Paper Mario/March Ahead": {"difficulty": "Medium"},
 		"audio/vgm/Paper Mario/Story of the Stolen Spirits": {"difficulty": "Medium"},
 
+		"audio/vgm/Star Fox 64/Opening": {"difficulty": "Easy"},
 		"audio/vgm/Star Fox 64/Star Wolf's Theme": {"difficulty": "Medium"},
 		"audio/vgm/Star Fox 64/Zoness": {"difficulty": "Medium"},
+		"audio/vgm/Star Fox 64/Boss B": {"difficulty": "Hard"},
 
 		"audio/vgm/F-Zero X/Decide in the Eyes": {"difficulty": "Easy"},
 		"audio/vgm/F-Zero X/Dream Chaser": {"difficulty": "Easy"},
@@ -53,12 +141,13 @@
 		"audio/vgm/Diddy Kong Racing/Pirate Lagoon": {"difficulty": "Easy"},
 		"audio/vgm/Diddy Kong Racing/Walrus Cove": {"difficulty": "Easy"},
 
-		"audio/vgm/Wave Race 64/Dolphin Park": {"difficulty": "Medium"},
-		"audio/vgm/Wave Race 64/Drake Lake": {"difficulty": "Medium"},
-		"audio/vgm/Wave Race 64/Sunset Bay": {"difficulty": "Medium"},
+		"audio/vgm/Wave Race 64/Title Theme": {"difficulty": "Medium"},
+		"audio/vgm/Wave Race 64/Dolphin Park": {"difficulty": "Hard"},
+		"audio/vgm/Wave Race 64/Drake Lake": {"difficulty": "Hard"},
+		"audio/vgm/Wave Race 64/Sunset Bay": {"difficulty": "Hard"},
 
-		"audio/vgm/1080° Snowboarding/Dance!": {"difficulty": "Medium"},
-		"audio/vgm/1080° Snowboarding/Work Your Body": {"difficulty": "Medium"},
+		"audio/vgm/1080° Snowboarding/Dance!": {"difficulty": "Hard"},
+		"audio/vgm/1080° Snowboarding/Work Your Body": {"difficulty": "Hard"},
 
 		"audio/vgm/Conker's Bad Fur Day/Conker The King": {"difficulty": "Medium"},
 		"audio/vgm/Conker's Bad Fur Day/Windy & Co.": {"difficulty": "Medium"},
