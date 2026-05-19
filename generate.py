@@ -179,11 +179,16 @@ def scan_audio_files():
 	songs = load_songs()
 	existing_files = set(songs.keys())
 
+	from html_entity_utils import html_entity_to_unicode
 	for root, dirs, files in os.walk(AUDIO_ROOT):
 		for file in files:
-			if file.lower().endswith(('.mp3', '.flac', '.m4a', '.ogg', '.wav')):
+			# Convert HTML entities in filename to unicode (e.g., &#8203;)
+			fixed_file = html_entity_to_unicode(file)
+			if fixed_file.lower().endswith(('.mp3', '.flac', '.m4a', '.ogg', '.wav')):
 				filepath = os.path.join(root, file)
+				# Also fix relative_path for entity issues
 				relative_path = os.path.relpath(filepath, AUDIO_ROOT).replace("\\", "/")
+				relative_path = html_entity_to_unicode(relative_path)
 				# Remove file extension from key to match existing format
 				key_path = os.path.splitext(relative_path)[0]
 

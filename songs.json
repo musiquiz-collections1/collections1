@@ -52304,8 +52304,7 @@
     "sources": [
       [
         true,
-        "Gex 3: Deep Cover Gecko",
-		"Gex 3"
+        "Gex 3: Deep Cover Gecko"
       ]
     ],
     "platforms": [
@@ -52340,8 +52339,7 @@
     "sources": [
       [
         true,
-        "Gex 3: Deep Cover Gecko",
-		"Gex 3"
+        "Gex 3: Deep Cover Gecko"
       ]
     ],
     "platforms": [
@@ -52376,8 +52374,7 @@
     "sources": [
       [
         true,
-        "Gex 3: Deep Cover Gecko",
-		"Gex 3"
+        "Gex 3: Deep Cover Gecko"
       ]
     ],
     "platforms": [
@@ -145330,6 +145327,232 @@
     ],
     "year": 2011,
     "audioFile": "audio/vgm/Portal 2/Your Precious Moon.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Kirby  Planet Robobot/Vagrant Counting Song of Retrospection ~ Soul 0 System ~​Vagrant Keepsake of Oblivion (vs. Star Dream Soul OS)": {
+    "title": [
+      true,
+      "Vagrant Counting Song of Retrospection ~ Vagrant Keepsake of Oblivion (vs. Star Dream Soul OS)"
+    ],
+    "artists": [
+      [
+        true,
+        "Hirokazu Ando"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Kirby: Planet Robobot",
+        "Hoshi no Kirby: Robobot Planet"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "year": 2016,
+    "audioFile": "audio/vgm/Kirby  Planet Robobot/Vagrant Counting Song of Retrospection ~ Soul 0 System ~​Vagrant Keepsake of Oblivion (vs. Star Dream Soul OS).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/LocoRoco/dadhi dado da ~Lots of Flowers - LocoRoco Pink & Red​Version~": {
+    "title": [
+      true,
+      "dadhi dado da ~Lots of Flowers - LocoRoco Pink & Red Version~"
+    ],
+    "artists": [
+      [
+        true,
+        "Kemmei Adachi"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "LocoRoco"
+      ]
+    ],
+    "platforms": [
+      "PlayStation Portable",
+      "PlayStation 4"
+    ],
+    "year": 2006,
+    "audioFile": "audio/vgm/LocoRoco/dadhi dado da ~Lots of Flowers - LocoRoco Pink & Red​Version~.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Mario Kart 64/Luigi Raceway - Mario Raceway - Royal Raceway - Wario​Stadium": {
+    "title": [
+      true,
+      "3 Raceways, Wario Stadium"
+    ],
+    "artists": [
+      [
+        true,
+        "Kenta Nagata"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Mario Kart 64",
+        "Super Mario Kart R",
+        "Mario Kart Roku-juu Yon",
+        "Maliou Kadingche",
+        "Mǎlì'ōu Kǎdīngchē",
+        "Mario Kǎdīngchē"
+      ]
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Wii",
+      "Wii U"
+    ],
+    "year": 1996,
+    "audioFile": "audio/vgm/Mario Kart 64/Luigi Raceway - Mario Raceway - Royal Raceway - Wario​Stadium.mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Suikoden/Theme of Sadness ~ Ensemble Version (From Event ''Odessa's​Death'')": {
+    "title": [
+      true,
+      "Theme of Sadness ~ Ensemble Version (From Event 'Odessa's Death')"
+    ],
+    "artists": [
+      [
+        true,
+        "Miki Higashino"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Suikoden"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation",
+      "Sega Saturn",
+      "PlayStation Portable",
+      "PlayStation 3"
+    ],
+    "year": 1995,
+    "audioFile": "audio/vgm/Suikoden/Theme of Sadness ~ Ensemble Version (From Event ''Odessa's​Death'').mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Twisted Metal/Twisted Theme (Main Menu, Freeway Free For All, The Fight Of​Your Life, Ending)": {
+    "title": [
+      true,
+      "Twisted Theme (Main Menu, Freeway Free For All, The Fight Of Your Life, Ending)"
+    ],
+    "artists": [
+      [
+        true,
+        "Chuck E. Meyers"
+      ],
+      [
+        true,
+        "Lance Lenhart"
+      ],
+      [
+        true,
+        "Tom Hopkins (The Pinnacle Group)"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Twisted Metal"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation",
+      "PlayStation Portable",
+      "PlayStation 3"
+    ],
+    "year": 1995,
+    "audioFile": "audio/vgm/Twisted Metal/Twisted Theme (Main Menu, Freeway Free For All, The Fight Of​Your Life, Ending).mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Unreal Tournament/10 Foregone Destruction - Michiel van den Bos (M.C.A.)​[Foregone]": {
+    "title": [
+      true,
+      "Foregone Destruction [Foregone]"
+    ],
+    "artists": [
+      [
+        true,
+        "Michiel van den Bos (M.C.A.)"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Unreal Tournament",
+        "Unreal Tournament 99",
+        "Нереален Турнир"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Dreamcast",
+      "PlayStation 2",
+      "MacOS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Unreal Tournament/10 Foregone Destruction - Michiel van den Bos (M.C.A.)​[Foregone].mp3",
+    "startTime": null,
+    "endTime": null,
+    "processed": false
+  },
+  "audio/vgm/Unreal Tournament/29a Unreal Tournament Title - Alexander Brandon (Siren,​Sandman), Michiel van den Bos (M.C.A.) [Utitle]": {
+    "title": [
+      true,
+      "Unreal Tournament Title [Uttitle]"
+    ],
+    "artists": [
+      [
+        true,
+        "Alexander Brandon (Siren"
+      ],
+      [
+        true,
+        "Sandman)"
+      ],
+      [
+        true,
+        "Michiel van den Bos (M.C.A.)"
+      ]
+    ],
+    "sources": [
+      [
+        true,
+        "Unreal Tournament",
+        "Unreal Tournament 99",
+        "Нереален Турнир"
+      ]
+    ],
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Dreamcast",
+      "PlayStation 2",
+      "MacOS"
+    ],
+    "year": 1999,
+    "audioFile": "audio/vgm/Unreal Tournament/29a Unreal Tournament Title - Alexander Brandon (Siren,​Sandman), Michiel van den Bos (M.C.A.) [Utitle].mp3",
     "startTime": null,
     "endTime": null,
     "processed": false
